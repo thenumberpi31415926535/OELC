@@ -5,6 +5,7 @@ title:               "Online English Learning Community (OELC)"
 tagline:             "Hosts and participants alike, we grow as a whole."
 timezone: Asia/Taipei
 #timezone: Australia/Melbourne
+exclude:            ["SyncTalks.ps1"]
 
 # About/contact
 author:
