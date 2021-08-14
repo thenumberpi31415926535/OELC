@@ -10,22 +10,6 @@ title: Sessions
 <div>
     Below is a listing of online English speaking sessions for people who are
     using English as a second language.
-    
-    We use a <a target="_blank" href="{{ site.author.discord }}">Discord</a> server as our
-    online community.  To join the server you will need to:
-    <ol>
-
-
-        <li>
-            <a href="{{ site.author.discordFaq }}#how-to-join-pis-discord-server">Join Pi's Discord server</a>
-        </li>
-        <li>
-            <a href="{{ site.author.discordFaq }}#check-your-audio-and-mic-settings">Sign up for events</a>
-        </li>
-        <li>
-            <a href="{{ site.author.discordFaq }}#how-to-sign-up-for-events">Check your audio and mic settings</a>
-        </li>
-    </ol>
 </div>
 <br />
 <br />
@@ -67,7 +51,7 @@ title: Sessions
                   {% for tag in site.tags %}
                         {% if thisDate == tag[0] %}
                             {% for post in tag[1] %}
-                                <a href="{{ post.url }}">  🌱 </a>
+                                <a href="{{ post.url }}">   🌱  </a>
                             {% endfor %}
                         {% else %}
                         {% endif %}
@@ -111,7 +95,8 @@ title: Sessions
     </li>
   {% endfor %}
 </ul>
-{% for tag in site.tags %}
+{% assign tagedList = tag[0] | sort | reverse %}
+{% for tag in tagedList %}
   <h3>{{ tag[0] }}</h3>
   <ul>
     {% for post in tag[1] %}
