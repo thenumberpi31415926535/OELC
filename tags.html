@@ -1,0 +1,21 @@
+---
+title: Tags
+---
+<h1>Tags</h1> 
+<ul>
+  {% for tag in site.tags %}
+    <li>
+          <h2> {{ tag[0] }} </h2>
+            <ul>
+              {% for post in tag[1] %}
+                <li><a href="{{ post.url }}">
+                     {% for t in post.properties.Name.title %}
+                         {{ t.plain_text }}
+                     {% endfor %}
+                    </a></li>
+              {% endfor %}
+            </ul>
+
+    </li>
+  {% endfor %}
+</ul>

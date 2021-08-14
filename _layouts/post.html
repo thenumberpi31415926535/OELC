@@ -4,13 +4,13 @@ layout: default
 <article class="post">
 <div>
   <h1 class="TitleSubText">
-      {% for t in page.properties.Name.title %}
+     {% for t in page.properties.Name.title %}
          {{ t.plain_text }}
-      {% endfor %}
+     {% endfor %}
 
   </h1>
-      {% for category in page.categories %}
-          <small>[<a href="/categories.html">{{ category }}]</a></small>
+      {% for tag in page.tags %}
+          <small>[<a href="/tags.html">{{ tag }}]</a></small>
       {% endfor%}
 </div>
   <small>
@@ -21,6 +21,7 @@ layout: default
       {% else %}
         {{ page.author}}
       {% endif %}
+      [ <a href="{{ page.url }}">source</a> ]
   </small>
 <!-- about hosts -->
 {% if page.properties.Hosts.multi_select %}
@@ -69,17 +70,6 @@ Hosts:
   </div>
 
   <br />
-  <h1>Prerequisite</h1> 
-  <div>
-      Join Pi's Discord server at <a href="{{ site.author.discord }}">{{
-          site.author.discord }}</a> and <a href="{{ site.author.discordFaq }}#how-to-sign-up-for-events">sign up in #announcements</a>
-  </div>
-  <br />
-  <div>
-      This session is also listed under the <a href="{{ site.author.oelc }}">O.E.L.C</a> <a href="{{
-                                                     site.author.oelcCalendar }}">Talks</a>
-
-  </div>
 </article>
 <div class="PageNavigation">
   {% if page.previous.url %}
