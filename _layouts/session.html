@@ -82,9 +82,18 @@ Hosts:
 </article>
 <div class="PageNavigation">
   {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    <a class="prev" href="{{page.previous.url}}">&laquo;
+
+      {% for t in page.previous.properties.Name.title %}
+         {{ t.plain_text }}
+      {% endfor %}
+        </a>
   {% endif %}
   {% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    <a class="next" href="{{page.next.url}}">
+      {% for t in page.next.properties.Name.title %}
+         {{ t.plain_text }}
+      {% endfor %}
+        &raquo;</a>
   {% endif %}
 </div>

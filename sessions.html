@@ -61,20 +61,20 @@ title: Sessions
               <div class="calendarDate">
                   {{ dayInSeconds | date: '%e'  }}
               </div>
-              {% for session in sortedSessions %}
-                {% assign time = session.properties.Date.date.start | date: '%F'  %}
-                    {% if time == thisDate %}
-                    <div class="calendarTitle">
-                            <a href="{{ session.url }}"> 
-                    {% assign titles = session.properties.Name.title %}
-                    {% for t in titles %}
-                        {{ t.plain_text}} 
-                    {% endfor  %}
-                            </a>
-                    </div>
-                    {% else %}
-                    {% endif %}
-              {% endfor %}
+              <div class="calendarTitle">
+                      {% for session in sortedSessions %}
+                        {% assign time = session.properties.Date.date.start | date: '%F'  %}
+                            {% if time == thisDate %}
+                                    <a href="{{ session.url }}"> 🌱
+                            {% assign titles = session.properties.Name.title %}
+                            {% for t in titles %}
+                                {{ t.plain_text}} 
+                            {% endfor  %}
+                                    </a>
+                            {% else %}
+                            {% endif %}
+                      {% endfor %}
+              </div>
           {% assign dayInSeconds = dayInSeconds | plus: oneDayInSeconds %}
           </td>
       {% endfor %}
