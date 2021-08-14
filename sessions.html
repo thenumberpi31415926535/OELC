@@ -33,7 +33,7 @@ title: Sessions
 <br />
 <h1>Upcoming sessions</h1> 
 <div>
-  {% assign sortedSessions = site.sessions | sort: 'time' %}
+  {% assign sortedSessions = site.sessions | sort: 'properties.Date.date.start' %}
 
   {% assign calendar = "Mon,Tue,Wed,Thu,Fri,Sat,Sun" | split: ','%}
   {% assign oneDayInSeconds = 86400  %}
@@ -62,11 +62,15 @@ title: Sessions
                   {{ dayInSeconds | date: '%e'  }}
               </div>
               {% for session in sortedSessions %}
-                {% assign time = session.time | date: '%F' %}
-
+                {% assign time = session.properties.Date.date.start | date: '%F'  %}
                     {% if time == thisDate %}
                     <div class="calendarTitle">
-                            <a href="{{ session.url }}"> {{ session.topic }}</a>
+                            <a href="{{ session.url }}"> 
+                    {% assign titles = session.properties.Name.title %}
+                    {% for t in titles %}
+                        {{ t.plain_text}} 
+                    {% endfor  %}
+                            </a>
                     </div>
                     {% else %}
                     {% endif %}
@@ -86,15 +90,19 @@ title: Sessions
 <h1>Latest Sessions</h1> 
 </div>
 <ul>
-  {% assign sortedSessions = site.sessions | sort: 'time' | reverse %}
+  {% assign sortedSessions = site.sessions | sort: 'properties.Date.date.start' | reverse %}
   {% for session in sortedSessions %}
     <li>
         <div>
             <h2 class="TitleSubText"><a href="{{ session.url }}">
-                  {{ session.topic }}</a></h2>
+                    {% assign titles = session.properties.Name.title %}
+                    {% for t in titles %}
+                        {{ t.plain_text}} 
+                    {% endfor  %}
+                  </a></h2>
         </div>
         <div>
-            {{ session.time | date: '%A, %d %B'}} {{ session.time | date: '%I:%M %p' }} 
+            {{ session.properties.Date.date.start | date: '%A, %d %B %l:%M %p' }} 
         </div>
 
     </li>
