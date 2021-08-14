@@ -95,8 +95,7 @@ title: Sessions
     </li>
   {% endfor %}
 </ul>
-{% assign tagedList = tag[0] | sort | reverse %}
-{% for tag in tagedList %}
+{% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
     {% for post in tag[1] %}
