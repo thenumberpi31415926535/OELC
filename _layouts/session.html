@@ -1,0 +1,104 @@
+---
+layout: default
+---
+<article class="post">
+<div>
+  <h1 class="TitleSubText">{{ page.topic }}</h1>
+      {% for category in page.categories %}
+          <small>[<a href="/categories.html">{{ category }}]</a></small>
+      {% endfor%}
+</div>
+  <small>
+      {{ page.date | date_to_string }}
+      {% assign author = site.authors | where: 'short_name', page.author | first %}
+      {% if author %}
+        - <a href="{{ author.url }}">{{ author.name }}</a>
+      {% else %}
+        {{ page.author}}
+      {% endif %}
+  </small>
+<!-- about featuring -->
+{% if page.featuring %}
+<h3>
+Featuring: 
+<ul>
+    {% for feature in page.featuring %}
+        {% assign author = site.authors | where: 'short_name', feature| first %}
+        {% if author %}
+        <li><a href="{{ author.url }}">{{ author.name
+                }}</a></li>
+        {% else %}
+        <li>
+            {{ feature }}
+        </li>
+        {% endif %}
+    {% endfor %}
+
+</ul>
+{% endif %}
+</h3>
+      <!-- about hosts -->
+{% if page.hosts %}
+<h3>
+Hosts: 
+<ul>
+    {% for host in page.hosts %}
+        {% assign author = site.authors | where: 'short_name', host| first %}
+        {% if author %}
+        <li><a href="{{ author.url }}">{{ author.name }}</a></li>
+        {% else %}
+        <li>
+            {{ host }}
+        </li>
+        {% endif %}
+    {% endfor %}
+
+</ul>
+</h3>
+{% endif %}
+<!-- about Time -->
+{% if page.time %}
+<h3>
+    Time: {{ page.time }}
+</h3>
+{% endif %}
+<!-- about sign up Link -->
+{% if page.signUpLink %}
+<div>
+    <a target="_blank" href="{{ page.signUpLink }}">Sign up here</a>
+</div>
+{% endif %}
+<!-- about meeting Link -->
+{% if page.meetingLink %}
+<div>
+    <a target="_blank" href="{{ page.meetingLink }}">Meeting link</a>
+</div>
+{% endif %}
+<br>
+</br>
+  <div>
+  {{ content }}
+  </div>
+
+  <br />
+  <h1>Prerequisite</h1> 
+  <div>
+      Join Pi's Discord server at <a href="{{ site.author.discord }}">{{
+          site.author.discord }}</a> and <a href="{% link
+      _posts/2021-07-21-discord-Q-and-A.md %}#how-to-sign-up-for-events">sign up in #announcements</a>
+  </div>
+  <br />
+  <div>
+      This session is also listed under the <a href="{{ site.author.oelc }}">O.E.L.C</a> <a href="{{
+                                                     site.author.oelcCalendar }}">Talks</a>
+
+  </div>
+</article>
+<div class="PageNavigation">
+  {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+  {% endif %}
+</div>

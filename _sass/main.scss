@@ -1,0 +1,44 @@
+.dev
+{
+  color: red;
+}
+.prod
+{
+  color: white;
+}
+
+.TitleSubText
+{
+  display:inline
+}
+
+.PageNavigation {
+  font-size: 14px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
+}
+
+.calendarDate {
+    font-size: 12px;
+    color: grey;
+}
+.calendarDateHL{
+    font-size: 12px;
+    color: red;
+    font-weight: bold;
+}
+.calendarTitle {
+    font-size: 12px;
+}

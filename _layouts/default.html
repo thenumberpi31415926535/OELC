@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+        <!--
+            Environment flag
+        -->
+        {% if jekyll.environment == "production" %}
+        <div class="prod"></div>
+        {% else %}
+        <h1 class="dev">DEV</h1>
+        {% endif %}
+
+    <div>
+      <header class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">{{ site.title | newline_to_br }}</a>
+            <br><small>{% if page.tagline %}{{ page.tagline }}{% else %}{{
+                site.tagline }}{% endif %}</small>
+          </h3>
+        </div>
+      </header>
+
+      <main class="container content" >
+        {% include navigation.html %}
+      </main>
+      <main class="container content" id="main">
+        {{ content }}
+
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+      {% include footer.html %}
+      </main>
+    </div>
+  </body>
+</html>

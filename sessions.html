@@ -1,0 +1,102 @@
+---
+title: Sessions
+---
+<div>
+    We aim to create an supportive and encouraging English environment in a
+    casual setting.
+</div>
+<br>
+</br>
+<div>
+    Below is a listing of online English speaking sessions for people who are
+    using English as a second language.
+    
+    We use a <a target="_blank" href="{{ site.author.discord }}">Discord</a> server as our
+    online community.  To join the server you will need to:
+    <ol>
+
+
+        <li>
+            <a href="{% link _posts/2021-07-21-discord-Q-and-A.md %}#how-to-join-pis-discord-server">Join Pi's Discord server</a>
+        </li>
+        <li>
+            <a href="{% link _posts/2021-07-21-discord-Q-and-A.md %}#check-your-audio-and-mic-settings">Sign up for events</a>
+        </li>
+        <li>
+            <a href="{% link _posts/2021-07-21-discord-Q-and-A.md %}#how-to-sign-up-for-events">Check your audio and mic settings</a>
+        </li>
+    </ol>
+</div>
+<br />
+<br />
+<br />
+<br />
+<h1>Upcoming sessions</h1> 
+<div>
+  {% assign sortedSessions = site.sessions | sort: 'time' %}
+
+  {% assign calendar = "Mon,Tue,Wed,Thu,Fri,Sat,Sun" | split: ','%}
+  {% assign oneDayInSeconds = 86400  %}
+  {% assign startDay = "today" | date: '%w' %}
+  {% assign timespan = startDay | minus: 1 | times: oneDayInSeconds %}
+  {% assign monday = "today" | date: '%s' | minus: timespan | date: '%F' %}
+  {% assign fourWeeksInSeconds = 4 | times: 7 | times: oneDayInSeconds %}
+  {% assign endDateInSeconds = monday | date: '%s' | plus: fourWeeksInSeconds %}
+  {% assign endDate = endDateInSeconds | date: '%F' %}
+
+  {% assign day = monday  %}
+  {% assign dayInSeconds = monday | date: '%s' %}
+
+  <table>
+  {% for title in calendar %}
+          <td>
+              {{ title }}
+          </td>
+  {% endfor %}
+  {% for week in (1..4) %}
+      <tr>
+      {% for day in (1..7) %}
+          <td>
+              {% assign thisDate = dayInSeconds | date: '%F' %}
+              <div class="calendarDate">
+                  {{ dayInSeconds | date: '%e'  }}
+              </div>
+              {% for session in sortedSessions %}
+                {% assign time = session.time | date: '%F' %}
+
+                    {% if time == thisDate %}
+                    <div class="calendarTitle">
+                            <a href="{{ session.url }}"> {{ session.topic }}</a>
+                    </div>
+                    {% else %}
+                    {% endif %}
+              {% endfor %}
+          {% assign dayInSeconds = dayInSeconds | plus: oneDayInSeconds %}
+          </td>
+      {% endfor %}
+      </tr>
+  {% endfor %}
+  </table>
+
+<br />
+<br />
+<br />
+<br />
+
+<h1>Latest Sessions</h1> 
+</div>
+<ul>
+  {% assign sortedSessions = site.sessions | sort: 'time' | reverse %}
+  {% for session in sortedSessions %}
+    <li>
+        <div>
+            <h2 class="TitleSubText"><a href="{{ session.url }}">
+                  {{ session.topic }}</a></h2>
+        </div>
+        <div>
+            {{ session.time | date: '%A, %d %B'}} {{ session.time | date: '%I:%M %p' }} 
+        </div>
+
+    </li>
+  {% endfor %}
+</ul>

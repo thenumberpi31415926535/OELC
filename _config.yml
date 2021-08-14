@@ -1,0 +1,57 @@
+# _config.yml
+
+# Setup
+title:               "Pi"
+tagline:             'Minimal version of a blog.'
+timezone: Asia/Taipei
+#timezone: Australia/Melbourne
+
+# About/contact
+author:
+  name:             "3.1415926535.., aka Pi"
+  discord:          "https://discord.gg/vE7QUXGDnS"
+  email:            "kolinchang.tw@gmail.com"
+  piLink:           "https://stuff.mit.edu/afs/sipb/contrib/pi/" 
+  pi:               "3.1415926535.."
+  oelc:             "https://hissing-panama-209.notion.site/Online-English-Learning-Community-ONEC-6b8b9b3050f44fd6be938d1c5224e9dc"
+  oelcCalendar:     "https://www.notion.so/e9339446880f4ef08ad78ad1f507dded?v=13f5f045e9ed4e60a8b53f752a63cfc7"
+  oelcHosts:        "https://www.notion.so/Get-to-know-your-hosts-289af478bf114c638c28be38b4daffec"
+
+collections:
+  authors:
+    output: true
+  sessions:
+    output: true
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+      author: "Pi"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Pi"
+  - scope:
+      path: ""
+      type: "sessions"
+    values:
+      layout: "session"
+      author: "Pi"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      author: "Pi"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - classifier-reborn  
