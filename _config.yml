@@ -23,8 +23,6 @@ author:
 collections:
   authors:
     output: true
-  sessions:
-    output: true
 
 
 defaults:
@@ -39,12 +37,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Pi"
-  - scope:
-      path: ""
-      type: "sessions"
-    values:
-      layout: "session"
       author: "Pi"
   - scope:
       path: ""

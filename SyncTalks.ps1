@@ -184,18 +184,21 @@ while($hasMore)
 
 
 
-    $dateTimeForat = 'yyyy-MM-dd hh:mm tt'
+    $dateTimeFormat = 'yyyy-MM-dd hh:mm tt'
 
-    $obj.created_time = [Datetime]::Parse($obj.created_time, [System.Globalization.CultureInfo]::CurrentCulture).ToString($dateTimeForat)   
-    $obj.last_edited_time = [Datetime]::Parse($obj.last_edited_time, [System.Globalization.CultureInfo]::CurrentCulture).ToString($dateTimeForat)   
+    $obj.created_time = [Datetime]::Parse($obj.created_time, [System.Globalization.CultureInfo]::InvariantCulture).ToString($dateTimeFormat)   
+    $obj.last_edited_time = [Datetime]::Parse($obj.last_edited_time, [System.Globalization.CultureInfo]::InvariantCulture).ToString($dateTimeFormat)   
+
+    $startTime = $null
     
     if($obj.properties.Date.date.start)
     {
-        $obj.properties.Date.date.start = [Datetime]::Parse($obj.properties.Date.date.start, [System.Globalization.CultureInfo]::CurrentCulture).ToString($dateTimeForat)
+        $startTime = [Datetime]::Parse($obj.properties.Date.date.start, [System.Globalization.CultureInfo]::InvariantCulture)
+        $obj.properties.Date.date.start = $startTime.ToString($dateTimeFormat)
     }
     if($obj.properties.Date.date.end)
     {
-        $obj.properties.Date.date.end = [Datetime]::Parse($obj.properties.Date.date.end, [System.Globalization.CultureInfo]::CurrentCulture).ToString($dateTimeForat)
+        $obj.properties.Date.date.end = [Datetime]::Parse($obj.properties.Date.date.end, [System.Globalization.CultureInfo]::InvariantCulture).ToString($dateTimeFormat)
     }
     
 
@@ -207,6 +210,26 @@ while($hasMore)
     $yaml = $yaml -replace 'Meeting Link:', 'Meeting_Link:'
     $path
 
+    $tags = "tags: `n"
+
+    if($startTime -ne $null -and $startTime -ne "" )
+    {
+        $tags += "   - ""$($startTime.ToString('yyyy-MM-dd'))""`n"
+    }
+
+    if($obj.properties.Hosts.'multi_select')
+    {
+
+        foreach($h in $obj.properties.Hosts.'multi_select')
+        {
+            if($h.name)
+            {
+                $tags += "   - ""$($h.name)""`n"
+            }             
+        }
+    }
+
+    $tags
 
 
     
@@ -223,7 +246,7 @@ while($hasMore)
 
     # write to md
     $Utf8NoBomEncoding = New-Object System.Text.UTF8Encoding $False
-    [System.IO.File]::WriteAllLines($path, "---`n$yaml---`n$content", $Utf8NoBomEncoding)
+    [System.IO.File]::WriteAllLines($path, "---`n$tags`n$yaml---`n$content", $Utf8NoBomEncoding)
 
     # set variable for next iteration
     $hasMore = $queryResponse.has_more

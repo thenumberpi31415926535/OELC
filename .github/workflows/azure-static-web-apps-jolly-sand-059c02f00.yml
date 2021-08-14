@@ -19,9 +19,9 @@ jobs:
       - uses: actions/checkout@v2
         with:
           submodules: true 
-      - name: Generate sessions
+      - name: Generate posts
         run: |
-          .\SyncTalks.ps1 -Secret ${{ secrets.NOTION_INTEGRATION }} -Destination '_sessions/'
+          .\SyncTalks.ps1 -Secret ${{ secrets.NOTION_INTEGRATION }} -Destination '_posts/'
         shell: pwsh
       - name: Build And Deploy
         id: builddeploy

@@ -3,7 +3,12 @@ layout: default
 ---
 <article class="post">
 <div>
-  <h1 class="TitleSubText">{{ page.title }}</h1>
+  <h1 class="TitleSubText">
+      {% for t in page.properties.Name.title %}
+         {{ t.plain_text }}
+      {% endfor %}
+
+  </h1>
       {% for category in page.categories %}
           <small>[<a href="/categories.html">{{ category }}]</a></small>
       {% endfor%}
@@ -16,19 +21,80 @@ layout: default
       {% else %}
         {{ page.author}}
       {% endif %}
-
   </small>
-  <br>
-  </br>
+<!-- about hosts -->
+{% if page.properties.Hosts.multi_select %}
+<h3>
+Hosts: 
+<ul>
+    {% for host in page.properties.Hosts.multi_select %}
+        {% assign author = site.authors | where: 'short_name', host.name | first %}
+        {% if author %}
+        <li><a href="{{ author.url }}">{{ author.name }}</a></li>
+        {% else %}
+        <li>
+            {{ host.name }}
+        </li>
+        {% endif %}
+    {% endfor %}
+
+</ul>
+</h3>
+{% endif %}
+<!-- about Time -->
+{% if page.properties.Date.date.start %}
+<h3>
+    Time: {{ page.properties.Date.date.start }}
+</h3>
+{% endif %}
+<!-- about sign up Link -->
+{% if page.properties.Sign_up_here.rich_text %}
+<div>
+    Sign up here:
+    {% for t in page.properties.Sign_up_here.rich_text %}
+        <a href="{{ t.href }}">{{ t.plain_text }} </a>
+    {% endfor %}
+</div>
+{% endif %}
+<!-- about meeting Link -->
+{% if page.properties.Meeting_Link.url %}
+<div>
+    <a target="_blank" href="{{ page.properties.Meeting_Link.url }}">Meeting link</a>
+</div>
+{% endif %}
+<br>
+</br>
   <div>
   {{ content }}
+  </div>
+
+  <br />
+  <h1>Prerequisite</h1> 
+  <div>
+      Join Pi's Discord server at <a href="{{ site.author.discord }}">{{
+          site.author.discord }}</a> and <a href="{{ site.author.discordFaq }}#how-to-sign-up-for-events">sign up in #announcements</a>
+  </div>
+  <br />
+  <div>
+      This session is also listed under the <a href="{{ site.author.oelc }}">O.E.L.C</a> <a href="{{
+                                                     site.author.oelcCalendar }}">Talks</a>
+
   </div>
 </article>
 <div class="PageNavigation">
   {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    <a class="prev" href="{{page.previous.url}}">&laquo;
+
+      {% for t in page.previous.properties.Name.title %}
+         {{ t.plain_text }}
+      {% endfor %}
+        </a>
   {% endif %}
   {% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    <a class="next" href="{{page.next.url}}">
+      {% for t in page.next.properties.Name.title %}
+         {{ t.plain_text }}
+      {% endfor %}
+        &raquo;</a>
   {% endif %}
 </div>
