@@ -22,7 +22,7 @@ properties:
       id: a6f1c29a-12bb-4d51-8025-34da1b54ccae
       name: BigBlueBotton
       color: blue
-  Sign up here:
+  Sign_up_here:
     id: ']hGQ'
     type: rich_text
     rich_text: []
@@ -39,7 +39,7 @@ properties:
     - id: 4018fd2a-bdab-4383-a03d-0f634c4e0459
       name: Riley
       color: default
-  Meeting Link:
+  Meeting_Link:
     id: w~\Q
     type: url
     url: https://demo.bigbluebutton.org/gl/jas-s1x-wi9-qzv

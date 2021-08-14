@@ -22,7 +22,7 @@ properties:
       id: f63c09ba-7d60-47fb-b786-228752a3d619
       name: Gather Town
       color: gray
-  Sign up here:
+  Sign_up_here:
     id: ']hGQ'
     type: rich_text
     rich_text: []
@@ -36,7 +36,7 @@ properties:
     - id: 90954489-1a43-40bf-9867-af7ca6ae7391
       name: Üya
       color: brown
-  Meeting Link:
+  Meeting_Link:
     id: w~\Q
     type: url
     url: https://meet.google.com/fcz-yhyp-szx

@@ -22,7 +22,7 @@ properties:
       id: ebcf81e4-1144-4c40-b74e-756d9c2b2506
       name: Skype
       color: green
-  Sign up here:
+  Sign_up_here:
     id: ']hGQ'
     type: rich_text
     rich_text: []
@@ -39,7 +39,7 @@ properties:
     - id: 4018fd2a-bdab-4383-a03d-0f634c4e0459
       name: Riley
       color: default
-  Meeting Link:
+  Meeting_Link:
     id: w~\Q
     type: url
     url: https://join.skype.com/wEhREpKESENC

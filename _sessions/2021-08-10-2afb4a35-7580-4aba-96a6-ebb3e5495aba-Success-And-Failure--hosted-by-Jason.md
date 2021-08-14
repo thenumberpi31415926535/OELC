@@ -22,7 +22,7 @@ properties:
       id: a0cd9d21-f046-4291-a686-1544cbeeb03c
       name: Zoom
       color: brown
-  Sign up here:
+  Sign_up_here:
     id: ']hGQ'
     type: rich_text
     rich_text:
@@ -47,7 +47,7 @@ properties:
     - id: d447c3aa-2c07-4612-a18d-0b37adfe1911
       name: Jason
       color: red
-  Meeting Link:
+  Meeting_Link:
     id: w~\Q
     type: url
     url: "Jason Chang is inviting you to a scheduled Zoom meeting.  Topic: Jason Chang's English Late Show Time: Aug 14, 2021 08:00 PM Taipei  Join Zoom Meeting https://us05web.zoom.us/j/4112744776?pwd=ajBGU3ljSmZUTW84MFhXajRuMmxMQT09  Meeting ID: 411 274 4776 Passcode: 6WWyCq"

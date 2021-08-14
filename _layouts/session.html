@@ -3,7 +3,12 @@ layout: default
 ---
 <article class="post">
 <div>
-  <h1 class="TitleSubText">{{ page.topic }}</h1>
+  <h1 class="TitleSubText">
+      {% for t in page.properties.Name.title %}
+         {{ t.plain_text }}
+      {% endfor %}
+
+  </h1>
       {% for category in page.categories %}
           <small>[<a href="/categories.html">{{ category }}]</a></small>
       {% endfor%}
@@ -17,38 +22,18 @@ layout: default
         {{ page.author}}
       {% endif %}
   </small>
-<!-- about featuring -->
-{% if page.featuring %}
-<h3>
-Featuring: 
-<ul>
-    {% for feature in page.featuring %}
-        {% assign author = site.authors | where: 'short_name', feature| first %}
-        {% if author %}
-        <li><a href="{{ author.url }}">{{ author.name
-                }}</a></li>
-        {% else %}
-        <li>
-            {{ feature }}
-        </li>
-        {% endif %}
-    {% endfor %}
-
-</ul>
-{% endif %}
-</h3>
-      <!-- about hosts -->
-{% if page.hosts %}
+<!-- about hosts -->
+{% if page.properties.Hosts.multi_select %}
 <h3>
 Hosts: 
 <ul>
-    {% for host in page.hosts %}
-        {% assign author = site.authors | where: 'short_name', host| first %}
+    {% for host in page.properties.Hosts.multi_select %}
+        {% assign author = site.authors | where: 'short_name', host.name | first %}
         {% if author %}
         <li><a href="{{ author.url }}">{{ author.name }}</a></li>
         {% else %}
         <li>
-            {{ host }}
+            {{ host.name }}
         </li>
         {% endif %}
     {% endfor %}
@@ -57,21 +42,23 @@ Hosts:
 </h3>
 {% endif %}
 <!-- about Time -->
-{% if page.time %}
+{% if page.properties.Date.date.start %}
 <h3>
-    Time: {{ page.time }}
+    Time: {{ page.properties.Date.date.start }}
 </h3>
 {% endif %}
 <!-- about sign up Link -->
-{% if page.signUpLink %}
+{% if page.properties.Sign_up_here.rich_text %}
 <div>
-    <a target="_blank" href="{{ page.signUpLink }}">Sign up here</a>
+    {% for t in page.properties.Sign_up_here.rich_text %}
+        <a href="{{ t.href }}">{{ t.plain_text }} </a>
+    {% endfor %}
 </div>
 {% endif %}
 <!-- about meeting Link -->
-{% if page.meetingLink %}
+{% if page.properties.Meeting_Link.url %}
 <div>
-    <a target="_blank" href="{{ page.meetingLink }}">Meeting link</a>
+    <a target="_blank" href="{{ page.properties.Meeting_Link.url }}">Meeting link</a>
 </div>
 {% endif %}
 <br>

@@ -22,7 +22,7 @@ properties:
       id: 4cc93307-5fe5-4626-91c3-5ed284b7ca4d
       name: Discord
       color: purple
-  Sign up here:
+  Sign_up_here:
     id: ']hGQ'
     type: rich_text
     rich_text:
@@ -50,7 +50,7 @@ properties:
     - id: b5fd044f-4265-4924-b11a-3435f6d8deb8
       name: Bones
       color: yellow
-  Meeting Link:
+  Meeting_Link:
     id: w~\Q
     type: url
     url: https://discord.gg/vE7QUXGDnS

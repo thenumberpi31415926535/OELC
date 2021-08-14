@@ -22,7 +22,7 @@ properties:
       id: 3775b82a-0108-475c-ae48-b2c8e248dcef
       name: Google Meet
       color: pink
-  Sign up here:
+  Sign_up_here:
     id: ']hGQ'
     type: rich_text
     rich_text:
@@ -47,7 +47,7 @@ properties:
     - id: d447c3aa-2c07-4612-a18d-0b37adfe1911
       name: Jason
       color: red
-  Meeting Link:
+  Meeting_Link:
     id: w~\Q
     type: url
     url: ' https://meet.google.com/jax-dwfo-uez'

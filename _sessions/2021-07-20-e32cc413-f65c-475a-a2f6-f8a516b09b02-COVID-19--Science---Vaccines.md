@@ -22,7 +22,7 @@ properties:
       id: 4cc93307-5fe5-4626-91c3-5ed284b7ca4d
       name: Discord
       color: purple
-  Sign up here:
+  Sign_up_here:
     id: ']hGQ'
     type: rich_text
     rich_text:
@@ -79,7 +79,7 @@ properties:
     - id: bb83511e-859b-4434-84e1-9c3576cb23e1
       name: Momo
       color: gray
-  Meeting Link:
+  Meeting_Link:
     id: w~\Q
     type: url
     url: https://discord.com/invite/vE7QUXGDnS

@@ -22,7 +22,7 @@ properties:
       id: ebcf81e4-1144-4c40-b74e-756d9c2b2506
       name: Skype
       color: green
-  Sign up here:
+  Sign_up_here:
     id: ']hGQ'
     type: rich_text
     rich_text:
@@ -50,7 +50,7 @@ properties:
     - id: fa4fc61a-c0ec-4fc4-b915-e1dcad3a3a87
       name: Milo
       color: default
-  Meeting Link:
+  Meeting_Link:
     id: w~\Q
     type: url
     url: join.skype.com/u6uJW0aiuHv6

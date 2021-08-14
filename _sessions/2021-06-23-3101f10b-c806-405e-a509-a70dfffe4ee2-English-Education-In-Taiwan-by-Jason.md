@@ -15,7 +15,7 @@ properties:
       id: ebcf81e4-1144-4c40-b74e-756d9c2b2506
       name: Skype
       color: green
-  Sign up here:
+  Sign_up_here:
     id: ']hGQ'
     type: rich_text
     rich_text:
@@ -40,7 +40,7 @@ properties:
     - id: d447c3aa-2c07-4612-a18d-0b37adfe1911
       name: Jason
       color: red
-  Meeting Link:
+  Meeting_Link:
     id: w~\Q
     type: url
     url: https://join.skype.com/v06ubCvQXA0W

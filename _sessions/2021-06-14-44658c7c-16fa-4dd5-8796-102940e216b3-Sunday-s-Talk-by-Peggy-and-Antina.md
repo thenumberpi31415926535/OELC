@@ -22,7 +22,7 @@ properties:
       id: 3775b82a-0108-475c-ae48-b2c8e248dcef
       name: Google Meet
       color: pink
-  Sign up here:
+  Sign_up_here:
     id: ']hGQ'
     type: rich_text
     rich_text: []
@@ -36,7 +36,7 @@ properties:
     - id: 874eb39a-aabb-4dc9-bb98-dd38fac710d2
       name: Antina@張庭瑄
       color: purple
-  Meeting Link:
+  Meeting_Link:
     id: w~\Q
     type: url
     url: https://meet.google.com/uor-traf-jys
