@@ -2,11 +2,27 @@
     [Parameter(Mandatory=$true)]
     [string]$Secret,
     
-    [Parameter(Mandatory=$true)]
-    [string]$Destination
+    [string]$Destination = (Get-Location),
+    [bool]$GenerateDebugFiles = $true
 )
 
-Install-Module -Name powershell-yaml -Force -Repository PSGallery -Scope CurrentUser
+Install-Module -Name powershell-yaml -Repository PSGallery -Scope CurrentUser
+
+
+function Write-ToFile
+{
+    param(
+        [Parameter(Mandatory=$true)]
+        [string] $Path,
+        
+        [Parameter(Mandatory=$true)]
+        [string] $Content
+    )
+
+    
+    $Utf8NoBomEncoding = New-Object System.Text.UTF8Encoding $False
+    [System.IO.File]::WriteAllLines($Path, $Content, $Utf8NoBomEncoding)
+}
 
 
 function BuildListItem
@@ -144,6 +160,176 @@ function ExpandBlock
     }
 }
 
+function ExtractSelect
+{
+    param
+    (
+        [psobject]$obj
+    )
+    return $obj.select.name;
+}
+
+function ExtractMultiSelect
+{
+    param
+    (
+        [psobject]$obj
+    )
+
+    foreach($o in $obj.multi_select)
+    {
+        $o.name;
+    }
+}
+function ExtractUrl
+{
+    param
+    (
+        [psobject]$obj
+    )
+    
+    return $obj.url;
+}
+
+function ExtractDateTimeFromString
+{
+    param
+    (
+        [psobject]$String
+    )
+    $date = [DateTime]::MinValue
+    if([DateTime]::TryParseExact($String, 'MM/dd/yyyy H:mm:ss', [System.Globalization.CultureInfo]::InvariantCulture, [System.Globalization.DateTimeStyles]::None, [ref]$date))
+    {
+        return $date
+    }
+
+    return $null
+}
+
+function ExtractDate
+{
+    param
+    (
+        [psobject]$obj
+    )
+    return ExtractDateTimeFromString -String $obj.date.start
+}
+
+function ExtractField
+{
+    param 
+    (
+        [psobject]$obj
+    )
+    if(-not $obj)
+    {
+        return $null
+    }
+
+    $typeName = $obj.'type'
+
+    
+    if(-not $typeName)
+    {
+        return $null
+    }
+    switch($typeName.Trim())
+    {
+        'text' {
+            ExtractText -obj $obj
+        }
+        'title' {
+            ExtractTitle -obj $obj
+        }
+        'url' {
+            ExtractUrl -obj $obj
+        }
+        'date' {
+            ExtractDate -obj $obj
+        }
+        'select' {
+            ExtractSelect -obj $obj
+        }
+        'multi_select' {
+            ExtractMultiSelect -obj $obj
+        }
+        'rich_text' {
+            ExtractRichText -obj $obj
+        }
+    }
+}
+
+function ExtractTitle
+{
+    param
+    (
+        [psobject]$obj
+    )
+ 
+    foreach($o in $obj.title)
+    {
+        ExtractField -obj $o
+    }
+
+}
+
+function ExtractText
+{
+    param
+    (
+        [psobject]$obj
+    )
+
+    if($obj.text.link)
+    {
+        "[$($obj.text.content)]($(ExtractUrl -obj $obj.text.link))"
+    }
+    else
+    {
+        $obj.text.content
+    }
+    
+}
+
+function ExtractRichText
+{
+    param
+    (
+        [psobject]$obj
+    )
+
+    foreach($o in $obj.rich_text)
+    {
+        ExtractText($o)
+    }
+}
+
+
+
+# Require variables
+$IndexDateFormat = 'yyyy-MM-dd'
+# post dates
+$HashPostsByDate = @{};
+
+
+# Prep Debug folder
+$DebugLocation = Join-Path $Destination 'debug'
+if(-not (Test-Path $DebugLocation))
+{
+    New-Item -ItemType Directory -Path $DebugLocation
+}
+Else
+{
+    Get-ChildItem -Path $DebugLocation -File | Remove-Item
+}
+
+# Prep _post folder
+$PostsLocation = (Join-Path $Destination '_posts')
+if(Test-Path $PostsLocation)
+{
+    Get-ChildItem -Path $PostsLocation -File | Remove-Item
+}
+
 
 
 
@@ -178,63 +364,105 @@ while($hasMore)
 
 
     $BodyInJson = ($body | ConvertTo-Json -Depth 10)
+
+    # Service call
     $queryResponse = Invoke-RestMethod -Uri "https://api.notion.com/v1/search" -Body $BodyInJson -Headers $headers -Method Post   
     
-    $obj = $queryResponse.results[0];
 
-
-
-    $dateTimeFormat = 'yyyy-MM-dd hh:mm tt'
-
-    $obj.created_time = [Datetime]::Parse($obj.created_time, [System.Globalization.CultureInfo]::InvariantCulture).ToString($dateTimeFormat)   
-    $obj.last_edited_time = [Datetime]::Parse($obj.last_edited_time, [System.Globalization.CultureInfo]::InvariantCulture).ToString($dateTimeFormat)   
-
-    $startTime = $null
     
-    if($obj.properties.Date.date.start)
-    {
-        $startTime = [Datetime]::Parse($obj.properties.Date.date.start, [System.Globalization.CultureInfo]::InvariantCulture)
-        $obj.properties.Date.date.start = $startTime.ToString($dateTimeFormat)
-    }
-    if($obj.properties.Date.date.end)
-    {
-        $obj.properties.Date.date.end = [Datetime]::Parse($obj.properties.Date.date.end, [System.Globalization.CultureInfo]::InvariantCulture).ToString($dateTimeFormat)
-    }
-    
+    # set variable for next iteration
+    $hasMore = $queryResponse.has_more
+    $startCursor = $queryResponse.next_cursor;
 
-    "======================================================="
-    $fileName = "$([DateTimeOffset]::Parse($obj.created_time).ToString('yyyy-MM-dd'))-$($obj.id)-$($obj.properties.Name.title[0].plain_text)" -replace '\W', '-'
-    $path = (Join-Path $Destination "$fileName.md");
-    $yaml = ($obj | ConvertTo-Yaml) 
-    $yaml = $yaml -replace "Sign up here:", 'Sign_up_here:' 
-    $yaml = $yaml -replace 'Meeting Link:', 'Meeting_Link:'
-    $path
 
-    $tags = "tags: `n"
 
-    if($startTime -ne $null -and $startTime -ne "" )
-    {
-        $tags += "   - ""$($startTime.ToString('yyyy-MM-dd'))""`n"
+    $obj = $queryResponse.results[0];   
+
+    "======================================================="    
+
+
+    $knownObj = @{
+        object = $obj.object;
+        id = $obj.id;
+        notion_url = $obj.url;
+        created_time = ExtractDateTimeFromString -String $obj.created_time;
+        last_edited_time = ExtractDateTimeFromString -String $obj.last_edited_time;
+        parent_type = $obj.parent.type;
+        parent_database_id = $obj.parent.database_id;
+        archived = $obj.archived;
+        title = (ExtractField -obj $obj.properties.Name) -join ''
+        hosts = ExtractField -obj $obj.properties.Hosts
     }
 
-    if($obj.properties.Hosts.'multi_select')
-    {
+    $fieldNames = $obj.properties | Get-Member -MemberType NoteProperty | Select-Object -ExpandProperty Name
 
-        foreach($h in $obj.properties.Hosts.'multi_select')
+    foreach($name in $fieldNames)
+    {        
+        $value = $obj.properties.$name;
+
+        if($name -match 'date')
         {
-            if($h.name)
-            {
-                $tags += "   - ""$($h.name)""`n"
-            }             
+            $name = 'talktime'
+        }
+
+        $knownObj[(($name -replace '\W', '_').ToLowerInvariant())] = (ExtractField -obj $value) 
+    }
+
+        
+
+    
+    $indexDate = $null
+
+    if($knownObj.talktime)
+    {
+        $indexDate = $knownObj.talktime.ToString($IndexDateFormat)
+        $fileName = ("$($indexDate)-$($knownObj.title)-$($knownObj.id)" -replace '\W', '-') + ".md"
+        $path = (Join-Path $PostsLocation $fileName);
+
+        # add this reponse to debug folder
+        Add-Content (Join-Path $DebugLocation "$fileName.yaml") -Value ($obj | ConvertTo-Yaml)
+        $postIndexDate = $knownObj.talktime.ToString($IndexDateFormat)
+        if($HashPostsByDate.ContainsKey($postIndexDate) -and -not $HashPostsByDate[$postIndexDate].Contains($fileName))
+        {
+            $HashPostsByDate[$postIndexDate] += $fileName;        
+        }
+        else
+        {
+            $HashPostsByDate[$postIndexDate] = @($fileName)
         }
     }
+    else
+    {
+        # invalide event date, nothing to do.
+        continue
+    }
 
-    $tags
-
-
+    $path
     
 
-    $blockResponse = Invoke-RestMethod -Uri "https://api.notion.com/v1/blocks/$($obj.id)/children" -Headers $headers -Method Get   
+    $tags = @('Talk')
+
+    if($knownObj.talktime)
+    {
+        $tags += $knownObj.talktime.ToString($IndexDateFormat)
+    }
+
+    if($knownObj.hosts)
+    {
+        $tags += $knownObj.hosts
+    }
+
+    $knownObj["tags"] = $tags;
+    $knownObj["indexDate"] = $indexDate
+
+    $yaml = $knownObj | ConvertTo-Yaml
+
+    # Service call
+    $blockResponse = Invoke-RestMethod -Uri "https://api.notion.com/v1/blocks/$($obj.id)/children" -Headers $headers -Method Get 
+    
+    
+
+    Add-Content (Join-Path $DebugLocation "$fileName.yaml") -Value ($blockResponse | ConvertTo-Yaml)
 
     $content = ""
     foreach($block in $blockResponse.results)
@@ -245,12 +473,63 @@ while($hasMore)
 
 
     # write to md
-    $Utf8NoBomEncoding = New-Object System.Text.UTF8Encoding $False
-    [System.IO.File]::WriteAllLines($path, "---`n$tags`n$yaml---`n$content", $Utf8NoBomEncoding)
+    Write-ToFile -Path $path -Content "---`n$yaml---`n$properties`n$content"
 
-    # set variable for next iteration
-    $hasMore = $queryResponse.has_more
-    $startCursor = $queryResponse.next_cursor;
     
 }
 
+
+"----------------- Post Data ----------------------"
+$postIndexByDateLocation = Join-Path (Join-Path $Destination '_data') 'PostsIndexedByDate.yaml'
+$postIndexByDateLocation
+Write-ToFile -Path $postIndexByDateLocation -Content ($HashPostsByDate | ConvertTo-Yaml)
+
+
+
+# Build Calendar
+$TotalWeeks = 4
+$now = [DateTime]::Today
+$dayOfWeekValue = $now.DayOfWeek.value__
+$travel = $dayOfWeekValue - 1
+if($dayOfWeekValue -eq 0)
+{
+    $travel = 6
+}
+$monday = $now.Subtract([TimeSpan]::FromDays($travel))
+
+$CalendarHash = @{
+}
+
+
+$day = $monday
+$DaysInAWeek = 7
+$week = 1
+while($week -le $TotalWeeks)
+{
+    $d = 1
+    $collection = @()
+    while($d -le $DaysInAWeek)
+    {
+        $dayName = $day.ToString($IndexDateFormat)
+        $title = if( $day.Day -eq 1  -or $day -eq $monday) {$day.ToString("d MMM") } ELSE { $day.Day }
+        $collection += @{
+            index = $dayName
+            title = $title
+            posts = $HashPostsByDate[$dayName]
+        }
+        
+        $day = $day.Add([TimeSpan]::FromDays(1));
+        ++$d
+    }
+    
+    $CalendarHash["Week$week"]= $collection
+    ++$week
+}
+
+
+
+
+"----------------- Cal Data ----------------------"
+$calDataLocation = Join-Path (Join-Path $Destination '_data') 'TalkCalendar.yaml'
+$calDataLocation
+Write-ToFile -Path $calDataLocation -Content ($CalendarHash.GetEnumerator() | Sort-Object -Property name | ConvertTo-Yaml)

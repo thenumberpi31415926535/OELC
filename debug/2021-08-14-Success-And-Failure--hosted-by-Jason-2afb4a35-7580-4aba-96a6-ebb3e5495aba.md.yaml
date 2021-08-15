@@ -1,0 +1,352 @@
+object: page
+id: 2afb4a35-7580-4aba-96a6-ebb3e5495aba
+created_time: 2021-08-10T03:53:00.0000000Z
+last_edited_time: 2021-08-11T08:04:00.0000000Z
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: a0cd9d21-f046-4291-a686-1544cbeeb03c
+      name: Zoom
+      color: brown
+  Sign up here:
+    id: ']hGQ'
+    type: rich_text
+    rich_text:
+    - type: text
+      text:
+        content: https://forms.gle/bFBEeUc2AeCVpGzb9
+        link:
+          url: https://forms.gle/bFBEeUc2AeCVpGzb9
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: https://forms.gle/bFBEeUc2AeCVpGzb9
+      href: https://forms.gle/bFBEeUc2AeCVpGzb9
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: d447c3aa-2c07-4612-a18d-0b37adfe1911
+      name: Jason
+      color: red
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: "Jason Chang is inviting you to a scheduled Zoom meeting.  Topic: Jason Chang's English Late Show Time: Aug 14, 2021 08:00 PM Taipei  Join Zoom Meeting https://us05web.zoom.us/j/4112744776?pwd=ajBGU3ljSmZUTW84MFhXajRuMmxMQT09  Meeting ID: 411 274 4776 Passcode: 6WWyCq"
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-08-14T20:00:00.0000000+08:00
+      end: 2021-08-14T21:30:00.0000000+08:00
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: Success And Failure, hosted by Jason
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Success And Failure, hosted by Jason
+      href: 
+url: https://www.notion.so/Success-And-Failure-hosted-by-Jason-2afb4a3575804aba96a6ebb3e5495aba
+
+object: list
+results:
+- object: block
+  id: 2416e15b-07ed-4dec-aa1f-d600ffb1bcdd
+  created_time: 2021-08-10T03:54:00.0000000Z
+  last_edited_time: 2021-08-10T03:54:00.0000000Z
+  has_children: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: 9c98c645-51ab-46ef-9f0d-f810b1261daa
+  created_time: 2021-08-10T03:54:00.0000000Z
+  last_edited_time: 2021-08-10T03:54:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: fd3517ea-d247-4b8d-af8a-b0bf42799b5f
+  created_time: 2021-08-10T03:54:00.0000000Z
+  last_edited_time: 2021-08-10T03:54:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 60276d1d-d28c-4f33-8d0d-0e5b4c0b937b
+  created_time: 2021-08-10T03:54:00.0000000Z
+  last_edited_time: 2021-08-10T03:56:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 'Brief Introduction: 今晚， 我們來討論一下成功和失敗 (Success and Failure) 吧！'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'Brief Introduction: 今晚， 我們來討論一下成功和失敗 (Success and Failure) 吧！'
+      href: 
+- object: block
+  id: 8af87e06-6c12-4cb1-b940-074ea6f5ce5d
+  created_time: 2021-08-10T03:56:00.0000000Z
+  last_edited_time: 2021-08-10T04:04:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: '其實, 每個人對於成功以及失敗的定義都不大相同, 每個人看同件事情的角度也不大一樣, 這次的主題可能稍微嚴肅一 點, 但我認為這是一個值得我們深思的話題. 如果你對這類主題有興趣, 也有些內容想和我們一起討論分享的話, 歡迎直接點進去上面提供的表單報名. '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '其實, 每個人對於成功以及失敗的定義都不大相同, 每個人看同件事情的角度也不大一樣, 這次的主題可能稍微嚴肅一 點, 但我認為這是一個值得我們深思的話題. 如果你對這類主題有興趣, 也有些內容想和我們一起討論分享的話, 歡迎直接點進去上面提供的表單報名. '
+      href: 
+- object: block
+  id: 2c0fc95c-f3c0-44cd-89e6-e4042c810170
+  created_time: 2021-08-10T04:04:00.0000000Z
+  last_edited_time: 2021-08-10T04:06:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 討論中如果遇到有不知道如何用英文表達的部分, 我們也很鼓勵你用中文來表達, 而也許在討論中你也可以帶走一些形容某些事情的單字及句子喔！
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 討論中如果遇到有不知道如何用英文表達的部分, 我們也很鼓勵你用中文來表達, 而也許在討論中你也可以帶走一些形容某些事情的單字及句子喔！
+      href: 
+- object: block
+  id: 867428dd-b0cf-463c-857a-ae4df41964f2
+  created_time: 2021-08-10T03:54:00.0000000Z
+  last_edited_time: 2021-08-10T03:54:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: We look forward to seeing you then.
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: We look forward to seeing you then.
+      href: 
+- object: block
+  id: 7fd50473-70c4-4c52-a205-358ffe5b9544
+  created_time: 2021-08-10T03:54:00.0000000Z
+  last_edited_time: 2021-08-10T03:54:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 891e5bff-5370-46b7-a931-be02ccf2fa74
+  created_time: 2021-08-10T03:54:00.0000000Z
+  last_edited_time: 2021-08-10T04:08:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 當然，如果你不確定是否能跟的上我們的討論速度，或是你是對自己的英語表達力沒自信的，都歡迎先報旁聽 (audience)，加入後再看看
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 當然，如果你不確定是否能跟的上我們的討論速度，或是你是對自己的英語表達力沒自信的，都歡迎先報旁聽 (audience)，加入後再看看
+      href: 
+- object: block
+  id: 07e6b42f-1154-45a2-9130-d85363e2ac31
+  created_time: 2021-08-10T03:54:00.0000000Z
+  last_edited_time: 2021-08-10T04:08:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 另外，我們在最一開始或是討論中都有可能臨時加開講者 (speaker) 的位置歐，所以不用擔心，如果你是之前報了旁聽 (audience)，但途中發現有想跟我們分享內容的朋友！
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 另外，我們在最一開始或是討論中都有可能臨時加開講者 (speaker) 的位置歐，所以不用擔心，如果你是之前報了旁聽 (audience)，但途中發現有想跟我們分享內容的朋友！
+      href: 
+- object: block
+  id: aadf79db-062e-44e2-848b-23d3f5edf2f9
+  created_time: 2021-08-10T03:54:00.0000000Z
+  last_edited_time: 2021-08-10T03:54:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 71074b91-461d-4ea2-bf5d-4928f8e00243
+  created_time: 2021-08-10T03:54:00.0000000Z
+  last_edited_time: 2021-08-10T03:54:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: '!!!By the way, 如果你臨時無法到場，麻煩在討論開始前聯絡主持人，謝謝'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '!!!By the way, 如果你臨時無法到場，麻煩在討論開始前聯絡主持人，謝謝'
+      href: 
+- object: block
+  id: 50db542a-984d-4749-a5b3-779edcf0a555
+  created_time: 2021-08-10T03:54:00.0000000Z
+  last_edited_time: 2021-08-10T03:54:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 如果你有任何問題，歡迎聯繫我們主持人，或是填寫反饋單（我們每場討論的最後都會提供），我們都會盡快聯繫並解答你的問題！
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 如果你有任何問題，歡迎聯繫我們主持人，或是填寫反饋單（我們每場討論的最後都會提供），我們都會盡快聯繫並解答你的問題！
+      href: 
+- object: block
+  id: c78780d3-1043-486f-9655-773771db1084
+  created_time: 2021-08-10T03:54:00.0000000Z
+  last_edited_time: 2021-08-10T03:54:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 918607d9-a006-4ae1-8ecc-8b2048ba0026
+  created_time: 2021-08-10T04:12:00.0000000Z
+  last_edited_time: 2021-08-10T04:12:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: fe751b61-3940-4c97-962c-6c06c36d677f
+  created_time: 2021-08-10T04:12:00.0000000Z
+  last_edited_time: 2021-08-10T04:12:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 56446754-f41c-4c00-b8b3-9b098c7f0fa7
+  created_time: 2021-08-10T04:12:00.0000000Z
+  last_edited_time: 2021-08-10T04:12:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: f574cae7-1910-4840-b743-75242c279ce0
+  created_time: 2021-08-10T04:13:00.0000000Z
+  last_edited_time: 2021-08-10T04:13:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 00750233-0ff2-465b-b5df-2d212b8d730a
+  created_time: 2021-08-10T04:13:00.0000000Z
+  last_edited_time: 2021-08-10T04:13:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 996e8bbe-8012-402f-ad1c-66dd38f0e856
+  created_time: 2021-08-10T03:53:00.0000000Z
+  last_edited_time: 2021-08-10T04:13:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 6099d368-5136-4422-8b40-b65c5ea098b3
+  created_time: 2021-08-10T03:53:00.0000000Z
+  last_edited_time: 2021-08-10T03:53:00.0000000Z
+  has_children: false
+  type: unsupported
+  unsupported: {}
+next_cursor: 
+has_more: false
+

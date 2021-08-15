@@ -21,7 +21,7 @@ jobs:
           submodules: true 
       - name: Generate posts
         run: |
-          .\SyncTalks.ps1 -Secret ${{ secrets.NOTION_INTEGRATION }} -Destination '_posts/'
+          .\SyncTalks.ps1 -Secret ${{ secrets.NOTION_INTEGRATION }} 
         shell: pwsh
       - name: Build And Deploy
         id: builddeploy

@@ -1,0 +1,314 @@
+object: page
+id: 44658c7c-16fa-4dd5-8796-102940e216b3
+created_time: 2021-06-14T06:15:00.0000000Z
+last_edited_time: 2021-06-27T01:29:00.0000000Z
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: 3775b82a-0108-475c-ae48-b2c8e248dcef
+      name: Google Meet
+      color: pink
+  Sign up here:
+    id: ']hGQ'
+    type: rich_text
+    rich_text: []
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: 4e7e24cd-3a2f-4b40-b974-c99e650ab7ed
+      name: Peggy@李明霈
+      color: blue
+    - id: 874eb39a-aabb-4dc9-bb98-dd38fac710d2
+      name: Antina@張庭瑄
+      color: purple
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://meet.google.com/uor-traf-jys
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-06-27T09:30:00.0000000+08:00
+      end: 2021-06-27T10:30:00.0000000+08:00
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: Sunday's Talk by Peggy and Antina
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Sunday's Talk by Peggy and Antina
+      href: 
+url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-44658c7c16fa4dd58796102940e216b3
+
+object: list
+results:
+- object: block
+  id: 321f14b6-8c41-4c5d-90e7-4cb25f8fb446
+  created_time: 2021-06-25T08:07:00.0000000Z
+  last_edited_time: 2021-06-25T08:11:00.0000000Z
+  has_children: false
+  type: heading_1
+  heading_1:
+    text:
+    - type: text
+      text:
+        content: 'Topic: Video Call  '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'Topic: Video Call  '
+      href: 
+- object: block
+  id: 6455e9f9-c19e-4c6b-993c-2fcf74c6e82c
+  created_time: 2021-06-25T08:11:00.0000000Z
+  last_edited_time: 2021-06-25T08:12:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: ❓
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: ❓
+      href: 
+- object: block
+  id: 98f50177-8499-4de1-82dc-3749faeaebb8
+  created_time: 2021-06-25T08:12:00.0000000Z
+  last_edited_time: 2021-06-25T08:13:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 'Questions:'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'Questions:'
+      href: 
+- object: block
+  id: b5e8cdba-39be-4e15-8855-e4389137337e
+  created_time: 2021-06-25T08:12:00.0000000Z
+  last_edited_time: 2021-06-25T08:13:00.0000000Z
+  has_children: false
+  type: numbered_list_item
+  numbered_list_item:
+    text:
+    - type: text
+      text:
+        content: When do you use video call?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: When do you use video call?
+      href: 
+- object: block
+  id: d86bfdb6-75f7-4d09-9955-afbf86fb0400
+  created_time: 2021-06-25T08:12:00.0000000Z
+  last_edited_time: 2021-06-25T08:12:00.0000000Z
+  has_children: false
+  type: numbered_list_item
+  numbered_list_item:
+    text:
+    - type: text
+      text:
+        content: What kind of software you use?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What kind of software you use?
+      href: 
+- object: block
+  id: c9fb6e5f-59bf-4729-be7e-0832394110fb
+  created_time: 2021-06-25T08:12:00.0000000Z
+  last_edited_time: 2021-06-25T08:13:00.0000000Z
+  has_children: false
+  type: numbered_list_item
+  numbered_list_item:
+    text:
+    - type: text
+      text:
+        content: How do you feel when having video call?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: How do you feel when having video call?
+      href: 
+- object: block
+  id: b12c9f0b-4ab4-4fb7-98f1-e9e350282d51
+  created_time: 2021-06-25T08:12:00.0000000Z
+  last_edited_time: 2021-06-25T08:13:00.0000000Z
+  has_children: false
+  type: numbered_list_item
+  numbered_list_item:
+    text:
+    - type: text
+      text:
+        content: Is there any interesting experience you have in video call?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Is there any interesting experience you have in video call?
+      href: 
+- object: block
+  id: 211ccc9d-9125-4754-af60-af272936dcc3
+  created_time: 2021-06-25T08:12:00.0000000Z
+  last_edited_time: 2021-06-25T08:13:00.0000000Z
+  has_children: false
+  type: numbered_list_item
+  numbered_list_item:
+    text:
+    - type: text
+      text:
+        content: Do you like video call? Or you prefer to have meeting in person?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Do you like video call? Or you prefer to have meeting in person?
+      href: 
+- object: block
+  id: e0e9739c-4584-4fce-b482-f6cb1f73ed87
+  created_time: 2021-06-18T14:54:00.0000000Z
+  last_edited_time: 2021-06-25T08:15:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: "\U0001F4C5\n9:30～9:40 self-introduction\n9:40～10:30 discussion"
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "\U0001F4C5\n9:30～9:40 self-introduction\n9:40～10:30 discussion"
+      href: 
+- object: block
+  id: 08b911e9-109f-49fa-83b3-441d868e59eb
+  created_time: 2021-06-18T14:54:00.0000000Z
+  last_edited_time: 2021-06-18T14:54:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: |-
+          ✨
+          How to join?
+          We provide the link in post, feel free to come in before the meeting to test your sound and microphone. You just need to log in to your Google and click the link, then you are all set!
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: |-
+        ✨
+        How to join?
+        We provide the link in post, feel free to come in before the meeting to test your sound and microphone. You just need to log in to your Google and click the link, then you are all set!
+      href: 
+- object: block
+  id: b4ed689f-0a3f-46fd-bcc0-41daccfcce42
+  created_time: 2021-06-18T14:54:00.0000000Z
+  last_edited_time: 2021-06-18T14:54:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: |-
+          ✨
+          Wanna join?
+          Comment below to let me know if you are going to be a speaker or listener :)
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: |-
+        ✨
+        Wanna join?
+        Comment below to let me know if you are going to be a speaker or listener :)
+      href: 
+next_cursor: 
+has_more: false
+

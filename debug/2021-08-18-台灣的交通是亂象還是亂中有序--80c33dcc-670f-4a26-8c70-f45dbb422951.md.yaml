@@ -1,0 +1,644 @@
+object: page
+id: 80c33dcc-670f-4a26-8c70-f45dbb422951
+created_time: 2021-08-10T07:49:00.0000000Z
+last_edited_time: 2021-08-15T17:25:00.0000000Z
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: 4cc93307-5fe5-4626-91c3-5ed284b7ca4d
+      name: Discord
+      color: purple
+  Sign up here:
+    id: ']hGQ'
+    type: rich_text
+    rich_text:
+    - type: text
+      text:
+        content: "Join Pi's "
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "Join Pi's "
+      href: 
+    - type: text
+      text:
+        content: 'Discord '
+        link:
+          url: https://discord.gg/vE7QUXGDnS
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'Discord '
+      href: https://discord.gg/vE7QUXGDnS
+    - type: text
+      text:
+        content: 'server and sign up in #annoncements!'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'server and sign up in #annoncements!'
+      href: 
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: b5fd044f-4265-4924-b11a-3435f6d8deb8
+      name: Bones
+      color: yellow
+    - id: 5fd12e96-75db-41b9-b28e-3f854c2cf009
+      name: Pi
+      color: brown
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://discord.gg/vE7QUXGDnS
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-08-18T21:00:00.0000000+08:00
+      end: 
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: 台灣的交通是亂象還是亂中有序?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 台灣的交通是亂象還是亂中有序?
+      href: 
+url: https://www.notion.so/80c33dcc670f4a268c70f45dbb422951
+
+object: list
+results:
+- object: block
+  id: 191886b5-83d1-48fd-82bb-9e8812305500
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What are the misdemeanors that has happened to you and your vehicle?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What are the misdemeanors that has happened to you and your vehicle?
+      href: 
+- object: block
+  id: 169640a2-334d-4a8e-96cb-e4f286405332
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: |-
+          Red light means stop, green light means go?
+          What are the rules people rarely follow? Or happily break?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: |-
+        Red light means stop, green light means go?
+        What are the rules people rarely follow? Or happily break?
+      href: 
+- object: block
+  id: 4cff80e8-f821-4b7a-a9f4-47636486e200
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What are the most outrageous behavior you seen a driver / rider do?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What are the most outrageous behavior you seen a driver / rider do?
+      href: 
+- object: block
+  id: e3928a1c-36a9-453a-975d-b600620a25d4
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What are some traffic laws that you think makes no sense at all?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What are some traffic laws that you think makes no sense at all?
+      href: 
+- object: block
+  id: f2e1b632-2f94-4146-a207-e9e95b78ed13
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Have you ever got into a road rage?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Have you ever got into a road rage?
+      href: 
+- object: block
+  id: ad7bdb67-7480-478e-9181-42c74bc8c963
+  created_time: 2021-08-10T07:51:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Do you think self-driving cars will be ok in Taiwan's traffic?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Do you think self-driving cars will be ok in Taiwan's traffic?
+      href: 
+- object: block
+  id: 034c0f14-1013-4c06-adcb-03b8dbd3ba7b
+  created_time: 2021-08-10T07:51:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 5d73e721-be9d-49c4-a35f-b3dd9eef661a
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: 1556fe25-1bdb-479b-ba72-ba543d2feb4e
+  created_time: 2021-08-14T04:03:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: true
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: a41066ae-c1a1-4ded-abb9-1d19e2f520ff
+  created_time: 2021-08-14T04:03:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: true
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: 183820dc-7302-43c4-8ced-46d463c17c44
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 8a48140b-3f7e-44c1-8763-e5b056e950c4
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: d5cda03b-9355-4ac4-a8ae-5732a7d65276
+  created_time: 2021-08-10T07:52:00.0000000Z
+  last_edited_time: 2021-08-10T07:52:00.0000000Z
+  has_children: false
+  type: unsupported
+  image:
+    caption: []
+    type: file
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3e3d099f-ecf5-4272-858b-50b991c73022/Brainstorming_-_08_18_%E5%8F%B0%E7%81%A3%E7%9A%84%E4%BA%A4%E9%80%9A%E6%98%AF%E4%BA%82%E8%B1%A1%E9%82%84%E6%98%AF%E4%BA%82%E4%B8%AD%E6%9C%89%E5%BA%8F_.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210815%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210815T174041Z&X-Amz-Expires=3600&X-Amz-Signature=019ee3febf1786bf179122df922e3996adc4ba623818055e83a303f2a17b9e42&X-Amz-SignedHeaders=host
+    file:
+      expiry_time: 2021-08-15T18:40:41.3180000Z
+  unsupported: {}
+- object: block
+  id: 574bd2a2-a2b5-41c0-9ad2-412edf527af7
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-10T07:49:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: d35b7968-b262-49e4-818b-1afe5d8d99e6
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-10T07:49:00.0000000Z
+  has_children: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: 84edc9a4-eb23-459a-8967-5d24512e1828
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-10T07:49:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+next_cursor: 
+has_more: false
+
+object: page
+id: 80c33dcc-670f-4a26-8c70-f45dbb422951
+created_time: 2021-08-10T07:49:00.0000000Z
+last_edited_time: 2021-08-15T17:25:00.0000000Z
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: 4cc93307-5fe5-4626-91c3-5ed284b7ca4d
+      name: Discord
+      color: purple
+  Sign up here:
+    id: ']hGQ'
+    type: rich_text
+    rich_text:
+    - type: text
+      text:
+        content: "Join Pi's "
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "Join Pi's "
+      href: 
+    - type: text
+      text:
+        content: 'Discord '
+        link:
+          url: https://discord.gg/vE7QUXGDnS
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'Discord '
+      href: https://discord.gg/vE7QUXGDnS
+    - type: text
+      text:
+        content: 'server and sign up in #annoncements!'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'server and sign up in #annoncements!'
+      href: 
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: b5fd044f-4265-4924-b11a-3435f6d8deb8
+      name: Bones
+      color: yellow
+    - id: 5fd12e96-75db-41b9-b28e-3f854c2cf009
+      name: Pi
+      color: brown
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://discord.gg/vE7QUXGDnS
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-08-18T21:00:00.0000000+08:00
+      end: 
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: 台灣的交通是亂象還是亂中有序?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 台灣的交通是亂象還是亂中有序?
+      href: 
+url: https://www.notion.so/80c33dcc670f4a268c70f45dbb422951
+
+object: list
+results:
+- object: block
+  id: 191886b5-83d1-48fd-82bb-9e8812305500
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What are the misdemeanors that has happened to you and your vehicle?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What are the misdemeanors that has happened to you and your vehicle?
+      href: 
+- object: block
+  id: 169640a2-334d-4a8e-96cb-e4f286405332
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: |-
+          Red light means stop, green light means go?
+          What are the rules people rarely follow? Or happily break?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: |-
+        Red light means stop, green light means go?
+        What are the rules people rarely follow? Or happily break?
+      href: 
+- object: block
+  id: 4cff80e8-f821-4b7a-a9f4-47636486e200
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What are the most outrageous behavior you seen a driver / rider do?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What are the most outrageous behavior you seen a driver / rider do?
+      href: 
+- object: block
+  id: e3928a1c-36a9-453a-975d-b600620a25d4
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What are some traffic laws that you think makes no sense at all?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What are some traffic laws that you think makes no sense at all?
+      href: 
+- object: block
+  id: f2e1b632-2f94-4146-a207-e9e95b78ed13
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Have you ever got into a road rage?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Have you ever got into a road rage?
+      href: 
+- object: block
+  id: ad7bdb67-7480-478e-9181-42c74bc8c963
+  created_time: 2021-08-10T07:51:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Do you think self-driving cars will be ok in Taiwan's traffic?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Do you think self-driving cars will be ok in Taiwan's traffic?
+      href: 
+- object: block
+  id: 034c0f14-1013-4c06-adcb-03b8dbd3ba7b
+  created_time: 2021-08-10T07:51:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 5d73e721-be9d-49c4-a35f-b3dd9eef661a
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: 1556fe25-1bdb-479b-ba72-ba543d2feb4e
+  created_time: 2021-08-14T04:03:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: true
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: a41066ae-c1a1-4ded-abb9-1d19e2f520ff
+  created_time: 2021-08-14T04:03:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: true
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: 183820dc-7302-43c4-8ced-46d463c17c44
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 8a48140b-3f7e-44c1-8763-e5b056e950c4
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: d5cda03b-9355-4ac4-a8ae-5732a7d65276
+  created_time: 2021-08-10T07:52:00.0000000Z
+  last_edited_time: 2021-08-10T07:52:00.0000000Z
+  has_children: false
+  type: unsupported
+  image:
+    caption: []
+    type: file
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3e3d099f-ecf5-4272-858b-50b991c73022/Brainstorming_-_08_18_%E5%8F%B0%E7%81%A3%E7%9A%84%E4%BA%A4%E9%80%9A%E6%98%AF%E4%BA%82%E8%B1%A1%E9%82%84%E6%98%AF%E4%BA%82%E4%B8%AD%E6%9C%89%E5%BA%8F_.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210815%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210815T174044Z&X-Amz-Expires=3600&X-Amz-Signature=ca496f8d252fcb5285a33828464be394efce0dac925004aff52da9f666326a87&X-Amz-SignedHeaders=host
+    file:
+      expiry_time: 2021-08-15T18:40:44.5600000Z
+  unsupported: {}
+- object: block
+  id: 574bd2a2-a2b5-41c0-9ad2-412edf527af7
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-10T07:49:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: d35b7968-b262-49e4-818b-1afe5d8d99e6
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-10T07:49:00.0000000Z
+  has_children: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: 84edc9a4-eb23-459a-8967-5d24512e1828
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-10T07:49:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+next_cursor: 
+has_more: false
+

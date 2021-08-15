@@ -1,0 +1,89 @@
+object: page
+id: 3863deba-8e35-4515-a0b7-2a77a0032fad
+created_time: 2021-07-20T12:15:00.0000000Z
+last_edited_time: 2021-08-15T12:54:00.0000000Z
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: 4cc93307-5fe5-4626-91c3-5ed284b7ca4d
+      name: Discord
+      color: purple
+  Sign up here:
+    id: ']hGQ'
+    type: rich_text
+    rich_text: []
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: bb83511e-859b-4434-84e1-9c3576cb23e1
+      name: Momo
+      color: gray
+    - id: ffce8273-3fe4-4d47-b2c0-aed06ff9b12c
+      name: Ives
+      color: yellow
+    - id: b65b8088-326c-4a5a-bb7b-40100d4408e7
+      name: Judy
+      color: brown
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://discord.gg/vE7QUXGDnS
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-08-20T20:30:00.0000000+08:00
+      end: 
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: How do you express love? - Father's Day 2021
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: How do you express love? - Father's Day 2021
+      href: 
+url: https://www.notion.so/How-do-you-express-love-Father-s-Day-2021-3863deba8e354515a0b72a77a0032fad
+
+object: list
+results:
+- object: block
+  id: d63a2f2d-839c-4a22-9f89-5a1be7c89c99
+  created_time: 2021-07-20T12:15:00.0000000Z
+  last_edited_time: 2021-07-20T12:15:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 50f2cd38-11cf-46bd-8e8e-9895c9800c94
+  created_time: 2021-07-20T12:15:00.0000000Z
+  last_edited_time: 2021-07-20T12:15:00.0000000Z
+  has_children: false
+  type: unsupported
+  unsupported: {}
+next_cursor: 
+has_more: false
+

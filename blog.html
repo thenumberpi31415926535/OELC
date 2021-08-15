@@ -17,54 +17,34 @@ title: Sessions
 <br />
 <h1>Upcoming sessions</h1> 
 <div>
-  {% assign sortedPosts = site.posts | sort: 'properties.Date.date.start' %}
 
   {% assign calendar = "Mon,Tue,Wed,Thu,Fri,Sat,Sun" | split: ','%}
-  {% assign oneDayInSeconds = 86400  %}
-  {% assign startDay = "today" | date: '%w' %}
-  {% assign timespan = startDay | minus: 1 | times: oneDayInSeconds %}
-  {% assign monday = "today" | date: '%s' | minus: timespan | date: '%F' %}
-  {% assign fourWeeksInSeconds = 4 | times: 7 | times: oneDayInSeconds %}
-  {% assign endDateInSeconds = monday | date: '%s' | plus: fourWeeksInSeconds %}
-  {% assign endDate = endDateInSeconds | date: '%F' %}
-
-  {% assign day = monday  %}
-  {% assign dayInSeconds = monday | date: '%s' %}
-
   <table>
+      <tr>
   {% for title in calendar %}
           <td>
               {{ title }}
           </td>
   {% endfor %}
-  {% for week in (1..4) %}
-      <tr>
-      {% for day in (1..7) %}
-          <td>
-              {% assign thisDate = dayInSeconds | date: '%Y-%m-%d' %}
-
-
-              <div class="calendarDate">
-                  {{ dayInSeconds | date: '%e'  }}
-              </div>
-              <div class="calendarTitle">
-                  {% for tag in site.tags %}
-                        {% if thisDate == tag[0] %}
-                            {% for post in tag[1] %}
-                                <a href="{{ post.url }}">   🌱  </a>
-                            {% endfor %}
-                        {% else %}
-                        {% endif %}
-
-                  {% endfor %}
-              </div>
-          {% assign dayInSeconds = dayInSeconds | plus: oneDayInSeconds %}
-          </td>
-      {% endfor %}
       </tr>
-  {% endfor %}
+      {% for week in site.data.TalkCalendar %}
+          <tr>
+          {% for day in week.Value %}
+            <td>
+                <div class="calendarDate">
+                    {{ day.title }}
+                </div>
+                <div class="calendarTitle">
+                    {% for post in day.posts %}
+                       {% assign url = '_posts/' | append: post %}
+                       <a href="{% link {{ url }} %}">   🌱  </a>
+                    {% endfor %}
+                </div>
+            </td>
+          {% endfor %}
+          </tr>
+      {% endfor %}
   </table>
-
 <br />
 <br />
 <br />
@@ -73,38 +53,26 @@ title: Sessions
 <h1 class="TitleSubText">Latest Sessions</h1> <small><a target="_blank" href="/feed.xml" >RSS</a></small>
 
 </div>
-<ul>
-  {% assign sortedPosts = site.posts | sort: 'properties.Date.date.start' | reverse %}
-  {% for post in sortedPosts %}
-    <li>
-        <div>
-            <h2 class="TitleSubText"><a href="{{ post.url }}">
-                    {% assign titles = post.properties.Name.title %}
-                    {% for t in titles %}
-                        {{ t.plain_text}} 
-                    {% endfor  %}
-                  </a></h2>
-        </div>
-        <div>
-            {{ post.properties.Date.date.start | date: '%A, %d %B %l:%M %p' }} 
-            <small>
-                [ {{ post.tags | join: ', ' }}]
-            </small>
-        </div>
-
-    </li>
-  {% endfor %}
-</ul>
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">
-            {% assign titles = post.properties.Name.title %}
-            {% for t in titles %}
-                {{ t.plain_text}} 
-            {% endfor  %}
-          </a></li>
-    {% endfor %}
-  </ul>
+{% for post in site.posts %}
+    <div>
+        {% for w in site.data.TalkCalendar %}
+            {% for d in w.Value %}
+                {% if post.indexDate == d.index %}
+                       🌱  
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
+        <h1 class="TitleSubText"><a href="{{ post.url }}"> {{ post.title }}
+            </a></h1>
+    </div>
+    <div>
+        {{ post.talktime | date: '%l%P on %A, %e %b %Y' }} 
+        <small>
+            {% for t in post.tags %}
+                [<a href="{% link tags.html %}#{{ t | url_encode }}">{{ t
+                    }}</a>]  
+            {% endfor %}
+        </small>
+    </div>
+    <br/>
 {% endfor %}

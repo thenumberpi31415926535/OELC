@@ -3,14 +3,9 @@ layout: default
 ---
 <article class="post">
 <div>
-  <h1 class="TitleSubText">
-     {% for t in page.properties.Name.title %}
-         {{ t.plain_text }}
-     {% endfor %}
-
-  </h1>
+    <h1 class="TitleSubText">{{ page.title }} </h1>
       {% for tag in page.tags %}
-          <small>[<a href="/tags.html">{{ tag }}]</a></small>
+      <small>[<a href="/tags.html#{{ tag | url_encode }}">{{ tag }}]</a></small>
       {% endfor%}
 </div>
   <small>
@@ -21,20 +16,20 @@ layout: default
       {% else %}
         {{ page.author}}
       {% endif %}
-      [ <a href="{{ page.url }}">source</a> ]
+      [ <a href="{{ page.notion_url }}">source</a> ]
   </small>
 <!-- about hosts -->
-{% if page.properties.Hosts.multi_select %}
+{% if page.hosts %}
 <h3>
 Hosts: 
 <ul>
-    {% for host in page.properties.Hosts.multi_select %}
-        {% assign author = site.authors | where: 'short_name', host.name | first %}
+    {% for host in page.hosts %}
+        {% assign author = site.authors | where: 'short_name', host | first %}
         {% if author %}
         <li><a href="{{ author.url }}">{{ author.name }}</a></li>
         {% else %}
         <li>
-            {{ host.name }}
+            {{ host }}
         </li>
         {% endif %}
     {% endfor %}
@@ -43,24 +38,21 @@ Hosts:
 </h3>
 {% endif %}
 <!-- about Time -->
-{% if page.properties.Date.date.start %}
+{% if page.talktime %}
 <h3>
-    Time: {{ page.properties.Date.date.start }}
+    Time: {{ page.talktime | date: '%l%P on %A, %e %b %Y' }}
 </h3>
 {% endif %}
-<!-- about sign up Link -->
-{% if page.properties.Sign_up_here.rich_text %}
+<!-- about Meeting link -->
+{% if page.meeting_link %}
 <div>
-    Sign up here:
-    {% for t in page.properties.Sign_up_here.rich_text %}
-        <a href="{{ t.href }}">{{ t.plain_text }} </a>
-    {% endfor %}
+Meeting link: <a href="{{ page.meeting_link }}">{{ page.meeting_link }}</a>
 </div>
 {% endif %}
-<!-- about meeting Link -->
-{% if page.properties.Meeting_Link.url %}
+<!-- about sign up -->
+{% if page.sign_up_here %}
 <div>
-    <a target="_blank" href="{{ page.properties.Meeting_Link.url }}">Meeting link</a>
+    Sign up: {{ page.sign_up_here }}
 </div>
 {% endif %}
 <br>
@@ -73,18 +65,13 @@ Hosts:
 </article>
 <div class="PageNavigation">
   {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}">&laquo;
-
-      {% for t in page.previous.properties.Name.title %}
-         {{ t.plain_text }}
-      {% endfor %}
+    <a class="prev" href="{{ page.previous.url }}">&laquo;
+        {{ page.previous.title }}
         </a>
   {% endif %}
   {% if page.next.url %}
     <a class="next" href="{{page.next.url}}">
-      {% for t in page.next.properties.Name.title %}
-         {{ t.plain_text }}
-      {% endfor %}
+        {{ page.next.title }}
         &raquo;</a>
   {% endif %}
 </div>
