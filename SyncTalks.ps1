@@ -6,7 +6,7 @@
     [bool]$GenerateDebugFiles = $true
 )
 
-Install-Module -Name powershell-yaml -Repository PSGallery -Scope CurrentUser
+Install-Module -Name powershell-yaml -Repository PSGallery -Scope CurrentUser -Force
 
 
 function Write-ToFile
