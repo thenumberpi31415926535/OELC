@@ -197,11 +197,17 @@ function ExtractDateTimeFromString
     (
         [psobject]$String
     )
-    $date = [DateTime]::MinValue
-    if([DateTime]::TryParseExact($String, 'MM/dd/yyyy H:mm:ss', [System.Globalization.CultureInfo]:: InvariantCulture, [System.Globalization.DateTimeStyles]::None, [ref]$date))
+    $date = [System.DateTimeOffset]::MinValue
+    if([System.DateTimeOffset]::TryParseExact($String, 'MM/dd/yyyy H:mm:ss', [System.Globalization.CultureInfo]:: InvariantCulture, [System.Globalization.DateTimeStyles]::None, [ref]$date))
     {
         return $date
     }
+<#
+if([DateTime]::TryParseExact($String, 'MM/dd/yyyy H:mm:ss', [System.Globalization.CultureInfo]:: InvariantCulture, [System.Globalization.DateTimeStyles]::None, [ref]$date))
+    {
+        return $date
+    }
+#>
 
     return $null
 }
