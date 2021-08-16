@@ -1,38 +1,10 @@
 ---
-object: page
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-archived: false
 language_level: No limit
-id: 98f5f974-8d5d-4c3e-b687-34b0410ddbb9
-hosts:
-- Duke
-- Jason
-- Momo
-meeting_link: https://discord.gg/pSAXZARt
-name: The night of the Athletes
-last_edited_time:
-  DateTime: 2021-08-14T17:05:00.0000000
-  UtcDateTime: 2021-08-14T09:05:00.0000000Z
-  LocalDateTime: 2021-08-14T09:05:00.0000000+00:00
-  Date: 2021-08-14T00:00:00.0000000
-  Day: 14
-  DayOfWeek: Saturday
-  DayOfYear: 226
-  Hour: 17
-  Minute: 5
-  Month: 8
-  Offset: 08:00:00
-  Ticks: 637645575000000000
-  UtcTicks: 637645287000000000
-  TimeOfDay: 17:05:00
-  Year: 2021
-tags:
-- Talk
-- 2021-08-18
-- Duke
-- Jason
-- Momo
-title: The night of the Athletes
+sign_up_here: 
+object: page
+parent_type: database_id
+notion_url: https://www.notion.so/The-night-of-the-Athletes-98f5f9748d5d4c3eb68734b0410ddbb9
+archived: false
 talktime:
   DateTime: 2021-08-18T20:30:00.0000000
   UtcDateTime: 2021-08-18T12:30:00.0000000Z
@@ -49,9 +21,6 @@ talktime:
   UtcTicks: 637648866000000000
   TimeOfDay: 20:30:00
   Year: 2021
-sign_up_here: 
-parent_type: database_id
-notion_url: https://www.notion.so/The-night-of-the-Athletes-98f5f9748d5d4c3eb68734b0410ddbb9
 indexDate: 2021-08-18
 created_time:
   DateTime: 2021-07-20T20:15:00.0000000
@@ -70,6 +39,37 @@ created_time:
   TimeOfDay: 20:15:00
   Year: 2021
 software: Discord
+tags:
+- Talk
+- 2021-08-18
+- Duke
+- Jason
+- Momo
+title: The night of the Athletes
+meeting_link: https://discord.gg/pSAXZARt
+name: The night of the Athletes
+hosts:
+- Duke
+- Jason
+- Momo
+last_edited_time:
+  DateTime: 2021-08-14T17:05:00.0000000
+  UtcDateTime: 2021-08-14T09:05:00.0000000Z
+  LocalDateTime: 2021-08-14T09:05:00.0000000+00:00
+  Date: 2021-08-14T00:00:00.0000000
+  Day: 14
+  DayOfWeek: Saturday
+  DayOfYear: 226
+  Hour: 17
+  Minute: 5
+  Month: 8
+  Offset: 08:00:00
+  Ticks: 637645575000000000
+  UtcTicks: 637645287000000000
+  TimeOfDay: 17:05:00
+  Year: 2021
+id: 98f5f974-8d5d-4c3e-b687-34b0410ddbb9
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 ---
 
 #                     Welcome to the night of Athletes!

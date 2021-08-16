@@ -1,36 +1,10 @@
 ---
-object: page
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-archived: false
 language_level: intermediate to advanced
-id: 04235091-ff91-41f1-b351-89ff40f1ae45
-hosts:
-- Bones
-- Pi
-meeting_link: https://discord.gg/vE7QUXGDnS
-name: 'Topic: How to be assertive at work? (feat. Francis)'
-last_edited_time:
-  DateTime: 2021-06-30T21:28:00.0000000
-  UtcDateTime: 2021-06-30T13:28:00.0000000Z
-  LocalDateTime: 2021-06-30T13:28:00.0000000+00:00
-  Date: 2021-06-30T00:00:00.0000000
-  Day: 30
-  DayOfWeek: Wednesday
-  DayOfYear: 181
-  Hour: 21
-  Minute: 28
-  Month: 6
-  Offset: 08:00:00
-  Ticks: 637606852800000000
-  UtcTicks: 637606564800000000
-  TimeOfDay: 21:28:00
-  Year: 2021
-tags:
-- Talk
-- 2021-06-30
-- Bones
-- Pi
-title: 'Topic: How to be assertive at work? (feat. Francis)'
+sign_up_here: 
+object: page
+parent_type: database_id
+notion_url: https://www.notion.so/Topic-How-to-be-assertive-at-work-feat-Francis-04235091ff9141f1b35189ff40f1ae45
+archived: false
 talktime:
   DateTime: 2021-06-30T21:00:00.0000000
   UtcDateTime: 2021-06-30T13:00:00.0000000Z
@@ -46,9 +20,6 @@ talktime:
   UtcTicks: 637606548000000000
   TimeOfDay: 21:00:00
   Year: 2021
-sign_up_here: 
-parent_type: database_id
-notion_url: https://www.notion.so/Topic-How-to-be-assertive-at-work-feat-Francis-04235091ff9141f1b35189ff40f1ae45
 indexDate: 2021-06-30
 created_time:
   DateTime: 2021-06-13T21:45:00.0000000
@@ -66,6 +37,35 @@ created_time:
   TimeOfDay: 21:45:00
   Year: 2021
 software: Discord
+tags:
+- Talk
+- 2021-06-30
+- Bones
+- Pi
+title: 'Topic: How to be assertive at work? (feat. Francis)'
+meeting_link: https://discord.gg/vE7QUXGDnS
+name: 'Topic: How to be assertive at work? (feat. Francis)'
+hosts:
+- Bones
+- Pi
+last_edited_time:
+  DateTime: 2021-06-30T21:28:00.0000000
+  UtcDateTime: 2021-06-30T13:28:00.0000000Z
+  LocalDateTime: 2021-06-30T13:28:00.0000000+00:00
+  Date: 2021-06-30T00:00:00.0000000
+  Day: 30
+  DayOfWeek: Wednesday
+  DayOfYear: 181
+  Hour: 21
+  Minute: 28
+  Month: 6
+  Offset: 08:00:00
+  Ticks: 637606852800000000
+  UtcTicks: 637606564800000000
+  TimeOfDay: 21:28:00
+  Year: 2021
+id: 04235091-ff91-41f1-b351-89ff40f1ae45
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 ---
 
 # Untitled  

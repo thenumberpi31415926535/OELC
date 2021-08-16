@@ -1,33 +1,9 @@
 ---
+sign_up_here: '[https://forms.gle/dJMV54b54TsMX1ib6](https://forms.gle/dJMV54b54TsMX1ib6)'
 object: page
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+parent_type: database_id
+notion_url: https://www.notion.so/Public-Speaking-by-Jason-feat-Michael-using-Zoom-77379c398be44610b2c53556843d631a
 archived: false
-software: Zoom
-id: 77379c39-8be4-4610-b2c5-3556843d631a
-hosts: Jason
-meeting_link: https://purdue-edu.zoom.us/j/94053692745
-name: Public Speaking by Jason (feat Michael) using Zoom
-last_edited_time:
-  DateTime: 2021-06-23T15:13:00.0000000
-  UtcDateTime: 2021-06-23T07:13:00.0000000Z
-  LocalDateTime: 2021-06-23T07:13:00.0000000+00:00
-  Date: 2021-06-23T00:00:00.0000000
-  Day: 23
-  DayOfWeek: Wednesday
-  DayOfYear: 174
-  Hour: 15
-  Minute: 13
-  Month: 6
-  Offset: 08:00:00
-  Ticks: 637600579800000000
-  UtcTicks: 637600291800000000
-  TimeOfDay: 15:13:00
-  Year: 2021
-tags:
-- Talk
-- 2021-06-18
-- Jason
-title: Public Speaking by Jason (feat Michael) using Zoom
 talktime:
   DateTime: 2021-06-18T21:00:00.0000000
   UtcDateTime: 2021-06-18T13:00:00.0000000Z
@@ -43,9 +19,6 @@ talktime:
   UtcTicks: 637596180000000000
   TimeOfDay: 21:00:00
   Year: 2021
-sign_up_here: '[https://forms.gle/dJMV54b54TsMX1ib6](https://forms.gle/dJMV54b54TsMX1ib6)'
-parent_type: database_id
-notion_url: https://www.notion.so/Public-Speaking-by-Jason-feat-Michael-using-Zoom-77379c398be44610b2c53556843d631a
 indexDate: 2021-06-18
 created_time:
   DateTime: 2021-06-14T01:22:00.0000000
@@ -63,6 +36,33 @@ created_time:
   UtcTicks: 637592017200000000
   TimeOfDay: 01:22:00
   Year: 2021
+software: Zoom
+tags:
+- Talk
+- 2021-06-18
+- Jason
+title: Public Speaking by Jason (feat Michael) using Zoom
+meeting_link: https://purdue-edu.zoom.us/j/94053692745
+name: Public Speaking by Jason (feat Michael) using Zoom
+hosts: Jason
+last_edited_time:
+  DateTime: 2021-06-23T15:13:00.0000000
+  UtcDateTime: 2021-06-23T07:13:00.0000000Z
+  LocalDateTime: 2021-06-23T07:13:00.0000000+00:00
+  Date: 2021-06-23T00:00:00.0000000
+  Day: 23
+  DayOfWeek: Wednesday
+  DayOfYear: 174
+  Hour: 15
+  Minute: 13
+  Month: 6
+  Offset: 08:00:00
+  Ticks: 637600579800000000
+  UtcTicks: 637600291800000000
+  TimeOfDay: 15:13:00
+  Year: 2021
+id: 77379c39-8be4-4610-b2c5-3556843d631a
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 ---
 
 ⚠️

@@ -1,36 +1,10 @@
 ---
-object: page
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-archived: false
 language_level: No limit
-id: c5c51f47-bb17-444c-a802-688e5847a127
-hosts:
-- Pi
-- Bones
-meeting_link: https://meet.google.com/fmt-ksxu-uuv
-name: Hosts hangout by Bones and Pi
-last_edited_time:
-  DateTime: 2021-06-16T23:54:00.0000000
-  UtcDateTime: 2021-06-16T15:54:00.0000000Z
-  LocalDateTime: 2021-06-16T15:54:00.0000000+00:00
-  Date: 2021-06-16T00:00:00.0000000
-  Day: 16
-  DayOfWeek: Wednesday
-  DayOfYear: 167
-  Hour: 23
-  Minute: 54
-  Month: 6
-  Offset: 08:00:00
-  Ticks: 637594844400000000
-  UtcTicks: 637594556400000000
-  TimeOfDay: 23:54:00
-  Year: 2021
-tags:
-- Talk
-- 2021-06-18
-- Pi
-- Bones
-title: Hosts hangout by Bones and Pi
+sign_up_here: 
+object: page
+parent_type: database_id
+notion_url: https://www.notion.so/Hosts-hangout-by-Bones-and-Pi-c5c51f47bb17444ca802688e5847a127
+archived: false
 talktime:
   DateTime: 2021-06-18T20:00:00.0000000
   UtcDateTime: 2021-06-18T12:00:00.0000000Z
@@ -46,9 +20,6 @@ talktime:
   UtcTicks: 637596144000000000
   TimeOfDay: 20:00:00
   Year: 2021
-sign_up_here: 
-parent_type: database_id
-notion_url: https://www.notion.so/Hosts-hangout-by-Bones-and-Pi-c5c51f47bb17444ca802688e5847a127
 indexDate: 2021-06-18
 created_time:
   DateTime: 2021-06-14T19:01:00.0000000
@@ -67,6 +38,35 @@ created_time:
   TimeOfDay: 19:01:00
   Year: 2021
 software: Google Meet
+tags:
+- Talk
+- 2021-06-18
+- Pi
+- Bones
+title: Hosts hangout by Bones and Pi
+meeting_link: https://meet.google.com/fmt-ksxu-uuv
+name: Hosts hangout by Bones and Pi
+hosts:
+- Pi
+- Bones
+last_edited_time:
+  DateTime: 2021-06-16T23:54:00.0000000
+  UtcDateTime: 2021-06-16T15:54:00.0000000Z
+  LocalDateTime: 2021-06-16T15:54:00.0000000+00:00
+  Date: 2021-06-16T00:00:00.0000000
+  Day: 16
+  DayOfWeek: Wednesday
+  DayOfYear: 167
+  Hour: 23
+  Minute: 54
+  Month: 6
+  Offset: 08:00:00
+  Ticks: 637594844400000000
+  UtcTicks: 637594556400000000
+  TimeOfDay: 23:54:00
+  Year: 2021
+id: c5c51f47-bb17-444c-a802-688e5847a127
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 ---
 
 A regular catch up between hosts.

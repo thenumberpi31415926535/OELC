@@ -1,33 +1,10 @@
 ---
-object: page
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-archived: false
 language_level: 'CEFR: A1-C2'
-id: 2b7c5896-512e-4fca-bafa-107abf8ec43d
-hosts: Jason
-meeting_link: ' https://meet.google.com/jax-dwfo-uez'
-name: Past tense by Jason
-last_edited_time:
-  DateTime: 2021-06-23T15:13:00.0000000
-  UtcDateTime: 2021-06-23T07:13:00.0000000Z
-  LocalDateTime: 2021-06-23T07:13:00.0000000+00:00
-  Date: 2021-06-23T00:00:00.0000000
-  Day: 23
-  DayOfWeek: Wednesday
-  DayOfYear: 174
-  Hour: 15
-  Minute: 13
-  Month: 6
-  Offset: 08:00:00
-  Ticks: 637600579800000000
-  UtcTicks: 637600291800000000
-  TimeOfDay: 15:13:00
-  Year: 2021
-tags:
-- Talk
-- 2021-06-17
-- Jason
-title: Past tense by Jason
+sign_up_here: '[https://forms.gle/96QR3o3v2abX4EMA8](https://forms.gle/96QR3o3v2abX4EMA8)'
+object: page
+parent_type: database_id
+notion_url: https://www.notion.so/Past-tense-by-Jason-2b7c5896512e4fcabafa107abf8ec43d
+archived: false
 talktime:
   DateTime: 2021-06-17T21:00:00.0000000
   UtcDateTime: 2021-06-17T13:00:00.0000000Z
@@ -43,9 +20,6 @@ talktime:
   UtcTicks: 637595316000000000
   TimeOfDay: 21:00:00
   Year: 2021
-sign_up_here: '[https://forms.gle/96QR3o3v2abX4EMA8](https://forms.gle/96QR3o3v2abX4EMA8)'
-parent_type: database_id
-notion_url: https://www.notion.so/Past-tense-by-Jason-2b7c5896512e4fcabafa107abf8ec43d
 indexDate: 2021-06-17
 created_time:
   DateTime: 2021-06-14T00:56:00.0000000
@@ -63,6 +37,32 @@ created_time:
   TimeOfDay: 00:56:00
   Year: 2021
 software: Google Meet
+tags:
+- Talk
+- 2021-06-17
+- Jason
+title: Past tense by Jason
+meeting_link: ' https://meet.google.com/jax-dwfo-uez'
+name: Past tense by Jason
+hosts: Jason
+last_edited_time:
+  DateTime: 2021-06-23T15:13:00.0000000
+  UtcDateTime: 2021-06-23T07:13:00.0000000Z
+  LocalDateTime: 2021-06-23T07:13:00.0000000+00:00
+  Date: 2021-06-23T00:00:00.0000000
+  Day: 23
+  DayOfWeek: Wednesday
+  DayOfYear: 174
+  Hour: 15
+  Minute: 13
+  Month: 6
+  Offset: 08:00:00
+  Ticks: 637600579800000000
+  UtcTicks: 637600291800000000
+  TimeOfDay: 15:13:00
+  Year: 2021
+id: 2b7c5896-512e-4fca-bafa-107abf8ec43d
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 ---
 
 ⚠️For successfully registering for the show, please fill in the Google Form below.
