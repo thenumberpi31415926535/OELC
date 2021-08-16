@@ -1,24 +1,64 @@
 ---
-object: page
-sign_up_here: '[https://forms.gle/dJMV54b54TsMX1ib6](https://forms.gle/dJMV54b54TsMX1ib6)'
-notion_url: https://www.notion.so/Public-Speaking-by-Jason-feat-Michael-using-Zoom-77379c398be44610b2c53556843d631a
-talktime: 2021-06-18T13:00:00.0000000
-archived: false
-last_edited_time: 2021-06-23T07:13:00.0000000
 software: Zoom
-indexDate: 2021-06-18
-hosts: Jason
+last_edited_time:
+  DateTime: 2021-06-23T07:13:00.0000000
+  UtcDateTime: 2021-06-23T07:13:00.0000000Z
+  LocalDateTime: 2021-06-23T07:13:00.0000000+00:00
+  Date: 2021-06-23T00:00:00.0000000
+  Day: 23
+  DayOfWeek: Wednesday
+  DayOfYear: 174
+  Hour: 7
+  Minute: 13
+  Month: 6
+  Ticks: 637600291800000000
+  UtcTicks: 637600291800000000
+  TimeOfDay: 07:13:00
+  Year: 2021
 title: Public Speaking by Jason (feat Michael) using Zoom
-meeting_link: https://purdue-edu.zoom.us/j/94053692745
-id: 77379c39-8be4-4610-b2c5-3556843d631a
-name: Public Speaking by Jason (feat Michael) using Zoom
+notion_url: https://www.notion.so/Public-Speaking-by-Jason-feat-Michael-using-Zoom-77379c398be44610b2c53556843d631a
+talktime:
+  DateTime: 2021-06-18T13:00:00.0000000
+  UtcDateTime: 2021-06-18T13:00:00.0000000Z
+  LocalDateTime: 2021-06-18T13:00:00.0000000+00:00
+  Date: 2021-06-18T00:00:00.0000000
+  Day: 18
+  DayOfWeek: Friday
+  DayOfYear: 169
+  Hour: 13
+  Month: 6
+  Ticks: 637596180000000000
+  UtcTicks: 637596180000000000
+  TimeOfDay: 13:00:00
+  Year: 2021
 tags:
 - Talk
 - 2021-06-18
 - Jason
+indexDate: 2021-06-18
+meeting_link: https://purdue-edu.zoom.us/j/94053692745
+hosts: Jason
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-created_time: 2021-06-13T17:22:00.0000000
+id: 77379c39-8be4-4610-b2c5-3556843d631a
+created_time:
+  DateTime: 2021-06-13T17:22:00.0000000
+  UtcDateTime: 2021-06-13T17:22:00.0000000Z
+  LocalDateTime: 2021-06-13T17:22:00.0000000+00:00
+  Date: 2021-06-13T00:00:00.0000000
+  Day: 13
+  DayOfYear: 164
+  Hour: 17
+  Minute: 22
+  Month: 6
+  Ticks: 637592017200000000
+  UtcTicks: 637592017200000000
+  TimeOfDay: 17:22:00
+  Year: 2021
+object: page
+archived: false
 parent_type: database_id
+sign_up_here: '[https://forms.gle/dJMV54b54TsMX1ib6](https://forms.gle/dJMV54b54TsMX1ib6)'
+name: Public Speaking by Jason (feat Michael) using Zoom
 ---
 
 ⚠️

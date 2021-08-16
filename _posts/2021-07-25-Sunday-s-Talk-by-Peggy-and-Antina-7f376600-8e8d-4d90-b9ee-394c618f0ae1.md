@@ -1,28 +1,69 @@
 ---
-object: page
-sign_up_here: Please comment below note in Line group
-notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-7f3766008e8d4d90b9ee394c618f0ae1
-talktime: 2021-07-25T01:30:00.0000000
-archived: false
-last_edited_time: 2021-07-22T09:27:00.0000000
 software: Google Meet
-indexDate: 2021-07-25
-hosts:
-- Peggy@李明霈
-- Antina@張庭瑄
-language_level: No limit
+last_edited_time:
+  DateTime: 2021-07-22T09:27:00.0000000
+  UtcDateTime: 2021-07-22T09:27:00.0000000Z
+  LocalDateTime: 2021-07-22T09:27:00.0000000+00:00
+  Date: 2021-07-22T00:00:00.0000000
+  Day: 22
+  DayOfWeek: Thursday
+  DayOfYear: 203
+  Hour: 9
+  Minute: 27
+  Month: 7
+  Ticks: 637625428200000000
+  UtcTicks: 637625428200000000
+  TimeOfDay: 09:27:00
+  Year: 2021
 title: Sunday's Talk by Peggy and Antina
-meeting_link: https://meet.google.com/uor-traf-jys
-id: 7f376600-8e8d-4d90-b9ee-394c618f0ae1
-name: Sunday's Talk by Peggy and Antina
+notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-7f3766008e8d4d90b9ee394c618f0ae1
+talktime:
+  DateTime: 2021-07-25T01:30:00.0000000
+  UtcDateTime: 2021-07-25T01:30:00.0000000Z
+  LocalDateTime: 2021-07-25T01:30:00.0000000+00:00
+  Date: 2021-07-25T00:00:00.0000000
+  Day: 25
+  DayOfYear: 206
+  Hour: 1
+  Minute: 30
+  Month: 7
+  Ticks: 637627734000000000
+  UtcTicks: 637627734000000000
+  TimeOfDay: 01:30:00
+  Year: 2021
 tags:
 - Talk
 - 2021-07-25
 - Peggy@李明霈
 - Antina@張庭瑄
+indexDate: 2021-07-25
+meeting_link: https://meet.google.com/uor-traf-jys
+language_level: No limit
+hosts:
+- Peggy@李明霈
+- Antina@張庭瑄
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-created_time: 2021-07-20T12:10:00.0000000
+id: 7f376600-8e8d-4d90-b9ee-394c618f0ae1
+created_time:
+  DateTime: 2021-07-20T12:10:00.0000000
+  UtcDateTime: 2021-07-20T12:10:00.0000000Z
+  LocalDateTime: 2021-07-20T12:10:00.0000000+00:00
+  Date: 2021-07-20T00:00:00.0000000
+  Day: 20
+  DayOfWeek: Tuesday
+  DayOfYear: 201
+  Hour: 12
+  Minute: 10
+  Month: 7
+  Ticks: 637623798000000000
+  UtcTicks: 637623798000000000
+  TimeOfDay: 12:10:00
+  Year: 2021
+object: page
+archived: false
 parent_type: database_id
+sign_up_here: Please comment below note in Line group
+name: Sunday's Talk by Peggy and Antina
 ---
 
 # Habits in life

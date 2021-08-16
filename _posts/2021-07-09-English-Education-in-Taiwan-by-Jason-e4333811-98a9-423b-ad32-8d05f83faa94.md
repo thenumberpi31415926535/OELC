@@ -1,25 +1,66 @@
 ---
-object: page
-sign_up_here: '[https://forms.gle/3mwUwcdZhbUktsAU9](https://forms.gle/3mwUwcdZhbUktsAU9)'
-notion_url: https://www.notion.so/English-Education-in-Taiwan-by-Jason-e433381198a9423bad328d05f83faa94
-talktime: 2021-07-09T13:00:00.0000000
-archived: false
-last_edited_time: 2021-07-13T14:38:00.0000000
 software: Skype
-indexDate: 2021-07-09
-hosts: Jason
-language_level: 'CEFR: B2-C2'
+last_edited_time:
+  DateTime: 2021-07-13T14:38:00.0000000
+  UtcDateTime: 2021-07-13T14:38:00.0000000Z
+  LocalDateTime: 2021-07-13T14:38:00.0000000+00:00
+  Date: 2021-07-13T00:00:00.0000000
+  Day: 13
+  DayOfWeek: Tuesday
+  DayOfYear: 194
+  Hour: 14
+  Minute: 38
+  Month: 7
+  Ticks: 637617838800000000
+  UtcTicks: 637617838800000000
+  TimeOfDay: 14:38:00
+  Year: 2021
 title: English Education in Taiwan by Jason
-meeting_link: https://join.skype.com/v06ubCvQXA0W
-id: e4333811-98a9-423b-ad32-8d05f83faa94
-name: English Education in Taiwan by Jason
+notion_url: https://www.notion.so/English-Education-in-Taiwan-by-Jason-e433381198a9423bad328d05f83faa94
+talktime:
+  DateTime: 2021-07-09T13:00:00.0000000
+  UtcDateTime: 2021-07-09T13:00:00.0000000Z
+  LocalDateTime: 2021-07-09T13:00:00.0000000+00:00
+  Date: 2021-07-09T00:00:00.0000000
+  Day: 9
+  DayOfWeek: Friday
+  DayOfYear: 190
+  Hour: 13
+  Month: 7
+  Ticks: 637614324000000000
+  UtcTicks: 637614324000000000
+  TimeOfDay: 13:00:00
+  Year: 2021
 tags:
 - Talk
 - 2021-07-09
 - Jason
+indexDate: 2021-07-09
+meeting_link: https://join.skype.com/v06ubCvQXA0W
+language_level: 'CEFR: B2-C2'
+hosts: Jason
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-created_time: 2021-07-02T13:30:00.0000000
+id: e4333811-98a9-423b-ad32-8d05f83faa94
+created_time:
+  DateTime: 2021-07-02T13:30:00.0000000
+  UtcDateTime: 2021-07-02T13:30:00.0000000Z
+  LocalDateTime: 2021-07-02T13:30:00.0000000+00:00
+  Date: 2021-07-02T00:00:00.0000000
+  Day: 2
+  DayOfWeek: Friday
+  DayOfYear: 183
+  Hour: 13
+  Minute: 30
+  Month: 7
+  Ticks: 637608294000000000
+  UtcTicks: 637608294000000000
+  TimeOfDay: 13:30:00
+  Year: 2021
+object: page
+archived: false
 parent_type: database_id
+sign_up_here: '[https://forms.gle/3mwUwcdZhbUktsAU9](https://forms.gle/3mwUwcdZhbUktsAU9)'
+name: English Education in Taiwan by Jason
 ---
 
 

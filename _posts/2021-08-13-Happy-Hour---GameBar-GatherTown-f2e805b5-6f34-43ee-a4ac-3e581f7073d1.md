@@ -1,28 +1,70 @@
 ---
-object: page
-sign_up_here: 
-notion_url: https://www.notion.so/Happy-Hour-GameBar-GatherTown-f2e805b56f3443eea4ac3e581f7073d1
-talktime: 2021-08-13T12:30:00.0000000
-archived: false
-last_edited_time: 2021-08-13T06:01:00.0000000
 software: Gather Town
-indexDate: 2021-08-13
-hosts:
-- Milo
-- Üya
-language_level: No limit
+last_edited_time:
+  DateTime: 2021-08-13T06:01:00.0000000
+  UtcDateTime: 2021-08-13T06:01:00.0000000Z
+  LocalDateTime: 2021-08-13T06:01:00.0000000+00:00
+  Date: 2021-08-13T00:00:00.0000000
+  Day: 13
+  DayOfWeek: Friday
+  DayOfYear: 225
+  Hour: 6
+  Minute: 1
+  Month: 8
+  Ticks: 637644312600000000
+  UtcTicks: 637644312600000000
+  TimeOfDay: 06:01:00
+  Year: 2021
 title: Happy Hour - GameBar@GatherTown
-meeting_link: https://meet.google.com/fcz-yhyp-szx
-id: f2e805b5-6f34-43ee-a4ac-3e581f7073d1
-name: Happy Hour - GameBar@GatherTown
+notion_url: https://www.notion.so/Happy-Hour-GameBar-GatherTown-f2e805b56f3443eea4ac3e581f7073d1
+talktime:
+  DateTime: 2021-08-13T12:30:00.0000000
+  UtcDateTime: 2021-08-13T12:30:00.0000000Z
+  LocalDateTime: 2021-08-13T12:30:00.0000000+00:00
+  Date: 2021-08-13T00:00:00.0000000
+  Day: 13
+  DayOfWeek: Friday
+  DayOfYear: 225
+  Hour: 12
+  Minute: 30
+  Month: 8
+  Ticks: 637644546000000000
+  UtcTicks: 637644546000000000
+  TimeOfDay: 12:30:00
+  Year: 2021
 tags:
 - Talk
 - 2021-08-13
 - Milo
 - Üya
+indexDate: 2021-08-13
+meeting_link: https://meet.google.com/fcz-yhyp-szx
+language_level: No limit
+hosts:
+- Milo
+- Üya
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-created_time: 2021-07-20T12:14:00.0000000
+id: f2e805b5-6f34-43ee-a4ac-3e581f7073d1
+created_time:
+  DateTime: 2021-07-20T12:14:00.0000000
+  UtcDateTime: 2021-07-20T12:14:00.0000000Z
+  LocalDateTime: 2021-07-20T12:14:00.0000000+00:00
+  Date: 2021-07-20T00:00:00.0000000
+  Day: 20
+  DayOfWeek: Tuesday
+  DayOfYear: 201
+  Hour: 12
+  Minute: 14
+  Month: 7
+  Ticks: 637623800400000000
+  UtcTicks: 637623800400000000
+  TimeOfDay: 12:14:00
+  Year: 2021
+object: page
+archived: false
 parent_type: database_id
+sign_up_here: 
+name: Happy Hour - GameBar@GatherTown
 ---
 
 !以下連結為Gather Town的操作參考說明，如果對此軟體不熟悉的朋友，歡迎參閱一下!!!

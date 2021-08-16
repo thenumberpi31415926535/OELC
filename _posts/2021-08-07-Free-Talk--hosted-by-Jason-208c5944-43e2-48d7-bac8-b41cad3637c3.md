@@ -1,25 +1,66 @@
 ---
-object: page
-sign_up_here: '[https://forms.gle/w2DAiXkKB79XDwbw6](https://forms.gle/w2DAiXkKB79XDwbw6)'
-notion_url: https://www.notion.so/Free-Talk-hosted-by-Jason-208c594443e248d7bac8b41cad3637c3
-talktime: 2021-08-07T12:00:00.0000000
-archived: false
-last_edited_time: 2021-07-31T23:05:00.0000000
 software: Discord
-indexDate: 2021-08-07
-hosts: Jason
-language_level: No limit
+last_edited_time:
+  DateTime: 2021-07-31T23:05:00.0000000
+  UtcDateTime: 2021-07-31T23:05:00.0000000Z
+  LocalDateTime: 2021-07-31T23:05:00.0000000+00:00
+  Date: 2021-07-31T00:00:00.0000000
+  Day: 31
+  DayOfWeek: Saturday
+  DayOfYear: 212
+  Hour: 23
+  Minute: 5
+  Month: 7
+  Ticks: 637633695000000000
+  UtcTicks: 637633695000000000
+  TimeOfDay: 23:05:00
+  Year: 2021
 title: Free Talk, hosted by Jason
-meeting_link: https://discord.gg/pUgB4XEQrH
-id: 208c5944-43e2-48d7-bac8-b41cad3637c3
-name: Free Talk, hosted by Jason
+notion_url: https://www.notion.so/Free-Talk-hosted-by-Jason-208c594443e248d7bac8b41cad3637c3
+talktime:
+  DateTime: 2021-08-07T12:00:00.0000000
+  UtcDateTime: 2021-08-07T12:00:00.0000000Z
+  LocalDateTime: 2021-08-07T12:00:00.0000000+00:00
+  Date: 2021-08-07T00:00:00.0000000
+  Day: 7
+  DayOfWeek: Saturday
+  DayOfYear: 219
+  Hour: 12
+  Month: 8
+  Ticks: 637639344000000000
+  UtcTicks: 637639344000000000
+  TimeOfDay: 12:00:00
+  Year: 2021
 tags:
 - Talk
 - 2021-08-07
 - Jason
+indexDate: 2021-08-07
+meeting_link: https://discord.gg/pUgB4XEQrH
+language_level: No limit
+hosts: Jason
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-created_time: 2021-07-31T12:59:00.0000000
+id: 208c5944-43e2-48d7-bac8-b41cad3637c3
+created_time:
+  DateTime: 2021-07-31T12:59:00.0000000
+  UtcDateTime: 2021-07-31T12:59:00.0000000Z
+  LocalDateTime: 2021-07-31T12:59:00.0000000+00:00
+  Date: 2021-07-31T00:00:00.0000000
+  Day: 31
+  DayOfWeek: Saturday
+  DayOfYear: 212
+  Hour: 12
+  Minute: 59
+  Month: 7
+  Ticks: 637633331400000000
+  UtcTicks: 637633331400000000
+  TimeOfDay: 12:59:00
+  Year: 2021
+object: page
+archived: false
 parent_type: database_id
+sign_up_here: '[https://forms.gle/w2DAiXkKB79XDwbw6](https://forms.gle/w2DAiXkKB79XDwbw6)'
+name: Free Talk, hosted by Jason
 ---
 
 

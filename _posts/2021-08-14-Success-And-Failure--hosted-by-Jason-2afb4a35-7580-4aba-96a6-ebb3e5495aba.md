@@ -1,25 +1,66 @@
 ---
-object: page
-sign_up_here: '[https://forms.gle/bFBEeUc2AeCVpGzb9](https://forms.gle/bFBEeUc2AeCVpGzb9)'
-notion_url: https://www.notion.so/Success-And-Failure-hosted-by-Jason-2afb4a3575804aba96a6ebb3e5495aba
-talktime: 2021-08-14T12:00:00.0000000
-archived: false
-last_edited_time: 2021-08-11T08:04:00.0000000
 software: Zoom
-indexDate: 2021-08-14
-hosts: Jason
-language_level: No limit
+last_edited_time:
+  DateTime: 2021-08-11T08:04:00.0000000
+  UtcDateTime: 2021-08-11T08:04:00.0000000Z
+  LocalDateTime: 2021-08-11T08:04:00.0000000+00:00
+  Date: 2021-08-11T00:00:00.0000000
+  Day: 11
+  DayOfWeek: Wednesday
+  DayOfYear: 223
+  Hour: 8
+  Minute: 4
+  Month: 8
+  Ticks: 637642658400000000
+  UtcTicks: 637642658400000000
+  TimeOfDay: 08:04:00
+  Year: 2021
 title: Success And Failure, hosted by Jason
-meeting_link: "Jason Chang is inviting you to a scheduled Zoom meeting.  Topic: Jason Chang's English Late Show Time: Aug 14, 2021 08:00 PM Taipei  Join Zoom Meeting https://us05web.zoom.us/j/4112744776?pwd=ajBGU3ljSmZUTW84MFhXajRuMmxMQT09  Meeting ID: 411 274 4776 Passcode: 6WWyCq"
-id: 2afb4a35-7580-4aba-96a6-ebb3e5495aba
-name: Success And Failure, hosted by Jason
+notion_url: https://www.notion.so/Success-And-Failure-hosted-by-Jason-2afb4a3575804aba96a6ebb3e5495aba
+talktime:
+  DateTime: 2021-08-14T12:00:00.0000000
+  UtcDateTime: 2021-08-14T12:00:00.0000000Z
+  LocalDateTime: 2021-08-14T12:00:00.0000000+00:00
+  Date: 2021-08-14T00:00:00.0000000
+  Day: 14
+  DayOfWeek: Saturday
+  DayOfYear: 226
+  Hour: 12
+  Month: 8
+  Ticks: 637645392000000000
+  UtcTicks: 637645392000000000
+  TimeOfDay: 12:00:00
+  Year: 2021
 tags:
 - Talk
 - 2021-08-14
 - Jason
+indexDate: 2021-08-14
+meeting_link: "Jason Chang is inviting you to a scheduled Zoom meeting.  Topic: Jason Chang's English Late Show Time: Aug 14, 2021 08:00 PM Taipei  Join Zoom Meeting https://us05web.zoom.us/j/4112744776?pwd=ajBGU3ljSmZUTW84MFhXajRuMmxMQT09  Meeting ID: 411 274 4776 Passcode: 6WWyCq"
+language_level: No limit
+hosts: Jason
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-created_time: 2021-08-10T03:53:00.0000000
+id: 2afb4a35-7580-4aba-96a6-ebb3e5495aba
+created_time:
+  DateTime: 2021-08-10T03:53:00.0000000
+  UtcDateTime: 2021-08-10T03:53:00.0000000Z
+  LocalDateTime: 2021-08-10T03:53:00.0000000+00:00
+  Date: 2021-08-10T00:00:00.0000000
+  Day: 10
+  DayOfWeek: Tuesday
+  DayOfYear: 222
+  Hour: 3
+  Minute: 53
+  Month: 8
+  Ticks: 637641643800000000
+  UtcTicks: 637641643800000000
+  TimeOfDay: 03:53:00
+  Year: 2021
+object: page
+archived: false
 parent_type: database_id
+sign_up_here: '[https://forms.gle/bFBEeUc2AeCVpGzb9](https://forms.gle/bFBEeUc2AeCVpGzb9)'
+name: Success And Failure, hosted by Jason
 ---
 
 
