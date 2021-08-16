@@ -1,23 +1,27 @@
 ---
-created_time:
-  DateTime: 2021-07-02T09:55:00.0000000
-  UtcDateTime: 2021-07-02T09:55:00.0000000Z
-  LocalDateTime: 2021-07-02T09:55:00.0000000+00:00
-  Date: 2021-07-02T00:00:00.0000000
-  Day: 2
-  DayOfWeek: Friday
-  DayOfYear: 183
-  Hour: 9
-  Minute: 55
-  Month: 7
-  Ticks: 637608165000000000
-  UtcTicks: 637608165000000000
-  TimeOfDay: 09:55:00
+software: Discord
+last_edited_time:
+  DateTime: 2021-08-15T17:26:00.0000000
+  UtcDateTime: 2021-08-15T09:26:00.0000000Z
+  LocalDateTime: 2021-08-15T09:26:00.0000000+00:00
+  Date: 2021-08-15T00:00:00.0000000
+  Day: 15
+  DayOfYear: 227
+  Hour: 17
+  Minute: 26
+  Month: 8
+  Offset: 08:00:00
+  Ticks: 637646451600000000
+  UtcTicks: 637646163600000000
+  TimeOfDay: 17:26:00
   Year: 2021
+language_level: No limit
+archived: false
+name: How does social media impact us? (feat. Momo & Tiffy)
 talktime:
   DateTime: 2021-07-21T12:30:00.0000000
-  UtcDateTime: 2021-07-21T12:30:00.0000000Z
-  LocalDateTime: 2021-07-21T12:30:00.0000000+00:00
+  UtcDateTime: 2021-07-21T04:30:00.0000000Z
+  LocalDateTime: 2021-07-21T04:30:00.0000000+00:00
   Date: 2021-07-21T00:00:00.0000000
   Day: 21
   DayOfWeek: Wednesday
@@ -25,16 +29,32 @@ talktime:
   Hour: 12
   Minute: 30
   Month: 7
+  Offset: 08:00:00
   Ticks: 637624674000000000
-  UtcTicks: 637624674000000000
+  UtcTicks: 637624386000000000
   TimeOfDay: 12:30:00
   Year: 2021
-archived: false
-sign_up_here:
-- "Join Pi's "
-- '[Discord ](https://discord.gg/vE7QUXGDnS)'
-- 'server and sign up in #annoncements!'
-id: 19ccc81a-1824-440c-a670-5132bb1831bf
+created_time:
+  DateTime: 2021-07-02T09:55:00.0000000
+  UtcDateTime: 2021-07-02T01:55:00.0000000Z
+  LocalDateTime: 2021-07-02T01:55:00.0000000+00:00
+  Date: 2021-07-02T00:00:00.0000000
+  Day: 2
+  DayOfWeek: Friday
+  DayOfYear: 183
+  Hour: 9
+  Minute: 55
+  Month: 7
+  Offset: 08:00:00
+  Ticks: 637608165000000000
+  UtcTicks: 637607877000000000
+  TimeOfDay: 09:55:00
+  Year: 2021
+hosts:
+- Bones
+- Pi
+- Momo
+- Tiffy
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 parent_type: database_id
 tags:
@@ -44,33 +64,16 @@ tags:
 - Pi
 - Momo
 - Tiffy
-hosts:
-- Bones
-- Pi
-- Momo
-- Tiffy
-software: Discord
-last_edited_time:
-  DateTime: 2021-08-15T17:26:00.0000000
-  UtcDateTime: 2021-08-15T17:26:00.0000000Z
-  LocalDateTime: 2021-08-15T17:26:00.0000000+00:00
-  Date: 2021-08-15T00:00:00.0000000
-  Day: 15
-  DayOfYear: 227
-  Hour: 17
-  Minute: 26
-  Month: 8
-  Ticks: 637646451600000000
-  UtcTicks: 637646451600000000
-  TimeOfDay: 17:26:00
-  Year: 2021
-notion_url: https://www.notion.so/How-does-social-media-impact-us-feat-Momo-Tiffy-19ccc81a1824440ca6705132bb1831bf
 title: How does social media impact us? (feat. Momo & Tiffy)
+notion_url: https://www.notion.so/How-does-social-media-impact-us-feat-Momo-Tiffy-19ccc81a1824440ca6705132bb1831bf
 object: page
-name: How does social media impact us? (feat. Momo & Tiffy)
-meeting_link: https://discord.gg/vE7QUXGDnS
-language_level: No limit
 indexDate: 2021-07-21
+meeting_link: https://discord.gg/vE7QUXGDnS
+sign_up_here:
+- "Join Pi's "
+- '[Discord ](https://discord.gg/vE7QUXGDnS)'
+- 'server and sign up in #annoncements!'
+id: 19ccc81a-1824-440c-a670-5132bb1831bf
 ---
 
 
