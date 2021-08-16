@@ -1,5 +1,11 @@
 ---
+object: page
 indexDate: 2021-07-16
+software: Discord
+language_level: No limit
+notion_url: https://www.notion.so/Host-group-catch-up-hosted-by-Bones-and-Pi-16ccf1f945664dbb8be572c06f816988
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+title: Host group catch up hosted by Bones and Pi!
 last_edited_time:
   DateTime: 2021-07-26T10:45:00.0000000
   UtcDateTime: 2021-07-26T10:45:00.0000000Z
@@ -15,21 +21,16 @@ last_edited_time:
   UtcTicks: 637628931000000000
   TimeOfDay: 10:45:00
   Year: 2021
-archived: false
-software: Discord
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-notion_url: https://www.notion.so/Host-group-catch-up-hosted-by-Bones-and-Pi-16ccf1f945664dbb8be572c06f816988
-title: Host group catch up hosted by Bones and Pi!
-language_level: No limit
-id: 16ccf1f9-4566-4dbb-8be5-72c06f816988
-meeting_link: https://discord.gg/vE7QUXGDnS
 parent_type: database_id
-object: page
-name: Host group catch up hosted by Bones and Pi!
-sign_up_here: '[https://discordapp.com/channels/830770544253206538/856580095464046620/863309109738078228](https://discordapp.com/channels/830770544253206538/856580095464046620/863309109738078228)'
 hosts:
 - Pi
 - Bones
+tags:
+- Talk
+- 2021-07-16
+- Pi
+- Bones
+archived: false
 created_time:
   DateTime: 2021-07-10T06:50:00.0000000
   UtcDateTime: 2021-07-10T06:50:00.0000000Z
@@ -45,11 +46,10 @@ created_time:
   UtcTicks: 637614966000000000
   TimeOfDay: 06:50:00
   Year: 2021
-tags:
-- Talk
-- 2021-07-16
-- Pi
-- Bones
+name: Host group catch up hosted by Bones and Pi!
+meeting_link: https://discord.gg/vE7QUXGDnS
+id: 16ccf1f9-4566-4dbb-8be5-72c06f816988
+sign_up_here: '[https://discordapp.com/channels/830770544253206538/856580095464046620/863309109738078228](https://discordapp.com/channels/830770544253206538/856580095464046620/863309109738078228)'
 talktime:
   DateTime: 2021-07-16T12:30:00.0000000
   UtcDateTime: 2021-07-16T12:30:00.0000000Z

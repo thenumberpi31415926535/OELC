@@ -1,6 +1,6 @@
 object: page
-id: e4333811-98a9-423b-ad32-8d05f83faa94
-created_time: 2021-07-02T13:30:00.0000000Z
+id: 1c2b875b-bb0b-47d4-b98b-5480abf724f1
+created_time: 2021-06-28T14:14:00.0000000Z
 last_edited_time: 2021-07-13T14:38:00.0000000Z
 parent:
   type: database_id
@@ -54,8 +54,8 @@ properties:
     id: '|tal'
     type: date
     date:
-      start: 2021-07-09T13:00:00.0000000+00:00
-      end: 2021-07-09T14:30:00.0000000+00:00
+      start: 2021-07-02T13:00:00.0000000+00:00
+      end: 2021-07-02T14:30:00.0000000+00:00
   Name:
     id: title
     type: title
@@ -73,37 +73,29 @@ properties:
         color: default
       plain_text: English Education in Taiwan by Jason
       href: 
-url: https://www.notion.so/English-Education-in-Taiwan-by-Jason-e433381198a9423bad328d05f83faa94
+url: https://www.notion.so/English-Education-in-Taiwan-by-Jason-1c2b875bbb0b47d4b98b5480abf724f1
 
 object: list
 results:
 - object: block
-  id: 8c47b677-2696-45c1-95a6-ab6f66961a66
-  created_time: 2021-07-02T13:33:00.0000000Z
-  last_edited_time: 2021-07-02T13:33:00.0000000Z
+  id: 2a84ec7e-83e1-48dc-be15-275b4d75b5c3
+  created_time: 2021-06-28T14:14:00.0000000Z
+  last_edited_time: 2021-06-28T14:14:00.0000000Z
   has_children: false
   type: unsupported
   unsupported: {}
 - object: block
-  id: ceb7fec1-e932-4335-a717-80f2ffcceb57
-  created_time: 2021-07-02T13:33:00.0000000Z
-  last_edited_time: 2021-07-02T13:33:00.0000000Z
+  id: 952fbdb2-a5f6-4863-a3aa-181bce7978af
+  created_time: 2021-06-28T14:14:00.0000000Z
+  last_edited_time: 2021-06-28T14:14:00.0000000Z
   has_children: false
   type: paragraph
   paragraph:
     text: []
 - object: block
-  id: 555bd150-d6f2-41a5-89ca-3d981c2a0ac2
-  created_time: 2021-07-02T13:33:00.0000000Z
-  last_edited_time: 2021-07-02T13:33:00.0000000Z
-  has_children: false
-  type: paragraph
-  paragraph:
-    text: []
-- object: block
-  id: fcc7ca46-b483-4a43-b690-040f7f7a0a31
-  created_time: 2021-07-02T13:33:00.0000000Z
-  last_edited_time: 2021-07-02T13:33:00.0000000Z
+  id: d875d5c1-f60d-46fa-ae9f-ac2716fef22e
+  created_time: 2021-06-28T14:14:00.0000000Z
+  last_edited_time: 2021-06-28T14:21:00.0000000Z
   has_children: false
   type: paragraph
   paragraph:
@@ -122,9 +114,9 @@ results:
       plain_text: "Brief Introduction: This time, we are still going to talk about some problems/issues of English learning in Taiwan, some problems that the students in Taiwan are facing now, etc.. If there're any ideas that you want to share with us, just sign up for the speaker seat, and we are looking forward to listening to your sharing. "
       href: 
 - object: block
-  id: 8090dae2-5c8a-43f0-974d-1b0567389f5a
-  created_time: 2021-07-02T13:33:00.0000000Z
-  last_edited_time: 2021-07-02T13:33:00.0000000Z
+  id: 1a3b3de6-6132-4658-93f2-ff662a7b587e
+  created_time: 2021-06-28T14:21:00.0000000Z
+  last_edited_time: 2021-06-28T14:21:00.0000000Z
   has_children: false
   type: paragraph
   paragraph:
@@ -143,17 +135,17 @@ results:
       plain_text: For sure, if you're afraid that you're English might not be good enough, or you feel unconfident in speaking English, etc., we also welcome for singing up for audience seat. By the way, we may accept some more speakers at the very beginning of the show, or during the show, so don't worry if you've signed up for audience but you then found you want to share something with us.
       href: 
 - object: block
-  id: f2109482-5906-4d3a-ab9b-15735e8ed0a9
-  created_time: 2021-07-02T13:33:00.0000000Z
-  last_edited_time: 2021-07-02T13:33:00.0000000Z
+  id: 21275bae-88fe-4a80-b1d5-1eac4364f294
+  created_time: 2021-06-28T14:15:00.0000000Z
+  last_edited_time: 2021-06-28T14:15:00.0000000Z
   has_children: false
   type: paragraph
   paragraph:
     text: []
 - object: block
-  id: b20fc8d5-f0d6-472a-b81b-2973aee2f58a
-  created_time: 2021-07-02T13:33:00.0000000Z
-  last_edited_time: 2021-07-02T13:33:00.0000000Z
+  id: 0781923e-c5de-409f-b3ce-65214a24ac7d
+  created_time: 2021-06-28T14:15:00.0000000Z
+  last_edited_time: 2021-06-28T14:22:00.0000000Z
   has_children: false
   type: paragraph
   paragraph:
@@ -172,9 +164,9 @@ results:
       plain_text: '!!!By the way, if you suddenly find you will have to miss our show but you’ve signed up for it already, please tell us before the show starts, cheers.'
       href: 
 - object: block
-  id: a4028ab3-6843-4b66-9528-1141d45c5c97
-  created_time: 2021-07-02T13:33:00.0000000Z
-  last_edited_time: 2021-07-02T13:33:00.0000000Z
+  id: 3fe6954a-bc7d-401e-bb2f-e68f65eaae63
+  created_time: 2021-06-28T14:15:00.0000000Z
+  last_edited_time: 2021-06-28T14:15:00.0000000Z
   has_children: false
   type: paragraph
   paragraph:
@@ -196,8 +188,8 @@ next_cursor:
 has_more: false
 
 object: page
-id: e4333811-98a9-423b-ad32-8d05f83faa94
-created_time: 2021-07-02T13:30:00.0000000Z
+id: 1c2b875b-bb0b-47d4-b98b-5480abf724f1
+created_time: 2021-06-28T14:14:00.0000000Z
 last_edited_time: 2021-07-13T14:38:00.0000000Z
 parent:
   type: database_id
@@ -251,8 +243,8 @@ properties:
     id: '|tal'
     type: date
     date:
-      start: 2021-07-09T13:00:00.0000000+00:00
-      end: 2021-07-09T14:30:00.0000000+00:00
+      start: 2021-07-02T13:00:00.0000000+00:00
+      end: 2021-07-02T14:30:00.0000000+00:00
   Name:
     id: title
     type: title
@@ -270,37 +262,29 @@ properties:
         color: default
       plain_text: English Education in Taiwan by Jason
       href: 
-url: https://www.notion.so/English-Education-in-Taiwan-by-Jason-e433381198a9423bad328d05f83faa94
+url: https://www.notion.so/English-Education-in-Taiwan-by-Jason-1c2b875bbb0b47d4b98b5480abf724f1
 
 object: list
 results:
 - object: block
-  id: 8c47b677-2696-45c1-95a6-ab6f66961a66
-  created_time: 2021-07-02T13:33:00.0000000Z
-  last_edited_time: 2021-07-02T13:33:00.0000000Z
+  id: 2a84ec7e-83e1-48dc-be15-275b4d75b5c3
+  created_time: 2021-06-28T14:14:00.0000000Z
+  last_edited_time: 2021-06-28T14:14:00.0000000Z
   has_children: false
   type: unsupported
   unsupported: {}
 - object: block
-  id: ceb7fec1-e932-4335-a717-80f2ffcceb57
-  created_time: 2021-07-02T13:33:00.0000000Z
-  last_edited_time: 2021-07-02T13:33:00.0000000Z
+  id: 952fbdb2-a5f6-4863-a3aa-181bce7978af
+  created_time: 2021-06-28T14:14:00.0000000Z
+  last_edited_time: 2021-06-28T14:14:00.0000000Z
   has_children: false
   type: paragraph
   paragraph:
     text: []
 - object: block
-  id: 555bd150-d6f2-41a5-89ca-3d981c2a0ac2
-  created_time: 2021-07-02T13:33:00.0000000Z
-  last_edited_time: 2021-07-02T13:33:00.0000000Z
-  has_children: false
-  type: paragraph
-  paragraph:
-    text: []
-- object: block
-  id: fcc7ca46-b483-4a43-b690-040f7f7a0a31
-  created_time: 2021-07-02T13:33:00.0000000Z
-  last_edited_time: 2021-07-02T13:33:00.0000000Z
+  id: d875d5c1-f60d-46fa-ae9f-ac2716fef22e
+  created_time: 2021-06-28T14:14:00.0000000Z
+  last_edited_time: 2021-06-28T14:21:00.0000000Z
   has_children: false
   type: paragraph
   paragraph:
@@ -319,9 +303,9 @@ results:
       plain_text: "Brief Introduction: This time, we are still going to talk about some problems/issues of English learning in Taiwan, some problems that the students in Taiwan are facing now, etc.. If there're any ideas that you want to share with us, just sign up for the speaker seat, and we are looking forward to listening to your sharing. "
       href: 
 - object: block
-  id: 8090dae2-5c8a-43f0-974d-1b0567389f5a
-  created_time: 2021-07-02T13:33:00.0000000Z
-  last_edited_time: 2021-07-02T13:33:00.0000000Z
+  id: 1a3b3de6-6132-4658-93f2-ff662a7b587e
+  created_time: 2021-06-28T14:21:00.0000000Z
+  last_edited_time: 2021-06-28T14:21:00.0000000Z
   has_children: false
   type: paragraph
   paragraph:
@@ -340,17 +324,17 @@ results:
       plain_text: For sure, if you're afraid that you're English might not be good enough, or you feel unconfident in speaking English, etc., we also welcome for singing up for audience seat. By the way, we may accept some more speakers at the very beginning of the show, or during the show, so don't worry if you've signed up for audience but you then found you want to share something with us.
       href: 
 - object: block
-  id: f2109482-5906-4d3a-ab9b-15735e8ed0a9
-  created_time: 2021-07-02T13:33:00.0000000Z
-  last_edited_time: 2021-07-02T13:33:00.0000000Z
+  id: 21275bae-88fe-4a80-b1d5-1eac4364f294
+  created_time: 2021-06-28T14:15:00.0000000Z
+  last_edited_time: 2021-06-28T14:15:00.0000000Z
   has_children: false
   type: paragraph
   paragraph:
     text: []
 - object: block
-  id: b20fc8d5-f0d6-472a-b81b-2973aee2f58a
-  created_time: 2021-07-02T13:33:00.0000000Z
-  last_edited_time: 2021-07-02T13:33:00.0000000Z
+  id: 0781923e-c5de-409f-b3ce-65214a24ac7d
+  created_time: 2021-06-28T14:15:00.0000000Z
+  last_edited_time: 2021-06-28T14:22:00.0000000Z
   has_children: false
   type: paragraph
   paragraph:
@@ -369,9 +353,198 @@ results:
       plain_text: '!!!By the way, if you suddenly find you will have to miss our show but you’ve signed up for it already, please tell us before the show starts, cheers.'
       href: 
 - object: block
-  id: a4028ab3-6843-4b66-9528-1141d45c5c97
-  created_time: 2021-07-02T13:33:00.0000000Z
-  last_edited_time: 2021-07-02T13:33:00.0000000Z
+  id: 3fe6954a-bc7d-401e-bb2f-e68f65eaae63
+  created_time: 2021-06-28T14:15:00.0000000Z
+  last_edited_time: 2021-06-28T14:15:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: If you have any questions, please contact the host. Or fill in the feedback form we provide at the end of each show. In either way, we’ll be able to know your demands, and contact you individually.
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: If you have any questions, please contact the host. Or fill in the feedback form we provide at the end of each show. In either way, we’ll be able to know your demands, and contact you individually.
+      href: 
+next_cursor: 
+has_more: false
+
+object: page
+id: 1c2b875b-bb0b-47d4-b98b-5480abf724f1
+created_time: 2021-06-28T14:14:00.0000000Z
+last_edited_time: 2021-07-13T14:38:00.0000000Z
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 0fc55af2-dedb-4135-84e1-da807c4900cb
+      name: 'CEFR: B2-C2'
+      color: green
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: ebcf81e4-1144-4c40-b74e-756d9c2b2506
+      name: Skype
+      color: green
+  Sign up here:
+    id: ']hGQ'
+    type: rich_text
+    rich_text:
+    - type: text
+      text:
+        content: https://forms.gle/3mwUwcdZhbUktsAU9
+        link:
+          url: https://forms.gle/3mwUwcdZhbUktsAU9
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: https://forms.gle/3mwUwcdZhbUktsAU9
+      href: https://forms.gle/3mwUwcdZhbUktsAU9
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: d447c3aa-2c07-4612-a18d-0b37adfe1911
+      name: Jason
+      color: red
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://join.skype.com/v06ubCvQXA0W
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-07-02T13:00:00.0000000+00:00
+      end: 2021-07-02T14:30:00.0000000+00:00
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: English Education in Taiwan by Jason
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: English Education in Taiwan by Jason
+      href: 
+url: https://www.notion.so/English-Education-in-Taiwan-by-Jason-1c2b875bbb0b47d4b98b5480abf724f1
+
+object: list
+results:
+- object: block
+  id: 2a84ec7e-83e1-48dc-be15-275b4d75b5c3
+  created_time: 2021-06-28T14:14:00.0000000Z
+  last_edited_time: 2021-06-28T14:14:00.0000000Z
+  has_children: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: 952fbdb2-a5f6-4863-a3aa-181bce7978af
+  created_time: 2021-06-28T14:14:00.0000000Z
+  last_edited_time: 2021-06-28T14:14:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: d875d5c1-f60d-46fa-ae9f-ac2716fef22e
+  created_time: 2021-06-28T14:14:00.0000000Z
+  last_edited_time: 2021-06-28T14:21:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: "Brief Introduction: This time, we are still going to talk about some problems/issues of English learning in Taiwan, some problems that the students in Taiwan are facing now, etc.. If there're any ideas that you want to share with us, just sign up for the speaker seat, and we are looking forward to listening to your sharing. "
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "Brief Introduction: This time, we are still going to talk about some problems/issues of English learning in Taiwan, some problems that the students in Taiwan are facing now, etc.. If there're any ideas that you want to share with us, just sign up for the speaker seat, and we are looking forward to listening to your sharing. "
+      href: 
+- object: block
+  id: 1a3b3de6-6132-4658-93f2-ff662a7b587e
+  created_time: 2021-06-28T14:21:00.0000000Z
+  last_edited_time: 2021-06-28T14:21:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: For sure, if you're afraid that you're English might not be good enough, or you feel unconfident in speaking English, etc., we also welcome for singing up for audience seat. By the way, we may accept some more speakers at the very beginning of the show, or during the show, so don't worry if you've signed up for audience but you then found you want to share something with us.
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: For sure, if you're afraid that you're English might not be good enough, or you feel unconfident in speaking English, etc., we also welcome for singing up for audience seat. By the way, we may accept some more speakers at the very beginning of the show, or during the show, so don't worry if you've signed up for audience but you then found you want to share something with us.
+      href: 
+- object: block
+  id: 21275bae-88fe-4a80-b1d5-1eac4364f294
+  created_time: 2021-06-28T14:15:00.0000000Z
+  last_edited_time: 2021-06-28T14:15:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 0781923e-c5de-409f-b3ce-65214a24ac7d
+  created_time: 2021-06-28T14:15:00.0000000Z
+  last_edited_time: 2021-06-28T14:22:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: '!!!By the way, if you suddenly find you will have to miss our show but you’ve signed up for it already, please tell us before the show starts, cheers.'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '!!!By the way, if you suddenly find you will have to miss our show but you’ve signed up for it already, please tell us before the show starts, cheers.'
+      href: 
+- object: block
+  id: 3fe6954a-bc7d-401e-bb2f-e68f65eaae63
+  created_time: 2021-06-28T14:15:00.0000000Z
+  last_edited_time: 2021-06-28T14:15:00.0000000Z
   has_children: false
   type: paragraph
   paragraph:

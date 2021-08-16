@@ -1,5 +1,11 @@
 ---
+object: page
 indexDate: 2021-08-14
+software: Zoom
+language_level: No limit
+notion_url: https://www.notion.so/Success-And-Failure-hosted-by-Jason-2afb4a3575804aba96a6ebb3e5495aba
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+title: Success And Failure, hosted by Jason
 last_edited_time:
   DateTime: 2021-08-11T08:04:00.0000000
   UtcDateTime: 2021-08-11T08:04:00.0000000Z
@@ -15,19 +21,13 @@ last_edited_time:
   UtcTicks: 637642658400000000
   TimeOfDay: 08:04:00
   Year: 2021
-archived: false
-software: Zoom
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-notion_url: https://www.notion.so/Success-And-Failure-hosted-by-Jason-2afb4a3575804aba96a6ebb3e5495aba
-title: Success And Failure, hosted by Jason
-language_level: No limit
-id: 2afb4a35-7580-4aba-96a6-ebb3e5495aba
-meeting_link: "Jason Chang is inviting you to a scheduled Zoom meeting.  Topic: Jason Chang's English Late Show Time: Aug 14, 2021 08:00 PM Taipei  Join Zoom Meeting https://us05web.zoom.us/j/4112744776?pwd=ajBGU3ljSmZUTW84MFhXajRuMmxMQT09  Meeting ID: 411 274 4776 Passcode: 6WWyCq"
 parent_type: database_id
-object: page
-name: Success And Failure, hosted by Jason
-sign_up_here: '[https://forms.gle/bFBEeUc2AeCVpGzb9](https://forms.gle/bFBEeUc2AeCVpGzb9)'
 hosts: Jason
+tags:
+- Talk
+- 2021-08-14
+- Jason
+archived: false
 created_time:
   DateTime: 2021-08-10T03:53:00.0000000
   UtcDateTime: 2021-08-10T03:53:00.0000000Z
@@ -43,10 +43,10 @@ created_time:
   UtcTicks: 637641643800000000
   TimeOfDay: 03:53:00
   Year: 2021
-tags:
-- Talk
-- 2021-08-14
-- Jason
+name: Success And Failure, hosted by Jason
+meeting_link: "Jason Chang is inviting you to a scheduled Zoom meeting.  Topic: Jason Chang's English Late Show Time: Aug 14, 2021 08:00 PM Taipei  Join Zoom Meeting https://us05web.zoom.us/j/4112744776?pwd=ajBGU3ljSmZUTW84MFhXajRuMmxMQT09  Meeting ID: 411 274 4776 Passcode: 6WWyCq"
+id: 2afb4a35-7580-4aba-96a6-ebb3e5495aba
+sign_up_here: '[https://forms.gle/bFBEeUc2AeCVpGzb9](https://forms.gle/bFBEeUc2AeCVpGzb9)'
 talktime:
   DateTime: 2021-08-14T12:00:00.0000000
   UtcDateTime: 2021-08-14T12:00:00.0000000Z

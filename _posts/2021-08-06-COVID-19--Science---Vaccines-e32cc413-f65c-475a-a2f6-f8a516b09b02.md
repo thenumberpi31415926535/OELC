@@ -1,5 +1,11 @@
 ---
+object: page
 indexDate: 2021-08-06
+software: Discord
+language_level: No limit
+notion_url: https://www.notion.so/COVID-19-Science-Vaccines-e32cc413f65c475aa2f6f8a516b09b02
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+title: 'COVID-19: Science & Vaccines'
 last_edited_time:
   DateTime: 2021-08-03T11:20:00.0000000
   UtcDateTime: 2021-08-03T11:20:00.0000000Z
@@ -15,25 +21,18 @@ last_edited_time:
   UtcTicks: 637635864000000000
   TimeOfDay: 11:20:00
   Year: 2021
-archived: false
-software: Discord
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-notion_url: https://www.notion.so/COVID-19-Science-Vaccines-e32cc413f65c475aa2f6f8a516b09b02
-title: 'COVID-19: Science & Vaccines'
-language_level: No limit
-id: e32cc413-f65c-475a-a2f6-f8a516b09b02
-meeting_link: https://discord.com/invite/vE7QUXGDnS
 parent_type: database_id
-object: page
-name: 'COVID-19: Science & Vaccines'
-sign_up_here:
-- "Join Pi's "
-- '[Discord](https://discord.com/invite/vE7QUXGDnS)'
-- ' server '
 hosts:
 - Judy
 - Ives
 - Momo
+tags:
+- Talk
+- 2021-08-06
+- Judy
+- Ives
+- Momo
+archived: false
 created_time:
   DateTime: 2021-07-20T12:14:00.0000000
   UtcDateTime: 2021-07-20T12:14:00.0000000Z
@@ -49,12 +48,13 @@ created_time:
   UtcTicks: 637623800400000000
   TimeOfDay: 12:14:00
   Year: 2021
-tags:
-- Talk
-- 2021-08-06
-- Judy
-- Ives
-- Momo
+name: 'COVID-19: Science & Vaccines'
+meeting_link: https://discord.com/invite/vE7QUXGDnS
+id: e32cc413-f65c-475a-a2f6-f8a516b09b02
+sign_up_here:
+- "Join Pi's "
+- '[Discord](https://discord.com/invite/vE7QUXGDnS)'
+- ' server '
 talktime:
   DateTime: 2021-08-06T12:30:00.0000000
   UtcDateTime: 2021-08-06T12:30:00.0000000Z

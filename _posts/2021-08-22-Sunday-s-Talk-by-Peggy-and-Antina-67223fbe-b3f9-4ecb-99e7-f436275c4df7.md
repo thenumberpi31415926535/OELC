@@ -1,5 +1,11 @@
 ---
+object: page
 indexDate: 2021-08-22
+software: Google Meet
+language_level: No limit
+notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-67223fbeb3f94ecb99e7f436275c4df7
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+title: Sunday's Talk by Peggy and Antina
 last_edited_time: &o0
   DateTime: 2021-08-02T04:27:00.0000000
   UtcDateTime: 2021-08-02T04:27:00.0000000Z
@@ -15,27 +21,21 @@ last_edited_time: &o0
   UtcTicks: 637634752200000000
   TimeOfDay: 04:27:00
   Year: 2021
-archived: false
-software: Google Meet
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-67223fbeb3f94ecb99e7f436275c4df7
-title: Sunday's Talk by Peggy and Antina
-language_level: No limit
-id: 67223fbe-b3f9-4ecb-99e7-f436275c4df7
-meeting_link: ""
 parent_type: database_id
-object: page
-name: Sunday's Talk by Peggy and Antina
-sign_up_here: Please comment below note in Line group
 hosts:
 - Peggy@李明霈
 - Antina@張庭瑄
-created_time: *o0
 tags:
 - Talk
 - 2021-08-22
 - Peggy@李明霈
 - Antina@張庭瑄
+archived: false
+created_time: *o0
+name: Sunday's Talk by Peggy and Antina
+meeting_link: ""
+id: 67223fbe-b3f9-4ecb-99e7-f436275c4df7
+sign_up_here: Please comment below note in Line group
 talktime:
   DateTime: 2021-08-22T01:30:00.0000000
   UtcDateTime: 2021-08-22T01:30:00.0000000Z

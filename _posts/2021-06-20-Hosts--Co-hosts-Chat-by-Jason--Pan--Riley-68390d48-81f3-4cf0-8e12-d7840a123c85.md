@@ -1,5 +1,11 @@
 ---
+object: page
 indexDate: 2021-06-20
+software: BigBlueBotton
+language_level: No limit
+notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-by-Jason-Pan-Riley-68390d4881f34cf08e12d7840a123c85
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+title: Hosts/ Co-hosts Chat by Jason, Pan, Riley
 last_edited_time:
   DateTime: 2021-06-20T11:48:00.0000000
   UtcDateTime: 2021-06-20T11:48:00.0000000Z
@@ -14,22 +20,18 @@ last_edited_time:
   UtcTicks: 637597864800000000
   TimeOfDay: 11:48:00
   Year: 2021
-archived: false
-software: BigBlueBotton
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-by-Jason-Pan-Riley-68390d4881f34cf08e12d7840a123c85
-title: Hosts/ Co-hosts Chat by Jason, Pan, Riley
-language_level: No limit
-id: 68390d48-81f3-4cf0-8e12-d7840a123c85
-meeting_link: https://demo.bigbluebutton.org/gl/jas-s1x-wi9-qzv
 parent_type: database_id
-object: page
-name: Hosts/ Co-hosts Chat by Jason, Pan, Riley
-sign_up_here: 
 hosts:
 - Jason
 - Teacher Pan
 - Riley
+tags:
+- Talk
+- 2021-06-20
+- Jason
+- Teacher Pan
+- Riley
+archived: false
 created_time:
   DateTime: 2021-06-14T11:10:00.0000000
   UtcDateTime: 2021-06-14T11:10:00.0000000Z
@@ -45,12 +47,10 @@ created_time:
   UtcTicks: 637592658000000000
   TimeOfDay: 11:10:00
   Year: 2021
-tags:
-- Talk
-- 2021-06-20
-- Jason
-- Teacher Pan
-- Riley
+name: Hosts/ Co-hosts Chat by Jason, Pan, Riley
+meeting_link: https://demo.bigbluebutton.org/gl/jas-s1x-wi9-qzv
+id: 68390d48-81f3-4cf0-8e12-d7840a123c85
+sign_up_here: 
 talktime:
   DateTime: 2021-06-20T12:00:00.0000000
   UtcDateTime: 2021-06-20T12:00:00.0000000Z

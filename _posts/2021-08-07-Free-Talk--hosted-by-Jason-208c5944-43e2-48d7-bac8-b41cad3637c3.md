@@ -1,5 +1,11 @@
 ---
+object: page
 indexDate: 2021-08-07
+software: Discord
+language_level: No limit
+notion_url: https://www.notion.so/Free-Talk-hosted-by-Jason-208c594443e248d7bac8b41cad3637c3
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+title: Free Talk, hosted by Jason
 last_edited_time:
   DateTime: 2021-07-31T23:05:00.0000000
   UtcDateTime: 2021-07-31T23:05:00.0000000Z
@@ -15,19 +21,13 @@ last_edited_time:
   UtcTicks: 637633695000000000
   TimeOfDay: 23:05:00
   Year: 2021
-archived: false
-software: Discord
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-notion_url: https://www.notion.so/Free-Talk-hosted-by-Jason-208c594443e248d7bac8b41cad3637c3
-title: Free Talk, hosted by Jason
-language_level: No limit
-id: 208c5944-43e2-48d7-bac8-b41cad3637c3
-meeting_link: https://discord.gg/pUgB4XEQrH
 parent_type: database_id
-object: page
-name: Free Talk, hosted by Jason
-sign_up_here: '[https://forms.gle/w2DAiXkKB79XDwbw6](https://forms.gle/w2DAiXkKB79XDwbw6)'
 hosts: Jason
+tags:
+- Talk
+- 2021-08-07
+- Jason
+archived: false
 created_time:
   DateTime: 2021-07-31T12:59:00.0000000
   UtcDateTime: 2021-07-31T12:59:00.0000000Z
@@ -43,10 +43,10 @@ created_time:
   UtcTicks: 637633331400000000
   TimeOfDay: 12:59:00
   Year: 2021
-tags:
-- Talk
-- 2021-08-07
-- Jason
+name: Free Talk, hosted by Jason
+meeting_link: https://discord.gg/pUgB4XEQrH
+id: 208c5944-43e2-48d7-bac8-b41cad3637c3
+sign_up_here: '[https://forms.gle/w2DAiXkKB79XDwbw6](https://forms.gle/w2DAiXkKB79XDwbw6)'
 talktime:
   DateTime: 2021-08-07T12:00:00.0000000
   UtcDateTime: 2021-08-07T12:00:00.0000000Z

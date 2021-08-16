@@ -1,5 +1,11 @@
 ---
+object: page
 indexDate: 2021-06-18
+software: Google Meet
+language_level: No limit
+notion_url: https://www.notion.so/Hosts-hangout-by-Bones-and-Pi-c5c51f47bb17444ca802688e5847a127
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+title: Hosts hangout by Bones and Pi
 last_edited_time:
   DateTime: 2021-06-16T15:54:00.0000000
   UtcDateTime: 2021-06-16T15:54:00.0000000Z
@@ -15,21 +21,16 @@ last_edited_time:
   UtcTicks: 637594556400000000
   TimeOfDay: 15:54:00
   Year: 2021
-archived: false
-software: Google Meet
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-notion_url: https://www.notion.so/Hosts-hangout-by-Bones-and-Pi-c5c51f47bb17444ca802688e5847a127
-title: Hosts hangout by Bones and Pi
-language_level: No limit
-id: c5c51f47-bb17-444c-a802-688e5847a127
-meeting_link: https://meet.google.com/fmt-ksxu-uuv
 parent_type: database_id
-object: page
-name: Hosts hangout by Bones and Pi
-sign_up_here: 
 hosts:
 - Pi
 - Bones
+tags:
+- Talk
+- 2021-06-18
+- Pi
+- Bones
+archived: false
 created_time:
   DateTime: 2021-06-14T11:01:00.0000000
   UtcDateTime: 2021-06-14T11:01:00.0000000Z
@@ -45,11 +46,10 @@ created_time:
   UtcTicks: 637592652600000000
   TimeOfDay: 11:01:00
   Year: 2021
-tags:
-- Talk
-- 2021-06-18
-- Pi
-- Bones
+name: Hosts hangout by Bones and Pi
+meeting_link: https://meet.google.com/fmt-ksxu-uuv
+id: c5c51f47-bb17-444c-a802-688e5847a127
+sign_up_here: 
 talktime:
   DateTime: 2021-06-18T12:00:00.0000000
   UtcDateTime: 2021-06-18T12:00:00.0000000Z
