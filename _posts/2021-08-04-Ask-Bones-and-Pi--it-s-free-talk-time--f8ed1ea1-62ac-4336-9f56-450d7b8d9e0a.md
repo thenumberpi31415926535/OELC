@@ -1,5 +1,24 @@
 ---
+indexDate: 2021-08-04
+sign_up_here:
+- "Join Pi's "
+- '[Discord ](https://discord.gg/vE7QUXGDnS)'
+- 'server and sign up in #annoncements!'
+parent_type: database_id
+meeting_link: https://discord.gg/vE7QUXGDnS
+archived: false
+language_level: No limit
+tags:
+- Talk
+- 2021-08-04
+- Bones
+- Pi
+id: f8ed1ea1-62ac-4336-9f56-450d7b8d9e0a
+hosts:
+- Bones
+- Pi
 name: Ask Bones and Pi, it's free talk time!
+object: page
 created_time:
   DateTime: 2021-08-02T12:38:00.0000000
   UtcDateTime: 2021-08-02T04:38:00.0000000Z
@@ -16,39 +35,7 @@ created_time:
   UtcTicks: 637634758800000000
   TimeOfDay: 12:38:00
   Year: 2021
-notion_url: https://www.notion.so/Ask-Bones-and-Pi-it-s-free-talk-time-f8ed1ea162ac43369f56450d7b8d9e0a
-archived: false
-parent_type: database_id
-talktime:
-  DateTime: 2021-08-04T21:00:00.0000000
-  UtcDateTime: 2021-08-04T13:00:00.0000000Z
-  LocalDateTime: 2021-08-04T13:00:00.0000000+00:00
-  Date: 2021-08-04T00:00:00.0000000
-  Day: 4
-  DayOfWeek: Wednesday
-  DayOfYear: 216
-  Hour: 21
-  Month: 8
-  Offset: 08:00:00
-  Ticks: 637637076000000000
-  UtcTicks: 637636788000000000
-  TimeOfDay: 21:00:00
-  Year: 2021
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-meeting_link: https://discord.gg/vE7QUXGDnS
-tags:
-- Talk
-- 2021-08-04
-- Bones
-- Pi
-id: f8ed1ea1-62ac-4336-9f56-450d7b8d9e0a
-sign_up_here:
-- "Join Pi's "
-- '[Discord ](https://discord.gg/vE7QUXGDnS)'
-- 'server and sign up in #annoncements!'
-title: Ask Bones and Pi, it's free talk time!
-object: page
-indexDate: 2021-08-04
 software: Discord
 last_edited_time:
   DateTime: 2021-08-16T01:26:00.0000000
@@ -66,10 +53,23 @@ last_edited_time:
   UtcTicks: 637646451600000000
   TimeOfDay: 01:26:00
   Year: 2021
-language_level: No limit
-hosts:
-- Bones
-- Pi
+notion_url: https://www.notion.so/Ask-Bones-and-Pi-it-s-free-talk-time-f8ed1ea162ac43369f56450d7b8d9e0a
+talktime:
+  DateTime: 2021-08-04T21:00:00.0000000
+  UtcDateTime: 2021-08-04T13:00:00.0000000Z
+  LocalDateTime: 2021-08-04T13:00:00.0000000+00:00
+  Date: 2021-08-04T00:00:00.0000000
+  Day: 4
+  DayOfWeek: Wednesday
+  DayOfYear: 216
+  Hour: 21
+  Month: 8
+  Offset: 08:00:00
+  Ticks: 637637076000000000
+  UtcTicks: 637636788000000000
+  TimeOfDay: 21:00:00
+  Year: 2021
+title: Ask Bones and Pi, it's free talk time!
 ---
 
 Bring a drink or two, make yourself comfortable, come and hang out with us!

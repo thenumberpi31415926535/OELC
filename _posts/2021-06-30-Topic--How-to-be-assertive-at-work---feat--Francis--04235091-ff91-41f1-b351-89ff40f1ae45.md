@@ -1,5 +1,21 @@
 ---
+indexDate: 2021-06-30
+sign_up_here: 
+parent_type: database_id
+meeting_link: https://discord.gg/vE7QUXGDnS
+archived: false
+language_level: intermediate to advanced
+tags:
+- Talk
+- 2021-06-30
+- Bones
+- Pi
+id: 04235091-ff91-41f1-b351-89ff40f1ae45
+hosts:
+- Bones
+- Pi
 name: 'Topic: How to be assertive at work? (feat. Francis)'
+object: page
 created_time:
   DateTime: 2021-06-13T21:45:00.0000000
   UtcDateTime: 2021-06-13T13:45:00.0000000Z
@@ -15,36 +31,7 @@ created_time:
   UtcTicks: 637591887000000000
   TimeOfDay: 21:45:00
   Year: 2021
-notion_url: https://www.notion.so/Topic-How-to-be-assertive-at-work-feat-Francis-04235091ff9141f1b35189ff40f1ae45
-archived: false
-parent_type: database_id
-talktime:
-  DateTime: 2021-06-30T21:00:00.0000000
-  UtcDateTime: 2021-06-30T13:00:00.0000000Z
-  LocalDateTime: 2021-06-30T13:00:00.0000000+00:00
-  Date: 2021-06-30T00:00:00.0000000
-  Day: 30
-  DayOfWeek: Wednesday
-  DayOfYear: 181
-  Hour: 21
-  Month: 6
-  Offset: 08:00:00
-  Ticks: 637606836000000000
-  UtcTicks: 637606548000000000
-  TimeOfDay: 21:00:00
-  Year: 2021
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-meeting_link: https://discord.gg/vE7QUXGDnS
-tags:
-- Talk
-- 2021-06-30
-- Bones
-- Pi
-id: 04235091-ff91-41f1-b351-89ff40f1ae45
-sign_up_here: 
-title: 'Topic: How to be assertive at work? (feat. Francis)'
-object: page
-indexDate: 2021-06-30
 software: Discord
 last_edited_time:
   DateTime: 2021-06-30T21:28:00.0000000
@@ -62,10 +49,23 @@ last_edited_time:
   UtcTicks: 637606564800000000
   TimeOfDay: 21:28:00
   Year: 2021
-language_level: intermediate to advanced
-hosts:
-- Bones
-- Pi
+notion_url: https://www.notion.so/Topic-How-to-be-assertive-at-work-feat-Francis-04235091ff9141f1b35189ff40f1ae45
+talktime:
+  DateTime: 2021-06-30T21:00:00.0000000
+  UtcDateTime: 2021-06-30T13:00:00.0000000Z
+  LocalDateTime: 2021-06-30T13:00:00.0000000+00:00
+  Date: 2021-06-30T00:00:00.0000000
+  Day: 30
+  DayOfWeek: Wednesday
+  DayOfYear: 181
+  Hour: 21
+  Month: 6
+  Offset: 08:00:00
+  Ticks: 637606836000000000
+  UtcTicks: 637606548000000000
+  TimeOfDay: 21:00:00
+  Year: 2021
+title: 'Topic: How to be assertive at work? (feat. Francis)'
 ---
 
 # Untitled  

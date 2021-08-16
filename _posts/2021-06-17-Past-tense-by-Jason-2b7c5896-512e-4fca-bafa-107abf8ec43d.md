@@ -1,5 +1,18 @@
 ---
+indexDate: 2021-06-17
+sign_up_here: '[https://forms.gle/96QR3o3v2abX4EMA8](https://forms.gle/96QR3o3v2abX4EMA8)'
+parent_type: database_id
+meeting_link: ' https://meet.google.com/jax-dwfo-uez'
+archived: false
+language_level: 'CEFR: A1-C2'
+tags:
+- Talk
+- 2021-06-17
+- Jason
+id: 2b7c5896-512e-4fca-bafa-107abf8ec43d
+hosts: Jason
 name: Past tense by Jason
+object: page
 created_time:
   DateTime: 2021-06-14T00:56:00.0000000
   UtcDateTime: 2021-06-13T16:56:00.0000000Z
@@ -15,35 +28,7 @@ created_time:
   UtcTicks: 637592001600000000
   TimeOfDay: 00:56:00
   Year: 2021
-notion_url: https://www.notion.so/Past-tense-by-Jason-2b7c5896512e4fcabafa107abf8ec43d
-archived: false
-parent_type: database_id
-talktime:
-  DateTime: 2021-06-17T21:00:00.0000000
-  UtcDateTime: 2021-06-17T13:00:00.0000000Z
-  LocalDateTime: 2021-06-17T13:00:00.0000000+00:00
-  Date: 2021-06-17T00:00:00.0000000
-  Day: 17
-  DayOfWeek: Thursday
-  DayOfYear: 168
-  Hour: 21
-  Month: 6
-  Offset: 08:00:00
-  Ticks: 637595604000000000
-  UtcTicks: 637595316000000000
-  TimeOfDay: 21:00:00
-  Year: 2021
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-meeting_link: ' https://meet.google.com/jax-dwfo-uez'
-tags:
-- Talk
-- 2021-06-17
-- Jason
-id: 2b7c5896-512e-4fca-bafa-107abf8ec43d
-sign_up_here: '[https://forms.gle/96QR3o3v2abX4EMA8](https://forms.gle/96QR3o3v2abX4EMA8)'
-title: Past tense by Jason
-object: page
-indexDate: 2021-06-17
 software: Google Meet
 last_edited_time:
   DateTime: 2021-06-23T15:13:00.0000000
@@ -61,8 +46,23 @@ last_edited_time:
   UtcTicks: 637600291800000000
   TimeOfDay: 15:13:00
   Year: 2021
-language_level: 'CEFR: A1-C2'
-hosts: Jason
+notion_url: https://www.notion.so/Past-tense-by-Jason-2b7c5896512e4fcabafa107abf8ec43d
+talktime:
+  DateTime: 2021-06-17T21:00:00.0000000
+  UtcDateTime: 2021-06-17T13:00:00.0000000Z
+  LocalDateTime: 2021-06-17T13:00:00.0000000+00:00
+  Date: 2021-06-17T00:00:00.0000000
+  Day: 17
+  DayOfWeek: Thursday
+  DayOfYear: 168
+  Hour: 21
+  Month: 6
+  Offset: 08:00:00
+  Ticks: 637595604000000000
+  UtcTicks: 637595316000000000
+  TimeOfDay: 21:00:00
+  Year: 2021
+title: Past tense by Jason
 ---
 
 ⚠️For successfully registering for the show, please fill in the Google Form below.

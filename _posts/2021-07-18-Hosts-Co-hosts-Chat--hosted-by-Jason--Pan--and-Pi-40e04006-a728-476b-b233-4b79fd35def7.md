@@ -1,5 +1,23 @@
 ---
+indexDate: 2021-07-18
+sign_up_here: 
+parent_type: database_id
+meeting_link: https://discord.gg/bBuv3mCQQe
+archived: false
+language_level: No limit
+tags:
+- Talk
+- 2021-07-18
+- Jason
+- Teacher Pan
+- Pi
+id: 40e04006-a728-476b-b233-4b79fd35def7
+hosts:
+- Jason
+- Teacher Pan
+- Pi
 name: Hosts/Co-hosts Chat, hosted by Jason, Pan, and Pi
+object: page
 created_time:
   DateTime: 2021-07-13T22:42:00.0000000
   UtcDateTime: 2021-07-13T14:42:00.0000000Z
@@ -16,36 +34,7 @@ created_time:
   UtcTicks: 637617841200000000
   TimeOfDay: 22:42:00
   Year: 2021
-notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-hosted-by-Jason-Pan-and-Pi-40e04006a728476bb2334b79fd35def7
-archived: false
-parent_type: database_id
-talktime:
-  DateTime: 2021-07-18T20:00:00.0000000
-  UtcDateTime: 2021-07-18T12:00:00.0000000Z
-  LocalDateTime: 2021-07-18T12:00:00.0000000+00:00
-  Date: 2021-07-18T00:00:00.0000000
-  Day: 18
-  DayOfYear: 199
-  Hour: 20
-  Month: 7
-  Offset: 08:00:00
-  Ticks: 637622352000000000
-  UtcTicks: 637622064000000000
-  TimeOfDay: 20:00:00
-  Year: 2021
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-meeting_link: https://discord.gg/bBuv3mCQQe
-tags:
-- Talk
-- 2021-07-18
-- Jason
-- Teacher Pan
-- Pi
-id: 40e04006-a728-476b-b233-4b79fd35def7
-sign_up_here: 
-title: Hosts/Co-hosts Chat, hosted by Jason, Pan, and Pi
-object: page
-indexDate: 2021-07-18
 software: Discord
 last_edited_time:
   DateTime: 2021-07-20T20:10:00.0000000
@@ -63,11 +52,22 @@ last_edited_time:
   UtcTicks: 637623798000000000
   TimeOfDay: 20:10:00
   Year: 2021
-language_level: No limit
-hosts:
-- Jason
-- Teacher Pan
-- Pi
+notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-hosted-by-Jason-Pan-and-Pi-40e04006a728476bb2334b79fd35def7
+talktime:
+  DateTime: 2021-07-18T20:00:00.0000000
+  UtcDateTime: 2021-07-18T12:00:00.0000000Z
+  LocalDateTime: 2021-07-18T12:00:00.0000000+00:00
+  Date: 2021-07-18T00:00:00.0000000
+  Day: 18
+  DayOfYear: 199
+  Hour: 20
+  Month: 7
+  Offset: 08:00:00
+  Ticks: 637622352000000000
+  UtcTicks: 637622064000000000
+  TimeOfDay: 20:00:00
+  Year: 2021
+title: Hosts/Co-hosts Chat, hosted by Jason, Pan, and Pi
 ---
 
 
