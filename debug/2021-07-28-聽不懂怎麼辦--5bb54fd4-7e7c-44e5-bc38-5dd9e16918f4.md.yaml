@@ -83,7 +83,7 @@ properties:
     id: '|tal'
     type: date
     date:
-      start: 2021-07-28T20:30:00.0000000+08:00
+      start: 2021-07-28T12:30:00.0000000+00:00
       end: 
   Name:
     id: title
@@ -350,9 +350,9 @@ results:
   image:
     caption: []
     type: file
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/50e8ccec-a7b7-4726-8fd5-074b79fc888e/Brainstorming_-_07_28_What_do_i_do_when_i39m_lost_in_convos.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210815%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210815T174033Z&X-Amz-Expires=3600&X-Amz-Signature=781c114e23279d2af8620499a51261ddfd8fefc2f3028f432dec71c2e7481279&X-Amz-SignedHeaders=host
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/50e8ccec-a7b7-4726-8fd5-074b79fc888e/Brainstorming_-_07_28_What_do_i_do_when_i39m_lost_in_convos.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210816%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210816T140333Z&X-Amz-Expires=3600&X-Amz-Signature=2ea0f09e5f24868d2351faf6ddf0075122c42ad40243b3f55296eb57b45ead14&X-Amz-SignedHeaders=host
     file:
-      expiry_time: 2021-08-15T18:40:33.5100000Z
+      expiry_time: 2021-08-16T15:03:33.9700000Z
   unsupported: {}
 - object: block
   id: cce64d5d-ade8-4245-b075-c719ec8ed744
