@@ -1,26 +1,5 @@
 ---
-language_level: No limit
-sign_up_here: Please comment below note in Line group
-object: page
-parent_type: database_id
-notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-64c75db2c8c84a85b48f8755eac37007
-archived: false
-talktime:
-  DateTime: 2021-08-01T09:30:00.0000000
-  UtcDateTime: 2021-08-01T01:30:00.0000000Z
-  LocalDateTime: 2021-08-01T01:30:00.0000000+00:00
-  Date: 2021-08-01T00:00:00.0000000
-  Day: 1
-  DayOfYear: 213
-  Hour: 9
-  Minute: 30
-  Month: 8
-  Offset: 08:00:00
-  Ticks: 637634070000000000
-  UtcTicks: 637633782000000000
-  TimeOfDay: 09:30:00
-  Year: 2021
-indexDate: 2021-08-01
+name: Sunday's Talk by Peggy and Antina
 created_time:
   DateTime: 2021-06-25T18:35:00.0000000
   UtcDateTime: 2021-06-25T10:35:00.0000000Z
@@ -37,18 +16,37 @@ created_time:
   UtcTicks: 637602141000000000
   TimeOfDay: 18:35:00
   Year: 2021
-software: Google Meet
+notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-64c75db2c8c84a85b48f8755eac37007
+archived: false
+parent_type: database_id
+talktime:
+  DateTime: 2021-08-01T09:30:00.0000000
+  UtcDateTime: 2021-08-01T01:30:00.0000000Z
+  LocalDateTime: 2021-08-01T01:30:00.0000000+00:00
+  Date: 2021-08-01T00:00:00.0000000
+  Day: 1
+  DayOfYear: 213
+  Hour: 9
+  Minute: 30
+  Month: 8
+  Offset: 08:00:00
+  Ticks: 637634070000000000
+  UtcTicks: 637633782000000000
+  TimeOfDay: 09:30:00
+  Year: 2021
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+meeting_link: https://meet.googley.com/tud-hdfb-tua
 tags:
 - Talk
 - 2021-08-01
 - Peggy@李明霈
 - Antina@張庭瑄
+id: 64c75db2-c8c8-4a85-b48f-8755eac37007
+sign_up_here: Please comment below note in Line group
 title: Sunday's Talk by Peggy and Antina
-meeting_link: https://meet.googley.com/tud-hdfb-tua
-name: Sunday's Talk by Peggy and Antina
-hosts:
-- Peggy@李明霈
-- Antina@張庭瑄
+object: page
+indexDate: 2021-08-01
+software: Google Meet
 last_edited_time:
   DateTime: 2021-08-01T09:33:00.0000000
   UtcDateTime: 2021-08-01T01:33:00.0000000Z
@@ -64,8 +62,10 @@ last_edited_time:
   UtcTicks: 637633783800000000
   TimeOfDay: 09:33:00
   Year: 2021
-id: 64c75db2-c8c8-4a85-b48f-8755eac37007
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+language_level: No limit
+hosts:
+- Peggy@李明霈
+- Antina@張庭瑄
 ---
 
 # Free Talk 

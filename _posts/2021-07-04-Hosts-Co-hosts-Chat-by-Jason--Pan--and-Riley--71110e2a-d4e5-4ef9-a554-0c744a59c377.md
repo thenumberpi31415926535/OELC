@@ -1,25 +1,5 @@
 ---
-language_level: No limit
-sign_up_here: 
-object: page
-parent_type: database_id
-notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-by-Jason-Pan-and-Riley-71110e2ad4e54ef9a5540c744a59c377
-archived: false
-talktime:
-  DateTime: 2021-07-04T20:00:00.0000000
-  UtcDateTime: 2021-07-04T12:00:00.0000000Z
-  LocalDateTime: 2021-07-04T12:00:00.0000000+00:00
-  Date: 2021-07-04T00:00:00.0000000
-  Day: 4
-  DayOfYear: 185
-  Hour: 20
-  Month: 7
-  Offset: 08:00:00
-  Ticks: 637610256000000000
-  UtcTicks: 637609968000000000
-  TimeOfDay: 20:00:00
-  Year: 2021
-indexDate: 2021-07-04
+name: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
 created_time:
   DateTime: 2021-06-30T15:01:00.0000000
   UtcDateTime: 2021-06-30T07:01:00.0000000Z
@@ -36,20 +16,37 @@ created_time:
   UtcTicks: 637606332600000000
   TimeOfDay: 15:01:00
   Year: 2021
-software: Skype
+notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-by-Jason-Pan-and-Riley-71110e2ad4e54ef9a5540c744a59c377
+archived: false
+parent_type: database_id
+talktime:
+  DateTime: 2021-07-04T20:00:00.0000000
+  UtcDateTime: 2021-07-04T12:00:00.0000000Z
+  LocalDateTime: 2021-07-04T12:00:00.0000000+00:00
+  Date: 2021-07-04T00:00:00.0000000
+  Day: 4
+  DayOfYear: 185
+  Hour: 20
+  Month: 7
+  Offset: 08:00:00
+  Ticks: 637610256000000000
+  UtcTicks: 637609968000000000
+  TimeOfDay: 20:00:00
+  Year: 2021
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+meeting_link: https://join.skype.com/wEhREpKESENC
 tags:
 - Talk
 - 2021-07-04
 - Jason
 - Teacher Pan
 - Riley
+id: 71110e2a-d4e5-4ef9-a554-0c744a59c377
+sign_up_here: 
 title: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
-meeting_link: https://join.skype.com/wEhREpKESENC
-name: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
-hosts:
-- Jason
-- Teacher Pan
-- Riley
+object: page
+indexDate: 2021-07-04
+software: Skype
 last_edited_time:
   DateTime: 2021-07-05T23:05:00.0000000
   UtcDateTime: 2021-07-05T15:05:00.0000000Z
@@ -66,8 +63,11 @@ last_edited_time:
   UtcTicks: 637610943000000000
   TimeOfDay: 23:05:00
   Year: 2021
-id: 71110e2a-d4e5-4ef9-a554-0c744a59c377
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+language_level: No limit
+hosts:
+- Jason
+- Teacher Pan
+- Riley
 ---
 
 

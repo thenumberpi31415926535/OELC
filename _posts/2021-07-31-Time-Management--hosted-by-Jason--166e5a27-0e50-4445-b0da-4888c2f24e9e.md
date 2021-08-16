@@ -1,26 +1,5 @@
 ---
-language_level: No limit
-sign_up_here: '[https://forms.gle/jDnGW7G6WJp1q1Hf9](https://forms.gle/jDnGW7G6WJp1q1Hf9)'
-object: page
-parent_type: database_id
-notion_url: https://www.notion.so/Time-Management-hosted-by-Jason-166e5a270e504445b0da4888c2f24e9e
-archived: false
-talktime:
-  DateTime: 2021-07-31T19:00:00.0000000
-  UtcDateTime: 2021-07-31T11:00:00.0000000Z
-  LocalDateTime: 2021-07-31T11:00:00.0000000+00:00
-  Date: 2021-07-31T00:00:00.0000000
-  Day: 31
-  DayOfWeek: Saturday
-  DayOfYear: 212
-  Hour: 19
-  Month: 7
-  Offset: 08:00:00
-  Ticks: 637633548000000000
-  UtcTicks: 637633260000000000
-  TimeOfDay: 19:00:00
-  Year: 2021
-indexDate: 2021-07-31
+name: 'Time Management, hosted by Jason '
 created_time:
   DateTime: 2021-07-24T23:06:00.0000000
   UtcDateTime: 2021-07-24T15:06:00.0000000Z
@@ -37,15 +16,36 @@ created_time:
   UtcTicks: 637627359600000000
   TimeOfDay: 23:06:00
   Year: 2021
-software: Discord
+notion_url: https://www.notion.so/Time-Management-hosted-by-Jason-166e5a270e504445b0da4888c2f24e9e
+archived: false
+parent_type: database_id
+talktime:
+  DateTime: 2021-07-31T19:00:00.0000000
+  UtcDateTime: 2021-07-31T11:00:00.0000000Z
+  LocalDateTime: 2021-07-31T11:00:00.0000000+00:00
+  Date: 2021-07-31T00:00:00.0000000
+  Day: 31
+  DayOfWeek: Saturday
+  DayOfYear: 212
+  Hour: 19
+  Month: 7
+  Offset: 08:00:00
+  Ticks: 637633548000000000
+  UtcTicks: 637633260000000000
+  TimeOfDay: 19:00:00
+  Year: 2021
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+meeting_link: https://discord.gg/pUgB4XEQrH
 tags:
 - Talk
 - 2021-07-31
 - Jason
+id: 166e5a27-0e50-4445-b0da-4888c2f24e9e
+sign_up_here: '[https://forms.gle/jDnGW7G6WJp1q1Hf9](https://forms.gle/jDnGW7G6WJp1q1Hf9)'
 title: 'Time Management, hosted by Jason '
-meeting_link: https://discord.gg/pUgB4XEQrH
-name: 'Time Management, hosted by Jason '
-hosts: Jason
+object: page
+indexDate: 2021-07-31
+software: Discord
 last_edited_time:
   DateTime: 2021-07-29T12:05:00.0000000
   UtcDateTime: 2021-07-29T04:05:00.0000000Z
@@ -62,8 +62,8 @@ last_edited_time:
   UtcTicks: 637631283000000000
   TimeOfDay: 12:05:00
   Year: 2021
-id: 166e5a27-0e50-4445-b0da-4888c2f24e9e
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+language_level: No limit
+hosts: Jason
 ---
 
 [Untitled](https://www.notion.so/60226399bd024bf4bf588586f8013a21)   

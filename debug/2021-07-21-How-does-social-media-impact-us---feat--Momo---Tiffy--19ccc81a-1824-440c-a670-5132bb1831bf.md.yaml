@@ -1,6 +1,6 @@
 object: page
-id: 5bb54fd4-7e7c-44e5-bc38-5dd9e16918f4
-created_time: 2021-07-26T07:26:00.0000000Z
+id: 19ccc81a-1824-440c-a670-5132bb1831bf
+created_time: 2021-07-02T09:55:00.0000000Z
 last_edited_time: 2021-08-15T17:26:00.0000000Z
 parent:
   type: database_id
@@ -75,6 +75,12 @@ properties:
     - id: 5fd12e96-75db-41b9-b28e-3f854c2cf009
       name: Pi
       color: brown
+    - id: bb83511e-859b-4434-84e1-9c3576cb23e1
+      name: Momo
+      color: gray
+    - id: d3496f5e-cf96-4714-81f7-6a7f043ba5ff
+      name: Tiffy
+      color: brown
   Meeting Link:
     id: w~\Q
     type: url
@@ -83,7 +89,7 @@ properties:
     id: '|tal'
     type: date
     date:
-      start: 2021-07-28T12:30:00.0000000+00:00
+      start: 2021-07-21T12:30:00.0000000+00:00
       end: 
   Name:
     id: title
@@ -91,7 +97,7 @@ properties:
     title:
     - type: text
       text:
-        content: 聽不懂怎麼辦?
+        content: How does social media impact us? (feat. Momo & Tiffy)
         link: 
       annotations:
         bold: false
@@ -100,30 +106,135 @@ properties:
         underline: false
         code: false
         color: default
-      plain_text: 聽不懂怎麼辦?
+      plain_text: How does social media impact us? (feat. Momo & Tiffy)
       href: 
-url: https://www.notion.so/5bb54fd47e7c44e5bc385dd9e16918f4
+url: https://www.notion.so/How-does-social-media-impact-us-feat-Momo-Tiffy-19ccc81a1824440ca6705132bb1831bf
 
 object: list
 results:
 - object: block
-  id: 6a3e5a25-05b1-4dbf-9fd5-8de628e065a1
-  created_time: 2021-07-26T07:26:00.0000000Z
+  id: 1d7ec487-64f2-4586-a320-66035c725c8d
+  created_time: 2021-07-18T14:12:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   has_children: false
   type: paragraph
   paragraph:
     text: []
 - object: block
-  id: ea51874a-f493-4382-9a7f-7b2cde89dca5
-  created_time: 2021-07-26T07:26:00.0000000Z
+  id: 3aee81d5-c1cf-485f-b6d4-ab63fdad99b4
+  created_time: 2021-07-18T12:52:00.0000000Z
+  last_edited_time: 2021-08-15T17:26:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: mention
+      mention:
+        type: page
+        page:
+          id: 23f0f26c-7f15-47c0-b084-77c0c6f1f461
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Untitled
+      href: https://www.notion.so/23f0f26c7f1547c0b08477c0c6f1f461
+    - type: text
+      text:
+        content: ' '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: ' '
+      href: 
+- object: block
+  id: c1e98534-0277-4813-8930-966f3da93979
+  created_time: 2021-07-18T14:01:00.0000000Z
+  last_edited_time: 2021-08-15T17:26:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: mention
+      mention:
+        type: page
+        page:
+          id: b25f7bc7-84f1-47e3-a075-9bc1db6129a2
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Untitled
+      href: https://www.notion.so/b25f7bc784f147e3a0759bc1db6129a2
+    - type: text
+      text:
+        content: ' '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: ' '
+      href: 
+- object: block
+  id: 29247e12-2100-4214-b55a-b0a0a8d3d17c
+  created_time: 2021-07-21T04:08:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   has_children: false
   type: unsupported
   unsupported: {}
 - object: block
-  id: c2e16a5e-d1cf-4615-8ac5-15b4b74e1ea8
-  created_time: 2021-07-26T07:26:00.0000000Z
+  id: 2e1035dc-fe0f-4a57-982f-4ca2c90f6e81
+  created_time: 2021-07-21T04:08:00.0000000Z
+  last_edited_time: 2021-08-15T17:26:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: mention
+      mention:
+        type: page
+        page:
+          id: da534e93-9894-424f-8971-0d7f328d6ec4
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Untitled
+      href: https://www.notion.so/da534e939894424f89710d7f328d6ec4
+    - type: text
+      text:
+        content: ' '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: ' '
+      href: 
+- object: block
+  id: 52589a32-3111-4dd7-9937-0310a5fa9f41
+  created_time: 2021-07-02T09:55:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   has_children: false
   type: paragraph
@@ -157,8 +268,8 @@ results:
       plain_text: ' '
       href: 
 - object: block
-  id: 76886e8f-28a4-40ff-b987-d68fe4548a2f
-  created_time: 2021-07-26T07:26:00.0000000Z
+  id: ba01e15e-1d49-4595-9b34-f7eeba75dec5
+  created_time: 2021-07-02T09:55:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   has_children: false
   type: paragraph
@@ -192,24 +303,24 @@ results:
       plain_text: ' '
       href: 
 - object: block
-  id: 0c05025d-f42d-49de-aa54-8d3e6a5e43b1
-  created_time: 2021-07-26T07:26:00.0000000Z
+  id: 796c79b5-2752-43ed-9f05-7b832ab7dd4f
+  created_time: 2021-07-02T09:56:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   has_children: false
   type: paragraph
   paragraph:
     text: []
 - object: block
-  id: f0c176cb-0817-4025-9aed-5e4a7e602abe
-  created_time: 2021-07-26T07:26:00.0000000Z
+  id: 34601e27-b477-462e-a46a-f3cf2eee848e
+  created_time: 2021-07-02T09:56:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   has_children: false
   type: paragraph
   paragraph:
     text: []
 - object: block
-  id: 000a40c1-9c32-4429-92b7-ddffba041cc2
-  created_time: 2021-07-26T07:26:00.0000000Z
+  id: 3a897bcc-d367-4a97-9c90-39a0a66f0a74
+  created_time: 2021-07-18T14:11:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   has_children: false
   type: paragraph
@@ -229,8 +340,8 @@ results:
       plain_text: 'We will discuss the following but not limited to:'
       href: 
 - object: block
-  id: 2eadc362-603b-4781-90c4-c1975cab1277
-  created_time: 2021-07-26T07:33:00.0000000Z
+  id: 6160aab2-ce37-41e2-b2f1-094ffa8ae7d6
+  created_time: 2021-07-18T14:11:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   has_children: false
   type: bulleted_list_item
@@ -238,7 +349,7 @@ results:
     text:
     - type: text
       text:
-        content: What is your goal of the conversation?
+        content: Does it affect your body image? Or expected to have a certain lifestyle?
         link: 
       annotations:
         bold: false
@@ -247,11 +358,11 @@ results:
         underline: false
         code: false
         color: default
-      plain_text: What is your goal of the conversation?
+      plain_text: Does it affect your body image? Or expected to have a certain lifestyle?
       href: 
 - object: block
-  id: 390bd231-c284-46ee-827f-c14580374184
-  created_time: 2021-07-26T07:33:00.0000000Z
+  id: 9d18d007-1307-47bf-8f31-5a310cb21c8f
+  created_time: 2021-07-18T14:11:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   has_children: false
   type: bulleted_list_item
@@ -259,7 +370,7 @@ results:
     text:
     - type: text
       text:
-        content: Is it okay to ask questions?
+        content: What features on social media would you like to add in order to make it healthier for users?
         link: 
       annotations:
         bold: false
@@ -268,11 +379,11 @@ results:
         underline: false
         code: false
         color: default
-      plain_text: Is it okay to ask questions?
+      plain_text: What features on social media would you like to add in order to make it healthier for users?
       href: 
 - object: block
-  id: e141df2b-ccc2-487f-afe6-d2deb30f4dbc
-  created_time: 2021-07-26T07:33:00.0000000Z
+  id: 77bdfe2c-6995-4c55-b80f-5ab2f30ade76
+  created_time: 2021-07-18T14:11:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   has_children: false
   type: bulleted_list_item
@@ -280,7 +391,7 @@ results:
     text:
     - type: text
       text:
-        content: What are you attitude and mindsets?
+        content: Do you compare yourself with those people on social media?
         link: 
       annotations:
         bold: false
@@ -289,11 +400,11 @@ results:
         underline: false
         code: false
         color: default
-      plain_text: What are you attitude and mindsets?
+      plain_text: Do you compare yourself with those people on social media?
       href: 
 - object: block
-  id: f22f593e-3923-4543-97dd-1d0cdaa778c2
-  created_time: 2021-07-26T07:33:00.0000000Z
+  id: e26c573d-3360-4c2b-9e58-7639ec8fc95a
+  created_time: 2021-07-18T14:11:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   has_children: false
   type: bulleted_list_item
@@ -301,7 +412,7 @@ results:
     text:
     - type: text
       text:
-        content: How to describe "The thing"?
+        content: Do you think that social media glorifies disorders?
         link: 
       annotations:
         bold: false
@@ -310,11 +421,11 @@ results:
         underline: false
         code: false
         color: default
-      plain_text: How to describe "The thing"?
+      plain_text: Do you think that social media glorifies disorders?
       href: 
 - object: block
-  id: 7ea0c5d4-2124-4af4-b111-810d92e2e33e
-  created_time: 2021-07-26T07:33:00.0000000Z
+  id: b35c6771-5bf1-4bfc-935d-cda353b3bbda
+  created_time: 2021-07-18T14:11:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   has_children: false
   type: bulleted_list_item
@@ -322,7 +433,7 @@ results:
     text:
     - type: text
       text:
-        content: How to find a gap to insert your questions?
+        content: Do you think people live a different life on and off of social media?
         link: 
       annotations:
         bold: false
@@ -331,48 +442,32 @@ results:
         underline: false
         code: false
         color: default
-      plain_text: How to find a gap to insert your questions?
+      plain_text: Do you think people live a different life on and off of social media?
       href: 
 - object: block
-  id: 4d983546-8b30-4c98-9a80-80f7aac4c94c
-  created_time: 2021-07-26T07:33:00.0000000Z
-  last_edited_time: 2021-07-26T07:33:00.0000000Z
-  has_children: false
-  type: paragraph
-  paragraph:
-    text: []
-- object: block
-  id: 5581a68f-bfbe-48fb-84ee-5ec5e9b08472
-  created_time: 2021-07-26T07:34:00.0000000Z
-  last_edited_time: 2021-07-26T07:34:00.0000000Z
+  id: 0a0b863d-1f51-4fbf-bc33-4e1038c111e3
+  created_time: 2021-07-21T09:30:00.0000000Z
+  last_edited_time: 2021-07-21T09:30:00.0000000Z
   has_children: false
   type: unsupported
   image:
     caption: []
     type: file
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/50e8ccec-a7b7-4726-8fd5-074b79fc888e/Brainstorming_-_07_28_What_do_i_do_when_i39m_lost_in_convos.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210816%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210816T180643Z&X-Amz-Expires=3600&X-Amz-Signature=19a154c6847c85d7ea00980296f6e544eab2c93e25a28961e665febda264d37d&X-Amz-SignedHeaders=host
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/98ae05d8-4fc5-492b-8970-5668dcb48be6/Brainstorming_-_Social_media.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210816%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210816T180646Z&X-Amz-Expires=3600&X-Amz-Signature=729b76c293a50331110aae2986046bf4f59574d00ebe1eab271054a2829f6299&X-Amz-SignedHeaders=host
     file:
-      expiry_time: 2021-08-16T19:06:43.6590000Z
+      expiry_time: 2021-08-16T19:06:46.0440000Z
   unsupported: {}
 - object: block
-  id: cce64d5d-ade8-4245-b075-c719ec8ed744
-  created_time: 2021-07-26T07:27:00.0000000Z
-  last_edited_time: 2021-07-26T07:33:00.0000000Z
-  has_children: false
-  type: paragraph
-  paragraph:
-    text: []
-- object: block
-  id: 8158c0fb-b029-4d08-ad64-d2125545ea1b
-  created_time: 2021-07-26T07:26:00.0000000Z
-  last_edited_time: 2021-07-26T07:26:00.0000000Z
+  id: 490b1b26-1c21-447c-9758-fc3d15817de3
+  created_time: 2021-07-20T12:10:00.0000000Z
+  last_edited_time: 2021-07-20T12:10:00.0000000Z
   has_children: false
   type: unsupported
   unsupported: {}
 - object: block
-  id: e5b67c42-3f6a-4c85-a305-83118a49d52f
-  created_time: 2021-07-26T07:26:00.0000000Z
-  last_edited_time: 2021-07-26T07:26:00.0000000Z
+  id: e48aa3ce-725d-407a-9575-f12e528fdcac
+  created_time: 2021-07-21T09:29:00.0000000Z
+  last_edited_time: 2021-07-21T09:29:00.0000000Z
   has_children: false
   type: paragraph
   paragraph:
