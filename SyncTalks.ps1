@@ -197,8 +197,10 @@ function ExtractDateTimeFromString
     (
         [psobject]$String
     )
+    $culture = New-Object System.Globalization.CultureInfo("zh-TW", $false);
+
     $date = [System.DateTimeOffset]::MinValue
-    if([System.DateTimeOffset]::TryParseExact($String, 'MM/dd/yyyy H:mm:ss', [System.Globalization.CultureInfo]:: InvariantCulture, [System.Globalization.DateTimeStyles]::None, [ref]$date))
+    if([System.DateTimeOffset]::TryParseExact($String, 'MM/dd/yyyy H:mm:ss', $culture, [System.Globalization.DateTimeStyles]::None, [ref]$date))
     {
         return $date
     }
