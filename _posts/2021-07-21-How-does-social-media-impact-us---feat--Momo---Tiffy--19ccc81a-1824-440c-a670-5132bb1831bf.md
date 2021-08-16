@@ -1,5 +1,8 @@
 ---
+id: 19ccc81a-1824-440c-a670-5132bb1831bf
 name: How does social media impact us? (feat. Momo & Tiffy)
+indexDate: 2021-07-21
+notion_url: https://www.notion.so/How-does-social-media-impact-us-feat-Momo-Tiffy-19ccc81a1824440ca6705132bb1831bf
 tags:
 - Talk
 - 2021-07-21
@@ -7,73 +10,67 @@ tags:
 - Pi
 - Momo
 - Tiffy
-parent_type: database_id
-hosts:
-- Bones
-- Pi
-- Momo
-- Tiffy
-id: 19ccc81a-1824-440c-a670-5132bb1831bf
-indexDate: 2021-07-21
-talktime:
-  DateTime: 2021-07-21T12:30:00.0000000
-  UtcDateTime: 2021-07-21T04:30:00.0000000Z
-  LocalDateTime: 2021-07-21T04:30:00.0000000+00:00
-  Date: 2021-07-21T00:00:00.0000000
-  Day: 21
-  DayOfWeek: Wednesday
-  DayOfYear: 202
-  Hour: 12
-  Minute: 30
-  Month: 7
-  Offset: 08:00:00
-  Ticks: 637624674000000000
-  UtcTicks: 637624386000000000
-  TimeOfDay: 12:30:00
-  Year: 2021
-meeting_link: https://discord.gg/vE7QUXGDnS
-sign_up_here:
-- "Join Pi's "
-- '[Discord ](https://discord.gg/vE7QUXGDnS)'
-- 'server and sign up in #annoncements!'
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-software: Discord
 created_time:
-  DateTime: 2021-07-02T09:55:00.0000000
+  DateTime: 2021-07-02T01:55:00.0000000
   UtcDateTime: 2021-07-02T01:55:00.0000000Z
   LocalDateTime: 2021-07-02T01:55:00.0000000+00:00
   Date: 2021-07-02T00:00:00.0000000
   Day: 2
   DayOfWeek: Friday
   DayOfYear: 183
-  Hour: 9
+  Hour: 1
   Minute: 55
   Month: 7
-  Offset: 08:00:00
-  Ticks: 637608165000000000
+  Ticks: 637607877000000000
   UtcTicks: 637607877000000000
-  TimeOfDay: 09:55:00
+  TimeOfDay: 01:55:00
   Year: 2021
-language_level: No limit
-title: How does social media impact us? (feat. Momo & Tiffy)
-archived: false
-notion_url: https://www.notion.so/How-does-social-media-impact-us-feat-Momo-Tiffy-19ccc81a1824440ca6705132bb1831bf
 last_edited_time:
-  DateTime: 2021-08-15T17:26:00.0000000
+  DateTime: 2021-08-15T09:26:00.0000000
   UtcDateTime: 2021-08-15T09:26:00.0000000Z
   LocalDateTime: 2021-08-15T09:26:00.0000000+00:00
   Date: 2021-08-15T00:00:00.0000000
   Day: 15
   DayOfYear: 227
-  Hour: 17
+  Hour: 9
   Minute: 26
   Month: 8
-  Offset: 08:00:00
-  Ticks: 637646451600000000
+  Ticks: 637646163600000000
   UtcTicks: 637646163600000000
-  TimeOfDay: 17:26:00
+  TimeOfDay: 09:26:00
   Year: 2021
+parent_type: database_id
+software: Discord
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+title: How does social media impact us? (feat. Momo & Tiffy)
+sign_up_here:
+- "Join Pi's "
+- '[Discord ](https://discord.gg/vE7QUXGDnS)'
+- 'server and sign up in #annoncements!'
 object: page
+meeting_link: https://discord.gg/vE7QUXGDnS
+talktime:
+  DateTime: 2021-07-21T04:30:00.0000000
+  UtcDateTime: 2021-07-21T04:30:00.0000000Z
+  LocalDateTime: 2021-07-21T04:30:00.0000000+00:00
+  Date: 2021-07-21T00:00:00.0000000
+  Day: 21
+  DayOfWeek: Wednesday
+  DayOfYear: 202
+  Hour: 4
+  Minute: 30
+  Month: 7
+  Ticks: 637624386000000000
+  UtcTicks: 637624386000000000
+  TimeOfDay: 04:30:00
+  Year: 2021
+hosts:
+- Bones
+- Pi
+- Momo
+- Tiffy
+language_level: No limit
+archived: false
 ---
 
 

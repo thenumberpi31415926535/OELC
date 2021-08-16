@@ -1,70 +1,67 @@
 ---
+id: fc113489-4124-49e8-b847-7c8dcbdf4d0d
 name: English Learning Myths/Issues in Taiwan, hosted by Jason
+indexDate: 2021-07-23
+notion_url: https://www.notion.so/English-Learning-Myths-Issues-in-Taiwan-hosted-by-Jason-fc113489412449e8b8477c8dcbdf4d0d
 tags:
 - Talk
-- 2021-07-24
+- 2021-07-23
 - Jason
-parent_type: database_id
-hosts: Jason
-id: fc113489-4124-49e8-b847-7c8dcbdf4d0d
-indexDate: 2021-07-24
-talktime:
-  DateTime: 2021-07-24T07:30:00.0000000
-  UtcDateTime: 2021-07-23T23:30:00.0000000Z
-  LocalDateTime: 2021-07-23T23:30:00.0000000+00:00
-  Date: 2021-07-24T00:00:00.0000000
-  Day: 24
-  DayOfWeek: Saturday
-  DayOfYear: 205
-  Hour: 7
-  Minute: 30
-  Month: 7
-  Offset: 08:00:00
-  Ticks: 637627086000000000
-  UtcTicks: 637626798000000000
-  TimeOfDay: 07:30:00
-  Year: 2021
-meeting_link: https://discord.gg/pUgB4XEQrH
-sign_up_here: '[https://forms.gle/qNTwwjApaxYu23Ug6](https://forms.gle/qNTwwjApaxYu23Ug6)'
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-software: Discord
 created_time:
-  DateTime: 2021-07-21T13:02:00.0000000
+  DateTime: 2021-07-21T05:02:00.0000000
   UtcDateTime: 2021-07-21T05:02:00.0000000Z
   LocalDateTime: 2021-07-21T05:02:00.0000000+00:00
   Date: 2021-07-21T00:00:00.0000000
   Day: 21
   DayOfWeek: Wednesday
   DayOfYear: 202
-  Hour: 13
+  Hour: 5
   Minute: 2
   Month: 7
-  Offset: 08:00:00
-  Ticks: 637624693200000000
+  Ticks: 637624405200000000
   UtcTicks: 637624405200000000
-  TimeOfDay: 13:02:00
+  TimeOfDay: 05:02:00
   Year: 2021
-language_level: 'CEFR: B1 and ups'
-title: English Learning Myths/Issues in Taiwan, hosted by Jason
-archived: false
-notion_url: https://www.notion.so/English-Learning-Myths-Issues-in-Taiwan-hosted-by-Jason-fc113489412449e8b8477c8dcbdf4d0d
 last_edited_time:
-  DateTime: 2021-07-23T10:39:00.0000000
+  DateTime: 2021-07-23T02:39:00.0000000
   UtcDateTime: 2021-07-23T02:39:00.0000000Z
   LocalDateTime: 2021-07-23T02:39:00.0000000+00:00
   Date: 2021-07-23T00:00:00.0000000
   Day: 23
   DayOfWeek: Friday
   DayOfYear: 204
-  Hour: 10
+  Hour: 2
   Minute: 39
   Month: 7
-  Offset: 08:00:00
-  Ticks: 637626335400000000
+  Ticks: 637626047400000000
   UtcTicks: 637626047400000000
-  TimeOfDay: 10:39:00
+  TimeOfDay: 02:39:00
   Year: 2021
+parent_type: database_id
+software: Discord
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+title: English Learning Myths/Issues in Taiwan, hosted by Jason
+sign_up_here: '[https://forms.gle/qNTwwjApaxYu23Ug6](https://forms.gle/qNTwwjApaxYu23Ug6)'
 object: page
+meeting_link: https://discord.gg/pUgB4XEQrH
+talktime:
+  DateTime: 2021-07-23T23:30:00.0000000
+  UtcDateTime: 2021-07-23T23:30:00.0000000Z
+  LocalDateTime: 2021-07-23T23:30:00.0000000+00:00
+  Date: 2021-07-23T00:00:00.0000000
+  Day: 23
+  DayOfWeek: Friday
+  DayOfYear: 204
+  Hour: 23
+  Minute: 30
+  Month: 7
+  Ticks: 637626798000000000
+  UtcTicks: 637626798000000000
+  TimeOfDay: 23:30:00
+  Year: 2021
+hosts: Jason
+language_level: 'CEFR: B1 and ups'
+archived: false
 ---
 
 
