@@ -1,12 +1,32 @@
 ---
-title: 'Time Management, hosted by Jason '
-language_level: No limit
-archived: false
-id: 166e5a27-0e50-4445-b0da-4888c2f24e9e
 name: 'Time Management, hosted by Jason '
-object: page
+tags:
+- Talk
+- 2021-07-31
+- Jason
 parent_type: database_id
 hosts: Jason
+id: 166e5a27-0e50-4445-b0da-4888c2f24e9e
+indexDate: 2021-07-31
+talktime:
+  DateTime: 2021-07-31T11:00:00.0000000
+  UtcDateTime: 2021-07-31T03:00:00.0000000Z
+  LocalDateTime: 2021-07-31T03:00:00.0000000+00:00
+  Date: 2021-07-31T00:00:00.0000000
+  Day: 31
+  DayOfWeek: Saturday
+  DayOfYear: 212
+  Hour: 11
+  Month: 7
+  Offset: 08:00:00
+  Ticks: 637633260000000000
+  UtcTicks: 637632972000000000
+  TimeOfDay: 11:00:00
+  Year: 2021
+meeting_link: https://discord.gg/pUgB4XEQrH
+sign_up_here: '[https://forms.gle/jDnGW7G6WJp1q1Hf9](https://forms.gle/jDnGW7G6WJp1q1Hf9)'
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+software: Discord
 created_time:
   DateTime: 2021-07-24T15:06:00.0000000
   UtcDateTime: 2021-07-24T07:06:00.0000000Z
@@ -23,9 +43,10 @@ created_time:
   UtcTicks: 637627071600000000
   TimeOfDay: 15:06:00
   Year: 2021
-meeting_link: https://discord.gg/pUgB4XEQrH
-sign_up_here: '[https://forms.gle/jDnGW7G6WJp1q1Hf9](https://forms.gle/jDnGW7G6WJp1q1Hf9)'
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+language_level: No limit
+title: 'Time Management, hosted by Jason '
+archived: false
+notion_url: https://www.notion.so/Time-Management-hosted-by-Jason-166e5a270e504445b0da4888c2f24e9e
 last_edited_time:
   DateTime: 2021-07-29T04:05:00.0000000
   UtcDateTime: 2021-07-28T20:05:00.0000000Z
@@ -42,28 +63,7 @@ last_edited_time:
   UtcTicks: 637630995000000000
   TimeOfDay: 04:05:00
   Year: 2021
-talktime:
-  DateTime: 2021-07-31T11:00:00.0000000
-  UtcDateTime: 2021-07-31T03:00:00.0000000Z
-  LocalDateTime: 2021-07-31T03:00:00.0000000+00:00
-  Date: 2021-07-31T00:00:00.0000000
-  Day: 31
-  DayOfWeek: Saturday
-  DayOfYear: 212
-  Hour: 11
-  Month: 7
-  Offset: 08:00:00
-  Ticks: 637633260000000000
-  UtcTicks: 637632972000000000
-  TimeOfDay: 11:00:00
-  Year: 2021
-notion_url: https://www.notion.so/Time-Management-hosted-by-Jason-166e5a270e504445b0da4888c2f24e9e
-indexDate: 2021-07-31
-software: Discord
-tags:
-- Talk
-- 2021-07-31
-- Jason
+object: page
 ---
 
 [Untitled](https://www.notion.so/60226399bd024bf4bf588586f8013a21)   

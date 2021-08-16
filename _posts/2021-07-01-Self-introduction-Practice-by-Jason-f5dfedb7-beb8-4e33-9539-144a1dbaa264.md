@@ -1,12 +1,32 @@
 ---
-title: Self-introduction Practice by Jason
-language_level: No limit
-archived: false
-id: f5dfedb7-beb8-4e33-9539-144a1dbaa264
 name: Self-introduction Practice by Jason
-object: page
+tags:
+- Talk
+- 2021-07-01
+- Jason
 parent_type: database_id
 hosts: Jason
+id: f5dfedb7-beb8-4e33-9539-144a1dbaa264
+indexDate: 2021-07-01
+talktime:
+  DateTime: 2021-07-01T13:00:00.0000000
+  UtcDateTime: 2021-07-01T05:00:00.0000000Z
+  LocalDateTime: 2021-07-01T05:00:00.0000000+00:00
+  Date: 2021-07-01T00:00:00.0000000
+  Day: 1
+  DayOfWeek: Thursday
+  DayOfYear: 182
+  Hour: 13
+  Month: 7
+  Offset: 08:00:00
+  Ticks: 637607412000000000
+  UtcTicks: 637607124000000000
+  TimeOfDay: 13:00:00
+  Year: 2021
+meeting_link: https://join.skype.com/xMKyV4Fx3KXT
+sign_up_here: '[https://forms.gle/CET8RqptGHtUapEG7](https://forms.gle/CET8RqptGHtUapEG7)'
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+software: Skype
 created_time:
   DateTime: 2021-06-28T12:56:00.0000000
   UtcDateTime: 2021-06-28T04:56:00.0000000Z
@@ -23,9 +43,10 @@ created_time:
   UtcTicks: 637604529600000000
   TimeOfDay: 12:56:00
   Year: 2021
-meeting_link: https://join.skype.com/xMKyV4Fx3KXT
-sign_up_here: '[https://forms.gle/CET8RqptGHtUapEG7](https://forms.gle/CET8RqptGHtUapEG7)'
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+language_level: No limit
+title: Self-introduction Practice by Jason
+archived: false
+notion_url: https://www.notion.so/Self-introduction-Practice-by-Jason-f5dfedb7beb84e339539144a1dbaa264
 last_edited_time:
   DateTime: 2021-07-02T10:57:00.0000000
   UtcDateTime: 2021-07-02T02:57:00.0000000Z
@@ -42,28 +63,7 @@ last_edited_time:
   UtcTicks: 637607914200000000
   TimeOfDay: 10:57:00
   Year: 2021
-talktime:
-  DateTime: 2021-07-01T13:00:00.0000000
-  UtcDateTime: 2021-07-01T05:00:00.0000000Z
-  LocalDateTime: 2021-07-01T05:00:00.0000000+00:00
-  Date: 2021-07-01T00:00:00.0000000
-  Day: 1
-  DayOfWeek: Thursday
-  DayOfYear: 182
-  Hour: 13
-  Month: 7
-  Offset: 08:00:00
-  Ticks: 637607412000000000
-  UtcTicks: 637607124000000000
-  TimeOfDay: 13:00:00
-  Year: 2021
-notion_url: https://www.notion.so/Self-introduction-Practice-by-Jason-f5dfedb7beb84e339539144a1dbaa264
-indexDate: 2021-07-01
-software: Skype
-tags:
-- Talk
-- 2021-07-01
-- Jason
+object: page
 ---
 
 

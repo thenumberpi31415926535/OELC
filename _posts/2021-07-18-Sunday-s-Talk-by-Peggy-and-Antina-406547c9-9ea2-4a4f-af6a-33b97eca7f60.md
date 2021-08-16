@@ -1,14 +1,35 @@
 ---
-title: Sunday's Talk by Peggy and Antina
-language_level: No limit
-archived: false
-id: 406547c9-9ea2-4a4f-af6a-33b97eca7f60
 name: Sunday's Talk by Peggy and Antina
-object: page
+tags:
+- Talk
+- 2021-07-18
+- Peggy@李明霈
+- Antina@張庭瑄
 parent_type: database_id
 hosts:
 - Peggy@李明霈
 - Antina@張庭瑄
+id: 406547c9-9ea2-4a4f-af6a-33b97eca7f60
+indexDate: 2021-07-18
+talktime:
+  DateTime: 2021-07-18T01:30:00.0000000
+  UtcDateTime: 2021-07-17T17:30:00.0000000Z
+  LocalDateTime: 2021-07-17T17:30:00.0000000+00:00
+  Date: 2021-07-18T00:00:00.0000000
+  Day: 18
+  DayOfYear: 199
+  Hour: 1
+  Minute: 30
+  Month: 7
+  Offset: 08:00:00
+  Ticks: 637621686000000000
+  UtcTicks: 637621398000000000
+  TimeOfDay: 01:30:00
+  Year: 2021
+meeting_link: https://meet.google.com/uor-traf-jys
+sign_up_here: Please comment below note in Line group
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+software: Google Meet
 created_time:
   DateTime: 2021-06-25T10:39:00.0000000
   UtcDateTime: 2021-06-25T02:39:00.0000000Z
@@ -25,9 +46,10 @@ created_time:
   UtcTicks: 637601855400000000
   TimeOfDay: 10:39:00
   Year: 2021
-meeting_link: https://meet.google.com/uor-traf-jys
-sign_up_here: Please comment below note in Line group
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+language_level: No limit
+title: Sunday's Talk by Peggy and Antina
+archived: false
+notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-406547c99ea24a4faf6a33b97eca7f60
 last_edited_time:
   DateTime: 2021-07-22T06:58:00.0000000
   UtcDateTime: 2021-07-21T22:58:00.0000000Z
@@ -44,29 +66,7 @@ last_edited_time:
   UtcTicks: 637625050800000000
   TimeOfDay: 06:58:00
   Year: 2021
-talktime:
-  DateTime: 2021-07-18T01:30:00.0000000
-  UtcDateTime: 2021-07-17T17:30:00.0000000Z
-  LocalDateTime: 2021-07-17T17:30:00.0000000+00:00
-  Date: 2021-07-18T00:00:00.0000000
-  Day: 18
-  DayOfYear: 199
-  Hour: 1
-  Minute: 30
-  Month: 7
-  Offset: 08:00:00
-  Ticks: 637621686000000000
-  UtcTicks: 637621398000000000
-  TimeOfDay: 01:30:00
-  Year: 2021
-notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-406547c99ea24a4faf6a33b97eca7f60
-indexDate: 2021-07-18
-software: Google Meet
-tags:
-- Talk
-- 2021-07-18
-- Peggy@李明霈
-- Antina@張庭瑄
+object: page
 ---
 
 # Art Salon

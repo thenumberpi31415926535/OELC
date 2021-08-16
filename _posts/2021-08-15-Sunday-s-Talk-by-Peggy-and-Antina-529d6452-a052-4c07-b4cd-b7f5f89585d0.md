@@ -1,14 +1,35 @@
 ---
-title: Sunday's Talk by Peggy and Antina
-language_level: No limit
-archived: false
-id: 529d6452-a052-4c07-b4cd-b7f5f89585d0
 name: Sunday's Talk by Peggy and Antina
-object: page
+tags:
+- Talk
+- 2021-08-15
+- Peggy@李明霈
+- Antina@張庭瑄
 parent_type: database_id
 hosts:
 - Peggy@李明霈
 - Antina@張庭瑄
+id: 529d6452-a052-4c07-b4cd-b7f5f89585d0
+indexDate: 2021-08-15
+talktime:
+  DateTime: 2021-08-15T01:30:00.0000000
+  UtcDateTime: 2021-08-14T17:30:00.0000000Z
+  LocalDateTime: 2021-08-14T17:30:00.0000000+00:00
+  Date: 2021-08-15T00:00:00.0000000
+  Day: 15
+  DayOfYear: 227
+  Hour: 1
+  Minute: 30
+  Month: 8
+  Offset: 08:00:00
+  Ticks: 637645878000000000
+  UtcTicks: 637645590000000000
+  TimeOfDay: 01:30:00
+  Year: 2021
+meeting_link: https://meet.google.com/uor-traf-jys
+sign_up_here: Please comment below note in Line group
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+software: Google Meet
 created_time:
   DateTime: 2021-08-02T04:25:00.0000000
   UtcDateTime: 2021-08-01T20:25:00.0000000Z
@@ -25,9 +46,10 @@ created_time:
   UtcTicks: 637634463000000000
   TimeOfDay: 04:25:00
   Year: 2021
-meeting_link: https://meet.google.com/uor-traf-jys
-sign_up_here: Please comment below note in Line group
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+language_level: No limit
+title: Sunday's Talk by Peggy and Antina
+archived: false
+notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-529d6452a0524c07b4cdb7f5f89585d0
 last_edited_time:
   DateTime: 2021-08-13T10:46:00.0000000
   UtcDateTime: 2021-08-13T02:46:00.0000000Z
@@ -44,29 +66,7 @@ last_edited_time:
   UtcTicks: 637644195600000000
   TimeOfDay: 10:46:00
   Year: 2021
-talktime:
-  DateTime: 2021-08-15T01:30:00.0000000
-  UtcDateTime: 2021-08-14T17:30:00.0000000Z
-  LocalDateTime: 2021-08-14T17:30:00.0000000+00:00
-  Date: 2021-08-15T00:00:00.0000000
-  Day: 15
-  DayOfYear: 227
-  Hour: 1
-  Minute: 30
-  Month: 8
-  Offset: 08:00:00
-  Ticks: 637645878000000000
-  UtcTicks: 637645590000000000
-  TimeOfDay: 01:30:00
-  Year: 2021
-notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-529d6452a0524c07b4cdb7f5f89585d0
-indexDate: 2021-08-15
-software: Google Meet
-tags:
-- Talk
-- 2021-08-15
-- Peggy@李明霈
-- Antina@張庭瑄
+object: page
 ---
 
 Topic: Alfred Adler: The Courage to Be Disliked
