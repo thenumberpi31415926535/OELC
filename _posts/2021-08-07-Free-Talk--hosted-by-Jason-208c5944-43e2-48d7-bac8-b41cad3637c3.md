@@ -1,39 +1,12 @@
 ---
-software: Discord
-last_edited_time:
-  DateTime: 2021-07-31T23:05:00.0000000
-  UtcDateTime: 2021-07-31T15:05:00.0000000Z
-  LocalDateTime: 2021-07-31T15:05:00.0000000+00:00
-  Date: 2021-07-31T00:00:00.0000000
-  Day: 31
-  DayOfWeek: Saturday
-  DayOfYear: 212
-  Hour: 23
-  Minute: 5
-  Month: 7
-  Offset: 08:00:00
-  Ticks: 637633695000000000
-  UtcTicks: 637633407000000000
-  TimeOfDay: 23:05:00
-  Year: 2021
+title: Free Talk, hosted by Jason
 language_level: No limit
 archived: false
+id: 208c5944-43e2-48d7-bac8-b41cad3637c3
 name: Free Talk, hosted by Jason
-talktime:
-  DateTime: 2021-08-07T12:00:00.0000000
-  UtcDateTime: 2021-08-07T04:00:00.0000000Z
-  LocalDateTime: 2021-08-07T04:00:00.0000000+00:00
-  Date: 2021-08-07T00:00:00.0000000
-  Day: 7
-  DayOfWeek: Saturday
-  DayOfYear: 219
-  Hour: 12
-  Month: 8
-  Offset: 08:00:00
-  Ticks: 637639344000000000
-  UtcTicks: 637639056000000000
-  TimeOfDay: 12:00:00
-  Year: 2021
+object: page
+parent_type: database_id
+hosts: Jason
 created_time:
   DateTime: 2021-07-31T12:59:00.0000000
   UtcDateTime: 2021-07-31T04:59:00.0000000Z
@@ -50,20 +23,47 @@ created_time:
   UtcTicks: 637633043400000000
   TimeOfDay: 12:59:00
   Year: 2021
-hosts: Jason
+meeting_link: https://discord.gg/pUgB4XEQrH
+sign_up_here: '[https://forms.gle/w2DAiXkKB79XDwbw6](https://forms.gle/w2DAiXkKB79XDwbw6)'
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-parent_type: database_id
+last_edited_time:
+  DateTime: 2021-07-31T23:05:00.0000000
+  UtcDateTime: 2021-07-31T15:05:00.0000000Z
+  LocalDateTime: 2021-07-31T15:05:00.0000000+00:00
+  Date: 2021-07-31T00:00:00.0000000
+  Day: 31
+  DayOfWeek: Saturday
+  DayOfYear: 212
+  Hour: 23
+  Minute: 5
+  Month: 7
+  Offset: 08:00:00
+  Ticks: 637633695000000000
+  UtcTicks: 637633407000000000
+  TimeOfDay: 23:05:00
+  Year: 2021
+talktime:
+  DateTime: 2021-08-07T12:00:00.0000000
+  UtcDateTime: 2021-08-07T04:00:00.0000000Z
+  LocalDateTime: 2021-08-07T04:00:00.0000000+00:00
+  Date: 2021-08-07T00:00:00.0000000
+  Day: 7
+  DayOfWeek: Saturday
+  DayOfYear: 219
+  Hour: 12
+  Month: 8
+  Offset: 08:00:00
+  Ticks: 637639344000000000
+  UtcTicks: 637639056000000000
+  TimeOfDay: 12:00:00
+  Year: 2021
+notion_url: https://www.notion.so/Free-Talk-hosted-by-Jason-208c594443e248d7bac8b41cad3637c3
+indexDate: 2021-08-07
+software: Discord
 tags:
 - Talk
 - 2021-08-07
 - Jason
-title: Free Talk, hosted by Jason
-notion_url: https://www.notion.so/Free-Talk-hosted-by-Jason-208c594443e248d7bac8b41cad3637c3
-object: page
-indexDate: 2021-08-07
-meeting_link: https://discord.gg/pUgB4XEQrH
-sign_up_here: '[https://forms.gle/w2DAiXkKB79XDwbw6](https://forms.gle/w2DAiXkKB79XDwbw6)'
-id: 208c5944-43e2-48d7-bac8-b41cad3637c3
 ---
 
 

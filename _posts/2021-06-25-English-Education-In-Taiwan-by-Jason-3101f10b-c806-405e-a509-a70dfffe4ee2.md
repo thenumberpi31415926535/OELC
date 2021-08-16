@@ -1,5 +1,30 @@
 ---
-software: Skype
+title: English Education In Taiwan by Jason
+archived: false
+id: 3101f10b-c806-405e-a509-a70dfffe4ee2
+name: English Education In Taiwan by Jason
+object: page
+parent_type: database_id
+hosts: Jason
+created_time:
+  DateTime: 2021-06-23T07:11:00.0000000
+  UtcDateTime: 2021-06-22T23:11:00.0000000Z
+  LocalDateTime: 2021-06-22T23:11:00.0000000+00:00
+  Date: 2021-06-23T00:00:00.0000000
+  Day: 23
+  DayOfWeek: Wednesday
+  DayOfYear: 174
+  Hour: 7
+  Minute: 11
+  Month: 6
+  Offset: 08:00:00
+  Ticks: 637600290600000000
+  UtcTicks: 637600002600000000
+  TimeOfDay: 07:11:00
+  Year: 2021
+meeting_link: https://join.skype.com/v06ubCvQXA0W
+sign_up_here: '[https://forms.gle/Ay8KCADQRkzMuRtT8](https://forms.gle/Ay8KCADQRkzMuRtT8)'
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 last_edited_time:
   DateTime: 2021-06-24T06:34:00.0000000
   UtcDateTime: 2021-06-23T22:34:00.0000000Z
@@ -31,38 +56,13 @@ talktime:
   UtcTicks: 637601940000000000
   TimeOfDay: 13:00:00
   Year: 2021
-archived: false
-name: English Education In Taiwan by Jason
-created_time:
-  DateTime: 2021-06-23T07:11:00.0000000
-  UtcDateTime: 2021-06-22T23:11:00.0000000Z
-  LocalDateTime: 2021-06-22T23:11:00.0000000+00:00
-  Date: 2021-06-23T00:00:00.0000000
-  Day: 23
-  DayOfWeek: Wednesday
-  DayOfYear: 174
-  Hour: 7
-  Minute: 11
-  Month: 6
-  Offset: 08:00:00
-  Ticks: 637600290600000000
-  UtcTicks: 637600002600000000
-  TimeOfDay: 07:11:00
-  Year: 2021
-hosts: Jason
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-parent_type: database_id
+notion_url: https://www.notion.so/English-Education-In-Taiwan-by-Jason-3101f10bc806405ea509a70dfffe4ee2
+indexDate: 2021-06-25
+software: Skype
 tags:
 - Talk
 - 2021-06-25
 - Jason
-title: English Education In Taiwan by Jason
-notion_url: https://www.notion.so/English-Education-In-Taiwan-by-Jason-3101f10bc806405ea509a70dfffe4ee2
-object: page
-indexDate: 2021-06-25
-meeting_link: https://join.skype.com/v06ubCvQXA0W
-sign_up_here: '[https://forms.gle/Ay8KCADQRkzMuRtT8](https://forms.gle/Ay8KCADQRkzMuRtT8)'
-id: 3101f10b-c806-405e-a509-a70dfffe4ee2
 ---
 
 

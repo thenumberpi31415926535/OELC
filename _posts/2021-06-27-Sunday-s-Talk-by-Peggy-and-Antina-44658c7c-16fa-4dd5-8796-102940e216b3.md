@@ -1,38 +1,14 @@
 ---
-software: Google Meet
-last_edited_time:
-  DateTime: 2021-06-27T01:29:00.0000000
-  UtcDateTime: 2021-06-26T17:29:00.0000000Z
-  LocalDateTime: 2021-06-26T17:29:00.0000000+00:00
-  Date: 2021-06-27T00:00:00.0000000
-  Day: 27
-  DayOfYear: 178
-  Hour: 1
-  Minute: 29
-  Month: 6
-  Offset: 08:00:00
-  Ticks: 637603541400000000
-  UtcTicks: 637603253400000000
-  TimeOfDay: 01:29:00
-  Year: 2021
+title: Sunday's Talk by Peggy and Antina
 language_level: No limit
 archived: false
+id: 44658c7c-16fa-4dd5-8796-102940e216b3
 name: Sunday's Talk by Peggy and Antina
-talktime:
-  DateTime: 2021-06-27T01:30:00.0000000
-  UtcDateTime: 2021-06-26T17:30:00.0000000Z
-  LocalDateTime: 2021-06-26T17:30:00.0000000+00:00
-  Date: 2021-06-27T00:00:00.0000000
-  Day: 27
-  DayOfYear: 178
-  Hour: 1
-  Minute: 30
-  Month: 6
-  Offset: 08:00:00
-  Ticks: 637603542000000000
-  UtcTicks: 637603254000000000
-  TimeOfDay: 01:30:00
-  Year: 2021
+object: page
+parent_type: database_id
+hosts:
+- Peggy@李明霈
+- Antina@張庭瑄
 created_time:
   DateTime: 2021-06-14T06:15:00.0000000
   UtcDateTime: 2021-06-13T22:15:00.0000000Z
@@ -49,23 +25,47 @@ created_time:
   UtcTicks: 637592193000000000
   TimeOfDay: 06:15:00
   Year: 2021
-hosts:
-- Peggy@李明霈
-- Antina@張庭瑄
+meeting_link: https://meet.google.com/uor-traf-jys
+sign_up_here: 
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-parent_type: database_id
+last_edited_time:
+  DateTime: 2021-06-27T01:29:00.0000000
+  UtcDateTime: 2021-06-26T17:29:00.0000000Z
+  LocalDateTime: 2021-06-26T17:29:00.0000000+00:00
+  Date: 2021-06-27T00:00:00.0000000
+  Day: 27
+  DayOfYear: 178
+  Hour: 1
+  Minute: 29
+  Month: 6
+  Offset: 08:00:00
+  Ticks: 637603541400000000
+  UtcTicks: 637603253400000000
+  TimeOfDay: 01:29:00
+  Year: 2021
+talktime:
+  DateTime: 2021-06-27T01:30:00.0000000
+  UtcDateTime: 2021-06-26T17:30:00.0000000Z
+  LocalDateTime: 2021-06-26T17:30:00.0000000+00:00
+  Date: 2021-06-27T00:00:00.0000000
+  Day: 27
+  DayOfYear: 178
+  Hour: 1
+  Minute: 30
+  Month: 6
+  Offset: 08:00:00
+  Ticks: 637603542000000000
+  UtcTicks: 637603254000000000
+  TimeOfDay: 01:30:00
+  Year: 2021
+notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-44658c7c16fa4dd58796102940e216b3
+indexDate: 2021-06-27
+software: Google Meet
 tags:
 - Talk
 - 2021-06-27
 - Peggy@李明霈
 - Antina@張庭瑄
-title: Sunday's Talk by Peggy and Antina
-notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-44658c7c16fa4dd58796102940e216b3
-object: page
-indexDate: 2021-06-27
-meeting_link: https://meet.google.com/uor-traf-jys
-sign_up_here: 
-id: 44658c7c-16fa-4dd5-8796-102940e216b3
 ---
 
 # Topic: Video Call  
