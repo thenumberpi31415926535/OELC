@@ -41,7 +41,7 @@ jobs:
       - name: Commit changes
         uses: elstudio/actions-js-build/commit@v3
         with:
-          commitMessage: Automated snapshot
+        commitMessage: Automated snapshot
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
