@@ -40,7 +40,7 @@ Hosts:
 <!-- about Time -->
 {% if page.talktime %}
 <h3>
-    Time: {{ page.talktime.DateTime | date: '%F %T %z' }}
+    Time: {{ page.talktime.DateTime | date: '%F %T %Z' }}
 </h3>
 {% endif %}
 <!-- about Meeting link -->
