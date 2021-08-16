@@ -1,11 +1,46 @@
 ---
-object: page
-indexDate: 2021-06-16
-software: Google Meet
-language_level: No limit
-notion_url: https://www.notion.so/Impulse-purchase-by-Bones-and-Pi-34d872b9fe6b4d97bb613b419dcd0678
+created_time:
+  DateTime: 2021-06-13T18:34:00.0000000
+  UtcDateTime: 2021-06-13T18:34:00.0000000Z
+  LocalDateTime: 2021-06-13T18:34:00.0000000+00:00
+  Date: 2021-06-13T00:00:00.0000000
+  Day: 13
+  DayOfYear: 164
+  Hour: 18
+  Minute: 34
+  Month: 6
+  Ticks: 637592060400000000
+  UtcTicks: 637592060400000000
+  TimeOfDay: 18:34:00
+  Year: 2021
+talktime:
+  DateTime: 2021-06-16T13:00:00.0000000
+  UtcDateTime: 2021-06-16T13:00:00.0000000Z
+  LocalDateTime: 2021-06-16T13:00:00.0000000+00:00
+  Date: 2021-06-16T00:00:00.0000000
+  Day: 16
+  DayOfWeek: Wednesday
+  DayOfYear: 167
+  Hour: 13
+  Month: 6
+  Ticks: 637594452000000000
+  UtcTicks: 637594452000000000
+  TimeOfDay: 13:00:00
+  Year: 2021
+archived: false
+sign_up_here: '[https://forms.gle/vmXfsSQC92B1aoh49](https://forms.gle/vmXfsSQC92B1aoh49)'
+id: 34d872b9-fe6b-4d97-bb61-3b419dcd0678
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-title: Impulse purchase by Bones and Pi
+parent_type: database_id
+tags:
+- Talk
+- 2021-06-16
+- Pi
+- Bones
+hosts:
+- Pi
+- Bones
+software: Google Meet
 last_edited_time:
   DateTime: 2021-06-16T12:39:00.0000000
   UtcDateTime: 2021-06-16T12:39:00.0000000Z
@@ -21,48 +56,13 @@ last_edited_time:
   UtcTicks: 637594439400000000
   TimeOfDay: 12:39:00
   Year: 2021
-parent_type: database_id
-hosts:
-- Pi
-- Bones
-tags:
-- Talk
-- 2021-06-16
-- Pi
-- Bones
-archived: false
-created_time:
-  DateTime: 2021-06-13T18:34:00.0000000
-  UtcDateTime: 2021-06-13T18:34:00.0000000Z
-  LocalDateTime: 2021-06-13T18:34:00.0000000+00:00
-  Date: 2021-06-13T00:00:00.0000000
-  Day: 13
-  DayOfYear: 164
-  Hour: 18
-  Minute: 34
-  Month: 6
-  Ticks: 637592060400000000
-  UtcTicks: 637592060400000000
-  TimeOfDay: 18:34:00
-  Year: 2021
+notion_url: https://www.notion.so/Impulse-purchase-by-Bones-and-Pi-34d872b9fe6b4d97bb613b419dcd0678
+title: Impulse purchase by Bones and Pi
+object: page
 name: Impulse purchase by Bones and Pi
 meeting_link: https://meet.google.com/oxj-bvov-jua
-id: 34d872b9-fe6b-4d97-bb61-3b419dcd0678
-sign_up_here: '[https://forms.gle/vmXfsSQC92B1aoh49](https://forms.gle/vmXfsSQC92B1aoh49)'
-talktime:
-  DateTime: 2021-06-16T13:00:00.0000000
-  UtcDateTime: 2021-06-16T13:00:00.0000000Z
-  LocalDateTime: 2021-06-16T13:00:00.0000000+00:00
-  Date: 2021-06-16T00:00:00.0000000
-  Day: 16
-  DayOfWeek: Wednesday
-  DayOfYear: 167
-  Hour: 13
-  Month: 6
-  Ticks: 637594452000000000
-  UtcTicks: 637594452000000000
-  TimeOfDay: 13:00:00
-  Year: 2021
+language_level: No limit
+indexDate: 2021-06-16
 ---
 
 [Untitled](https://www.notion.so/cd877e06ad7149f69157f2c71bad5cca)   

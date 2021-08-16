@@ -1,38 +1,4 @@
 ---
-object: page
-indexDate: 2021-07-04
-software: Skype
-language_level: No limit
-notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-by-Jason-Pan-and-Riley-71110e2ad4e54ef9a5540c744a59c377
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-title: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
-last_edited_time:
-  DateTime: 2021-07-05T15:05:00.0000000
-  UtcDateTime: 2021-07-05T15:05:00.0000000Z
-  LocalDateTime: 2021-07-05T15:05:00.0000000+00:00
-  Date: 2021-07-05T00:00:00.0000000
-  Day: 5
-  DayOfWeek: Monday
-  DayOfYear: 186
-  Hour: 15
-  Minute: 5
-  Month: 7
-  Ticks: 637610943000000000
-  UtcTicks: 637610943000000000
-  TimeOfDay: 15:05:00
-  Year: 2021
-parent_type: database_id
-hosts:
-- Jason
-- Teacher Pan
-- Riley
-tags:
-- Talk
-- 2021-07-04
-- Jason
-- Teacher Pan
-- Riley
-archived: false
 created_time:
   DateTime: 2021-06-30T07:01:00.0000000
   UtcDateTime: 2021-06-30T07:01:00.0000000Z
@@ -48,10 +14,6 @@ created_time:
   UtcTicks: 637606332600000000
   TimeOfDay: 07:01:00
   Year: 2021
-name: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
-meeting_link: https://join.skype.com/wEhREpKESENC
-id: 71110e2a-d4e5-4ef9-a554-0c744a59c377
-sign_up_here: 
 talktime:
   DateTime: 2021-07-04T12:00:00.0000000
   UtcDateTime: 2021-07-04T12:00:00.0000000Z
@@ -65,6 +27,44 @@ talktime:
   UtcTicks: 637609968000000000
   TimeOfDay: 12:00:00
   Year: 2021
+archived: false
+sign_up_here: 
+id: 71110e2a-d4e5-4ef9-a554-0c744a59c377
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+parent_type: database_id
+tags:
+- Talk
+- 2021-07-04
+- Jason
+- Teacher Pan
+- Riley
+hosts:
+- Jason
+- Teacher Pan
+- Riley
+software: Skype
+last_edited_time:
+  DateTime: 2021-07-05T15:05:00.0000000
+  UtcDateTime: 2021-07-05T15:05:00.0000000Z
+  LocalDateTime: 2021-07-05T15:05:00.0000000+00:00
+  Date: 2021-07-05T00:00:00.0000000
+  Day: 5
+  DayOfWeek: Monday
+  DayOfYear: 186
+  Hour: 15
+  Minute: 5
+  Month: 7
+  Ticks: 637610943000000000
+  UtcTicks: 637610943000000000
+  TimeOfDay: 15:05:00
+  Year: 2021
+notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-by-Jason-Pan-and-Riley-71110e2ad4e54ef9a5540c744a59c377
+title: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
+object: page
+name: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
+meeting_link: https://join.skype.com/wEhREpKESENC
+language_level: No limit
+indexDate: 2021-07-04
 ---
 
 

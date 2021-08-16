@@ -1,38 +1,4 @@
 ---
-object: page
-indexDate: 2021-08-18
-software: Discord
-language_level: No limit
-notion_url: https://www.notion.so/The-night-of-the-Athletes-98f5f9748d5d4c3eb68734b0410ddbb9
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-title: The night of the Athletes
-last_edited_time:
-  DateTime: 2021-08-14T09:05:00.0000000
-  UtcDateTime: 2021-08-14T09:05:00.0000000Z
-  LocalDateTime: 2021-08-14T09:05:00.0000000+00:00
-  Date: 2021-08-14T00:00:00.0000000
-  Day: 14
-  DayOfWeek: Saturday
-  DayOfYear: 226
-  Hour: 9
-  Minute: 5
-  Month: 8
-  Ticks: 637645287000000000
-  UtcTicks: 637645287000000000
-  TimeOfDay: 09:05:00
-  Year: 2021
-parent_type: database_id
-hosts:
-- Duke
-- Jason
-- Momo
-tags:
-- Talk
-- 2021-08-18
-- Duke
-- Jason
-- Momo
-archived: false
 created_time:
   DateTime: 2021-07-20T12:15:00.0000000
   UtcDateTime: 2021-07-20T12:15:00.0000000Z
@@ -48,10 +14,6 @@ created_time:
   UtcTicks: 637623801000000000
   TimeOfDay: 12:15:00
   Year: 2021
-name: The night of the Athletes
-meeting_link: https://discord.gg/pSAXZARt
-id: 98f5f974-8d5d-4c3e-b687-34b0410ddbb9
-sign_up_here: 
 talktime:
   DateTime: 2021-08-18T12:30:00.0000000
   UtcDateTime: 2021-08-18T12:30:00.0000000Z
@@ -67,6 +29,44 @@ talktime:
   UtcTicks: 637648866000000000
   TimeOfDay: 12:30:00
   Year: 2021
+archived: false
+sign_up_here: 
+id: 98f5f974-8d5d-4c3e-b687-34b0410ddbb9
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+parent_type: database_id
+tags:
+- Talk
+- 2021-08-18
+- Duke
+- Jason
+- Momo
+hosts:
+- Duke
+- Jason
+- Momo
+software: Discord
+last_edited_time:
+  DateTime: 2021-08-14T09:05:00.0000000
+  UtcDateTime: 2021-08-14T09:05:00.0000000Z
+  LocalDateTime: 2021-08-14T09:05:00.0000000+00:00
+  Date: 2021-08-14T00:00:00.0000000
+  Day: 14
+  DayOfWeek: Saturday
+  DayOfYear: 226
+  Hour: 9
+  Minute: 5
+  Month: 8
+  Ticks: 637645287000000000
+  UtcTicks: 637645287000000000
+  TimeOfDay: 09:05:00
+  Year: 2021
+notion_url: https://www.notion.so/The-night-of-the-Athletes-98f5f9748d5d4c3eb68734b0410ddbb9
+title: The night of the Athletes
+object: page
+name: The night of the Athletes
+meeting_link: https://discord.gg/pSAXZARt
+language_level: No limit
+indexDate: 2021-08-18
 ---
 
 #                     Welcome to the night of Athletes!
