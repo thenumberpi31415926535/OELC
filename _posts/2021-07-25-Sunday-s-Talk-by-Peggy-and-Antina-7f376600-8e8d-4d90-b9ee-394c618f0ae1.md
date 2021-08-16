@@ -1,72 +1,72 @@
 ---
-indexDate: 2021-07-25
-created_time:
-  DateTime: 2021-07-20T12:10:00.0000000
-  UtcDateTime: 2021-07-20T04:10:00.0000000Z
-  LocalDateTime: 2021-07-20T04:10:00.0000000+00:00
-  Date: 2021-07-20T00:00:00.0000000
-  Day: 20
-  DayOfWeek: Tuesday
-  DayOfYear: 201
-  Hour: 12
-  Minute: 10
-  Month: 7
-  Offset: 08:00:00
-  Ticks: 637623798000000000
-  UtcTicks: 637623510000000000
-  TimeOfDay: 12:10:00
-  Year: 2021
-parent_type: database_id
-notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-7f3766008e8d4d90b9ee394c618f0ae1
+object: page
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
 language_level: No limit
+id: 7f376600-8e8d-4d90-b9ee-394c618f0ae1
 hosts:
 - Peggy@李明霈
 - Antina@張庭瑄
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-talktime:
-  DateTime: 2021-07-25T01:30:00.0000000
-  UtcDateTime: 2021-07-24T17:30:00.0000000Z
-  LocalDateTime: 2021-07-24T17:30:00.0000000+00:00
-  Date: 2021-07-25T00:00:00.0000000
-  Day: 25
-  DayOfYear: 206
-  Hour: 1
-  Minute: 30
+meeting_link: https://meet.google.com/uor-traf-jys
+name: Sunday's Talk by Peggy and Antina
+last_edited_time:
+  DateTime: 2021-07-22T17:27:00.0000000
+  UtcDateTime: 2021-07-22T09:27:00.0000000Z
+  LocalDateTime: 2021-07-22T09:27:00.0000000+00:00
+  Date: 2021-07-22T00:00:00.0000000
+  Day: 22
+  DayOfWeek: Thursday
+  DayOfYear: 203
+  Hour: 17
+  Minute: 27
   Month: 7
   Offset: 08:00:00
-  Ticks: 637627734000000000
-  UtcTicks: 637627446000000000
-  TimeOfDay: 01:30:00
+  Ticks: 637625716200000000
+  UtcTicks: 637625428200000000
+  TimeOfDay: 17:27:00
   Year: 2021
-meeting_link: https://meet.google.com/uor-traf-jys
-archived: false
-title: Sunday's Talk by Peggy and Antina
 tags:
 - Talk
 - 2021-07-25
 - Peggy@李明霈
 - Antina@張庭瑄
-object: page
-last_edited_time:
-  DateTime: 2021-07-22T09:27:00.0000000
-  UtcDateTime: 2021-07-22T01:27:00.0000000Z
-  LocalDateTime: 2021-07-22T01:27:00.0000000+00:00
-  Date: 2021-07-22T00:00:00.0000000
-  Day: 22
-  DayOfWeek: Thursday
-  DayOfYear: 203
+title: Sunday's Talk by Peggy and Antina
+talktime:
+  DateTime: 2021-07-25T09:30:00.0000000
+  UtcDateTime: 2021-07-25T01:30:00.0000000Z
+  LocalDateTime: 2021-07-25T01:30:00.0000000+00:00
+  Date: 2021-07-25T00:00:00.0000000
+  Day: 25
+  DayOfYear: 206
   Hour: 9
-  Minute: 27
+  Minute: 30
   Month: 7
   Offset: 08:00:00
-  Ticks: 637625428200000000
-  UtcTicks: 637625140200000000
-  TimeOfDay: 09:27:00
+  Ticks: 637628022000000000
+  UtcTicks: 637627734000000000
+  TimeOfDay: 09:30:00
   Year: 2021
-name: Sunday's Talk by Peggy and Antina
-id: 7f376600-8e8d-4d90-b9ee-394c618f0ae1
-software: Google Meet
 sign_up_here: Please comment below note in Line group
+parent_type: database_id
+notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-7f3766008e8d4d90b9ee394c618f0ae1
+indexDate: 2021-07-25
+created_time:
+  DateTime: 2021-07-20T20:10:00.0000000
+  UtcDateTime: 2021-07-20T12:10:00.0000000Z
+  LocalDateTime: 2021-07-20T12:10:00.0000000+00:00
+  Date: 2021-07-20T00:00:00.0000000
+  Day: 20
+  DayOfWeek: Tuesday
+  DayOfYear: 201
+  Hour: 20
+  Minute: 10
+  Month: 7
+  Offset: 08:00:00
+  Ticks: 637624086000000000
+  UtcTicks: 637623798000000000
+  TimeOfDay: 20:10:00
+  Year: 2021
+software: Google Meet
 ---
 
 # Habits in life

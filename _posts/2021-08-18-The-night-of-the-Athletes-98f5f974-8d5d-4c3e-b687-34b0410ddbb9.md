@@ -1,75 +1,75 @@
 ---
-indexDate: 2021-08-18
-created_time:
-  DateTime: 2021-07-20T12:15:00.0000000
-  UtcDateTime: 2021-07-20T04:15:00.0000000Z
-  LocalDateTime: 2021-07-20T04:15:00.0000000+00:00
-  Date: 2021-07-20T00:00:00.0000000
-  Day: 20
-  DayOfWeek: Tuesday
-  DayOfYear: 201
-  Hour: 12
-  Minute: 15
-  Month: 7
-  Offset: 08:00:00
-  Ticks: 637623801000000000
-  UtcTicks: 637623513000000000
-  TimeOfDay: 12:15:00
-  Year: 2021
-parent_type: database_id
-notion_url: https://www.notion.so/The-night-of-the-Athletes-98f5f9748d5d4c3eb68734b0410ddbb9
+object: page
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
 language_level: No limit
+id: 98f5f974-8d5d-4c3e-b687-34b0410ddbb9
 hosts:
 - Duke
 - Jason
 - Momo
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-talktime:
-  DateTime: 2021-08-18T12:30:00.0000000
-  UtcDateTime: 2021-08-18T04:30:00.0000000Z
-  LocalDateTime: 2021-08-18T04:30:00.0000000+00:00
-  Date: 2021-08-18T00:00:00.0000000
-  Day: 18
-  DayOfWeek: Wednesday
-  DayOfYear: 230
-  Hour: 12
-  Minute: 30
+meeting_link: https://discord.gg/pSAXZARt
+name: The night of the Athletes
+last_edited_time:
+  DateTime: 2021-08-14T17:05:00.0000000
+  UtcDateTime: 2021-08-14T09:05:00.0000000Z
+  LocalDateTime: 2021-08-14T09:05:00.0000000+00:00
+  Date: 2021-08-14T00:00:00.0000000
+  Day: 14
+  DayOfWeek: Saturday
+  DayOfYear: 226
+  Hour: 17
+  Minute: 5
   Month: 8
   Offset: 08:00:00
-  Ticks: 637648866000000000
-  UtcTicks: 637648578000000000
-  TimeOfDay: 12:30:00
+  Ticks: 637645575000000000
+  UtcTicks: 637645287000000000
+  TimeOfDay: 17:05:00
   Year: 2021
-meeting_link: https://discord.gg/pSAXZARt
-archived: false
-title: The night of the Athletes
 tags:
 - Talk
 - 2021-08-18
 - Duke
 - Jason
 - Momo
-object: page
-last_edited_time:
-  DateTime: 2021-08-14T09:05:00.0000000
-  UtcDateTime: 2021-08-14T01:05:00.0000000Z
-  LocalDateTime: 2021-08-14T01:05:00.0000000+00:00
-  Date: 2021-08-14T00:00:00.0000000
-  Day: 14
-  DayOfWeek: Saturday
-  DayOfYear: 226
-  Hour: 9
-  Minute: 5
+title: The night of the Athletes
+talktime:
+  DateTime: 2021-08-18T20:30:00.0000000
+  UtcDateTime: 2021-08-18T12:30:00.0000000Z
+  LocalDateTime: 2021-08-18T12:30:00.0000000+00:00
+  Date: 2021-08-18T00:00:00.0000000
+  Day: 18
+  DayOfWeek: Wednesday
+  DayOfYear: 230
+  Hour: 20
+  Minute: 30
   Month: 8
   Offset: 08:00:00
-  Ticks: 637645287000000000
-  UtcTicks: 637644999000000000
-  TimeOfDay: 09:05:00
+  Ticks: 637649154000000000
+  UtcTicks: 637648866000000000
+  TimeOfDay: 20:30:00
   Year: 2021
-name: The night of the Athletes
-id: 98f5f974-8d5d-4c3e-b687-34b0410ddbb9
-software: Discord
 sign_up_here: 
+parent_type: database_id
+notion_url: https://www.notion.so/The-night-of-the-Athletes-98f5f9748d5d4c3eb68734b0410ddbb9
+indexDate: 2021-08-18
+created_time:
+  DateTime: 2021-07-20T20:15:00.0000000
+  UtcDateTime: 2021-07-20T12:15:00.0000000Z
+  LocalDateTime: 2021-07-20T12:15:00.0000000+00:00
+  Date: 2021-07-20T00:00:00.0000000
+  Day: 20
+  DayOfWeek: Tuesday
+  DayOfYear: 201
+  Hour: 20
+  Minute: 15
+  Month: 7
+  Offset: 08:00:00
+  Ticks: 637624089000000000
+  UtcTicks: 637623801000000000
+  TimeOfDay: 20:15:00
+  Year: 2021
+software: Discord
 ---
 
 #                     Welcome to the night of Athletes!

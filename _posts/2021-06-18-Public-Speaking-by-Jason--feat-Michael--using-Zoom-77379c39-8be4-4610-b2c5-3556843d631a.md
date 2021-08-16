@@ -1,67 +1,68 @@
 ---
-indexDate: 2021-06-18
-created_time:
-  DateTime: 2021-06-13T17:22:00.0000000
-  UtcDateTime: 2021-06-13T09:22:00.0000000Z
-  LocalDateTime: 2021-06-13T09:22:00.0000000+00:00
-  Date: 2021-06-13T00:00:00.0000000
-  Day: 13
-  DayOfYear: 164
-  Hour: 17
-  Minute: 22
-  Month: 6
-  Offset: 08:00:00
-  Ticks: 637592017200000000
-  UtcTicks: 637591729200000000
-  TimeOfDay: 17:22:00
-  Year: 2021
-parent_type: database_id
-notion_url: https://www.notion.so/Public-Speaking-by-Jason-feat-Michael-using-Zoom-77379c398be44610b2c53556843d631a
-hosts: Jason
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-talktime:
-  DateTime: 2021-06-18T13:00:00.0000000
-  UtcDateTime: 2021-06-18T05:00:00.0000000Z
-  LocalDateTime: 2021-06-18T05:00:00.0000000+00:00
-  Date: 2021-06-18T00:00:00.0000000
-  Day: 18
-  DayOfWeek: Friday
-  DayOfYear: 169
-  Hour: 13
-  Month: 6
-  Offset: 08:00:00
-  Ticks: 637596180000000000
-  UtcTicks: 637595892000000000
-  TimeOfDay: 13:00:00
-  Year: 2021
-meeting_link: https://purdue-edu.zoom.us/j/94053692745
-archived: false
-title: Public Speaking by Jason (feat Michael) using Zoom
-tags:
-- Talk
-- 2021-06-18
-- Jason
 object: page
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+software: Zoom
+id: 77379c39-8be4-4610-b2c5-3556843d631a
+hosts: Jason
+meeting_link: https://purdue-edu.zoom.us/j/94053692745
+name: Public Speaking by Jason (feat Michael) using Zoom
 last_edited_time:
-  DateTime: 2021-06-23T07:13:00.0000000
-  UtcDateTime: 2021-06-22T23:13:00.0000000Z
-  LocalDateTime: 2021-06-22T23:13:00.0000000+00:00
+  DateTime: 2021-06-23T15:13:00.0000000
+  UtcDateTime: 2021-06-23T07:13:00.0000000Z
+  LocalDateTime: 2021-06-23T07:13:00.0000000+00:00
   Date: 2021-06-23T00:00:00.0000000
   Day: 23
   DayOfWeek: Wednesday
   DayOfYear: 174
-  Hour: 7
+  Hour: 15
   Minute: 13
   Month: 6
   Offset: 08:00:00
-  Ticks: 637600291800000000
-  UtcTicks: 637600003800000000
-  TimeOfDay: 07:13:00
+  Ticks: 637600579800000000
+  UtcTicks: 637600291800000000
+  TimeOfDay: 15:13:00
   Year: 2021
-name: Public Speaking by Jason (feat Michael) using Zoom
-id: 77379c39-8be4-4610-b2c5-3556843d631a
-software: Zoom
+tags:
+- Talk
+- 2021-06-18
+- Jason
+title: Public Speaking by Jason (feat Michael) using Zoom
+talktime:
+  DateTime: 2021-06-18T21:00:00.0000000
+  UtcDateTime: 2021-06-18T13:00:00.0000000Z
+  LocalDateTime: 2021-06-18T13:00:00.0000000+00:00
+  Date: 2021-06-18T00:00:00.0000000
+  Day: 18
+  DayOfWeek: Friday
+  DayOfYear: 169
+  Hour: 21
+  Month: 6
+  Offset: 08:00:00
+  Ticks: 637596468000000000
+  UtcTicks: 637596180000000000
+  TimeOfDay: 21:00:00
+  Year: 2021
 sign_up_here: '[https://forms.gle/dJMV54b54TsMX1ib6](https://forms.gle/dJMV54b54TsMX1ib6)'
+parent_type: database_id
+notion_url: https://www.notion.so/Public-Speaking-by-Jason-feat-Michael-using-Zoom-77379c398be44610b2c53556843d631a
+indexDate: 2021-06-18
+created_time:
+  DateTime: 2021-06-14T01:22:00.0000000
+  UtcDateTime: 2021-06-13T17:22:00.0000000Z
+  LocalDateTime: 2021-06-13T17:22:00.0000000+00:00
+  Date: 2021-06-14T00:00:00.0000000
+  Day: 14
+  DayOfWeek: Monday
+  DayOfYear: 165
+  Hour: 1
+  Minute: 22
+  Month: 6
+  Offset: 08:00:00
+  Ticks: 637592305200000000
+  UtcTicks: 637592017200000000
+  TimeOfDay: 01:22:00
+  Year: 2021
 ---
 
 ⚠️
