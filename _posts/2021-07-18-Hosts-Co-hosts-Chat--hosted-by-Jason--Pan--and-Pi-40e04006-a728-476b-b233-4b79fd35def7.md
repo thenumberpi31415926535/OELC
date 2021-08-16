@@ -1,5 +1,5 @@
 ---
-software: Discord
+indexDate: 2021-07-18
 last_edited_time:
   DateTime: 2021-07-20T12:10:00.0000000
   UtcDateTime: 2021-07-20T12:10:00.0000000Z
@@ -15,36 +15,22 @@ last_edited_time:
   UtcTicks: 637623798000000000
   TimeOfDay: 12:10:00
   Year: 2021
-title: Hosts/Co-hosts Chat, hosted by Jason, Pan, and Pi
+archived: false
+software: Discord
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-hosted-by-Jason-Pan-and-Pi-40e04006a728476bb2334b79fd35def7
-talktime:
-  DateTime: 2021-07-18T12:00:00.0000000
-  UtcDateTime: 2021-07-18T12:00:00.0000000Z
-  LocalDateTime: 2021-07-18T12:00:00.0000000+00:00
-  Date: 2021-07-18T00:00:00.0000000
-  Day: 18
-  DayOfYear: 199
-  Hour: 12
-  Month: 7
-  Ticks: 637622064000000000
-  UtcTicks: 637622064000000000
-  TimeOfDay: 12:00:00
-  Year: 2021
-tags:
-- Talk
-- 2021-07-18
-- Jason
-- Teacher Pan
-- Pi
-indexDate: 2021-07-18
-meeting_link: https://discord.gg/bBuv3mCQQe
+title: Hosts/Co-hosts Chat, hosted by Jason, Pan, and Pi
 language_level: No limit
+id: 40e04006-a728-476b-b233-4b79fd35def7
+meeting_link: https://discord.gg/bBuv3mCQQe
+parent_type: database_id
+object: page
+name: Hosts/Co-hosts Chat, hosted by Jason, Pan, and Pi
+sign_up_here: 
 hosts:
 - Jason
 - Teacher Pan
 - Pi
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-id: 40e04006-a728-476b-b233-4b79fd35def7
 created_time:
   DateTime: 2021-07-13T14:42:00.0000000
   UtcDateTime: 2021-07-13T14:42:00.0000000Z
@@ -60,11 +46,25 @@ created_time:
   UtcTicks: 637617841200000000
   TimeOfDay: 14:42:00
   Year: 2021
-object: page
-archived: false
-parent_type: database_id
-sign_up_here: 
-name: Hosts/Co-hosts Chat, hosted by Jason, Pan, and Pi
+tags:
+- Talk
+- 2021-07-18
+- Jason
+- Teacher Pan
+- Pi
+talktime:
+  DateTime: 2021-07-18T12:00:00.0000000
+  UtcDateTime: 2021-07-18T12:00:00.0000000Z
+  LocalDateTime: 2021-07-18T12:00:00.0000000+00:00
+  Date: 2021-07-18T00:00:00.0000000
+  Day: 18
+  DayOfYear: 199
+  Hour: 12
+  Month: 7
+  Ticks: 637622064000000000
+  UtcTicks: 637622064000000000
+  TimeOfDay: 12:00:00
+  Year: 2021
 ---
 
 

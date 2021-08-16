@@ -1,5 +1,5 @@
 ---
-software: Discord
+indexDate: 2021-06-23
 last_edited_time:
   DateTime: 2021-06-23T13:33:00.0000000
   UtcDateTime: 2021-06-23T13:33:00.0000000Z
@@ -15,37 +15,22 @@ last_edited_time:
   UtcTicks: 637600519800000000
   TimeOfDay: 13:33:00
   Year: 2021
-title: 'Remote learning / WFH (feat. Momo) by Bones and Pi '
+archived: false
+software: Discord
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 notion_url: https://www.notion.so/Remote-learning-WFH-feat-Momo-by-Bones-and-Pi-bc7ae5f7b7e040fbbd59b848c509741c
-talktime:
-  DateTime: 2021-06-23T13:00:00.0000000
-  UtcDateTime: 2021-06-23T13:00:00.0000000Z
-  LocalDateTime: 2021-06-23T13:00:00.0000000+00:00
-  Date: 2021-06-23T00:00:00.0000000
-  Day: 23
-  DayOfWeek: Wednesday
-  DayOfYear: 174
-  Hour: 13
-  Month: 6
-  Ticks: 637600500000000000
-  UtcTicks: 637600500000000000
-  TimeOfDay: 13:00:00
-  Year: 2021
-tags:
-- Talk
-- 2021-06-23
-- Bones
-- Pi
-- Momo
-indexDate: 2021-06-23
-meeting_link: https://discord.gg/vE7QUXGDnS
+title: 'Remote learning / WFH (feat. Momo) by Bones and Pi '
 language_level: intermediate to advanced
+id: bc7ae5f7-b7e0-40fb-bd59-b848c509741c
+meeting_link: https://discord.gg/vE7QUXGDnS
+parent_type: database_id
+object: page
+name: 'Remote learning / WFH (feat. Momo) by Bones and Pi '
+sign_up_here: '[https://forms.gle/7sZsAQq5BPwcjaDX9](https://forms.gle/7sZsAQq5BPwcjaDX9)'
 hosts:
 - Bones
 - Pi
 - Momo
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-id: bc7ae5f7-b7e0-40fb-bd59-b848c509741c
 created_time:
   DateTime: 2021-06-15T12:16:00.0000000
   UtcDateTime: 2021-06-15T12:16:00.0000000Z
@@ -61,11 +46,26 @@ created_time:
   UtcTicks: 637593561600000000
   TimeOfDay: 12:16:00
   Year: 2021
-object: page
-archived: false
-parent_type: database_id
-sign_up_here: '[https://forms.gle/7sZsAQq5BPwcjaDX9](https://forms.gle/7sZsAQq5BPwcjaDX9)'
-name: 'Remote learning / WFH (feat. Momo) by Bones and Pi '
+tags:
+- Talk
+- 2021-06-23
+- Bones
+- Pi
+- Momo
+talktime:
+  DateTime: 2021-06-23T13:00:00.0000000
+  UtcDateTime: 2021-06-23T13:00:00.0000000Z
+  LocalDateTime: 2021-06-23T13:00:00.0000000+00:00
+  Date: 2021-06-23T00:00:00.0000000
+  Day: 23
+  DayOfWeek: Wednesday
+  DayOfYear: 174
+  Hour: 13
+  Month: 6
+  Ticks: 637600500000000000
+  UtcTicks: 637600500000000000
+  TimeOfDay: 13:00:00
+  Year: 2021
 ---
 
 [Untitled](https://www.notion.so/23f0f26c7f1547c0b08477c0c6f1f461)   

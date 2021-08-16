@@ -1,5 +1,5 @@
 ---
-software: Google Meet
+indexDate: 2021-06-27
 last_edited_time:
   DateTime: 2021-06-27T01:29:00.0000000
   UtcDateTime: 2021-06-27T01:29:00.0000000Z
@@ -14,35 +14,21 @@ last_edited_time:
   UtcTicks: 637603541400000000
   TimeOfDay: 01:29:00
   Year: 2021
-title: Sunday's Talk by Peggy and Antina
+archived: false
+software: Google Meet
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-44658c7c16fa4dd58796102940e216b3
-talktime:
-  DateTime: 2021-06-27T01:30:00.0000000
-  UtcDateTime: 2021-06-27T01:30:00.0000000Z
-  LocalDateTime: 2021-06-27T01:30:00.0000000+00:00
-  Date: 2021-06-27T00:00:00.0000000
-  Day: 27
-  DayOfYear: 178
-  Hour: 1
-  Minute: 30
-  Month: 6
-  Ticks: 637603542000000000
-  UtcTicks: 637603542000000000
-  TimeOfDay: 01:30:00
-  Year: 2021
-tags:
-- Talk
-- 2021-06-27
-- Peggy@李明霈
-- Antina@張庭瑄
-indexDate: 2021-06-27
-meeting_link: https://meet.google.com/uor-traf-jys
+title: Sunday's Talk by Peggy and Antina
 language_level: No limit
+id: 44658c7c-16fa-4dd5-8796-102940e216b3
+meeting_link: https://meet.google.com/uor-traf-jys
+parent_type: database_id
+object: page
+name: Sunday's Talk by Peggy and Antina
+sign_up_here: 
 hosts:
 - Peggy@李明霈
 - Antina@張庭瑄
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-id: 44658c7c-16fa-4dd5-8796-102940e216b3
 created_time:
   DateTime: 2021-06-14T06:15:00.0000000
   UtcDateTime: 2021-06-14T06:15:00.0000000Z
@@ -58,11 +44,25 @@ created_time:
   UtcTicks: 637592481000000000
   TimeOfDay: 06:15:00
   Year: 2021
-object: page
-archived: false
-parent_type: database_id
-sign_up_here: 
-name: Sunday's Talk by Peggy and Antina
+tags:
+- Talk
+- 2021-06-27
+- Peggy@李明霈
+- Antina@張庭瑄
+talktime:
+  DateTime: 2021-06-27T01:30:00.0000000
+  UtcDateTime: 2021-06-27T01:30:00.0000000Z
+  LocalDateTime: 2021-06-27T01:30:00.0000000+00:00
+  Date: 2021-06-27T00:00:00.0000000
+  Day: 27
+  DayOfYear: 178
+  Hour: 1
+  Minute: 30
+  Month: 6
+  Ticks: 637603542000000000
+  UtcTicks: 637603542000000000
+  TimeOfDay: 01:30:00
+  Year: 2021
 ---
 
 # Topic: Video Call  

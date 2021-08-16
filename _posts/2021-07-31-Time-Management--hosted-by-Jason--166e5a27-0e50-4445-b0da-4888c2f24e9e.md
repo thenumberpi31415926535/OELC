@@ -1,5 +1,5 @@
 ---
-software: Discord
+indexDate: 2021-07-31
 last_edited_time:
   DateTime: 2021-07-29T04:05:00.0000000
   UtcDateTime: 2021-07-29T04:05:00.0000000Z
@@ -15,32 +15,19 @@ last_edited_time:
   UtcTicks: 637631283000000000
   TimeOfDay: 04:05:00
   Year: 2021
-title: 'Time Management, hosted by Jason '
-notion_url: https://www.notion.so/Time-Management-hosted-by-Jason-166e5a270e504445b0da4888c2f24e9e
-talktime:
-  DateTime: 2021-07-31T11:00:00.0000000
-  UtcDateTime: 2021-07-31T11:00:00.0000000Z
-  LocalDateTime: 2021-07-31T11:00:00.0000000+00:00
-  Date: 2021-07-31T00:00:00.0000000
-  Day: 31
-  DayOfWeek: Saturday
-  DayOfYear: 212
-  Hour: 11
-  Month: 7
-  Ticks: 637633260000000000
-  UtcTicks: 637633260000000000
-  TimeOfDay: 11:00:00
-  Year: 2021
-tags:
-- Talk
-- 2021-07-31
-- Jason
-indexDate: 2021-07-31
-meeting_link: https://discord.gg/pUgB4XEQrH
-language_level: No limit
-hosts: Jason
+archived: false
+software: Discord
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+notion_url: https://www.notion.so/Time-Management-hosted-by-Jason-166e5a270e504445b0da4888c2f24e9e
+title: 'Time Management, hosted by Jason '
+language_level: No limit
 id: 166e5a27-0e50-4445-b0da-4888c2f24e9e
+meeting_link: https://discord.gg/pUgB4XEQrH
+parent_type: database_id
+object: page
+name: 'Time Management, hosted by Jason '
+sign_up_here: '[https://forms.gle/jDnGW7G6WJp1q1Hf9](https://forms.gle/jDnGW7G6WJp1q1Hf9)'
+hosts: Jason
 created_time:
   DateTime: 2021-07-24T15:06:00.0000000
   UtcDateTime: 2021-07-24T15:06:00.0000000Z
@@ -56,11 +43,24 @@ created_time:
   UtcTicks: 637627359600000000
   TimeOfDay: 15:06:00
   Year: 2021
-object: page
-archived: false
-parent_type: database_id
-sign_up_here: '[https://forms.gle/jDnGW7G6WJp1q1Hf9](https://forms.gle/jDnGW7G6WJp1q1Hf9)'
-name: 'Time Management, hosted by Jason '
+tags:
+- Talk
+- 2021-07-31
+- Jason
+talktime:
+  DateTime: 2021-07-31T11:00:00.0000000
+  UtcDateTime: 2021-07-31T11:00:00.0000000Z
+  LocalDateTime: 2021-07-31T11:00:00.0000000+00:00
+  Date: 2021-07-31T00:00:00.0000000
+  Day: 31
+  DayOfWeek: Saturday
+  DayOfYear: 212
+  Hour: 11
+  Month: 7
+  Ticks: 637633260000000000
+  UtcTicks: 637633260000000000
+  TimeOfDay: 11:00:00
+  Year: 2021
 ---
 
 [Untitled](https://www.notion.so/60226399bd024bf4bf588586f8013a21)   

@@ -1,5 +1,5 @@
 ---
-software: Google Meet
+indexDate: 2021-08-22
 last_edited_time: &o0
   DateTime: 2021-08-02T04:27:00.0000000
   UtcDateTime: 2021-08-02T04:27:00.0000000Z
@@ -15,8 +15,27 @@ last_edited_time: &o0
   UtcTicks: 637634752200000000
   TimeOfDay: 04:27:00
   Year: 2021
-title: Sunday's Talk by Peggy and Antina
+archived: false
+software: Google Meet
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-67223fbeb3f94ecb99e7f436275c4df7
+title: Sunday's Talk by Peggy and Antina
+language_level: No limit
+id: 67223fbe-b3f9-4ecb-99e7-f436275c4df7
+meeting_link: ""
+parent_type: database_id
+object: page
+name: Sunday's Talk by Peggy and Antina
+sign_up_here: Please comment below note in Line group
+hosts:
+- Peggy@李明霈
+- Antina@張庭瑄
+created_time: *o0
+tags:
+- Talk
+- 2021-08-22
+- Peggy@李明霈
+- Antina@張庭瑄
 talktime:
   DateTime: 2021-08-22T01:30:00.0000000
   UtcDateTime: 2021-08-22T01:30:00.0000000Z
@@ -31,25 +50,6 @@ talktime:
   UtcTicks: 637651926000000000
   TimeOfDay: 01:30:00
   Year: 2021
-tags:
-- Talk
-- 2021-08-22
-- Peggy@李明霈
-- Antina@張庭瑄
-indexDate: 2021-08-22
-meeting_link: ""
-language_level: No limit
-hosts:
-- Peggy@李明霈
-- Antina@張庭瑄
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-id: 67223fbe-b3f9-4ecb-99e7-f436275c4df7
-created_time: *o0
-object: page
-archived: false
-parent_type: database_id
-sign_up_here: Please comment below note in Line group
-name: Sunday's Talk by Peggy and Antina
 ---
 
 

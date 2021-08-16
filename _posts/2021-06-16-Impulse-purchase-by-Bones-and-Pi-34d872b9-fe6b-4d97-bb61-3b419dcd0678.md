@@ -1,5 +1,5 @@
 ---
-software: Google Meet
+indexDate: 2021-06-16
 last_edited_time:
   DateTime: 2021-06-16T12:39:00.0000000
   UtcDateTime: 2021-06-16T12:39:00.0000000Z
@@ -15,35 +15,21 @@ last_edited_time:
   UtcTicks: 637594439400000000
   TimeOfDay: 12:39:00
   Year: 2021
-title: Impulse purchase by Bones and Pi
+archived: false
+software: Google Meet
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 notion_url: https://www.notion.so/Impulse-purchase-by-Bones-and-Pi-34d872b9fe6b4d97bb613b419dcd0678
-talktime:
-  DateTime: 2021-06-16T13:00:00.0000000
-  UtcDateTime: 2021-06-16T13:00:00.0000000Z
-  LocalDateTime: 2021-06-16T13:00:00.0000000+00:00
-  Date: 2021-06-16T00:00:00.0000000
-  Day: 16
-  DayOfWeek: Wednesday
-  DayOfYear: 167
-  Hour: 13
-  Month: 6
-  Ticks: 637594452000000000
-  UtcTicks: 637594452000000000
-  TimeOfDay: 13:00:00
-  Year: 2021
-tags:
-- Talk
-- 2021-06-16
-- Pi
-- Bones
-indexDate: 2021-06-16
-meeting_link: https://meet.google.com/oxj-bvov-jua
+title: Impulse purchase by Bones and Pi
 language_level: No limit
+id: 34d872b9-fe6b-4d97-bb61-3b419dcd0678
+meeting_link: https://meet.google.com/oxj-bvov-jua
+parent_type: database_id
+object: page
+name: Impulse purchase by Bones and Pi
+sign_up_here: '[https://forms.gle/vmXfsSQC92B1aoh49](https://forms.gle/vmXfsSQC92B1aoh49)'
 hosts:
 - Pi
 - Bones
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-id: 34d872b9-fe6b-4d97-bb61-3b419dcd0678
 created_time:
   DateTime: 2021-06-13T18:34:00.0000000
   UtcDateTime: 2021-06-13T18:34:00.0000000Z
@@ -58,11 +44,25 @@ created_time:
   UtcTicks: 637592060400000000
   TimeOfDay: 18:34:00
   Year: 2021
-object: page
-archived: false
-parent_type: database_id
-sign_up_here: '[https://forms.gle/vmXfsSQC92B1aoh49](https://forms.gle/vmXfsSQC92B1aoh49)'
-name: Impulse purchase by Bones and Pi
+tags:
+- Talk
+- 2021-06-16
+- Pi
+- Bones
+talktime:
+  DateTime: 2021-06-16T13:00:00.0000000
+  UtcDateTime: 2021-06-16T13:00:00.0000000Z
+  LocalDateTime: 2021-06-16T13:00:00.0000000+00:00
+  Date: 2021-06-16T00:00:00.0000000
+  Day: 16
+  DayOfWeek: Wednesday
+  DayOfYear: 167
+  Hour: 13
+  Month: 6
+  Ticks: 637594452000000000
+  UtcTicks: 637594452000000000
+  TimeOfDay: 13:00:00
+  Year: 2021
 ---
 
 [Untitled](https://www.notion.so/cd877e06ad7149f69157f2c71bad5cca)   

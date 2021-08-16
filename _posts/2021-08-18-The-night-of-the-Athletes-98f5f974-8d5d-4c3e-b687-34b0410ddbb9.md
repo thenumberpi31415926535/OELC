@@ -1,5 +1,5 @@
 ---
-software: Discord
+indexDate: 2021-08-18
 last_edited_time:
   DateTime: 2021-08-14T09:05:00.0000000
   UtcDateTime: 2021-08-14T09:05:00.0000000Z
@@ -15,38 +15,22 @@ last_edited_time:
   UtcTicks: 637645287000000000
   TimeOfDay: 09:05:00
   Year: 2021
-title: The night of the Athletes
+archived: false
+software: Discord
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 notion_url: https://www.notion.so/The-night-of-the-Athletes-98f5f9748d5d4c3eb68734b0410ddbb9
-talktime:
-  DateTime: 2021-08-18T12:30:00.0000000
-  UtcDateTime: 2021-08-18T12:30:00.0000000Z
-  LocalDateTime: 2021-08-18T12:30:00.0000000+00:00
-  Date: 2021-08-18T00:00:00.0000000
-  Day: 18
-  DayOfWeek: Wednesday
-  DayOfYear: 230
-  Hour: 12
-  Minute: 30
-  Month: 8
-  Ticks: 637648866000000000
-  UtcTicks: 637648866000000000
-  TimeOfDay: 12:30:00
-  Year: 2021
-tags:
-- Talk
-- 2021-08-18
-- Duke
-- Jason
-- Momo
-indexDate: 2021-08-18
-meeting_link: https://discord.gg/pSAXZARt
+title: The night of the Athletes
 language_level: No limit
+id: 98f5f974-8d5d-4c3e-b687-34b0410ddbb9
+meeting_link: https://discord.gg/pSAXZARt
+parent_type: database_id
+object: page
+name: The night of the Athletes
+sign_up_here: 
 hosts:
 - Duke
 - Jason
 - Momo
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-id: 98f5f974-8d5d-4c3e-b687-34b0410ddbb9
 created_time:
   DateTime: 2021-07-20T12:15:00.0000000
   UtcDateTime: 2021-07-20T12:15:00.0000000Z
@@ -62,11 +46,27 @@ created_time:
   UtcTicks: 637623801000000000
   TimeOfDay: 12:15:00
   Year: 2021
-object: page
-archived: false
-parent_type: database_id
-sign_up_here: 
-name: The night of the Athletes
+tags:
+- Talk
+- 2021-08-18
+- Duke
+- Jason
+- Momo
+talktime:
+  DateTime: 2021-08-18T12:30:00.0000000
+  UtcDateTime: 2021-08-18T12:30:00.0000000Z
+  LocalDateTime: 2021-08-18T12:30:00.0000000+00:00
+  Date: 2021-08-18T00:00:00.0000000
+  Day: 18
+  DayOfWeek: Wednesday
+  DayOfYear: 230
+  Hour: 12
+  Minute: 30
+  Month: 8
+  Ticks: 637648866000000000
+  UtcTicks: 637648866000000000
+  TimeOfDay: 12:30:00
+  Year: 2021
 ---
 
 #                     Welcome to the night of Athletes!

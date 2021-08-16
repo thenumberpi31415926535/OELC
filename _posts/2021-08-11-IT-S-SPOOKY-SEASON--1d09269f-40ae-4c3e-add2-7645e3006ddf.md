@@ -1,5 +1,5 @@
 ---
-software: Discord
+indexDate: 2021-08-11
 last_edited_time:
   DateTime: 2021-08-15T17:25:00.0000000
   UtcDateTime: 2021-08-15T17:25:00.0000000Z
@@ -14,35 +14,24 @@ last_edited_time:
   UtcTicks: 637646451000000000
   TimeOfDay: 17:25:00
   Year: 2021
-title: IT'S SPOOKY SEASON!
+archived: false
+software: Discord
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 notion_url: https://www.notion.so/IT-S-SPOOKY-SEASON-1d09269f40ae4c3eadd27645e3006ddf
-talktime:
-  DateTime: 2021-08-11T13:00:00.0000000
-  UtcDateTime: 2021-08-11T13:00:00.0000000Z
-  LocalDateTime: 2021-08-11T13:00:00.0000000+00:00
-  Date: 2021-08-11T00:00:00.0000000
-  Day: 11
-  DayOfWeek: Wednesday
-  DayOfYear: 223
-  Hour: 13
-  Month: 8
-  Ticks: 637642836000000000
-  UtcTicks: 637642836000000000
-  TimeOfDay: 13:00:00
-  Year: 2021
-tags:
-- Talk
-- 2021-08-11
-- Bones
-- Pi
-indexDate: 2021-08-11
-meeting_link: https://discord.gg/vE7QUXGDnS
+title: IT'S SPOOKY SEASON!
 language_level: No limit
+id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
+meeting_link: https://discord.gg/vE7QUXGDnS
+parent_type: database_id
+object: page
+name: IT'S SPOOKY SEASON!
+sign_up_here:
+- "Join Pi's "
+- '[Discord ](https://discord.gg/vE7QUXGDnS)'
+- 'server and sign up in #annoncements!'
 hosts:
 - Bones
 - Pi
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
 created_time:
   DateTime: 2021-08-10T07:46:00.0000000
   UtcDateTime: 2021-08-10T07:46:00.0000000Z
@@ -58,14 +47,25 @@ created_time:
   UtcTicks: 637641783600000000
   TimeOfDay: 07:46:00
   Year: 2021
-object: page
-archived: false
-parent_type: database_id
-sign_up_here:
-- "Join Pi's "
-- '[Discord ](https://discord.gg/vE7QUXGDnS)'
-- 'server and sign up in #annoncements!'
-name: IT'S SPOOKY SEASON!
+tags:
+- Talk
+- 2021-08-11
+- Bones
+- Pi
+talktime:
+  DateTime: 2021-08-11T13:00:00.0000000
+  UtcDateTime: 2021-08-11T13:00:00.0000000Z
+  LocalDateTime: 2021-08-11T13:00:00.0000000+00:00
+  Date: 2021-08-11T00:00:00.0000000
+  Day: 11
+  DayOfWeek: Wednesday
+  DayOfYear: 223
+  Hour: 13
+  Month: 8
+  Ticks: 637642836000000000
+  UtcTicks: 637642836000000000
+  TimeOfDay: 13:00:00
+  Year: 2021
 ---
 
 It's that time of the year again! Share your spooky experiences with us!

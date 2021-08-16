@@ -1,5 +1,5 @@
 ---
-software: Google Meet
+indexDate: 2021-06-17
 last_edited_time:
   DateTime: 2021-06-23T07:13:00.0000000
   UtcDateTime: 2021-06-23T07:13:00.0000000Z
@@ -15,32 +15,19 @@ last_edited_time:
   UtcTicks: 637600291800000000
   TimeOfDay: 07:13:00
   Year: 2021
-title: Past tense by Jason
-notion_url: https://www.notion.so/Past-tense-by-Jason-2b7c5896512e4fcabafa107abf8ec43d
-talktime:
-  DateTime: 2021-06-17T13:00:00.0000000
-  UtcDateTime: 2021-06-17T13:00:00.0000000Z
-  LocalDateTime: 2021-06-17T13:00:00.0000000+00:00
-  Date: 2021-06-17T00:00:00.0000000
-  Day: 17
-  DayOfWeek: Thursday
-  DayOfYear: 168
-  Hour: 13
-  Month: 6
-  Ticks: 637595316000000000
-  UtcTicks: 637595316000000000
-  TimeOfDay: 13:00:00
-  Year: 2021
-tags:
-- Talk
-- 2021-06-17
-- Jason
-indexDate: 2021-06-17
-meeting_link: ' https://meet.google.com/jax-dwfo-uez'
-language_level: 'CEFR: A1-C2'
-hosts: Jason
+archived: false
+software: Google Meet
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+notion_url: https://www.notion.so/Past-tense-by-Jason-2b7c5896512e4fcabafa107abf8ec43d
+title: Past tense by Jason
+language_level: 'CEFR: A1-C2'
 id: 2b7c5896-512e-4fca-bafa-107abf8ec43d
+meeting_link: ' https://meet.google.com/jax-dwfo-uez'
+parent_type: database_id
+object: page
+name: Past tense by Jason
+sign_up_here: '[https://forms.gle/96QR3o3v2abX4EMA8](https://forms.gle/96QR3o3v2abX4EMA8)'
+hosts: Jason
 created_time:
   DateTime: 2021-06-13T16:56:00.0000000
   UtcDateTime: 2021-06-13T16:56:00.0000000Z
@@ -55,11 +42,24 @@ created_time:
   UtcTicks: 637592001600000000
   TimeOfDay: 16:56:00
   Year: 2021
-object: page
-archived: false
-parent_type: database_id
-sign_up_here: '[https://forms.gle/96QR3o3v2abX4EMA8](https://forms.gle/96QR3o3v2abX4EMA8)'
-name: Past tense by Jason
+tags:
+- Talk
+- 2021-06-17
+- Jason
+talktime:
+  DateTime: 2021-06-17T13:00:00.0000000
+  UtcDateTime: 2021-06-17T13:00:00.0000000Z
+  LocalDateTime: 2021-06-17T13:00:00.0000000+00:00
+  Date: 2021-06-17T00:00:00.0000000
+  Day: 17
+  DayOfWeek: Thursday
+  DayOfYear: 168
+  Hour: 13
+  Month: 6
+  Ticks: 637595316000000000
+  UtcTicks: 637595316000000000
+  TimeOfDay: 13:00:00
+  Year: 2021
 ---
 
 ⚠️For successfully registering for the show, please fill in the Google Form below.
