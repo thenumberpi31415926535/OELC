@@ -1,70 +1,73 @@
 ---
-id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
-name: Happy Hour with Üya and Milo.$
 indexDate: 2021-07-30
-notion_url: https://www.notion.so/Happy-Hour-with-ya-and-Milo-9021fe8b2654402f8c7163aaea6fde0d
-tags:
-- Talk
-- 2021-07-30
-- Üya
-- Milo
 created_time:
-  DateTime: 2021-07-20T04:14:00.0000000
+  DateTime: 2021-07-20T12:14:00.0000000
   UtcDateTime: 2021-07-20T04:14:00.0000000Z
   LocalDateTime: 2021-07-20T04:14:00.0000000+00:00
   Date: 2021-07-20T00:00:00.0000000
   Day: 20
   DayOfWeek: Tuesday
   DayOfYear: 201
-  Hour: 4
+  Hour: 12
   Minute: 14
   Month: 7
-  Ticks: 637623512400000000
+  Offset: 08:00:00
+  Ticks: 637623800400000000
   UtcTicks: 637623512400000000
-  TimeOfDay: 04:14:00
-  Year: 2021
-last_edited_time:
-  DateTime: 2021-08-02T07:25:00.0000000
-  UtcDateTime: 2021-08-02T07:25:00.0000000Z
-  LocalDateTime: 2021-08-02T07:25:00.0000000+00:00
-  Date: 2021-08-02T00:00:00.0000000
-  Day: 2
-  DayOfWeek: Monday
-  DayOfYear: 214
-  Hour: 7
-  Minute: 25
-  Month: 8
-  Ticks: 637634859000000000
-  UtcTicks: 637634859000000000
-  TimeOfDay: 07:25:00
+  TimeOfDay: 12:14:00
   Year: 2021
 parent_type: database_id
-software: Skype
+notion_url: https://www.notion.so/Happy-Hour-with-ya-and-Milo-9021fe8b2654402f8c7163aaea6fde0d
+language_level: No limit
+hosts:
+- Üya
+- Milo
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-title: Happy Hour with Üya and Milo.$
-sign_up_here: '[https://docs.google.com/forms/d/e/1FAIpQLSdADAjUl5Y5HSU7DW4_57NqFsiOVW9_66FsI6u0AFzJ9FNjZg/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSdADAjUl5Y5HSU7DW4_57NqFsiOVW9_66FsI6u0AFzJ9FNjZg/viewform?usp=sf_link)'
-object: page
-meeting_link: join.skype.com/u6uJW0aiuHv6
 talktime:
-  DateTime: 2021-07-30T04:30:00.0000000
+  DateTime: 2021-07-30T12:30:00.0000000
   UtcDateTime: 2021-07-30T04:30:00.0000000Z
   LocalDateTime: 2021-07-30T04:30:00.0000000+00:00
   Date: 2021-07-30T00:00:00.0000000
   Day: 30
   DayOfWeek: Friday
   DayOfYear: 211
-  Hour: 4
+  Hour: 12
   Minute: 30
   Month: 7
-  Ticks: 637632162000000000
+  Offset: 08:00:00
+  Ticks: 637632450000000000
   UtcTicks: 637632162000000000
-  TimeOfDay: 04:30:00
+  TimeOfDay: 12:30:00
   Year: 2021
-hosts:
+meeting_link: join.skype.com/u6uJW0aiuHv6
+archived: false
+title: Happy Hour with Üya and Milo.$
+tags:
+- Talk
+- 2021-07-30
 - Üya
 - Milo
-language_level: No limit
-archived: false
+object: page
+last_edited_time:
+  DateTime: 2021-08-02T15:25:00.0000000
+  UtcDateTime: 2021-08-02T07:25:00.0000000Z
+  LocalDateTime: 2021-08-02T07:25:00.0000000+00:00
+  Date: 2021-08-02T00:00:00.0000000
+  Day: 2
+  DayOfWeek: Monday
+  DayOfYear: 214
+  Hour: 15
+  Minute: 25
+  Month: 8
+  Offset: 08:00:00
+  Ticks: 637635147000000000
+  UtcTicks: 637634859000000000
+  TimeOfDay: 15:25:00
+  Year: 2021
+name: Happy Hour with Üya and Milo.$
+id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+software: Skype
+sign_up_here: '[https://docs.google.com/forms/d/e/1FAIpQLSdADAjUl5Y5HSU7DW4_57NqFsiOVW9_66FsI6u0AFzJ9FNjZg/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSdADAjUl5Y5HSU7DW4_57NqFsiOVW9_66FsI6u0AFzJ9FNjZg/viewform?usp=sf_link)'
 ---
 
 We love Friday Happy Hour sessions! With the world's rapid changes, we now work with much faster pace than we used to. Motivation then became an important element in our lives to keep us going.  In today's happy hour, we want to talk about motivation and how you keep yourself motivated.
