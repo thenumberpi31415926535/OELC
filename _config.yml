@@ -3,8 +3,8 @@
 # Setup
 title:               "Online English Learning Community"
 tagline:             "Hosts and participants alike, we grow as a whole."
-timezone: Asia/Taipei
-#timezone: Australia/Melbourne
+Time Zone: Asia/Taipei
+#Time Zone: Australia/Melbourne
 exclude:            ["SyncTalks.ps1", "debug"]
 future: true
 
