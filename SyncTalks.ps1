@@ -199,7 +199,7 @@ function ExtractDateTimeFromString
     )
    
     $date = [System.DateTimeOffset]::MinValue
-    if([System.DateTimeOffset]::TryParseExact("$String +0800", 'MM/dd/yyyy H:mm:ss K', [System.Globalization.CultureInfo]:: InvariantCulture, [System.Globalization.DateTimeStyles]:: AdjustToUniversal, [ref]$date))
+    if([System.DateTimeOffset]::TryParseExact("$String +0800", 'MM/dd/yyyy H:mm:ss K', [System.Globalization.CultureInfo]:: InvariantCulture, [System.Globalization.DateTimeStyles]:: None, [ref]$date))
     {
         return $date
     }
