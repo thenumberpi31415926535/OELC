@@ -1,68 +1,24 @@
 ---
-indexDate: 2021-06-18
-sign_up_here: '[https://forms.gle/dJMV54b54TsMX1ib6](https://forms.gle/dJMV54b54TsMX1ib6)'
-talktime:
-  DateTime: 2021-06-18T21:00:00.0000000
-  UtcDateTime: 2021-06-18T13:00:00.0000000Z
-  LocalDateTime: 2021-06-18T13:00:00.0000000+00:00
-  Date: 2021-06-18T00:00:00.0000000
-  Day: 18
-  DayOfWeek: Friday
-  DayOfYear: 169
-  Hour: 21
-  Month: 6
-  Offset: 08:00:00
-  Ticks: 637596468000000000
-  UtcTicks: 637596180000000000
-  TimeOfDay: 21:00:00
-  Year: 2021
-meeting_link: https://purdue-edu.zoom.us/j/94053692745
-archived: false
-parent_type: database_id
+title: Public Speaking by Jason (feat Michael) using Zoom
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+object: page
 tags:
 - Talk
 - 2021-06-18
 - Jason
-id: 77379c39-8be4-4610-b2c5-3556843d631a
+last_edited_time: 2021-06-23T15:13:00.0000000
+talktime: 2021-06-18T21:00:00.0000000
+sign_up_here: '[https://forms.gle/dJMV54b54TsMX1ib6](https://forms.gle/dJMV54b54TsMX1ib6)'
 hosts: Jason
 name: Public Speaking by Jason (feat Michael) using Zoom
-object: page
-created_time:
-  DateTime: 2021-06-14T01:22:00.0000000
-  UtcDateTime: 2021-06-13T17:22:00.0000000Z
-  LocalDateTime: 2021-06-13T17:22:00.0000000+00:00
-  Date: 2021-06-14T00:00:00.0000000
-  Day: 14
-  DayOfWeek: Monday
-  DayOfYear: 165
-  Hour: 1
-  Minute: 22
-  Month: 6
-  Offset: 08:00:00
-  Ticks: 637592305200000000
-  UtcTicks: 637592017200000000
-  TimeOfDay: 01:22:00
-  Year: 2021
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+parent_type: database_id
 software: Zoom
-last_edited_time:
-  DateTime: 2021-06-23T15:13:00.0000000
-  UtcDateTime: 2021-06-23T07:13:00.0000000Z
-  LocalDateTime: 2021-06-23T07:13:00.0000000+00:00
-  Date: 2021-06-23T00:00:00.0000000
-  Day: 23
-  DayOfWeek: Wednesday
-  DayOfYear: 174
-  Hour: 15
-  Minute: 13
-  Month: 6
-  Offset: 08:00:00
-  Ticks: 637600579800000000
-  UtcTicks: 637600291800000000
-  TimeOfDay: 15:13:00
-  Year: 2021
 notion_url: https://www.notion.so/Public-Speaking-by-Jason-feat-Michael-using-Zoom-77379c398be44610b2c53556843d631a
-title: Public Speaking by Jason (feat Michael) using Zoom
+indexDate: 2021-06-18
+created_time: 2021-06-14T01:22:00.0000000
+meeting_link: https://purdue-edu.zoom.us/j/94053692745
+id: 77379c39-8be4-4610-b2c5-3556843d631a
 ---
 
 ⚠️

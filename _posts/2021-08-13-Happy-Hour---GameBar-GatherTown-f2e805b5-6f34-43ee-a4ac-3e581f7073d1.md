@@ -1,73 +1,28 @@
 ---
-indexDate: 2021-08-13
-sign_up_here: 
-parent_type: database_id
-meeting_link: https://meet.google.com/fcz-yhyp-szx
-archived: false
-language_level: No limit
+title: Happy Hour - GameBar@GatherTown
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+name: Happy Hour - GameBar@GatherTown
+object: page
 tags:
 - Talk
 - 2021-08-13
 - Milo
 - Üya
-id: f2e805b5-6f34-43ee-a4ac-3e581f7073d1
+last_edited_time: 2021-08-13T14:01:00.0000000
+talktime: 2021-08-13T20:30:00.0000000
+sign_up_here: 
+meeting_link: https://meet.google.com/fcz-yhyp-szx
+archived: false
+parent_type: database_id
+software: Gather Town
+notion_url: https://www.notion.so/Happy-Hour-GameBar-GatherTown-f2e805b56f3443eea4ac3e581f7073d1
+indexDate: 2021-08-13
+created_time: 2021-07-20T20:14:00.0000000
+language_level: No limit
 hosts:
 - Milo
 - Üya
-name: Happy Hour - GameBar@GatherTown
-object: page
-created_time:
-  DateTime: 2021-07-20T20:14:00.0000000
-  UtcDateTime: 2021-07-20T12:14:00.0000000Z
-  LocalDateTime: 2021-07-20T12:14:00.0000000+00:00
-  Date: 2021-07-20T00:00:00.0000000
-  Day: 20
-  DayOfWeek: Tuesday
-  DayOfYear: 201
-  Hour: 20
-  Minute: 14
-  Month: 7
-  Offset: 08:00:00
-  Ticks: 637624088400000000
-  UtcTicks: 637623800400000000
-  TimeOfDay: 20:14:00
-  Year: 2021
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-software: Gather Town
-last_edited_time:
-  DateTime: 2021-08-13T14:01:00.0000000
-  UtcDateTime: 2021-08-13T06:01:00.0000000Z
-  LocalDateTime: 2021-08-13T06:01:00.0000000+00:00
-  Date: 2021-08-13T00:00:00.0000000
-  Day: 13
-  DayOfWeek: Friday
-  DayOfYear: 225
-  Hour: 14
-  Minute: 1
-  Month: 8
-  Offset: 08:00:00
-  Ticks: 637644600600000000
-  UtcTicks: 637644312600000000
-  TimeOfDay: 14:01:00
-  Year: 2021
-notion_url: https://www.notion.so/Happy-Hour-GameBar-GatherTown-f2e805b56f3443eea4ac3e581f7073d1
-talktime:
-  DateTime: 2021-08-13T20:30:00.0000000
-  UtcDateTime: 2021-08-13T12:30:00.0000000Z
-  LocalDateTime: 2021-08-13T12:30:00.0000000+00:00
-  Date: 2021-08-13T00:00:00.0000000
-  Day: 13
-  DayOfWeek: Friday
-  DayOfYear: 225
-  Hour: 20
-  Minute: 30
-  Month: 8
-  Offset: 08:00:00
-  Ticks: 637644834000000000
-  UtcTicks: 637644546000000000
-  TimeOfDay: 20:30:00
-  Year: 2021
-title: Happy Hour - GameBar@GatherTown
+id: f2e805b5-6f34-43ee-a4ac-3e581f7073d1
 ---
 
 !以下連結為Gather Town的操作參考說明，如果對此軟體不熟悉的朋友，歡迎參閱一下!!!

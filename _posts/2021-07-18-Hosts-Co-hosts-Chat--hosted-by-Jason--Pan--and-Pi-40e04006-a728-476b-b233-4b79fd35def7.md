@@ -1,73 +1,30 @@
 ---
-indexDate: 2021-07-18
-sign_up_here: 
-parent_type: database_id
-meeting_link: https://discord.gg/bBuv3mCQQe
-archived: false
-language_level: No limit
+title: Hosts/Co-hosts Chat, hosted by Jason, Pan, and Pi
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+name: Hosts/Co-hosts Chat, hosted by Jason, Pan, and Pi
+object: page
 tags:
 - Talk
 - 2021-07-18
 - Jason
 - Teacher Pan
 - Pi
-id: 40e04006-a728-476b-b233-4b79fd35def7
+last_edited_time: 2021-07-20T20:10:00.0000000
+talktime: 2021-07-18T20:00:00.0000000
+sign_up_here: 
+meeting_link: https://discord.gg/bBuv3mCQQe
+archived: false
+parent_type: database_id
+software: Discord
+notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-hosted-by-Jason-Pan-and-Pi-40e04006a728476bb2334b79fd35def7
+indexDate: 2021-07-18
+created_time: 2021-07-13T22:42:00.0000000
+language_level: No limit
 hosts:
 - Jason
 - Teacher Pan
 - Pi
-name: Hosts/Co-hosts Chat, hosted by Jason, Pan, and Pi
-object: page
-created_time:
-  DateTime: 2021-07-13T22:42:00.0000000
-  UtcDateTime: 2021-07-13T14:42:00.0000000Z
-  LocalDateTime: 2021-07-13T14:42:00.0000000+00:00
-  Date: 2021-07-13T00:00:00.0000000
-  Day: 13
-  DayOfWeek: Tuesday
-  DayOfYear: 194
-  Hour: 22
-  Minute: 42
-  Month: 7
-  Offset: 08:00:00
-  Ticks: 637618129200000000
-  UtcTicks: 637617841200000000
-  TimeOfDay: 22:42:00
-  Year: 2021
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-software: Discord
-last_edited_time:
-  DateTime: 2021-07-20T20:10:00.0000000
-  UtcDateTime: 2021-07-20T12:10:00.0000000Z
-  LocalDateTime: 2021-07-20T12:10:00.0000000+00:00
-  Date: 2021-07-20T00:00:00.0000000
-  Day: 20
-  DayOfWeek: Tuesday
-  DayOfYear: 201
-  Hour: 20
-  Minute: 10
-  Month: 7
-  Offset: 08:00:00
-  Ticks: 637624086000000000
-  UtcTicks: 637623798000000000
-  TimeOfDay: 20:10:00
-  Year: 2021
-notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-hosted-by-Jason-Pan-and-Pi-40e04006a728476bb2334b79fd35def7
-talktime:
-  DateTime: 2021-07-18T20:00:00.0000000
-  UtcDateTime: 2021-07-18T12:00:00.0000000Z
-  LocalDateTime: 2021-07-18T12:00:00.0000000+00:00
-  Date: 2021-07-18T00:00:00.0000000
-  Day: 18
-  DayOfYear: 199
-  Hour: 20
-  Month: 7
-  Offset: 08:00:00
-  Ticks: 637622352000000000
-  UtcTicks: 637622064000000000
-  TimeOfDay: 20:00:00
-  Year: 2021
-title: Hosts/Co-hosts Chat, hosted by Jason, Pan, and Pi
+id: 40e04006-a728-476b-b233-4b79fd35def7
 ---
 
 

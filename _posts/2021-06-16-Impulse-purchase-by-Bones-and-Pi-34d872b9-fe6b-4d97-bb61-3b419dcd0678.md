@@ -1,72 +1,28 @@
 ---
-indexDate: 2021-06-16
-sign_up_here: '[https://forms.gle/vmXfsSQC92B1aoh49](https://forms.gle/vmXfsSQC92B1aoh49)'
-parent_type: database_id
-meeting_link: https://meet.google.com/oxj-bvov-jua
-archived: false
-language_level: No limit
+title: Impulse purchase by Bones and Pi
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+name: Impulse purchase by Bones and Pi
+object: page
 tags:
 - Talk
 - 2021-06-16
 - Pi
 - Bones
-id: 34d872b9-fe6b-4d97-bb61-3b419dcd0678
+last_edited_time: 2021-06-16T20:39:00.0000000
+talktime: 2021-06-16T21:00:00.0000000
+sign_up_here: '[https://forms.gle/vmXfsSQC92B1aoh49](https://forms.gle/vmXfsSQC92B1aoh49)'
+meeting_link: https://meet.google.com/oxj-bvov-jua
+archived: false
+parent_type: database_id
+software: Google Meet
+notion_url: https://www.notion.so/Impulse-purchase-by-Bones-and-Pi-34d872b9fe6b4d97bb613b419dcd0678
+indexDate: 2021-06-16
+created_time: 2021-06-14T02:34:00.0000000
+language_level: No limit
 hosts:
 - Pi
 - Bones
-name: Impulse purchase by Bones and Pi
-object: page
-created_time:
-  DateTime: 2021-06-14T02:34:00.0000000
-  UtcDateTime: 2021-06-13T18:34:00.0000000Z
-  LocalDateTime: 2021-06-13T18:34:00.0000000+00:00
-  Date: 2021-06-14T00:00:00.0000000
-  Day: 14
-  DayOfWeek: Monday
-  DayOfYear: 165
-  Hour: 2
-  Minute: 34
-  Month: 6
-  Offset: 08:00:00
-  Ticks: 637592348400000000
-  UtcTicks: 637592060400000000
-  TimeOfDay: 02:34:00
-  Year: 2021
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-software: Google Meet
-last_edited_time:
-  DateTime: 2021-06-16T20:39:00.0000000
-  UtcDateTime: 2021-06-16T12:39:00.0000000Z
-  LocalDateTime: 2021-06-16T12:39:00.0000000+00:00
-  Date: 2021-06-16T00:00:00.0000000
-  Day: 16
-  DayOfWeek: Wednesday
-  DayOfYear: 167
-  Hour: 20
-  Minute: 39
-  Month: 6
-  Offset: 08:00:00
-  Ticks: 637594727400000000
-  UtcTicks: 637594439400000000
-  TimeOfDay: 20:39:00
-  Year: 2021
-notion_url: https://www.notion.so/Impulse-purchase-by-Bones-and-Pi-34d872b9fe6b4d97bb613b419dcd0678
-talktime:
-  DateTime: 2021-06-16T21:00:00.0000000
-  UtcDateTime: 2021-06-16T13:00:00.0000000Z
-  LocalDateTime: 2021-06-16T13:00:00.0000000+00:00
-  Date: 2021-06-16T00:00:00.0000000
-  Day: 16
-  DayOfWeek: Wednesday
-  DayOfYear: 167
-  Hour: 21
-  Month: 6
-  Offset: 08:00:00
-  Ticks: 637594740000000000
-  UtcTicks: 637594452000000000
-  TimeOfDay: 21:00:00
-  Year: 2021
-title: Impulse purchase by Bones and Pi
+id: 34d872b9-fe6b-4d97-bb61-3b419dcd0678
 ---
 
 [Untitled](https://www.notion.so/cd877e06ad7149f69157f2c71bad5cca)   

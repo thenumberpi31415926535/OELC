@@ -1,69 +1,25 @@
 ---
-indexDate: 2021-07-09
-sign_up_here: '[https://forms.gle/3mwUwcdZhbUktsAU9](https://forms.gle/3mwUwcdZhbUktsAU9)'
-parent_type: database_id
-meeting_link: https://join.skype.com/v06ubCvQXA0W
-archived: false
-language_level: 'CEFR: B2-C2'
+title: English Education in Taiwan by Jason
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+name: English Education in Taiwan by Jason
+object: page
 tags:
 - Talk
 - 2021-07-09
 - Jason
-id: e4333811-98a9-423b-ad32-8d05f83faa94
-hosts: Jason
-name: English Education in Taiwan by Jason
-object: page
-created_time:
-  DateTime: 2021-07-02T21:30:00.0000000
-  UtcDateTime: 2021-07-02T13:30:00.0000000Z
-  LocalDateTime: 2021-07-02T13:30:00.0000000+00:00
-  Date: 2021-07-02T00:00:00.0000000
-  Day: 2
-  DayOfWeek: Friday
-  DayOfYear: 183
-  Hour: 21
-  Minute: 30
-  Month: 7
-  Offset: 08:00:00
-  Ticks: 637608582000000000
-  UtcTicks: 637608294000000000
-  TimeOfDay: 21:30:00
-  Year: 2021
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+last_edited_time: 2021-07-13T22:38:00.0000000
+talktime: 2021-07-09T21:00:00.0000000
+sign_up_here: '[https://forms.gle/3mwUwcdZhbUktsAU9](https://forms.gle/3mwUwcdZhbUktsAU9)'
+meeting_link: https://join.skype.com/v06ubCvQXA0W
+archived: false
+parent_type: database_id
 software: Skype
-last_edited_time:
-  DateTime: 2021-07-13T22:38:00.0000000
-  UtcDateTime: 2021-07-13T14:38:00.0000000Z
-  LocalDateTime: 2021-07-13T14:38:00.0000000+00:00
-  Date: 2021-07-13T00:00:00.0000000
-  Day: 13
-  DayOfWeek: Tuesday
-  DayOfYear: 194
-  Hour: 22
-  Minute: 38
-  Month: 7
-  Offset: 08:00:00
-  Ticks: 637618126800000000
-  UtcTicks: 637617838800000000
-  TimeOfDay: 22:38:00
-  Year: 2021
 notion_url: https://www.notion.so/English-Education-in-Taiwan-by-Jason-e433381198a9423bad328d05f83faa94
-talktime:
-  DateTime: 2021-07-09T21:00:00.0000000
-  UtcDateTime: 2021-07-09T13:00:00.0000000Z
-  LocalDateTime: 2021-07-09T13:00:00.0000000+00:00
-  Date: 2021-07-09T00:00:00.0000000
-  Day: 9
-  DayOfWeek: Friday
-  DayOfYear: 190
-  Hour: 21
-  Month: 7
-  Offset: 08:00:00
-  Ticks: 637614612000000000
-  UtcTicks: 637614324000000000
-  TimeOfDay: 21:00:00
-  Year: 2021
-title: English Education in Taiwan by Jason
+indexDate: 2021-07-09
+created_time: 2021-07-02T21:30:00.0000000
+language_level: 'CEFR: B2-C2'
+hosts: Jason
+id: e4333811-98a9-423b-ad32-8d05f83faa94
 ---
 
 

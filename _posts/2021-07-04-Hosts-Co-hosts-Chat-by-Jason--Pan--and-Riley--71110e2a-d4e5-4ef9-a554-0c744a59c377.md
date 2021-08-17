@@ -1,73 +1,30 @@
 ---
-indexDate: 2021-07-04
-sign_up_here: 
-parent_type: database_id
-meeting_link: https://join.skype.com/wEhREpKESENC
-archived: false
-language_level: No limit
+title: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+name: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
+object: page
 tags:
 - Talk
 - 2021-07-04
 - Jason
 - Teacher Pan
 - Riley
-id: 71110e2a-d4e5-4ef9-a554-0c744a59c377
+last_edited_time: 2021-07-05T23:05:00.0000000
+talktime: 2021-07-04T20:00:00.0000000
+sign_up_here: 
+meeting_link: https://join.skype.com/wEhREpKESENC
+archived: false
+parent_type: database_id
+software: Skype
+notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-by-Jason-Pan-and-Riley-71110e2ad4e54ef9a5540c744a59c377
+indexDate: 2021-07-04
+created_time: 2021-06-30T15:01:00.0000000
+language_level: No limit
 hosts:
 - Jason
 - Teacher Pan
 - Riley
-name: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
-object: page
-created_time:
-  DateTime: 2021-06-30T15:01:00.0000000
-  UtcDateTime: 2021-06-30T07:01:00.0000000Z
-  LocalDateTime: 2021-06-30T07:01:00.0000000+00:00
-  Date: 2021-06-30T00:00:00.0000000
-  Day: 30
-  DayOfWeek: Wednesday
-  DayOfYear: 181
-  Hour: 15
-  Minute: 1
-  Month: 6
-  Offset: 08:00:00
-  Ticks: 637606620600000000
-  UtcTicks: 637606332600000000
-  TimeOfDay: 15:01:00
-  Year: 2021
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-software: Skype
-last_edited_time:
-  DateTime: 2021-07-05T23:05:00.0000000
-  UtcDateTime: 2021-07-05T15:05:00.0000000Z
-  LocalDateTime: 2021-07-05T15:05:00.0000000+00:00
-  Date: 2021-07-05T00:00:00.0000000
-  Day: 5
-  DayOfWeek: Monday
-  DayOfYear: 186
-  Hour: 23
-  Minute: 5
-  Month: 7
-  Offset: 08:00:00
-  Ticks: 637611231000000000
-  UtcTicks: 637610943000000000
-  TimeOfDay: 23:05:00
-  Year: 2021
-notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-by-Jason-Pan-and-Riley-71110e2ad4e54ef9a5540c744a59c377
-talktime:
-  DateTime: 2021-07-04T20:00:00.0000000
-  UtcDateTime: 2021-07-04T12:00:00.0000000Z
-  LocalDateTime: 2021-07-04T12:00:00.0000000+00:00
-  Date: 2021-07-04T00:00:00.0000000
-  Day: 4
-  DayOfYear: 185
-  Hour: 20
-  Month: 7
-  Offset: 08:00:00
-  Ticks: 637610256000000000
-  UtcTicks: 637609968000000000
-  TimeOfDay: 20:00:00
-  Year: 2021
-title: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
+id: 71110e2a-d4e5-4ef9-a554-0c744a59c377
 ---
 
 
