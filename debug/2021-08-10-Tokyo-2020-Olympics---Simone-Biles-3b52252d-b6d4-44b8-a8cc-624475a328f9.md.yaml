@@ -83,7 +83,7 @@ properties:
     id: '|tal'
     type: date
     date:
-      start: 2021-08-10T20:00:00.0000000+08:00
+      start: 2021-08-10T12:00:00.0000000+00:00
       end: 
   Name:
     id: title
@@ -115,15 +115,9 @@ results:
   image:
     caption: []
     type: file
-<<<<<<< HEAD
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4eaaa657-e71a-410d-ae75-cee82da5a402/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210817%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210817T033135Z&X-Amz-Expires=3600&X-Amz-Signature=c4c910249a4f08550a7f33bf78967257587cca23d0802c7eacb31d58feaab300&X-Amz-SignedHeaders=host
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4eaaa657-e71a-410d-ae75-cee82da5a402/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210817%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210817T115102Z&X-Amz-Expires=3600&X-Amz-Signature=2e61ee21a390ad3db40f825419e285a22ce83832cda0ecfe8881d39cdda68e22&X-Amz-SignedHeaders=host
     file:
-      expiry_time: 2021-08-17T04:31:35.5860000Z
-=======
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4eaaa657-e71a-410d-ae75-cee82da5a402/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210817%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210817T110905Z&X-Amz-Expires=3600&X-Amz-Signature=7ff119c6e592a925a91cd4184eb1612fdf7c3efb6ef5cb303d42a9732207eebc&X-Amz-SignedHeaders=host
-    file:
-      expiry_time: 2021-08-17T12:09:04.9610000Z
->>>>>>> da4ed8b (regen and updated layout)
+      expiry_time: 2021-08-17T12:51:02.4710000Z
   unsupported: {}
 - object: block
   id: af90d0eb-4f45-4ff7-9997-786406d7a673
