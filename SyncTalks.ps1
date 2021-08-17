@@ -198,10 +198,11 @@ function ExtractDateTimeFromString
         [psobject]$String
     )
    
-    $date = [System.DateTimeOffset]::MinValue
-    if([System.DateTimeOffset]::TryParseExact($String, 'MM/dd/yyyy H:mm:ss', [System.Globalization.CultureInfo]:: InvariantCulture, [System.Globalization.DateTimeStyles]:: None, [ref]$date))
+    $date = [DateTime]::MinValue
+    if([DateTime]::TryParseExact($String, 'MM/dd/yyyy H:mm:ss', [System.Globalization.CultureInfo]:: InvariantCulture, [System.Globalization.DateTimeStyles]:: None, [ref]$date))
     {
-        return $date.ToOffset([TimeSpan]::FromHours(8))
+        return [System.TimeZoneInfo]:: ConvertTimeBySystemTimeZoneId($date, "Taipei Standard Time")
+#$date.ToOffset([TimeSpan]::FromHours(8))
     }
 <#
 if([DateTime]::TryParseExact($String, 'MM/dd/yyyy H:mm:ss', [System.Globalization.CultureInfo]:: InvariantCulture, [System.Globalization.DateTimeStyles]::None, [ref]$date))
