@@ -1,49 +1,26 @@
 ---
-<<<<<<< HEAD
-title: English Education in Taiwan by Jason
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-name: English Education in Taiwan by Jason
-object: page
-=======
 archived: false
 sign_up_here: '[https://forms.gle/3mwUwcdZhbUktsAU9](https://forms.gle/3mwUwcdZhbUktsAU9)'
-created_time: 2021-07-02T13:30:00.0000000
+created_time: 2021-06-28T14:14:00.0000000
 last_edited_time: 2021-07-13T14:38:00.0000000
 name: English Education in Taiwan by Jason
 hosts: Jason
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 language_level: 'CEFR: B2-C2'
->>>>>>> da4ed8b (regen and updated layout)
 tags:
 - Talk
-- 2021-07-09
+- 2021-07-02
 - Jason
-<<<<<<< HEAD
-last_edited_time: 2021-07-13T22:38:00.0000000
-talktime: 2021-07-09T21:00:00.0000000
-sign_up_here: '[https://forms.gle/3mwUwcdZhbUktsAU9](https://forms.gle/3mwUwcdZhbUktsAU9)'
-meeting_link: https://join.skype.com/v06ubCvQXA0W
-archived: false
-parent_type: database_id
-software: Skype
-notion_url: https://www.notion.so/English-Education-in-Taiwan-by-Jason-e433381198a9423bad328d05f83faa94
-indexDate: 2021-07-09
-created_time: 2021-07-02T21:30:00.0000000
-language_level: 'CEFR: B2-C2'
-hosts: Jason
-=======
 title: English Education in Taiwan by Jason
-notion_url: https://www.notion.so/English-Education-in-Taiwan-by-Jason-e433381198a9423bad328d05f83faa94
+notion_url: https://www.notion.so/English-Education-in-Taiwan-by-Jason-1c2b875bbb0b47d4b98b5480abf724f1
 meeting_link: https://join.skype.com/v06ubCvQXA0W
-indexDate: 2021-07-09
+indexDate: 2021-07-02
 object: page
 software: Skype
-talktime: 2021-07-09T21:00:00.0000000
+talktime: 2021-07-02T21:00:00.0000000
 parent_type: database_id
->>>>>>> da4ed8b (regen and updated layout)
-id: e4333811-98a9-423b-ad32-8d05f83faa94
+id: 1c2b875b-bb0b-47d4-b98b-5480abf724f1
 ---
-
 
 
 

@@ -4,12 +4,12 @@ layout: default
 <article class="post">
 <div>
     <h1 class="TitleSubText">{{ page.title }} </h1>
-      {% for tag in page.tags %}
-      <small>[<a href="/tags.html#{{ tag | url_encode }}">{{ tag }}]</a></small>
-      {% endfor%}
+          {% for tag in page.tags %}
+              <small>[<a href="/tags.html#{{ tag | url_encode }}">{{ tag }}]</a></small>
+          {% endfor%}
 </div>
   <small>
-      {{ page.date | date_to_string }}
+      released on {{ page.date | date_to_string }}
       {% assign author = site.authors | where: 'short_name', page.author | first %}
       {% if author %}
         - <a href="{{ author.url }}">{{ author.name }}</a>
@@ -18,60 +18,128 @@ layout: default
       {% endif %}
       [ <a href="{{ page.notion_url }}">source</a> ]
   </small>
-<!-- about hosts -->
-{% if page.hosts %}
-<h3>
-Hosts: 
-<ul>
-    {% for host in page.hosts %}
-        {% assign author = site.authors | where: 'short_name', host | first %}
-        {% if author %}
-        <li><a href="{{ author.url }}">{{ author.name }}</a></li>
-        {% else %}
-        <li>
-            {{ host }}
-        </li>
-        {% endif %}
-    {% endfor %}
-
-</ul>
-</h3>
-{% endif %}
+  <br/>
+  <br/>
+<table>
 <!-- about Time -->
 {% if page.talktime %}
-<h3>
-    Time: {{ page.talktime.DateTime | date: '%F %T %Z' }}
-</h3>
+<tr>
+    <td>
+        <b>
+            Time: 
+        </b>
+    </td>
+    <td>
+        <div>
+        <b>{{ page.talktime | date: '%l:%M %P' }}</b>
+        </div>
+        <div>
+        {{ page.talktime | date: '%A, %e %B' }}
+        </div>
+    </td>
+</tr>
+{% endif %}
+<!-- about hosts -->
+{% if page.hosts %}
+    <tr>
+        <td>
+            <b>Your hosts: </b>
+        </td>
+            <td>
+            {% for host in page.hosts %}
+                {% assign author = site.authors | where: 'short_name', host | first %}
+                {% if author %}
+                <div>
+                    <a href="{{ author.url }}">{{ author.name }}</a></li>
+                </div>
+                {% else %}
+                <div>
+                    {{ host }}
+                </div>
+                {% endif %}
+            {% endfor %}
+            </td>
+    </tr>
 {% endif %}
 <!-- about Meeting link -->
 {% if page.meeting_link %}
-<div>
-Meeting link: <a href="{{ page.meeting_link }}">{{ page.meeting_link }}</a>
-</div>
+<tr>
+    <td>
+        <b>
+            Meeting link: 
+        </b>
+    </td>
+    <td>
+        <a href="{{ page.meeting_link }}">{{ page.meeting_link }}</a>
+    </td>
+</tr>
 {% endif %}
 <!-- about sign up -->
 {% if page.sign_up_here %}
-<div>
-    Sign up: {{ page.sign_up_here }}
-</div>
+<tr>
+    <td>
+        <b>
+            Sign up: 
+        </b>
+    </td>
+    <td>
+        {{ page.sign_up_here }}
+    </td>
+</tr>
 {% endif %}
-<br>
+</table>
 </br>
-  <div>
-  {{ content }}
-  </div>
+</br>
 
-  <br />
+
+<div>
+    {{ content }}
+</div>
+
+<br />
 </article>
+<br />
+<br />
+<br />
 <div class="PageNavigation">
   {% if page.previous.url %}
     <a class="prev" href="{{ page.previous.url }}">&laquo;
-        {{ page.previous.title }}
+        {{ page.previous.talktime | date: '%F %T %Z'}} {{ page.previous.title }}
         </a>
   {% endif %}
   {% if page.next.url %}
     <a class="next" href="{{page.next.url}}">
-        {{ page.next.title }}
+        {{ page.next.talktime | date: '%F %T %Z'}} {{ page.next.title }}
         &raquo;</a>
   {% endif %}
 </div>
+<h1>Upcoming sessions</h1> 
+<div>
+
+  {% assign calendar = "Mon,Tue,Wed,Thu,Fri,Sat,Sun" | split: ','%}
+  <table>
+      <tr>
+  {% for title in calendar %}
+          <td>
+              {{ title }}
+          </td>
+  {% endfor %}
+      </tr>
+      {% for week in site.data.TalkCalendar %}
+          <tr>
+          {% for day in week.Value %}
+            <td>
+                <div class="calendarDate">
+                    {{ day.title }}
+                </div>
+                <div class="calendarTitle">
+                    {% for post in day.posts %}
+                       {% assign url = '_posts/' | append: post %}
+                       <a href="{% link {{ url }} %}">   🌱  </a>
+                    {% endfor %}
+                </div>
+            </td>
+          {% endfor %}
+          </tr>
+      {% endfor %}
+  </table>
