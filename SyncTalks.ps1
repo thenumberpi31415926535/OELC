@@ -201,11 +201,10 @@ function ExtractDateTimeFromString
     $date = [DateTime]::MinValue
     if([DateTime]::TryParseExact($String, 'MM/dd/yyyy H:mm:ss', [System.Globalization.CultureInfo]:: InvariantCulture, [System.Globalization.DateTimeStyles]:: None, [ref]$date))
     {
-        $id = If ([System.Runtime.InteropServices.RuntimeInformation]::IsOSPlatform([System.OSPlatform]:: Windows)) {
+        $id = If ([System.Runtime.InteropServices.RuntimeInformation]::IsOSPlatform([System.Runtime.InteropServices.OSPlatform]::Windows)) {
                 "Taipei Standard Time" } Else { "Asia/Taipei" }
 
         return [System.TimeZoneInfo]:: ConvertTimeBySystemTimeZoneId($date, $id)
-#$date.ToOffset([TimeSpan]::FromHours(8))
     }
 <#
 if([DateTime]::TryParseExact($String, 'MM/dd/yyyy H:mm:ss', [System.Globalization.CultureInfo]:: InvariantCulture, [System.Globalization.DateTimeStyles]::None, [ref]$date))
