@@ -23,73 +23,62 @@ layout: default
 <table>
 <!-- about Time -->
 {% if page.talktime %}
-<tr>
-    <td>
+    <div>
         <b>
-            Time: 
+        Time: 
         </b>
-    </td>
-    <td>
-        <div>
-        <b>{{ page.talktime | date: '%l:%M %P' }}</b>
-        </div>
-        <div>
+    </div>
+    <div>
+        <i>{{ page.talktime | date: '%l:%M %P' }}</i>
+    </div>
+    <div>
         {{ page.talktime | date: '%A, %e %B' }}
-        </div>
-    </td>
-</tr>
+    </div>
+    <br />
 {% endif %}
 <!-- about hosts -->
 {% if page.hosts %}
-    <tr>
-        <td>
-            <b>Your hosts: </b>
-        </td>
-            <td>
-            {% for host in page.hosts %}
-                {% assign author = site.authors | where: 'short_name', host | first %}
-                {% if author %}
-                <div>
-                    <a href="{{ author.url }}">{{ author.name }}</a></li>
-                </div>
-                {% else %}
-                <div>
-                    {{ host }}
-                </div>
-                {% endif %}
-            {% endfor %}
-            </td>
-    </tr>
+<div>
+    <b>Your hosts: </b>
+</div>
+    {% for host in page.hosts %}
+        {% assign author = site.authors | where: 'short_name', host | first %}
+        {% if author %}
+        <div>
+            <a href="{{ author.url }}">{{ author.name }}</a></li>
+        </div>
+        {% else %}
+        <div>
+            {{ host }}
+        </div>
+        {% endif %}
+    {% endfor %}
+<br />
 {% endif %}
 <!-- about Meeting link -->
 {% if page.meeting_link %}
-<tr>
-    <td>
-        <b>
-            Meeting link: 
-        </b>
-    </td>
-    <td>
-        <a href="{{ page.meeting_link }}">{{ page.meeting_link }}</a>
-    </td>
-</tr>
+<div>
+    <b>
+        Meeting link: 
+    </b>
+</div>
+<div>
+    <a href="{{ page.meeting_link }}">{{ page.meeting_link }}</a>
+</div>
+<br />
 {% endif %}
 <!-- about sign up -->
 {% if page.sign_up_here %}
-<tr>
-    <td>
-        <b>
-            Sign up: 
-        </b>
-    </td>
-    <td>
+<div>
+    <b>
+        Sign up: 
+    </b>
+</div>
+<div>
         {{ page.sign_up_here }}
-    </td>
-</tr>
+</div>
+<br />
 {% endif %}
-</table>
-</br>
-</br>
 
 
 <div>
