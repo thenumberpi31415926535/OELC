@@ -854,8 +854,8 @@ results:
   video:
     caption: []
     type: external
-    url: https://youtu.be/wx3yqSklZjY
-    external: {}
+    external:
+      url: https://youtu.be/wx3yqSklZjY
   unsupported: {}
 - object: block
   id: 6a5ee7f1-9ee5-4098-ad63-cb8b9169cec1
@@ -1141,9 +1141,9 @@ results:
   image:
     caption: []
     type: file
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2d7b0398-970a-4600-892f-3e64795c0b0b/90664EFA-2327-4C46-9698-0F743B6485B9.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210819%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210819T161148Z&X-Amz-Expires=3600&X-Amz-Signature=d632b75d9d531ec66d3faca89f7c95b2b9e0fd8a720fdf250fbff23aefad4605&X-Amz-SignedHeaders=host
     file:
-      expiry_time: 2021-08-19T17:11:48.0790000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2d7b0398-970a-4600-892f-3e64795c0b0b/90664EFA-2327-4C46-9698-0F743B6485B9.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210820%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210820T010159Z&X-Amz-Expires=3600&X-Amz-Signature=f756355329d07cd2de3d21082c2d7d4c46ac4b93f0bfd75c03614a97fd1f9802&X-Amz-SignedHeaders=host
+      expiry_time: 2021-08-20T02:01:59.8780000Z
   unsupported: {}
 - object: block
   id: a72e0696-be2a-41e4-9102-742053977f80

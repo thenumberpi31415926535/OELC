@@ -116,8 +116,8 @@ results:
   image:
     caption: []
     type: external
-    url: https://images.unsplash.com/photo-1556817411-31ae72fa3ea0?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
-    external: {}
+    external:
+      url: https://images.unsplash.com/photo-1556817411-31ae72fa3ea0?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
   unsupported: {}
 - object: block
   id: d3a36059-9190-4677-bc7b-ff65766c5d7f

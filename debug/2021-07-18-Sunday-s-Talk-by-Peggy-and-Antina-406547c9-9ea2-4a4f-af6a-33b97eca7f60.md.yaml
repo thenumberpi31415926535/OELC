@@ -249,8 +249,8 @@ results:
   image:
     caption: []
     type: external
-    url: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-    external: {}
+    external:
+      url: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
   unsupported: {}
 - object: block
   id: 310c7d77-2208-4c11-95ae-f5f554b8dfbe

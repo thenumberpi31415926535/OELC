@@ -115,9 +115,9 @@ results:
   image:
     caption: []
     type: file
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4eaaa657-e71a-410d-ae75-cee82da5a402/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210819%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210819T161135Z&X-Amz-Expires=3600&X-Amz-Signature=b01d8c3e9b940ecdb625a1f5557338653d3b7f78d470b5799cc86a86f4c08c3d&X-Amz-SignedHeaders=host
     file:
-      expiry_time: 2021-08-19T17:11:35.5870000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4eaaa657-e71a-410d-ae75-cee82da5a402/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210820%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210820T010147Z&X-Amz-Expires=3600&X-Amz-Signature=517ba31226007a55da9b5cd9699809c8629fa64cc79e4dcf342f5b864528e222&X-Amz-SignedHeaders=host
+      expiry_time: 2021-08-20T02:01:47.8450000Z
   unsupported: {}
 - object: block
   id: af90d0eb-4f45-4ff7-9997-786406d7a673
