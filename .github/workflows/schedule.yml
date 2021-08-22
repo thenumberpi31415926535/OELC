@@ -1,4 +1,4 @@
-name: Azure Static Web Apps CI/CD Scheduled Daily
+name: Daily Generation
 on:
   schedule:
     -   cron: "0 0 * * *"
