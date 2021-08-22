@@ -1,8 +1,5 @@
 name: Azure Static Web Apps CI/CD Scheduled Daily
 on:
-  push:
-    branches:
-      - main
   schedule:
     -   cron: "0 0 * * *"
 
