@@ -1,7 +1,7 @@
 object: page
-id: cfadc775-2baa-49a8-94b2-2c1b340abac0
-created_time: 2021-08-20T06:14:00.0000000Z
-last_edited_time: 2021-08-23T06:29:00.0000000Z
+id: e7e5448e-0674-49dc-a5a0-240e7df2ec57
+created_time: 2021-08-23T07:44:00.0000000Z
+last_edited_time: 2021-08-23T07:47:00.0000000Z
 parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
@@ -83,7 +83,7 @@ properties:
     id: '|tal'
     type: date
     date:
-      start: 2021-08-25T13:00:00.0000000+00:00
+      start: 2021-09-01T13:00:00.0000000+00:00
       end: 
   Name:
     id: title
@@ -91,7 +91,7 @@ properties:
     title:
     - type: text
       text:
-        content: Hanging on and letting go
+        content: Back to School!
         link: 
       annotations:
         bold: false
@@ -100,23 +100,23 @@ properties:
         underline: false
         code: false
         color: default
-      plain_text: Hanging on and letting go
+      plain_text: Back to School!
       href: 
-url: https://www.notion.so/Hanging-on-and-letting-go-cfadc7752baa49a894b22c1b340abac0
+url: https://www.notion.so/Back-to-School-e7e5448e067449dca5a0240e7df2ec57
 
 object: list
 results:
 - object: block
-  id: bd0443de-1c00-4e50-b03b-2797be86e402
-  created_time: 2021-08-20T06:14:00.0000000Z
-  last_edited_time: 2021-08-20T06:16:00.0000000Z
+  id: 71bfed26-e3ef-4331-9c9e-bd10b72d4f08
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:45:00.0000000Z
   has_children: false
   type: bulleted_list_item
   bulleted_list_item:
     text:
     - type: text
       text:
-        content: Do you ever have to let go of something or someone that was a tough decision for you? Why?
+        content: Does back to school mean differently to you in different stages of life?
         link: 
       annotations:
         bold: false
@@ -125,19 +125,19 @@ results:
         underline: false
         code: false
         color: default
-      plain_text: Do you ever have to let go of something or someone that was a tough decision for you? Why?
+      plain_text: Does back to school mean differently to you in different stages of life?
       href: 
 - object: block
-  id: e18e0e73-1e79-4362-b5d2-48e7c2cdfb96
-  created_time: 2021-08-20T06:15:00.0000000Z
-  last_edited_time: 2021-08-20T06:16:00.0000000Z
+  id: 0052ce2d-2e67-4bed-ac4b-78c278eb1289
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:45:00.0000000Z
   has_children: false
   type: bulleted_list_item
   bulleted_list_item:
     text:
     - type: text
       text:
-        content: Do you worry other people's opinion for the decisions you make?
+        content: What are the school rules you find unreasonable?
         link: 
       annotations:
         bold: false
@@ -146,19 +146,19 @@ results:
         underline: false
         code: false
         color: default
-      plain_text: Do you worry other people's opinion for the decisions you make?
+      plain_text: What are the school rules you find unreasonable?
       href: 
 - object: block
-  id: 7a6cc061-ed87-42f9-9c99-7af844dcfc42
-  created_time: 2021-08-20T06:15:00.0000000Z
-  last_edited_time: 2021-08-20T06:16:00.0000000Z
+  id: 3cef1e36-add5-4126-9e64-ac99204843aa
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:45:00.0000000Z
   has_children: false
   type: bulleted_list_item
   bulleted_list_item:
     text:
     - type: text
       text:
-        content: What advice can you give to people who are still making that decision?
+        content: What do you think about Taiwan's school culture?
         link: 
       annotations:
         bold: false
@@ -167,19 +167,19 @@ results:
         underline: false
         code: false
         color: default
-      plain_text: What advice can you give to people who are still making that decision?
+      plain_text: What do you think about Taiwan's school culture?
       href: 
 - object: block
-  id: c7ae6849-6006-4786-b505-9b1b11706595
-  created_time: 2021-08-20T06:15:00.0000000Z
-  last_edited_time: 2021-08-20T06:16:00.0000000Z
+  id: 63593ae7-9a0b-4d68-b996-32507b2d8ee4
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:46:00.0000000Z
   has_children: false
   type: bulleted_list_item
   bulleted_list_item:
     text:
     - type: text
       text:
-        content: Why do we hang on to things or finding it difficult to let go?
+        content: What are some traditions that you do with your family when you are on vacation?
         link: 
       annotations:
         bold: false
@@ -188,19 +188,19 @@ results:
         underline: false
         code: false
         color: default
-      plain_text: Why do we hang on to things or finding it difficult to let go?
+      plain_text: What are some traditions that you do with your family when you are on vacation?
       href: 
 - object: block
-  id: d483251d-d056-4e80-87c7-edce44935384
-  created_time: 2021-08-20T06:15:00.0000000Z
-  last_edited_time: 2021-08-20T06:16:00.0000000Z
+  id: 9df1e46c-3f29-4a6c-a4f8-299dadc46e4b
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:46:00.0000000Z
   has_children: false
   type: bulleted_list_item
   bulleted_list_item:
     text:
     - type: text
       text:
-        content: Imagine a world full of people whom are no longer sentimental?
+        content: Are you the law abiding student or are you a rebel?
         link: 
       annotations:
         bold: false
@@ -209,69 +209,82 @@ results:
         underline: false
         code: false
         color: default
-      plain_text: Imagine a world full of people whom are no longer sentimental?
+      plain_text: Are you the law abiding student or are you a rebel?
       href: 
 - object: block
-  id: 66f9aba2-14c0-45f6-b5d3-f76b7db09579
-  created_time: 2021-08-20T06:14:00.0000000Z
-  last_edited_time: 2021-08-20T06:14:00.0000000Z
+  id: a037e770-fc49-42a5-9d99-9b382e25be19
+  created_time: 2021-08-23T07:46:00.0000000Z
+  last_edited_time: 2021-08-23T07:46:00.0000000Z
+  has_children: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Do most of your favourite memories happen in or outside school holidays?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Do most of your favourite memories happen in or outside school holidays?
+      href: 
+- object: block
+  id: 58f21ce3-11d8-4841-a26c-aae5887233f4
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:44:00.0000000Z
   has_children: false
   type: unsupported
   unsupported: {}
 - object: block
-  id: 65b264f1-31be-442e-b647-43bf07ca51fa
-  created_time: 2021-08-20T06:14:00.0000000Z
-  last_edited_time: 2021-08-20T06:14:00.0000000Z
+  id: e0a68235-dcb0-4983-a1a8-cb7be0c627fe
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:44:00.0000000Z
   has_children: false
   type: unsupported
   unsupported: {}
 - object: block
-  id: 54fa5f90-06ad-4418-8257-98af86fef357
-  created_time: 2021-08-20T06:14:00.0000000Z
-  last_edited_time: 2021-08-20T06:14:00.0000000Z
+  id: 5c45edfb-4b1b-4301-8853-cf204f0ffa37
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:44:00.0000000Z
   has_children: false
   type: unsupported
   unsupported: {}
 - object: block
-  id: 931bd0bf-130f-4621-9ac3-0e63c5fff2f0
-  created_time: 2021-08-20T06:14:00.0000000Z
-  last_edited_time: 2021-08-20T06:14:00.0000000Z
+  id: 61926dab-e191-4b6d-991a-788a4affb2d3
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:44:00.0000000Z
   has_children: false
   type: paragraph
   paragraph:
     text: []
 - object: block
-  id: 59dac72f-36ea-4824-a35f-aef2c20768eb
-  created_time: 2021-08-20T06:17:00.0000000Z
-  last_edited_time: 2021-08-20T06:17:00.0000000Z
+  id: e143700a-4a02-4150-9337-c897b03a03d7
+  created_time: 2021-08-23T07:47:00.0000000Z
+  last_edited_time: 2021-08-23T07:47:00.0000000Z
   has_children: false
   type: unsupported
   image:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7d10797a-fea8-4a8e-81be-bbcfc0fd7ee1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210824%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210824T005201Z&X-Amz-Expires=3600&X-Amz-Signature=539b8aff18165b641478a1c3384e95470468157718b9445699d78a3946a56fb7&X-Amz-SignedHeaders=host
-      expiry_time: 2021-08-24T01:52:01.8230000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/47602354-5513-4a91-b05c-90aade891bc7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210824%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210824T005201Z&X-Amz-Expires=3600&X-Amz-Signature=3206cfec162550b46c14118ffc25e896badd3b7e4f1983663b713fde5221087b&X-Amz-SignedHeaders=host
+      expiry_time: 2021-08-24T01:52:01.0230000Z
   unsupported: {}
 - object: block
-  id: da44830e-dd55-499b-9d8d-afde6b81d837
-  created_time: 2021-08-20T06:14:00.0000000Z
-  last_edited_time: 2021-08-20T06:14:00.0000000Z
-  has_children: false
-  type: paragraph
-  paragraph:
-    text: []
-- object: block
-  id: 24b59965-b121-4fab-b437-2a67c54b23ed
-  created_time: 2021-08-20T06:14:00.0000000Z
-  last_edited_time: 2021-08-20T06:14:00.0000000Z
+  id: fc35e0dc-2e2b-4275-ba2b-ea71aa117613
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:44:00.0000000Z
   has_children: false
   type: unsupported
   unsupported: {}
 - object: block
-  id: e56c0ac1-4b0a-4933-9385-b23ba0923412
-  created_time: 2021-08-20T06:14:00.0000000Z
-  last_edited_time: 2021-08-20T06:14:00.0000000Z
+  id: 00d9fb83-e091-425c-8468-09176c083a6c
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:44:00.0000000Z
   has_children: false
   type: paragraph
   paragraph:
