@@ -2,6 +2,14 @@ object: page
 id: 3863deba-8e35-4515-a0b7-2a77a0032fad
 created_time: 2021-07-20T12:15:00.0000000Z
 last_edited_time: 2021-08-17T15:26:00.0000000Z
+cover:
+  type: file
+  file:
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/24a6f588-c3ac-4891-96fa-21fc5b703f88/bao.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210825%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210825T005313Z&X-Amz-Expires=3600&X-Amz-Signature=9cf7621d11d322f9a7e5655ef7d59d2125ae7990e8aa07bf65849aec2ce31d80&X-Amz-SignedHeaders=host
+    expiry_time: 2021-08-25T01:53:13.7180000Z
+icon:
+  type: emoji
+  emoji: ❣️
 parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded

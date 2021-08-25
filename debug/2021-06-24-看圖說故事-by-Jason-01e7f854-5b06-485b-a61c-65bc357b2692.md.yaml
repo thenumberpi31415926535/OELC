@@ -2,6 +2,13 @@ object: page
 id: 01e7f854-5b06-485b-a61c-65bc357b2692
 created_time: 2021-06-23T04:14:00.0000000Z
 last_edited_time: 2021-06-28T13:00:00.0000000Z
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1497942304796-b8bc2cc898f3?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
+icon:
+  type: emoji
+  emoji: "\U0001F5BC️"
 parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded

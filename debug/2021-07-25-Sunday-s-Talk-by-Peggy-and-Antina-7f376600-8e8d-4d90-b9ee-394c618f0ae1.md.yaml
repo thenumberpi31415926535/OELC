@@ -2,6 +2,10 @@ object: page
 id: 7f376600-8e8d-4d90-b9ee-394c618f0ae1
 created_time: 2021-07-20T12:10:00.0000000Z
 last_edited_time: 2021-07-22T09:27:00.0000000Z
+cover: 
+icon:
+  type: emoji
+  emoji: "\U0001F4DA"
 parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded

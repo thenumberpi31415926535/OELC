@@ -1,7 +1,14 @@
 object: page
 id: cfadc775-2baa-49a8-94b2-2c1b340abac0
 created_time: 2021-08-20T06:14:00.0000000Z
-last_edited_time: 2021-08-23T06:29:00.0000000Z
+last_edited_time: 2021-08-24T07:34:00.0000000Z
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1499244571948-7ccddb3583f1?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
+icon:
+  type: emoji
+  emoji: "\U0001F4AA"
 parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
@@ -245,14 +252,13 @@ results:
   created_time: 2021-08-20T06:17:00.0000000Z
   last_edited_time: 2021-08-20T06:17:00.0000000Z
   has_children: false
-  type: unsupported
+  type: image
   image:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7d10797a-fea8-4a8e-81be-bbcfc0fd7ee1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210824%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210824T005201Z&X-Amz-Expires=3600&X-Amz-Signature=539b8aff18165b641478a1c3384e95470468157718b9445699d78a3946a56fb7&X-Amz-SignedHeaders=host
-      expiry_time: 2021-08-24T01:52:01.8230000Z
-  unsupported: {}
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7d10797a-fea8-4a8e-81be-bbcfc0fd7ee1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210825%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210825T005308Z&X-Amz-Expires=3600&X-Amz-Signature=2257b95fc9350dfc02f3d8d62ec1b3d126fccee09a8c8787286828079c3c9d44&X-Amz-SignedHeaders=host
+      expiry_time: 2021-08-25T01:53:08.8580000Z
 - object: block
   id: da44830e-dd55-499b-9d8d-afde6b81d837
   created_time: 2021-08-20T06:14:00.0000000Z

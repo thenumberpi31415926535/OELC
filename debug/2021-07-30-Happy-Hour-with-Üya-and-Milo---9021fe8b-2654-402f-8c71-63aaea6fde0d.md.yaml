@@ -2,6 +2,13 @@ object: page
 id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
 created_time: 2021-07-20T12:14:00.0000000Z
 last_edited_time: 2021-08-02T15:25:00.0000000Z
+cover:
+  type: external
+  external:
+    url: https://www.notion.so/images/page-cover/met_jean_beraud.jpg
+icon:
+  type: emoji
+  emoji: "\U0001F37B"
 parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded

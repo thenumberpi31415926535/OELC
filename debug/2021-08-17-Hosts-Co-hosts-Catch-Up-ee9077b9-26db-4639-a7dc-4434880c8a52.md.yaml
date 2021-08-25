@@ -2,6 +2,13 @@ object: page
 id: ee9077b9-26db-4639-a7dc-4434880c8a52
 created_time: 2021-08-14T03:59:00.0000000Z
 last_edited_time: 2021-08-14T04:26:00.0000000Z
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
+icon:
+  type: emoji
+  emoji: "\U0001F37B"
 parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
@@ -132,11 +139,10 @@ results:
   created_time: 2021-08-14T04:22:00.0000000Z
   last_edited_time: 2021-08-14T04:22:00.0000000Z
   has_children: false
-  type: unsupported
+  type: bookmark
   bookmark:
     caption: []
     url: https://www.pi.kolinchang.xyz/sessions/2021-08-13-host-catch-up.html
-  unsupported: {}
 - object: block
   id: b3938314-49e6-4259-99f5-cbae72e9fcec
   created_time: 2021-08-14T04:22:00.0000000Z

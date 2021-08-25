@@ -2,6 +2,13 @@ object: page
 id: be2403c3-ee60-4ff1-801c-d1f56dfefb13
 created_time: 2021-08-23T04:57:00.0000000Z
 last_edited_time: 2021-08-23T05:02:00.0000000Z
+cover:
+  type: external
+  external:
+    url: https://images-ext-2.discordapp.net/external/UFv7Ydkv55k68iW7Aw6FPiTGnjcI2-AHx3yxCVk44sg/%3Fixid%3DMnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0MHx8fGVufDB8fHx8%26ixlib%3Drb-1.2.1%26auto%3Dformat%26fit%3Dcrop%26w%3D700%26q%3D60/https/images.unsplash.com/photo-1629385359375-886444e67724
+icon:
+  type: emoji
+  emoji: "\U0001F4AA"
 parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded

@@ -2,6 +2,13 @@ object: page
 id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
 created_time: 2021-08-10T07:46:00.0000000Z
 last_edited_time: 2021-08-15T17:25:00.0000000Z
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1519055301076-a34b55a8b4e8?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
+icon:
+  type: emoji
+  emoji: "\U0001F47B"
 parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
@@ -334,14 +341,13 @@ results:
   created_time: 2021-08-10T07:51:00.0000000Z
   last_edited_time: 2021-08-10T07:51:00.0000000Z
   has_children: false
-  type: unsupported
+  type: image
   image:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8efcf85d-3ac6-4afa-9d37-14316279d529/Brainstorming_-_08_11_Supernatural_experiences.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210824%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210824T005211Z&X-Amz-Expires=3600&X-Amz-Signature=d6f5501510133799d28b643ba26a57cbab12047718fb9d0c733f77ed900ab9fc&X-Amz-SignedHeaders=host
-      expiry_time: 2021-08-24T01:52:10.9950000Z
-  unsupported: {}
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8efcf85d-3ac6-4afa-9d37-14316279d529/Brainstorming_-_08_11_Supernatural_experiences.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210825%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210825T005323Z&X-Amz-Expires=3600&X-Amz-Signature=53c0a5dfc7fda71c5b562155d2f8cc75af7cd67017b4aac9aed7446e78495373&X-Amz-SignedHeaders=host
+      expiry_time: 2021-08-25T01:53:23.0530000Z
 - object: block
   id: 648be114-bbe9-437c-b7d3-8313ecd0fa16
   created_time: 2021-08-10T07:46:00.0000000Z

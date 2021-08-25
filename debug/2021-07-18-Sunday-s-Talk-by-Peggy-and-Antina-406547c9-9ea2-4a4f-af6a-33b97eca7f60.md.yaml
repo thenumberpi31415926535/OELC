@@ -2,6 +2,13 @@ object: page
 id: 406547c9-9ea2-4a4f-af6a-33b97eca7f60
 created_time: 2021-06-25T10:39:00.0000000Z
 last_edited_time: 2021-07-22T06:58:00.0000000Z
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1504194104404-433180773017?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
+icon:
+  type: emoji
+  emoji: "\U0001F4DA"
 parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
@@ -245,13 +252,12 @@ results:
   created_time: 2021-07-15T10:41:00.0000000Z
   last_edited_time: 2021-07-15T10:41:00.0000000Z
   has_children: false
-  type: unsupported
+  type: image
   image:
     caption: []
     type: external
     external:
       url: data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
-  unsupported: {}
 - object: block
   id: 310c7d77-2208-4c11-95ae-f5f554b8dfbe
   created_time: 2021-07-15T10:46:00.0000000Z
