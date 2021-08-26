@@ -1,0 +1,631 @@
+object: page
+id: c6754992-7368-4fc2-868b-35dc440b64e5
+created_time: 2021-08-25T09:34:00.0000000Z
+last_edited_time: 2021-08-26T00:51:00.0000000Z
+cover:
+  type: file
+  file:
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f8e4bceb-6251-42f3-a64f-d838db8f2d94/S__56197138.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210826%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210826T005106Z&X-Amz-Expires=3600&X-Amz-Signature=af7cef584d5b19f140f969b8c3223e8a0b9c0dff4045a30a345796919d8800f8&X-Amz-SignedHeaders=host
+    expiry_time: 2021-08-26T01:51:06.8430000Z
+icon:
+  type: emoji
+  emoji: "\U0001F4AC"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Sign up here:
+    id: ']hGQ'
+    type: rich_text
+    rich_text: []
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: 90954489-1a43-40bf-9867-af7ca6ae7391
+      name: Üya
+      color: brown
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://join.skype.com/vNc1nLHxNMup
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-08-27T12:00:00.0000000+00:00
+      end: 2021-08-27T13:00:00.0000000+00:00
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: 臺灣人英文比較好?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 臺灣人英文比較好?
+      href: 
+url: https://www.notion.so/c675499273684fc2868b35dc440b64e5
+
+object: list
+results:
+- object: block
+  id: 0e693de1-c9fe-4433-a7a7-282e376687dc
+  created_time: 2021-08-26T00:03:00.0000000Z
+  last_edited_time: 2021-08-26T00:21:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: "大家好我是Uya. \n"
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "大家好我是Uya. \n"
+      href: 
+- object: block
+  id: e067f22f-ecac-4c3b-a535-5293ae43ac26
+  created_time: 2021-08-26T00:21:00.0000000Z
+  last_edited_time: 2021-08-26T00:23:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 常常聽說"韓國人英文不好，台灣人英文比較好" 或是"去日本旅遊時講英文沒有人聽得懂"，真的是這樣嗎?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 常常聽說"韓國人英文不好，台灣人英文比較好" 或是"去日本旅遊時講英文沒有人聽得懂"，真的是這樣嗎?
+      href: 
+- object: block
+  id: 6849bc03-07b7-4f54-8d52-ff9c7caf12af
+  created_time: 2021-08-26T00:21:00.0000000Z
+  last_edited_time: 2021-08-26T00:51:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 這周邀請到Ada老師來與我們聊聊她旅遊、教英文過程中遇到各國學生的經驗與故事。 Ada 2020年畢業於倫敦大學國王學院 英語教學研究所，在英國攻讀研究所期間她到各地旅遊，絲毫不放過任何體驗生活的機會。
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 這周邀請到Ada老師來與我們聊聊她旅遊、教英文過程中遇到各國學生的經驗與故事。 Ada 2020年畢業於倫敦大學國王學院 英語教學研究所，在英國攻讀研究所期間她到各地旅遊，絲毫不放過任何體驗生活的機會。
+      href: 
+- object: block
+  id: 81d9c833-e355-4270-b1c1-4add2b567d10
+  created_time: 2021-08-26T00:06:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: '想去歐洲旅遊的的大家一定要利用機會提問! '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '想去歐洲旅遊的的大家一定要利用機會提問! '
+      href: 
+- object: block
+  id: dd4cf78e-3bcc-4670-8dc6-468ef9a06cf6
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 2b132364-7ac0-4dd8-aaca-998f3e5e3ce3
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: fc65d483-d82b-4d07-b702-4981d8475252
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: ad57a93a-2a78-4659-a0ca-e9c237355ca3
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: e34a70d3-fbd4-4e41-89b7-d23b0c768a03
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 85aa4797-a94c-410d-9ea4-7871eaeb7ad7
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 73f1ffe4-75e9-442d-a910-0d5e62807f63
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: bc3682a3-ad4d-4102-b6c8-00bb575dfeb6
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 57d2d41d-a0c1-43ae-a7a6-9c3a1700ae27
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 7ec88e9a-6bcb-433a-a9ce-69a9a49761a5
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 7d4de7f0-9977-473d-a1d5-be5260da85a7
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 8540ee97-099b-4dc9-80cd-ca562f0e8285
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 46b49cf7-7e9d-4351-8ed1-b46f0eb56b37
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: c3c53fec-96d0-42cb-9cb0-e50487bf735d
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 7bf880ac-9244-4dfb-bc79-3fc2b02edd12
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 74796a52-d321-4932-bceb-1115080896fa
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 0e036121-dbbb-4784-a0cf-63d4ab92e3d1
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 95915c83-1d51-4087-baf2-086fbc499e6e
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 00fb505c-f856-43e3-a28d-60c5b9e95490
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: b7738d13-b893-4a30-91d1-f351d72e929c
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 5cc84f70-d8ba-4fc6-a2f6-8f6d7ed932ff
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: e97c550a-8c0c-427e-8692-84290911a41a
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 36f13876-5dd8-4bb7-8970-36319523d236
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 758e032b-ac52-4e30-899c-025118d2a704
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 9842b7c8-c3cc-43d4-bec5-ad4e5756c258
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: bf2e7b9a-cff9-4814-ba55-8701c1bdf917
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 5f0b27fc-bcb5-4a35-bd09-1daf5215c38a
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: d72b26e9-4110-4a8a-a6f8-636e3b7198d9
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 88d7742e-1fc9-4211-8496-59e6e45bba86
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: ae2b4776-8e4c-4266-ba1d-6a7ffb00e982
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 7afc1031-ddf2-4eda-98f4-567779953d92
+  created_time: 2021-08-26T00:01:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 6ffba635-1322-454c-a048-d975e5e913e2
+  created_time: 2021-08-25T10:00:00.0000000Z
+  last_edited_time: 2021-08-26T00:01:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 97cdd4d7-2d24-43cb-af7a-fb645ef2f8ce
+  created_time: 2021-08-25T09:34:00.0000000Z
+  last_edited_time: 2021-08-25T09:34:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: fce42bbc-addf-4d52-a28d-097fce2cde84
+  created_time: 2021-08-25T09:34:00.0000000Z
+  last_edited_time: 2021-08-25T09:34:00.0000000Z
+  has_children: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: f42fe930-ff47-44c3-a37c-0c0c9956d3c5
+  created_time: 2021-08-26T00:41:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 45cdf8ea-c4d9-4354-96f4-48b1c9ebd8ff
+  created_time: 2021-08-26T00:41:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 698d9290-32f7-4caa-b68b-96e88efa7861
+  created_time: 2021-08-26T00:41:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: a2f7fb49-683c-4dfc-adab-fd2ba36a64d8
+  created_time: 2021-08-26T00:41:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 82ec314c-88c9-459d-b13f-d35505822ba0
+  created_time: 2021-08-26T00:41:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: f04031a2-6aef-44e4-ae25-2acf6abaf953
+  created_time: 2021-08-26T00:41:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: b6f3d539-9aaf-4d36-a300-81303dddd8e8
+  created_time: 2021-08-26T00:41:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 7ebf3e7a-2a92-4506-9548-4a54eea5311d
+  created_time: 2021-08-26T00:41:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: d73247f0-d014-49a7-98e9-e11d78d6e625
+  created_time: 2021-08-26T00:41:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 21d40e5d-739f-4553-a3e5-9dc21fdff467
+  created_time: 2021-08-26T00:41:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 6c0db2a0-3353-46c0-8eac-bd8d755d2560
+  created_time: 2021-08-26T00:41:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 3b403483-ddd4-4e17-8c52-f7ee89a5820d
+  created_time: 2021-08-26T00:41:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: d4184f68-929e-46d3-b53d-2e129e810924
+  created_time: 2021-08-26T00:41:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 6d9c63d1-de93-4b83-924d-0d5e9d11cf3d
+  created_time: 2021-08-26T00:41:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 961a1660-1e20-43e4-a132-5f3d5137073b
+  created_time: 2021-08-26T00:41:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 83545027-0c25-4072-a511-acf077dbe291
+  created_time: 2021-08-26T00:41:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 87f3203c-8530-4ce3-8c7b-2b0a7e344201
+  created_time: 2021-08-26T00:41:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: false
+  type: heading_1
+  heading_1:
+    text:
+    - type: text
+      text:
+        content: Ada
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Ada
+      href: 
+- object: block
+  id: 9e7b17b4-d285-4a48-9969-4adf8effae9f
+  created_time: 2021-08-26T00:41:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: '學歷: 倫敦大學 國王學院 英語教學研究所'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '學歷: 倫敦大學 國王學院 英語教學研究所'
+      href: 
+- object: block
+  id: 3d0ed72e-cd77-4b6f-9b69-e3829c50d374
+  created_time: 2021-08-26T00:41:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 4b3c79dc-607a-469e-9b86-2a1f355866a4
+  created_time: 2021-08-26T00:41:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: true
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: '經歷:    倫敦 International House 英語老師'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '經歷:    倫敦 International House 英語老師'
+      href: 
+- object: block
+  id: ef27639e-b5e5-48dc-92b5-777c6600181b
+  created_time: 2021-08-26T00:41:00.0000000Z
+  last_edited_time: 2021-08-26T00:41:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+next_cursor: 
+has_more: false
+
