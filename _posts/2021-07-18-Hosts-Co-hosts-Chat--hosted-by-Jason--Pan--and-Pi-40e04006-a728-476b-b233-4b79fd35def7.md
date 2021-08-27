@@ -1,30 +1,30 @@
 ---
-software: Discord
-language_level: No limit
-indexDate: 2021-07-18
-id: 40e04006-a728-476b-b233-4b79fd35def7
-meeting_link: https://discord.gg/bBuv3mCQQe
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+hosts:
+- Jason
+- Teacher Pan
+- Pi
 archived: false
+id: 40e04006-a728-476b-b233-4b79fd35def7
+last_edited_time: 2021-07-20T20:10:00.0000000
+meeting_link: https://discord.gg/bBuv3mCQQe
+object: page
+parent_type: database_id
+talktime: 2021-07-18T20:00:00.0000000
+notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-hosted-by-Jason-Pan-and-Pi-40e04006a728476bb2334b79fd35def7
+created_time: 2021-07-13T22:42:00.0000000
+name: Hosts/Co-hosts Chat, hosted by Jason, Pan, and Pi
+language_level: No limit
+title: Hosts/Co-hosts Chat, hosted by Jason, Pan, and Pi
+indexDate: 2021-07-18
 tags:
 - Talk
 - 2021-07-18
 - Jason
 - Teacher Pan
 - Pi
-title: Hosts/Co-hosts Chat, hosted by Jason, Pan, and Pi
 sign_up_here: 
-parent_type: database_id
-last_edited_time: 2021-07-20T20:10:00.0000000
-created_time: 2021-07-13T22:42:00.0000000
-name: Hosts/Co-hosts Chat, hosted by Jason, Pan, and Pi
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-talktime: 2021-07-18T20:00:00.0000000
-notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-hosted-by-Jason-Pan-and-Pi-40e04006a728476bb2334b79fd35def7
-hosts:
-- Jason
-- Teacher Pan
-- Pi
-object: page
+software: Discord
 ---
 
 
