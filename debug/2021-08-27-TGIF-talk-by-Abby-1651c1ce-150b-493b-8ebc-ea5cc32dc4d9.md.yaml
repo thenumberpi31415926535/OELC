@@ -1,12 +1,12 @@
 object: page
 id: 1651c1ce-150b-493b-8ebc-ea5cc32dc4d9
 created_time: 2021-08-17T11:09:00.0000000Z
-last_edited_time: 2021-08-26T15:12:00.0000000Z
+last_edited_time: 2021-08-27T19:08:00.0000000Z
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/285f20f1-da99-4bfa-8db7-fc7ebb642af4/Welcome_to_Abbys_Online_Talk_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210827%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210827T005705Z&X-Amz-Expires=3600&X-Amz-Signature=b87e247d6ff65548e252b02e886e08ea7546503e86a5b06ab9e1e5ebe58e27e5&X-Amz-SignedHeaders=host
-    expiry_time: 2021-08-27T01:57:05.4020000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/285f20f1-da99-4bfa-8db7-fc7ebb642af4/Welcome_to_Abbys_Online_Talk_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210828%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210828T005003Z&X-Amz-Expires=3600&X-Amz-Signature=0a8064b49607d6e8a6650c6faa25240320995b6c6c6f702d1a70fbdb3f17b95f&X-Amz-SignedHeaders=host
+    expiry_time: 2021-08-28T01:50:03.7250000Z
 icon:
   type: emoji
   emoji: "\U0001F60D"
@@ -85,9 +85,24 @@ url: https://www.notion.so/TGIF-talk-by-Abby-1651c1ce150b493b8ebcea5cc32dc4d9
 object: list
 results:
 - object: block
-  id: c23003eb-0bc0-45cf-aac4-b5a8810577a2
+  id: 4fe83c4e-b461-4a07-868e-4d974e165527
+  created_time: 2021-08-27T01:45:00.0000000Z
+  last_edited_time: 2021-08-27T01:45:00.0000000Z
+  has_children: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: 423ca862-0d39-4c47-adec-e928a4f7b55d
+  created_time: 2021-08-27T01:45:00.0000000Z
+  last_edited_time: 2021-08-27T01:45:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 644d8856-8b26-4a91-b3f4-1684a8671151
   created_time: 2021-08-26T15:03:00.0000000Z
-  last_edited_time: 2021-08-26T15:03:00.0000000Z
+  last_edited_time: 2021-08-27T01:45:00.0000000Z
   has_children: false
   type: paragraph
   paragraph:
@@ -129,7 +144,7 @@ results:
 - object: block
   id: 4ab09785-32e6-40b1-92c3-18001137a2d7
   created_time: 2021-08-26T15:03:00.0000000Z
-  last_edited_time: 2021-08-26T15:03:00.0000000Z
+  last_edited_time: 2021-08-27T05:15:00.0000000Z
   has_children: false
   type: paragraph
   paragraph:
@@ -165,8 +180,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1199ff4e-a554-4720-b286-b946524133c9/7A1E97AD-EE00-4993-A874-04E5C8B13482.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210827%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210827T005706Z&X-Amz-Expires=3600&X-Amz-Signature=9e818aa9f4abbe4556ad332cf694a055bd1a44f3e3769a6edd7657bade01813a&X-Amz-SignedHeaders=host
-      expiry_time: 2021-08-27T01:57:06.1650000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1199ff4e-a554-4720-b286-b946524133c9/7A1E97AD-EE00-4993-A874-04E5C8B13482.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210828%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210828T005004Z&X-Amz-Expires=3600&X-Amz-Signature=37b88fb8a12b66cc36673ba0232738290ae9ba4463283ea54d6b65abb02a4c3a&X-Amz-SignedHeaders=host
+      expiry_time: 2021-08-28T01:50:04.6730000Z
 - object: block
   id: f965c706-f7ab-4d2e-bc8c-bf35d5e899fd
   created_time: 2021-08-26T15:09:00.0000000Z
@@ -227,6 +242,49 @@ results:
   has_children: false
   type: unsupported
   unsupported: {}
+- object: block
+  id: bc8eda50-c142-4b99-a553-01fba06f6316
+  created_time: 2021-08-27T08:17:00.0000000Z
+  last_edited_time: 2021-08-27T08:17:00.0000000Z
+  has_children: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: ea13ef52-8567-4d8e-9cdb-f175807d82a8
+  created_time: 2021-08-27T08:18:00.0000000Z
+  last_edited_time: 2021-08-27T08:18:00.0000000Z
+  has_children: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: 40af330e-5f69-4c04-967f-966c4aa4ae5e
+  created_time: 2021-08-27T08:18:00.0000000Z
+  last_edited_time: 2021-08-27T08:18:00.0000000Z
+  has_children: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: 3549608c-378a-4e2a-9785-18c682d919b8
+  created_time: 2021-08-27T08:18:00.0000000Z
+  last_edited_time: 2021-08-27T08:18:00.0000000Z
+  has_children: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: 609221d7-cc19-4aa4-911f-744d3a012aec
+  created_time: 2021-08-27T08:18:00.0000000Z
+  last_edited_time: 2021-08-27T08:18:00.0000000Z
+  has_children: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: e367447e-3997-4abd-a42f-14ec726506a1
+  created_time: 2021-08-27T06:58:00.0000000Z
+  last_edited_time: 2021-08-27T06:58:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
 next_cursor: 
 has_more: false
 
