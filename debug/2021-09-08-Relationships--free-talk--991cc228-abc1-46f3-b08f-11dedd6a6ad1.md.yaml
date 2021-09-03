@@ -1,0 +1,318 @@
+object: page
+id: 991cc228-abc1-46f3-b08f-11dedd6a6ad1
+created_time: 2021-09-02T05:54:00.0000000Z
+last_edited_time: 2021-09-02T05:58:00.0000000Z
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1579208570378-8c970854bc23?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
+icon:
+  type: emoji
+  emoji: "\U0001F495"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: 4cc93307-5fe5-4626-91c3-5ed284b7ca4d
+      name: Discord
+      color: purple
+  Sign up here:
+    id: ']hGQ'
+    type: rich_text
+    rich_text:
+    - type: text
+      text:
+        content: "Join Pi's Discord server and sign up in #annoncements!"
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "Join Pi's Discord server and sign up in #annoncements!"
+      href: 
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: b5fd044f-4265-4924-b11a-3435f6d8deb8
+      name: Bones
+      color: yellow
+    - id: 5fd12e96-75db-41b9-b28e-3f854c2cf009
+      name: Pi
+      color: brown
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://discord.gg/vE7QUXGDnS
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-09-08T13:00:00.0000000+00:00
+      end: 
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: Relationships (free talk)
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Relationships (free talk)
+      href: 
+url: https://www.notion.so/Relationships-free-talk-991cc228abc146f3b08f11dedd6a6ad1
+
+object: list
+results:
+- object: block
+  id: 4d97cc83-d257-4180-8311-bdd560e83df2
+  created_time: 2021-09-02T05:54:00.0000000Z
+  last_edited_time: 2021-09-02T05:54:00.0000000Z
+  has_children: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: 0ea16f3d-5f5b-4afd-ad2d-5645165253af
+  created_time: 2021-09-02T05:55:00.0000000Z
+  last_edited_time: 2021-09-02T05:56:00.0000000Z
+  has_children: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What challenges do you face?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What challenges do you face?
+      href: 
+- object: block
+  id: 4ce87acb-3a0b-48a8-b253-23c39cb527ac
+  created_time: 2021-09-02T05:55:00.0000000Z
+  last_edited_time: 2021-09-02T05:56:00.0000000Z
+  has_children: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What kind of relationship advices you get often?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What kind of relationship advices you get often?
+      href: 
+- object: block
+  id: 1dc16187-f24e-4c6b-9f76-e51c131c02a5
+  created_time: 2021-09-02T05:55:00.0000000Z
+  last_edited_time: 2021-09-02T05:56:00.0000000Z
+  has_children: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Do you have a clique of friends you are still close?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Do you have a clique of friends you are still close?
+      href: 
+- object: block
+  id: 397fa703-31d0-465f-9cb1-c6be105e94c0
+  created_time: 2021-09-02T05:55:00.0000000Z
+  last_edited_time: 2021-09-02T05:56:00.0000000Z
+  has_children: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: How do you maintain a relationship? Do you prioritize yourself or others? How do you balance it?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: How do you maintain a relationship? Do you prioritize yourself or others? How do you balance it?
+      href: 
+- object: block
+  id: c2c750d7-bf97-485e-a7f7-9bfd92afce9a
+  created_time: 2021-09-02T05:55:00.0000000Z
+  last_edited_time: 2021-09-02T05:56:00.0000000Z
+  has_children: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Have you ever read a book or article on relationships? What drove you to read it? What advice did it gave you?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Have you ever read a book or article on relationships? What drove you to read it? What advice did it gave you?
+      href: 
+- object: block
+  id: b65fdd9e-c692-418a-887c-5d2e221b0348
+  created_time: 2021-09-02T05:55:00.0000000Z
+  last_edited_time: 2021-09-02T05:56:00.0000000Z
+  has_children: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What do you think is important in a relationship?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What do you think is important in a relationship?
+      href: 
+- object: block
+  id: a8929094-cb50-4fdf-9cab-0badfefc5f61
+  created_time: 2021-09-02T05:55:00.0000000Z
+  last_edited_time: 2021-09-02T05:56:00.0000000Z
+  has_children: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Can relationship be a burden?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Can relationship be a burden?
+      href: 
+- object: block
+  id: ebac20c9-8fba-411a-b8a9-2ae6df6ea3b1
+  created_time: 2021-09-02T05:56:00.0000000Z
+  last_edited_time: 2021-09-02T05:56:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: c18d6689-b366-4045-878c-23db753dff2f
+  created_time: 2021-09-02T05:54:00.0000000Z
+  last_edited_time: 2021-09-02T05:55:00.0000000Z
+  has_children: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: cc43ed31-ac76-42d4-9052-becc23360909
+  created_time: 2021-09-02T05:54:00.0000000Z
+  last_edited_time: 2021-09-02T05:54:00.0000000Z
+  has_children: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: bc8c7f6b-d4d0-4437-8c24-e57db8b8ca08
+  created_time: 2021-09-02T05:57:00.0000000Z
+  last_edited_time: 2021-09-02T05:57:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 449c8cbd-9dea-4c18-a481-f5aa3d5af4bc
+  created_time: 2021-09-02T05:57:00.0000000Z
+  last_edited_time: 2021-09-02T05:57:00.0000000Z
+  has_children: false
+  type: image
+  image:
+    caption: []
+    type: file
+    file:
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/eaa5a51f-c5da-4ae0-81e3-18679f6a288c/Brainstorming_-_09_8_Relationship-Free_talk.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210903%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210903T005330Z&X-Amz-Expires=3600&X-Amz-Signature=654016ed1f4152bbb4e0ec3a7411788dfb53453c29174e11f9dd70d2fe6194a8&X-Amz-SignedHeaders=host
+      expiry_time: 2021-09-03T01:53:30.6440000Z
+- object: block
+  id: ac54503f-3fb5-4db5-8abd-5dee2ffdd26e
+  created_time: 2021-09-02T05:57:00.0000000Z
+  last_edited_time: 2021-09-02T05:57:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 50877227-e589-4354-8c80-41a8092ae340
+  created_time: 2021-09-02T05:54:00.0000000Z
+  last_edited_time: 2021-09-02T05:57:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: ce79910d-ed23-4238-9aed-8886ac7edad0
+  created_time: 2021-09-02T05:54:00.0000000Z
+  last_edited_time: 2021-09-02T05:54:00.0000000Z
+  has_children: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: 65928178-e627-4f31-a4dc-ce410ad8d412
+  created_time: 2021-09-02T05:54:00.0000000Z
+  last_edited_time: 2021-09-02T05:54:00.0000000Z
+  has_children: false
+  type: paragraph
+  paragraph:
+    text: []
+next_cursor: 
+has_more: false
+
