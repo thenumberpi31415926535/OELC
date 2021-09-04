@@ -5,8 +5,8 @@ last_edited_time: 2021-08-05T16:21:00.0000000Z
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/129035db-1894-4d48-bcb5-9ccd151a13b8/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210903%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210903T005341Z&X-Amz-Expires=3600&X-Amz-Signature=003c374ecf363b297a0dadcefe6aab54c64027d82cd5d15e88c4bc9e83ad7369&X-Amz-SignedHeaders=host
-    expiry_time: 2021-09-03T01:53:41.5020000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/129035db-1894-4d48-bcb5-9ccd151a13b8/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210904%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210904T005448Z&X-Amz-Expires=3600&X-Amz-Signature=9abef31140e992046390dae1d1ad5df5eab51ea694f41949ea68410e16f77756&X-Amz-SignedHeaders=host
+    expiry_time: 2021-09-04T01:54:48.0240000Z
 icon:
   type: emoji
   emoji: "\U0001F3C5"
@@ -119,18 +119,20 @@ results:
   created_time: 2021-08-02T15:13:00.0000000Z
   last_edited_time: 2021-08-02T15:13:00.0000000Z
   has_children: false
+  archived: false
   type: image
   image:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4eaaa657-e71a-410d-ae75-cee82da5a402/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210903%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210903T005341Z&X-Amz-Expires=3600&X-Amz-Signature=5ffb20dc2fd61ac002dd3d7017ac3362b3f3566be268f664e37e86356f27a96d&X-Amz-SignedHeaders=host
-      expiry_time: 2021-09-03T01:53:41.6940000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4eaaa657-e71a-410d-ae75-cee82da5a402/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210904%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210904T005448Z&X-Amz-Expires=3600&X-Amz-Signature=7419ad31f55230121b7e89ac10b19698336f43c5312cc779814b066d0cbccee2&X-Amz-SignedHeaders=host
+      expiry_time: 2021-09-04T01:54:48.2950000Z
 - object: block
   id: af90d0eb-4f45-4ff7-9997-786406d7a673
   created_time: 2021-08-02T15:25:00.0000000Z
   last_edited_time: 2021-08-02T15:30:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text:
@@ -179,6 +181,7 @@ results:
   created_time: 2021-08-02T15:28:00.0000000Z
   last_edited_time: 2021-08-02T15:30:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text:
@@ -214,6 +217,7 @@ results:
   created_time: 2021-08-02T15:28:00.0000000Z
   last_edited_time: 2021-08-02T15:28:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text: []
@@ -222,6 +226,7 @@ results:
   created_time: 2021-08-02T15:15:00.0000000Z
   last_edited_time: 2021-08-02T15:15:00.0000000Z
   has_children: false
+  archived: false
   type: heading_1
   heading_1:
     text:
@@ -243,6 +248,7 @@ results:
   created_time: 2021-08-02T15:12:00.0000000Z
   last_edited_time: 2021-08-02T15:15:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text:
@@ -264,6 +270,7 @@ results:
   created_time: 2021-08-02T15:15:00.0000000Z
   last_edited_time: 2021-08-02T15:15:00.0000000Z
   has_children: false
+  archived: false
   type: bulleted_list_item
   bulleted_list_item:
     text:
@@ -285,6 +292,7 @@ results:
   created_time: 2021-08-02T15:15:00.0000000Z
   last_edited_time: 2021-08-02T15:15:00.0000000Z
   has_children: false
+  archived: false
   type: bulleted_list_item
   bulleted_list_item:
     text:
@@ -306,6 +314,7 @@ results:
   created_time: 2021-08-02T15:15:00.0000000Z
   last_edited_time: 2021-08-02T15:15:00.0000000Z
   has_children: false
+  archived: false
   type: bulleted_list_item
   bulleted_list_item:
     text:
@@ -327,6 +336,7 @@ results:
   created_time: 2021-08-02T15:15:00.0000000Z
   last_edited_time: 2021-08-02T15:16:00.0000000Z
   has_children: false
+  archived: false
   type: bulleted_list_item
   bulleted_list_item:
     text:
@@ -348,6 +358,7 @@ results:
   created_time: 2021-08-02T15:16:00.0000000Z
   last_edited_time: 2021-08-02T15:16:00.0000000Z
   has_children: false
+  archived: false
   type: bulleted_list_item
   bulleted_list_item:
     text:
@@ -369,6 +380,7 @@ results:
   created_time: 2021-08-02T15:12:00.0000000Z
   last_edited_time: 2021-08-02T15:16:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text: []
@@ -377,6 +389,7 @@ results:
   created_time: 2021-08-02T15:13:00.0000000Z
   last_edited_time: 2021-08-02T15:16:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text: []
@@ -385,6 +398,7 @@ results:
   created_time: 2021-07-20T12:16:00.0000000Z
   last_edited_time: 2021-07-20T12:16:00.0000000Z
   has_children: false
+  archived: false
   type: unsupported
   unsupported: {}
 next_cursor: 

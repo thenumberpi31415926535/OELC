@@ -5,8 +5,8 @@ last_edited_time: 2021-08-03T11:20:00.0000000Z
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf70b2a4-7f85-4d4c-917d-e247d2151fa5/ocivd.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210903%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210903T005341Z&X-Amz-Expires=3600&X-Amz-Signature=7ce67c79f9b13e64504326030863ac1cb0b2fe87266b196d2f68c59f5dade998&X-Amz-SignedHeaders=host
-    expiry_time: 2021-09-03T01:53:41.9540000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf70b2a4-7f85-4d4c-917d-e247d2151fa5/ocivd.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210904%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210904T005448Z&X-Amz-Expires=3600&X-Amz-Signature=f79dc61cba417ea4767048171af5a6d4b9f8b53c49775e31be6f0cfc5f933e6c&X-Amz-SignedHeaders=host
+    expiry_time: 2021-09-04T01:54:48.8750000Z
 icon:
   type: emoji
   emoji: "\U0001F9A0"
@@ -122,6 +122,7 @@ results:
   created_time: 2021-07-20T12:14:00.0000000Z
   last_edited_time: 2021-07-20T12:14:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text: []
@@ -130,6 +131,7 @@ results:
   created_time: 2021-08-02T15:29:00.0000000Z
   last_edited_time: 2021-08-02T15:32:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text:
@@ -151,6 +153,7 @@ results:
   created_time: 2021-08-02T15:30:00.0000000Z
   last_edited_time: 2021-08-03T11:20:00.0000000Z
   has_children: false
+  archived: false
   type: bulleted_list_item
   bulleted_list_item:
     text:
@@ -172,6 +175,7 @@ results:
   created_time: 2021-08-02T15:30:00.0000000Z
   last_edited_time: 2021-08-03T11:20:00.0000000Z
   has_children: false
+  archived: false
   type: bulleted_list_item
   bulleted_list_item:
     text:
@@ -193,6 +197,7 @@ results:
   created_time: 2021-08-02T15:31:00.0000000Z
   last_edited_time: 2021-08-03T11:20:00.0000000Z
   has_children: false
+  archived: false
   type: bulleted_list_item
   bulleted_list_item:
     text:
@@ -214,6 +219,7 @@ results:
   created_time: 2021-08-02T15:38:00.0000000Z
   last_edited_time: 2021-08-02T15:38:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text: []
@@ -222,6 +228,7 @@ results:
   created_time: 2021-08-02T15:35:00.0000000Z
   last_edited_time: 2021-08-02T15:38:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text:
@@ -243,6 +250,7 @@ results:
   created_time: 2021-08-02T15:30:00.0000000Z
   last_edited_time: 2021-08-03T11:20:00.0000000Z
   has_children: false
+  archived: false
   type: bulleted_list_item
   bulleted_list_item:
     text:
@@ -265,6 +273,7 @@ results:
   created_time: 2021-08-02T15:36:00.0000000Z
   last_edited_time: 2021-08-03T11:20:00.0000000Z
   has_children: false
+  archived: false
   type: bulleted_list_item
   bulleted_list_item:
     text:
@@ -287,6 +296,7 @@ results:
   created_time: 2021-08-02T15:37:00.0000000Z
   last_edited_time: 2021-08-03T11:20:00.0000000Z
   has_children: false
+  archived: false
   type: bulleted_list_item
   bulleted_list_item:
     text:
@@ -309,6 +319,7 @@ results:
   created_time: 2021-08-02T15:32:00.0000000Z
   last_edited_time: 2021-08-02T15:32:00.0000000Z
   has_children: true
+  archived: false
   type: unsupported
   unsupported: {}
 - object: block
@@ -316,6 +327,7 @@ results:
   created_time: 2021-08-02T15:37:00.0000000Z
   last_edited_time: 2021-08-02T15:37:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text: []

@@ -1,45 +1,38 @@
 ---
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 software: Discord
-talktime: 2021-07-28T20:30:00.0000000
+talktime: 2021-08-04T21:00:00.0000000
 meeting_link: https://discord.gg/vE7QUXGDnS
-indexDate: 2021-07-28
+indexDate: 2021-08-04
 parent_type: database_id
-notion_url: https://www.notion.so/5bb54fd47e7c44e5bc385dd9e16918f4
-created_time: 2021-07-26T15:26:00.0000000
+notion_url: https://www.notion.so/Ask-Bones-and-Pi-it-s-free-talk-time-f8ed1ea162ac43369f56450d7b8d9e0a
+created_time: 2021-08-02T12:38:00.0000000
 archived: false
 hosts:
 - Bones
 - Pi
-title: 聽不懂怎麼辦?
+title: Ask Bones and Pi, it's free talk time!
 last_edited_time: 2021-08-16T01:26:00.0000000
 object: page
 tags:
 - Talk
-- 2021-07-28
+- 2021-08-04
 - Bones
 - Pi
-name: 聽不懂怎麼辦?
+name: Ask Bones and Pi, it's free talk time!
 language_level: No limit
-id: 5bb54fd4-7e7c-44e5-bc38-5dd9e16918f4
+id: f8ed1ea1-62ac-4336-9f56-450d7b8d9e0a
 sign_up_here:
 - "Join Pi's "
 - '[Discord ](https://discord.gg/vE7QUXGDnS)'
 - 'server and sign up in #annoncements!'
 ---
 
-
+Bring a drink or two, make yourself comfortable, come and hang out with us!
 
 [Untitled](https://www.notion.so/12c4a9e645d54aefa860b5f927a0b220)   
 [Untitled](https://www.notion.so/482e61b02b9c4456b2b4fe86bb7544c6)   
 
-
-We will discuss the following but not limited to:
-   - What is your goal of the conversation?
-   - Is it okay to ask questions?
-   - What are you attitude and mindsets?
-   - How to describe "The thing"?
-   - How to find a gap to insert your questions?
 
 
 

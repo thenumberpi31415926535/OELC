@@ -88,6 +88,7 @@ results:
   created_time: 2021-07-30T18:47:00.0000000Z
   last_edited_time: 2021-07-30T18:51:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text:
@@ -109,6 +110,7 @@ results:
   created_time: 2021-07-30T18:47:00.0000000Z
   last_edited_time: 2021-07-30T18:47:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text: []
@@ -117,6 +119,7 @@ results:
   created_time: 2021-07-30T18:47:00.0000000Z
   last_edited_time: 2021-07-30T18:52:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text:
@@ -138,6 +141,7 @@ results:
   created_time: 2021-07-30T19:03:00.0000000Z
   last_edited_time: 2021-07-30T19:03:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text: []
@@ -146,6 +150,7 @@ results:
   created_time: 2021-07-30T19:02:00.0000000Z
   last_edited_time: 2021-07-30T19:02:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text: []
@@ -154,18 +159,20 @@ results:
   created_time: 2021-07-30T19:02:00.0000000Z
   last_edited_time: 2021-07-30T19:03:00.0000000Z
   has_children: false
+  archived: false
   type: image
   image:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/645f23be-e262-4181-b932-cc79f853f513/921881B8-6CDE-4763-AE15-56F5E26FB295.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210903%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210903T005341Z&X-Amz-Expires=3600&X-Amz-Signature=bec07b764bce0ebb821d467ba7b6dbcd276d74120021830c9769a477d2dbbc5c&X-Amz-SignedHeaders=host
-      expiry_time: 2021-09-03T01:53:41.2840000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/645f23be-e262-4181-b932-cc79f853f513/921881B8-6CDE-4763-AE15-56F5E26FB295.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210904%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210904T005447Z&X-Amz-Expires=3600&X-Amz-Signature=f9a30b6f8dff03be897bef3bf7e76765280441bdcee11c2986cfd981d5df3419&X-Amz-SignedHeaders=host
+      expiry_time: 2021-09-04T01:54:47.7890000Z
 - object: block
   id: d1b0240b-e017-43f4-9989-20a677b58847
   created_time: 2021-07-30T18:52:00.0000000Z
   last_edited_time: 2021-07-30T19:02:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text: []
@@ -174,6 +181,7 @@ results:
   created_time: 2021-07-30T18:52:00.0000000Z
   last_edited_time: 2021-07-30T18:52:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text: []
@@ -182,6 +190,7 @@ results:
   created_time: 2021-07-21T05:07:00.0000000Z
   last_edited_time: 2021-07-21T05:07:00.0000000Z
   has_children: false
+  archived: false
   type: unsupported
   unsupported: {}
 next_cursor: 

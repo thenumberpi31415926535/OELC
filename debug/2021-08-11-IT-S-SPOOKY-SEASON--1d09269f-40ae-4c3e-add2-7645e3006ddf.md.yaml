@@ -118,6 +118,7 @@ results:
   created_time: 2021-08-10T12:47:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text:
@@ -139,6 +140,7 @@ results:
   created_time: 2021-08-10T07:48:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   has_children: false
+  archived: false
   type: bulleted_list_item
   bulleted_list_item:
     text:
@@ -160,6 +162,7 @@ results:
   created_time: 2021-08-10T07:48:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   has_children: false
+  archived: false
   type: bulleted_list_item
   bulleted_list_item:
     text:
@@ -185,6 +188,7 @@ results:
   created_time: 2021-08-10T07:48:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   has_children: false
+  archived: false
   type: bulleted_list_item
   bulleted_list_item:
     text:
@@ -206,6 +210,7 @@ results:
   created_time: 2021-08-10T07:49:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   has_children: false
+  archived: false
   type: bulleted_list_item
   bulleted_list_item:
     text:
@@ -227,6 +232,7 @@ results:
   created_time: 2021-08-10T07:49:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   has_children: false
+  archived: false
   type: bulleted_list_item
   bulleted_list_item:
     text:
@@ -248,6 +254,7 @@ results:
   created_time: 2021-08-10T07:49:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text: []
@@ -256,6 +263,7 @@ results:
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   has_children: false
+  archived: false
   type: unsupported
   unsupported: {}
 - object: block
@@ -263,6 +271,7 @@ results:
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text:
@@ -298,6 +307,7 @@ results:
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text:
@@ -333,6 +343,7 @@ results:
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text: []
@@ -341,18 +352,20 @@ results:
   created_time: 2021-08-10T07:51:00.0000000Z
   last_edited_time: 2021-08-10T07:51:00.0000000Z
   has_children: false
+  archived: false
   type: image
   image:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8efcf85d-3ac6-4afa-9d37-14316279d529/Brainstorming_-_08_11_Supernatural_experiences.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210903%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210903T005338Z&X-Amz-Expires=3600&X-Amz-Signature=f2ca353ca8d99547e19730b1ba2c135d114a04f24e1067e40995e92b5dd14e48&X-Amz-SignedHeaders=host
-      expiry_time: 2021-09-03T01:53:38.4550000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8efcf85d-3ac6-4afa-9d37-14316279d529/Brainstorming_-_08_11_Supernatural_experiences.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210904%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210904T005442Z&X-Amz-Expires=3600&X-Amz-Signature=b37c674aa7b2607076f76693f54689cdc6fe6a666b7ca9ce227a17e1615520c2&X-Amz-SignedHeaders=host
+      expiry_time: 2021-09-04T01:54:42.6490000Z
 - object: block
   id: 648be114-bbe9-437c-b7d3-8313ecd0fa16
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-10T07:46:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text: []
@@ -361,6 +374,7 @@ results:
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-10T07:46:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text: []
@@ -369,6 +383,7 @@ results:
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-10T07:46:00.0000000Z
   has_children: false
+  archived: false
   type: unsupported
   unsupported: {}
 - object: block
@@ -376,6 +391,7 @@ results:
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-10T07:46:00.0000000Z
   has_children: false
+  archived: false
   type: paragraph
   paragraph:
     text: []
