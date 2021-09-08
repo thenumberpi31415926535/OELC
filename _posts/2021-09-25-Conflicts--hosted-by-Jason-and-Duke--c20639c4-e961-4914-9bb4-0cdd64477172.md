@@ -1,28 +1,28 @@
 ---
+created_time: 2021-09-07T22:56:00.0000000
+language_level: No limit
 indexDate: 2021-09-25
 last_edited_time: 2021-09-07T23:21:00.0000000
-id: c20639c4-e961-4914-9bb4-0cdd64477172
-created_time: 2021-09-07T22:56:00.0000000
-object: page
-meeting_link: https://meet.jit.si/moderated/dfbe69e7bfe0301514d446b84bf8eae7c341930db7663768e983d0a15ca0096d
-title: 'Conflicts, hosted by Jason and Duke '
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+sign_up_here: '[https://forms.gle/PXFxgXPoyiuyjxt47](https://forms.gle/PXFxgXPoyiuyjxt47)'
+parent_type: database_id
+notion_url: https://www.notion.so/Conflicts-hosted-by-Jason-and-Duke-c20639c4e96149149bb40cdd64477172
 software: Jitsi Meet
+name: 'Conflicts, hosted by Jason and Duke '
+talktime: 2021-09-25T21:00:00.0000000
+meeting_link: https://meet.jit.si/moderated/dfbe69e7bfe0301514d446b84bf8eae7c341930db7663768e983d0a15ca0096d
+archived: false
+title: 'Conflicts, hosted by Jason and Duke '
 hosts:
 - Jason
 - Duke
-language_level: No limit
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-sign_up_here: '[https://forms.gle/PXFxgXPoyiuyjxt47](https://forms.gle/PXFxgXPoyiuyjxt47)'
-name: 'Conflicts, hosted by Jason and Duke '
-notion_url: https://www.notion.so/Conflicts-hosted-by-Jason-and-Duke-c20639c4e96149149bb40cdd64477172
-parent_type: database_id
-talktime: 2021-09-25T21:00:00.0000000
-archived: false
 tags:
 - Talk
 - 2021-09-25
 - Jason
 - Duke
+object: page
+id: c20639c4-e961-4914-9bb4-0cdd64477172
 ---
 
 [Untitled](https://www.notion.so/cb083fc4f0b7459aa5afe1900ef25a1f)   
