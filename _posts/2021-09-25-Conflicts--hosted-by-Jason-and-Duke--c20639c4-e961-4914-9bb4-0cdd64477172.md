@@ -1,31 +1,34 @@
 ---
-name: 'Conflicts, hosted by Jason and Duke '
-notion_url: https://www.notion.so/Conflicts-hosted-by-Jason-and-Duke-c20639c4e96149149bb40cdd64477172
-archived: false
+id: c20639c4-e961-4914-9bb4-0cdd64477172
+sign_up_here: '[https://forms.gle/PXFxgXPoyiuyjxt47](https://forms.gle/PXFxgXPoyiuyjxt47)'
+language_level: No limit
+last_edited_time: 2021-09-17T21:22:00.0000000
 indexDate: 2021-09-25
+notion_url: https://www.notion.so/Conflicts-hosted-by-Jason-and-Duke-c20639c4e96149149bb40cdd64477172
+hosts:
+- Jason
+- Duke
+- Avriel
+meeting_link: https://meet.jit.si/moderated/dfbe69e7bfe0301514d446b84bf8eae7c341930db7663768e983d0a15ca0096d
+software: Jitsi Meet
+created_time: 2021-09-07T22:56:00.0000000
+parent_type: database_id
+archived: false
+title: 'Conflicts, hosted by Jason and Duke '
+name: 'Conflicts, hosted by Jason and Duke '
+talktime: 2021-09-25T21:00:00.0000000
 tags:
 - Talk
 - 2021-09-25
 - Jason
 - Duke
-last_edited_time: 2021-09-07T23:21:00.0000000
-id: c20639c4-e961-4914-9bb4-0cdd64477172
-software: Jitsi Meet
-title: 'Conflicts, hosted by Jason and Duke '
+- Avriel
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-created_time: 2021-09-07T22:56:00.0000000
-talktime: 2021-09-25T21:00:00.0000000
-meeting_link: https://meet.jit.si/moderated/dfbe69e7bfe0301514d446b84bf8eae7c341930db7663768e983d0a15ca0096d
 object: page
-language_level: No limit
-parent_type: database_id
-sign_up_here: '[https://forms.gle/PXFxgXPoyiuyjxt47](https://forms.gle/PXFxgXPoyiuyjxt47)'
-hosts:
-- Jason
-- Duke
 ---
 
 [Untitled](https://www.notion.so/cb083fc4f0b7459aa5afe1900ef25a1f)   
+[Untitled](https://www.notion.so/06eedd6e889c43369b68aa6f0742675b)   
 [Untitled](https://www.notion.so/e0958ccc596f4efea798c99507f0f16e)   
 
 Brief Introduction: Everyone is expecting to encounter some sort of conflict while talking to people, but how do we solve it? And what should we do when we have one? So this time, let's talk about it with each other, and probably we can take away some useful tips from the discussion!!!

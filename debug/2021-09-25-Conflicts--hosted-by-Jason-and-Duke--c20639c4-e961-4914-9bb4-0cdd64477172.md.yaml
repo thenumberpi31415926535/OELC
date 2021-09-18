@@ -1,7 +1,7 @@
 object: page
 id: c20639c4-e961-4914-9bb4-0cdd64477172
 created_time: 2021-09-07T14:56:00.0000000Z
-last_edited_time: 2021-09-07T15:21:00.0000000Z
+last_edited_time: 2021-09-17T13:22:00.0000000Z
 cover:
   type: external
   external:
@@ -56,6 +56,9 @@ properties:
     - id: eed567a4-eba9-4b4a-bd30-f8ea5a2ced15
       name: Duke
       color: default
+    - id: c7215c01-4a35-40f8-a287-520fdea09b5f
+      name: Avriel
+      color: gray
   Meeting Link:
     id: w~\Q
     type: url
@@ -110,6 +113,42 @@ results:
         color: default
       plain_text: Untitled
       href: https://www.notion.so/cb083fc4f0b7459aa5afe1900ef25a1f
+    - type: text
+      text:
+        content: ' '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: ' '
+      href: 
+- object: block
+  id: 9220d868-5414-4a04-8c83-7f783b812f90
+  created_time: 2021-09-17T13:22:00.0000000Z
+  last_edited_time: 2021-09-17T13:22:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: mention
+      mention:
+        type: page
+        page:
+          id: 06eedd6e-889c-4336-9b68-aa6f0742675b
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Untitled
+      href: https://www.notion.so/06eedd6e889c43369b68aa6f0742675b
     - type: text
       text:
         content: ' '
