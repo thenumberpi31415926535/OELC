@@ -1,30 +1,30 @@
 ---
-indexDate: 2021-09-25
-name: 'Conflicts, hosted by Jason and Duke '
-meeting_link: https://meet.jit.si/moderated/dfbe69e7bfe0301514d446b84bf8eae7c341930db7663768e983d0a15ca0096d
-created_time: 2021-09-07T22:56:00.0000000
-archived: false
-last_edited_time: 2021-09-18T22:07:00.0000000
-notion_url: https://www.notion.so/Conflicts-hosted-by-Jason-and-Duke-c20639c4e96149149bb40cdd64477172
-parent_type: database_id
-hosts:
-- Jason
-- Duke
-- Avriel
-software: Jitsi Meet
-title: 'Conflicts, hosted by Jason and Duke '
-talktime: 2021-09-25T21:00:00.0000000
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+name: 'Conflicts, hosted by Jason, Duke and Avriel  '
+language_level: No limit
 sign_up_here: '[https://forms.gle/PXFxgXPoyiuyjxt47](https://forms.gle/PXFxgXPoyiuyjxt47)'
+title: 'Conflicts, hosted by Jason, Duke and Avriel  '
+last_edited_time: 2021-09-19T11:40:00.0000000
+archived: false
+talktime: 2021-09-25T21:00:00.0000000
+parent_type: database_id
 object: page
 id: c20639c4-e961-4914-9bb4-0cdd64477172
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+meeting_link: https://meet.jit.si/moderated/6dd2f71319273153ba3cc4bb7453096ba63fe5a5cb85bf1c220f0166277e2981
+created_time: 2021-09-07T22:56:00.0000000
 tags:
 - Talk
 - 2021-09-25
 - Jason
 - Duke
 - Avriel
-language_level: No limit
+software: Jitsi Meet
+hosts:
+- Jason
+- Duke
+- Avriel
+indexDate: 2021-09-25
+notion_url: https://www.notion.so/Conflicts-hosted-by-Jason-Duke-and-Avriel-c20639c4e96149149bb40cdd64477172
 ---
 
 [Untitled](https://www.notion.so/cb083fc4f0b7459aa5afe1900ef25a1f)   
