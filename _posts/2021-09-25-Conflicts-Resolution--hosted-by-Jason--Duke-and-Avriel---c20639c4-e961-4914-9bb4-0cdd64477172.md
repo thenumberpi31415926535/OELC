@@ -1,30 +1,30 @@
 ---
-archived: false
 notion_url: https://www.notion.so/Conflicts-Resolution-hosted-by-Jason-Duke-and-Avriel-c20639c4e96149149bb40cdd64477172
-talktime: 2021-09-25T21:00:00.0000000
-hosts:
-- Jason
-- Duke
-- Avriel
 id: c20639c4-e961-4914-9bb4-0cdd64477172
+name: 'Conflicts Resolution, hosted by Jason, Duke and Avriel  '
+talktime: 2021-09-25T21:00:00.0000000
+archived: false
 parent_type: database_id
-created_time: 2021-09-07T22:56:00.0000000
 title: 'Conflicts Resolution, hosted by Jason, Duke and Avriel  '
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+software: Jitsi Meet
+language_level: No limit
+created_time: 2021-09-07T22:56:00.0000000
+object: page
+meeting_link: https://meet.jit.si/moderated/6dd2f71319273153ba3cc4bb7453096ba63fe5a5cb85bf1c220f0166277e2981
 indexDate: 2021-09-25
+sign_up_here: '[https://forms.gle/PXFxgXPoyiuyjxt47](https://forms.gle/PXFxgXPoyiuyjxt47)'
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 tags:
 - Talk
 - 2021-09-25
 - Jason
 - Duke
 - Avriel
-meeting_link: https://meet.jit.si/moderated/6dd2f71319273153ba3cc4bb7453096ba63fe5a5cb85bf1c220f0166277e2981
-name: 'Conflicts Resolution, hosted by Jason, Duke and Avriel  '
-last_edited_time: 2021-09-25T19:51:00.0000000
-software: Jitsi Meet
-language_level: No limit
-sign_up_here: '[https://forms.gle/PXFxgXPoyiuyjxt47](https://forms.gle/PXFxgXPoyiuyjxt47)'
-object: page
+hosts:
+- Jason
+- Duke
+- Avriel
+last_edited_time: 2021-09-28T10:36:00.0000000
 ---
 
 [Untitled](https://www.notion.so/cb083fc4f0b7459aa5afe1900ef25a1f)   
@@ -91,6 +91,7 @@ For sure, if you're afraid that your English might not be good enough, or you fe
 
 !!!By the way, if you suddenly find you will have to miss our show but you’ve signed up for it already, please tell us before the show starts, cheers.
 If you have any questions, please contact the hosts. Or fill in the feedback form we provide at the end of each show. In either way, we’ll be able to know your demands and contact you individually.
+
 
 
 
