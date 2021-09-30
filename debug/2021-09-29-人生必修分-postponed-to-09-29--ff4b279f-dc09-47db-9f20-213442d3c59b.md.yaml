@@ -1,7 +1,7 @@
 object: page
 id: ff4b279f-dc09-47db-9f20-213442d3c59b
 created_time: 2021-09-17T03:38:00.0000000Z
-last_edited_time: 2021-09-20T05:23:00.0000000Z
+last_edited_time: 2021-09-29T08:46:00.0000000Z
 cover:
   type: external
   external:
@@ -293,6 +293,578 @@ results:
       plain_text: How to integrate into the society? Is this 人生必修分?
       href: 
 - object: block
+  id: c907e846-ce95-4926-8d56-42b656f5f61c
+  created_time: 2021-09-29T05:23:00.0000000Z
+  last_edited_time: 2021-09-29T05:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What are your 人生必修分?
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What are your 人生必修分?
+      href: 
+- object: block
+  id: 00ba7c73-dc9d-4aed-83f8-a0742674cb3f
+  created_time: 2021-09-29T05:23:00.0000000Z
+  last_edited_time: 2021-09-29T05:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What are the must haves for you in your life?
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What are the must haves for you in your life?
+      href: 
+- object: block
+  id: 6ad7cf2d-0078-44c2-ab9b-d0f22ab8539a
+  created_time: 2021-09-29T05:23:00.0000000Z
+  last_edited_time: 2021-09-29T05:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What are the steps you made to try to achieve your values?
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What are the steps you made to try to achieve your values?
+      href: 
+- object: block
+  id: 58908db1-4405-48fa-a5ce-b8202e85bed7
+  created_time: 2021-09-29T05:23:00.0000000Z
+  last_edited_time: 2021-09-29T05:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What is your attitude on 人生必修分?
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What is your attitude on 人生必修分?
+      href: 
+- object: block
+  id: fc0a5094-85a9-4cef-92cd-aee47c36ee73
+  created_time: 2021-09-29T05:23:00.0000000Z
+  last_edited_time: 2021-09-29T05:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Do you thinks it's necessary to have this kind of goal?
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Do you thinks it's necessary to have this kind of goal?
+      href: 
+- object: block
+  id: 5d6d0669-1bad-4148-89f6-180ece5b5c89
+  created_time: 2021-09-29T05:23:00.0000000Z
+  last_edited_time: 2021-09-29T05:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Do you think values change over time?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Do you think values change over time?
+      href: 
+- object: block
+  id: dd9ef256-f5b7-4c7e-924f-5f298ca3e6d3
+  created_time: 2021-09-29T05:23:00.0000000Z
+  last_edited_time: 2021-09-29T05:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Do you think values change base on the roles you have?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Do you think values change base on the roles you have?
+      href: 
+- object: block
+  id: 2c38e301-72cc-4462-8a20-ca8cbfc436fc
+  created_time: 2021-09-29T05:23:00.0000000Z
+  last_edited_time: 2021-09-29T05:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Do you or others define the values for you?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Do you or others define the values for you?
+      href: 
+- object: block
+  id: 36d5c9c4-477a-427e-8832-958387115c0d
+  created_time: 2021-09-29T05:24:00.0000000Z
+  last_edited_time: 2021-09-29T05:24:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What are your 人生必修分?
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What are your 人生必修分?
+      href: 
+- object: block
+  id: 2915f2db-1c5a-4902-a340-61e6c191c0aa
+  created_time: 2021-09-29T05:24:00.0000000Z
+  last_edited_time: 2021-09-29T05:24:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What are the must haves for you in your life?
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What are the must haves for you in your life?
+      href: 
+- object: block
+  id: 897e8c46-870d-4656-bf2f-09f5b98ea7c0
+  created_time: 2021-09-29T05:24:00.0000000Z
+  last_edited_time: 2021-09-29T05:24:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What are the steps you made to try to achieve your values?
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What are the steps you made to try to achieve your values?
+      href: 
+- object: block
+  id: d87a85bf-fdcd-4dbc-94df-960ec12fb1e0
+  created_time: 2021-09-29T05:24:00.0000000Z
+  last_edited_time: 2021-09-29T05:24:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What is your attitude on 人生必修分?
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What is your attitude on 人生必修分?
+      href: 
+- object: block
+  id: 33878c87-fab2-4baa-9ccb-7224c4e5317c
+  created_time: 2021-09-29T05:24:00.0000000Z
+  last_edited_time: 2021-09-29T05:24:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Do you thinks it's necessary to have this kind of goal?
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Do you thinks it's necessary to have this kind of goal?
+      href: 
+- object: block
+  id: 8c2d069a-bd69-4a17-a5cf-fe36769888c1
+  created_time: 2021-09-29T05:24:00.0000000Z
+  last_edited_time: 2021-09-29T05:24:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Do you think values change over time?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Do you think values change over time?
+      href: 
+- object: block
+  id: a9f22309-c4a4-48cd-8e31-af0862a486d2
+  created_time: 2021-09-29T05:24:00.0000000Z
+  last_edited_time: 2021-09-29T05:24:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Do you think values change base on the roles you have?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Do you think values change base on the roles you have?
+      href: 
+- object: block
+  id: f294b84a-39a6-4f55-960c-657e4d712fe6
+  created_time: 2021-09-29T05:24:00.0000000Z
+  last_edited_time: 2021-09-29T05:24:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Do you or others define the values for you?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Do you or others define the values for you?
+      href: 
+- object: block
+  id: a0cc9b86-2273-471d-bb58-3d1467f5e1ca
+  created_time: 2021-09-29T05:24:00.0000000Z
+  last_edited_time: 2021-09-29T05:24:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: How to integrate into the society? Is this 人生必修分?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: How to integrate into the society? Is this 人生必修分?
+      href: 
+- object: block
+  id: ab34adb0-6502-4464-843b-8c7827ac3fa7
+  created_time: 2021-09-29T05:24:00.0000000Z
+  last_edited_time: 2021-09-29T05:24:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What are your 人生必修分?
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What are your 人生必修分?
+      href: 
+- object: block
+  id: 02a4b2e9-f0f3-4ed8-9c8c-4fc6dc62a1e1
+  created_time: 2021-09-29T05:24:00.0000000Z
+  last_edited_time: 2021-09-29T05:24:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What are the must haves for you in your life?
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What are the must haves for you in your life?
+      href: 
+- object: block
+  id: 3e15d858-b1d9-4702-9dd9-be84bdca2fa7
+  created_time: 2021-09-29T05:24:00.0000000Z
+  last_edited_time: 2021-09-29T05:24:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What are the steps you made to try to achieve your values?
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What are the steps you made to try to achieve your values?
+      href: 
+- object: block
+  id: 6d259637-8dfb-44e3-93ea-229ee58bfeb3
+  created_time: 2021-09-29T05:24:00.0000000Z
+  last_edited_time: 2021-09-29T05:24:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What is your attitude on 人生必修分?
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What is your attitude on 人生必修分?
+      href: 
+- object: block
+  id: 146767d0-38cd-498e-b971-668e88adceb9
+  created_time: 2021-09-29T05:24:00.0000000Z
+  last_edited_time: 2021-09-29T05:24:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Do you thinks it's necessary to have this kind of goal?
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Do you thinks it's necessary to have this kind of goal?
+      href: 
+- object: block
+  id: 93b09d5e-523a-4933-9e75-33de941e1707
+  created_time: 2021-09-29T05:24:00.0000000Z
+  last_edited_time: 2021-09-29T05:24:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Do you think values change over time?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Do you think values change over time?
+      href: 
+- object: block
+  id: 3f1dbb53-7672-42a6-814f-d324d0efadea
+  created_time: 2021-09-29T05:24:00.0000000Z
+  last_edited_time: 2021-09-29T05:24:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Do you think values change base on the roles you have?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Do you think values change base on the roles you have?
+      href: 
+- object: block
+  id: 20f4f66e-e50a-4aac-b562-8e0372ae3cd4
+  created_time: 2021-09-29T05:24:00.0000000Z
+  last_edited_time: 2021-09-29T05:24:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Do you or others define the values for you?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Do you or others define the values for you?
+      href: 
+- object: block
+  id: 4f424941-9914-40f9-b66d-3f6b34d8b117
+  created_time: 2021-09-29T05:23:00.0000000Z
+  last_edited_time: 2021-09-29T05:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: How to integrate into the society? Is this 人生必修分?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: How to integrate into the society? Is this 人生必修分?
+      href: 
+- object: block
   id: 18ce590f-b6ef-4a18-b974-332e036bedba
   created_time: 2021-09-17T03:38:00.0000000Z
   last_edited_time: 2021-09-17T03:38:00.0000000Z
@@ -312,8 +884,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4878e899-11ff-4da7-88eb-7b11e3d1329d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210929%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210929T005441Z&X-Amz-Expires=3600&X-Amz-Signature=3816aaf174aad977bfd59ed7aaafd46b8b5395235661c707f8f7ccd8edbb5c8e&X-Amz-SignedHeaders=host
-      expiry_time: 2021-09-29T01:54:41.1860000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4878e899-11ff-4da7-88eb-7b11e3d1329d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210930%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210930T010104Z&X-Amz-Expires=3600&X-Amz-Signature=a8d8a72380f2c7534144b77148de3bb820958561b9698de174f748939c183b14&X-Amz-SignedHeaders=host
+      expiry_time: 2021-09-30T02:01:04.2310000Z
 - object: block
   id: 346f3be8-50d0-4f1b-9343-2e18ae9b9eb5
   created_time: 2021-09-17T03:38:00.0000000Z
@@ -343,6 +915,14 @@ results:
   id: b677749a-ac42-4dca-a2b0-8b0d45e81b2f
   created_time: 2021-09-17T03:38:00.0000000Z
   last_edited_time: 2021-09-17T03:38:00.0000000Z
+  has_children: false
+  archived: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: bc92c024-7475-4c0d-8ef8-ef4b9360b82f
+  created_time: 2021-09-29T08:46:00.0000000Z
+  last_edited_time: 2021-09-29T08:46:00.0000000Z
   has_children: false
   archived: false
   type: unsupported
