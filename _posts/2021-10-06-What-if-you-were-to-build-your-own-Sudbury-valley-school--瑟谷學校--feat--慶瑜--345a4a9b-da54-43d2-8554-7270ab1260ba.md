@@ -1,0 +1,41 @@
+---
+created_time: 2021-09-30T12:14:00.0000000
+notion_url: https://www.notion.so/What-if-you-were-to-build-your-own-Sudbury-valley-school-feat-345a4a9bda5443d285547270ab1260ba
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+last_edited_time: 2021-09-30T16:39:00.0000000
+id: 345a4a9b-da54-43d2-8554-7270ab1260ba
+sign_up_here: "Join Pi's Discord server and sign up in #annoncements!"
+software: Discord
+meeting_link: https://discord.gg/vE7QUXGDnS
+language_level: No limit
+parent_type: database_id
+tags:
+- Talk
+- 2021-10-06
+- Bones
+- Pi
+talktime: 2021-10-06T21:00:00.0000000
+title: What if you were to build your own Sudbury valley school? 瑟谷學校 (feat. 慶瑜)
+object: page
+name: What if you were to build your own Sudbury valley school? 瑟谷學校 (feat. 慶瑜)
+indexDate: 2021-10-06
+archived: false
+hosts:
+- Bones
+- Pi
+---
+
+
+一個下午，一個facebook message，我們邀請到了臺灣瑟谷教育推廣協會理事長慶瑜來跟我們聊他們即將開始招生 — 台灣第一所的瑟谷學校。
+瑟谷辣媽愛聊天： [https://open.firstory.me/user/ckjzc1o0twqye08207r5k0uo8](https://open.firstory.me/user/ckjzc1o0twqye08207r5k0uo8) 
+[https://sudburytw.wixsite.com/sudburytw/最新消息-機構](https://sudburytw.wixsite.com/sudburytw/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF-%E6%A9%9F%E6%A7%8B)
+
+
+Your hosts:
+
+[Untitled](https://www.notion.so/482e61b02b9c4456b2b4fe86bb7544c6)   
+
+
+
+
+

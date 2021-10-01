@@ -1,0 +1,297 @@
+object: page
+id: 345a4a9b-da54-43d2-8554-7270ab1260ba
+created_time: 2021-09-30T04:14:00.0000000Z
+last_edited_time: 2021-09-30T08:39:00.0000000Z
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
+icon:
+  type: emoji
+  emoji: "\U0001F3EB"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: 4cc93307-5fe5-4626-91c3-5ed284b7ca4d
+      name: Discord
+      color: purple
+  Sign up here:
+    id: ']hGQ'
+    type: rich_text
+    rich_text:
+    - type: text
+      text:
+        content: "Join Pi's Discord server and sign up in #annoncements!"
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "Join Pi's Discord server and sign up in #annoncements!"
+      href: 
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: b5fd044f-4265-4924-b11a-3435f6d8deb8
+      name: Bones
+      color: yellow
+    - id: 5fd12e96-75db-41b9-b28e-3f854c2cf009
+      name: Pi
+      color: brown
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://discord.gg/vE7QUXGDnS
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-10-06T13:00:00.0000000+00:00
+      end: 
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: What if you were to build your own Sudbury valley school? 瑟谷學校 (feat. 慶瑜)
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What if you were to build your own Sudbury valley school? 瑟谷學校 (feat. 慶瑜)
+      href: 
+url: https://www.notion.so/What-if-you-were-to-build-your-own-Sudbury-valley-school-feat-345a4a9bda5443d285547270ab1260ba
+
+object: list
+results:
+- object: block
+  id: 1a27b05e-6fe8-46ef-bd18-3b95651ef22f
+  created_time: 2021-09-30T04:14:00.0000000Z
+  last_edited_time: 2021-09-30T04:14:00.0000000Z
+  has_children: false
+  archived: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: a9112830-d4a5-4190-ab74-234125aef1c2
+  created_time: 2021-09-30T05:13:00.0000000Z
+  last_edited_time: 2021-09-30T08:26:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 一個下午，一個facebook message，我們邀請到了臺灣瑟谷教育推廣協會理事長慶瑜來跟我們聊他們即將開始招生 — 台灣第一所的瑟谷學校。
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 一個下午，一個facebook message，我們邀請到了臺灣瑟谷教育推廣協會理事長慶瑜來跟我們聊他們即將開始招生 — 台灣第一所的瑟谷學校。
+      href: 
+- object: block
+  id: 7cf4fdcd-1dfb-4d68-9167-27c8005cca24
+  created_time: 2021-09-30T08:36:00.0000000Z
+  last_edited_time: 2021-09-30T08:36:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 瑟谷辣媽愛聊天：
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 瑟谷辣媽愛聊天：
+      href: 
+    - type: text
+      text:
+        content: https://open.firstory.me/user/ckjzc1o0twqye08207r5k0uo8
+        link:
+          url: https://open.firstory.me/user/ckjzc1o0twqye08207r5k0uo8
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: https://open.firstory.me/user/ckjzc1o0twqye08207r5k0uo8
+      href: https://open.firstory.me/user/ckjzc1o0twqye08207r5k0uo8
+- object: block
+  id: 41e54a4c-3adc-4249-a3ea-9168884bfd31
+  created_time: 2021-09-30T08:26:00.0000000Z
+  last_edited_time: 2021-09-30T08:26:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: https://sudburytw.wixsite.com/sudburytw/最新消息-機構
+        link:
+          url: https://sudburytw.wixsite.com/sudburytw/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF-%E6%A9%9F%E6%A7%8B
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: https://sudburytw.wixsite.com/sudburytw/最新消息-機構
+      href: https://sudburytw.wixsite.com/sudburytw/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF-%E6%A9%9F%E6%A7%8B
+- object: block
+  id: e4600de7-dff0-4361-a631-77bbf9b2d5a3
+  created_time: 2021-09-30T08:22:00.0000000Z
+  last_edited_time: 2021-09-30T08:22:00.0000000Z
+  has_children: false
+  archived: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: 9f339807-58e2-4209-88a2-fe6e526a1db9
+  created_time: 2021-09-30T08:23:00.0000000Z
+  last_edited_time: 2021-09-30T08:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 8fc89ffe-f219-437b-b0e0-e2c27c88cccd
+  created_time: 2021-09-30T08:23:00.0000000Z
+  last_edited_time: 2021-09-30T08:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 'Your hosts:'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'Your hosts:'
+      href: 
+- object: block
+  id: cbd50d17-82df-425c-87bd-06115034d966
+  created_time: 2021-09-30T04:14:00.0000000Z
+  last_edited_time: 2021-09-30T04:14:00.0000000Z
+  has_children: false
+  archived: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: 0f2cf551-d441-4efa-b1d8-0ab33983adc8
+  created_time: 2021-09-30T08:23:00.0000000Z
+  last_edited_time: 2021-09-30T08:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: mention
+      mention:
+        type: page
+        page:
+          id: 482e61b0-2b9c-4456-b2b4-fe86bb7544c6
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Untitled
+      href: https://www.notion.so/482e61b02b9c4456b2b4fe86bb7544c6
+    - type: text
+      text:
+        content: ' '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: ' '
+      href: 
+- object: block
+  id: 4bad9542-06f2-46cc-b1ed-796ae7aa1901
+  created_time: 2021-09-30T04:14:00.0000000Z
+  last_edited_time: 2021-09-30T04:14:00.0000000Z
+  has_children: false
+  archived: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: 23065d33-857d-45da-abf5-3ebd94a3b561
+  created_time: 2021-09-30T04:14:00.0000000Z
+  last_edited_time: 2021-09-30T04:14:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: a485e524-94b7-4e6f-bd67-b6d0a4f9169c
+  created_time: 2021-09-30T04:14:00.0000000Z
+  last_edited_time: 2021-09-30T04:14:00.0000000Z
+  has_children: false
+  archived: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: 72cdc616-935a-4fb3-ace0-2c55eba0018a
+  created_time: 2021-09-30T04:14:00.0000000Z
+  last_edited_time: 2021-09-30T04:14:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+next_cursor: 
+has_more: false
+
