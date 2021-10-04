@@ -1,7 +1,7 @@
 object: page
 id: 345a4a9b-da54-43d2-8554-7270ab1260ba
 created_time: 2021-09-30T04:14:00.0000000Z
-last_edited_time: 2021-09-30T08:39:00.0000000Z
+last_edited_time: 2021-10-03T15:26:00.0000000Z
 cover:
   type: external
   external:
@@ -71,7 +71,7 @@ properties:
     title:
     - type: text
       text:
-        content: What if you were to build your own Sudbury valley school? 瑟谷學校 (feat. 慶瑜)
+        content: What if you were to build your own Sudbury valley school? 瑟谷學校 (feat. 慶瑜, Angela)
         link: 
       annotations:
         bold: false
@@ -80,9 +80,9 @@ properties:
         underline: false
         code: false
         color: default
-      plain_text: What if you were to build your own Sudbury valley school? 瑟谷學校 (feat. 慶瑜)
+      plain_text: What if you were to build your own Sudbury valley school? 瑟谷學校 (feat. 慶瑜, Angela)
       href: 
-url: https://www.notion.so/What-if-you-were-to-build-your-own-Sudbury-valley-school-feat-345a4a9bda5443d285547270ab1260ba
+url: https://www.notion.so/What-if-you-were-to-build-your-own-Sudbury-valley-school-feat-Angela-345a4a9bda5443d285547270ab1260ba
 
 object: list
 results:
@@ -97,7 +97,7 @@ results:
 - object: block
   id: a9112830-d4a5-4190-ab74-234125aef1c2
   created_time: 2021-09-30T05:13:00.0000000Z
-  last_edited_time: 2021-09-30T08:26:00.0000000Z
+  last_edited_time: 2021-10-03T15:25:00.0000000Z
   has_children: false
   archived: false
   type: paragraph
@@ -105,7 +105,7 @@ results:
     text:
     - type: text
       text:
-        content: 一個下午，一個facebook message，我們邀請到了臺灣瑟谷教育推廣協會理事長慶瑜來跟我們聊他們即將開始招生 — 台灣第一所的瑟谷學校。
+        content: 我們邀請到了臺灣瑟谷教育推廣協會理事長慶瑜還有協會常務理事Angela，來跟我們聊聊什麼是瑟谷教育，為什麼他們決定創建台灣第一所的瑟谷學校！
         link: 
       annotations:
         bold: false
@@ -114,8 +114,26 @@ results:
         underline: false
         code: false
         color: default
-      plain_text: 一個下午，一個facebook message，我們邀請到了臺灣瑟谷教育推廣協會理事長慶瑜來跟我們聊他們即將開始招生 — 台灣第一所的瑟谷學校。
+      plain_text: 我們邀請到了臺灣瑟谷教育推廣協會理事長慶瑜還有協會常務理事Angela，來跟我們聊聊什麼是瑟谷教育，為什麼他們決定創建台灣第一所的瑟谷學校！
       href: 
+- object: block
+  id: bff3a6bd-620a-4c0c-9644-6466ddfe6b04
+  created_time: 2021-10-03T15:20:00.0000000Z
+  last_edited_time: 2021-10-03T15:20:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: d8e78f95-9d47-4984-9d25-87f448933259
+  created_time: 2021-10-03T15:20:00.0000000Z
+  last_edited_time: 2021-10-03T15:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
 - object: block
   id: 7cf4fdcd-1dfb-4d68-9167-27c8005cca24
   created_time: 2021-09-30T08:36:00.0000000Z
@@ -185,8 +203,92 @@ results:
   unsupported: {}
 - object: block
   id: 9f339807-58e2-4209-88a2-fe6e526a1db9
+  created_time: 2021-10-03T14:38:00.0000000Z
+  last_edited_time: 2021-10-03T14:38:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: f183de13-10ed-4e3d-81da-7bc6ceb6295b
+  created_time: 2021-10-03T14:38:00.0000000Z
+  last_edited_time: 2021-10-03T14:39:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 'Podcasts:'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'Podcasts:'
+      href: 
+- object: block
+  id: 0376d9cd-c761-4205-b6a9-d65938d0d5b4
+  created_time: 2021-10-03T14:40:00.0000000Z
+  last_edited_time: 2021-10-03T14:40:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: http://imhomeschooling.com/free-to-learn-peter-gray/
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: http://imhomeschooling.com/free-to-learn-peter-gray/
+      href: 
+- object: block
+  id: 8b4beda1-f229-4a98-b5f1-70f3155b9f47
   created_time: 2021-09-30T08:23:00.0000000Z
-  last_edited_time: 2021-09-30T08:23:00.0000000Z
+  last_edited_time: 2021-10-03T14:38:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: http://imhomeschooling.com/sudbury-valley-school-daniel-greenberg/
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: http://imhomeschooling.com/sudbury-valley-school-daniel-greenberg/
+      href: 
+- object: block
+  id: 531091ac-adbd-4dd3-9345-7df60a9cc180
+  created_time: 2021-10-03T14:39:00.0000000Z
+  last_edited_time: 2021-10-03T14:39:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: e3f56f5e-6b34-40cd-8993-8153c8894544
+  created_time: 2021-10-03T14:38:00.0000000Z
+  last_edited_time: 2021-10-03T14:38:00.0000000Z
   has_children: false
   archived: false
   type: paragraph
