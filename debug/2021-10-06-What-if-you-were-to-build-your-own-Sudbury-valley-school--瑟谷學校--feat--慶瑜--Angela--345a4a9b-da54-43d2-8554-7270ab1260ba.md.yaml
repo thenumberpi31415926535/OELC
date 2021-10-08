@@ -199,8 +199,22 @@ results:
   last_edited_time: 2021-09-30T08:22:00.0000000Z
   has_children: false
   archived: false
-  type: unsupported
-  unsupported: {}
+  type: quote
+  quote:
+    text:
+    - type: text
+      text:
+        content: 瑟谷模式的核心理念是自主學習與民主管理，校方不主動為孩子安排任何課程，職員不刻意引導學生，學校重要決策由所有師生共同組成的校務會議民主議決，成員紛爭由學生法庭排解。
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 瑟谷模式的核心理念是自主學習與民主管理，校方不主動為孩子安排任何課程，職員不刻意引導學生，學校重要決策由所有師生共同組成的校務會議民主議決，成員紛爭由學生法庭排解。
+      href: 
 - object: block
   id: 9f339807-58e2-4209-88a2-fe6e526a1db9
   created_time: 2021-10-03T14:38:00.0000000Z
