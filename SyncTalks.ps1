@@ -385,8 +385,11 @@ while($hasMore)
     $startCursor = $queryResponse.next_cursor;
 
 
-
     $obj = $queryResponse.results[0];   
+    if($obj -eq $null)
+    {
+        continue;
+    }
 
     "======================================================="    
 
