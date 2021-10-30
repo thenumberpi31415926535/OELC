@@ -1,0 +1,386 @@
+object: page
+id: 9f8e5d65-3d13-4c1d-8971-cdf04ad8ed91
+created_time: 2021-10-29T13:58:00.0000000Z
+last_edited_time: 2021-10-29T14:24:00.0000000Z
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1606595888909-dbbdc1f51a71?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
+icon:
+  type: emoji
+  emoji: "\U0001F389"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Property:
+    id: '>y\v'
+    type: rich_text
+    rich_text: []
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: 3775b82a-0108-475c-ae48-b2c8e248dcef
+      name: Google Meet
+      color: pink
+  Sign up here:
+    id: ']hGQ'
+    type: rich_text
+    rich_text:
+    - type: text
+      text:
+        content: https://forms.gle/FyHXBYxJeQ7yd2YC7
+        link:
+          url: https://forms.gle/FyHXBYxJeQ7yd2YC7
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: https://forms.gle/FyHXBYxJeQ7yd2YC7
+      href: https://forms.gle/FyHXBYxJeQ7yd2YC7
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: d447c3aa-2c07-4612-a18d-0b37adfe1911
+      name: Jason
+      color: red
+    - id: c7215c01-4a35-40f8-a287-520fdea09b5f
+      name: Avriel
+      color: gray
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://meet.google.com/xrp-hzvg-tzd
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-10-30T13:00:00.0000000+00:00
+      end: 2021-10-30T14:30:00.0000000+00:00
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: Free Talk, hosted by Jason and Avriel
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Free Talk, hosted by Jason and Avriel
+      href: 
+url: https://www.notion.so/Free-Talk-hosted-by-Jason-and-Avriel-9f8e5d653d134c1d8971cdf04ad8ed91
+
+object: list
+results:
+- object: block
+  id: 3983cff9-16ed-4230-9e5d-2297f45339f5
+  created_time: 2021-10-29T13:58:00.0000000Z
+  last_edited_time: 2021-10-29T13:59:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: mention
+      mention:
+        type: page
+        page:
+          id: cb083fc4-f0b7-459a-a5af-e1900ef25a1f
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Untitled
+      href: https://www.notion.so/cb083fc4f0b7459aa5afe1900ef25a1f
+    - type: text
+      text:
+        content: ' '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: ' '
+      href: 
+- object: block
+  id: c8ad2354-0686-40de-be1e-01d140091d35
+  created_time: 2021-10-29T13:58:00.0000000Z
+  last_edited_time: 2021-10-29T13:59:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: mention
+      mention:
+        type: page
+        page:
+          id: 06eedd6e-889c-4336-9b68-aa6f0742675b
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Untitled
+      href: https://www.notion.so/06eedd6e889c43369b68aa6f0742675b
+    - type: text
+      text:
+        content: ' '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: ' '
+      href: 
+- object: block
+  id: d2d465fc-02a4-4e53-8a57-54171a0a16e3
+  created_time: 2021-10-29T13:59:00.0000000Z
+  last_edited_time: 2021-10-29T13:59:00.0000000Z
+  has_children: false
+  archived: false
+  type: divider
+  divider: {}
+- object: block
+  id: bab9b60a-d453-4854-855e-07424f344b8d
+  created_time: 2021-10-29T13:59:00.0000000Z
+  last_edited_time: 2021-10-29T13:59:00.0000000Z
+  has_children: false
+  archived: false
+  type: heading_3
+  heading_3:
+    text:
+    - type: text
+      text:
+        content: Introduction
+        link: 
+      annotations:
+        bold: false
+        italic: true
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Introduction
+      href: 
+- object: block
+  id: 2c6847af-37a8-4c67-add4-f6f51c3795f6
+  created_time: 2021-10-29T14:00:00.0000000Z
+  last_edited_time: 2021-10-29T14:00:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: d0176bca-49f6-4dae-b9e0-99834a94a608
+  created_time: 2021-10-29T13:58:00.0000000Z
+  last_edited_time: 2021-10-29T14:02:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: Hey guys, it's been quite a while since the last time we talked on the air. And now, we're back!!!
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Hey guys, it's been quite a while since the last time we talked on the air. And now, we're back!!!
+      href: 
+- object: block
+  id: 414c16ec-b6dd-49e1-b28e-2a9469094b48
+  created_time: 2021-10-29T14:02:00.0000000Z
+  last_edited_time: 2021-10-29T14:08:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: "This time, we're having a free talk, which means that we welcome any topics that you bring or are interested in talking about. Or probably, if you want to know how we learn English either at school (We're actually vocational high school students majoring in Applied Foreign Languages, and we're glad to share how the curriculums word with you if you're interested.) or outside the school, we can share it with you, too. "
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "This time, we're having a free talk, which means that we welcome any topics that you bring or are interested in talking about. Or probably, if you want to know how we learn English either at school (We're actually vocational high school students majoring in Applied Foreign Languages, and we're glad to share how the curriculums word with you if you're interested.) or outside the school, we can share it with you, too. "
+      href: 
+- object: block
+  id: f480c7f8-29ac-488d-b21b-b0a5c49c8e56
+  created_time: 2021-10-29T14:06:00.0000000Z
+  last_edited_time: 2021-10-29T14:06:00.0000000Z
+  has_children: false
+  archived: false
+  type: divider
+  divider: {}
+- object: block
+  id: a302c678-87c6-40ca-a665-0ed85a01d01b
+  created_time: 2021-10-29T14:06:00.0000000Z
+  last_edited_time: 2021-10-29T14:11:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: For sure, if you're afraid that your English might not be good enough, or you feel unconfident about speaking English, etc., we also welcome you to sign up for an audience seat. By the way, we may accept some more speakers at the very beginning of the show, or during the show, so don't worry if you've signed up for an audience but you then found you want to share something with us.
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: For sure, if you're afraid that your English might not be good enough, or you feel unconfident about speaking English, etc., we also welcome you to sign up for an audience seat. By the way, we may accept some more speakers at the very beginning of the show, or during the show, so don't worry if you've signed up for an audience but you then found you want to share something with us.
+      href: 
+- object: block
+  id: 84f56d51-b741-404d-b18c-e4d30aec1ed0
+  created_time: 2021-10-29T14:06:00.0000000Z
+  last_edited_time: 2021-10-29T14:06:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: '!!!By the way, if you suddenly find you will have to miss our show but you’ve signed up for it already, please tell us before the show starts, cheers.'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '!!!By the way, if you suddenly find you will have to miss our show but you’ve signed up for it already, please tell us before the show starts, cheers.'
+      href: 
+- object: block
+  id: 5d1deda0-c94e-40cc-93d7-6619e3f2637f
+  created_time: 2021-10-29T14:06:00.0000000Z
+  last_edited_time: 2021-10-29T14:06:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: If you have any questions, please contact the hosts. Or fill in the feedback form we provide at the end of each show. In either way, we’ll be able to know your demands and contact you individually.
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: If you have any questions, please contact the hosts. Or fill in the feedback form we provide at the end of each show. In either way, we’ll be able to know your demands and contact you individually.
+      href: 
+- object: block
+  id: acdad9e7-7d23-4475-b5aa-14b3a22d53b0
+  created_time: 2021-10-29T13:58:00.0000000Z
+  last_edited_time: 2021-10-29T13:58:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 50041d31-4f7a-436e-a2a3-22a53695903b
+  created_time: 2021-10-29T13:58:00.0000000Z
+  last_edited_time: 2021-10-29T13:58:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: a39ed9a5-5f2e-4df7-bc04-2bf4d9010bf5
+  created_time: 2021-10-29T13:58:00.0000000Z
+  last_edited_time: 2021-10-29T13:58:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 5007c813-1ee0-4ee1-88fb-2f7096ba180f
+  created_time: 2021-10-29T13:58:00.0000000Z
+  last_edited_time: 2021-10-29T13:58:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: e7fc2fcd-8efd-46bb-910b-5363b7c42df8
+  created_time: 2021-10-29T13:58:00.0000000Z
+  last_edited_time: 2021-10-29T14:07:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 46b42641-fa32-4964-a2ee-6b87fea4cc8c
+  created_time: 2021-10-29T13:58:00.0000000Z
+  last_edited_time: 2021-10-29T13:58:00.0000000Z
+  has_children: true
+  archived: false
+  type: column_list
+  column_list: {}
+- object: block
+  id: 07fb77a6-d7ee-4ad1-88fc-80647df611e4
+  created_time: 2021-10-29T13:58:00.0000000Z
+  last_edited_time: 2021-10-29T13:58:00.0000000Z
+  has_children: false
+  archived: false
+  type: unsupported
+  unsupported: {}
+next_cursor: 
+has_more: false
+
