@@ -1,7 +1,7 @@
 object: page
 id: d52315f6-a0e5-4121-8885-0e89dd0b34e5
 created_time: 2021-11-05T09:42:00.0000000Z
-last_edited_time: 2021-11-05T09:52:00.0000000Z
+last_edited_time: 2021-11-06T12:39:00.0000000Z
 cover:
   type: external
   external:
@@ -49,7 +49,7 @@ properties:
   Meeting Link:
     id: w~\Q
     type: url
-    url: https://discord.gg/aNSm6DBR
+    url: ' https://discord.gg/aV5yGtTW'
   Date:
     id: '|tal'
     type: date
@@ -160,7 +160,7 @@ results:
 - object: block
   id: bc61e8b4-65de-434d-807e-1cd47bfabded
   created_time: 2021-11-05T09:43:00.0000000Z
-  last_edited_time: 2021-11-05T09:46:00.0000000Z
+  last_edited_time: 2021-11-06T07:34:00.0000000Z
   has_children: false
   archived: false
   type: paragraph
@@ -180,9 +180,53 @@ results:
       plain_text: '各位, 這週讓我們一起來唱幾首歌放鬆一下吧! 不管是國語歌, 台語歌, 英文歌, 日語歌, etc. 只要你想唱都很歡迎! 也可以先看大家表演喔! Lol. '
       href: 
 - object: block
-  id: 12e7be5b-bab2-4291-8c81-de3b094088ed
-  created_time: 2021-11-05T09:42:00.0000000Z
-  last_edited_time: 2021-11-05T09:42:00.0000000Z
+  id: b2af22ac-b4a2-49ca-9e28-3bfd03fcd616
+  created_time: 2021-11-06T07:40:00.0000000Z
+  last_edited_time: 2021-11-06T07:41:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: Remember to bring your drinks and favourite songs and let's sing!!!
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Remember to bring your drinks and favourite songs and let's sing!!!
+      href: 
+- object: block
+  id: e98fe55f-b003-4ea2-941c-b9199e5dc671
+  created_time: 2021-11-06T07:34:00.0000000Z
+  last_edited_time: 2021-11-06T07:34:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: Just join us and have fun together! Looking forward to seeing you.
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Just join us and have fun together! Looking forward to seeing you.
+      href: 
+- object: block
+  id: e1b4e36c-c67b-46b8-9843-5d3b39fb7d7d
+  created_time: 2021-11-06T07:40:00.0000000Z
+  last_edited_time: 2021-11-06T07:40:00.0000000Z
   has_children: false
   archived: false
   type: paragraph
