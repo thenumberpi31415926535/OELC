@@ -291,8 +291,11 @@ results:
   last_edited_time: 2021-11-05T09:42:00.0000000Z
   has_children: false
   archived: false
-  type: unsupported
-  unsupported: {}
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
 next_cursor: 
 has_more: false
 
