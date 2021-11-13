@@ -1,7 +1,7 @@
 object: page
 id: d52315f6-a0e5-4121-8885-0e89dd0b34e5
 created_time: 2021-11-05T09:42:00.0000000Z
-last_edited_time: 2021-11-06T12:39:00.0000000Z
+last_edited_time: 2021-11-12T14:59:00.0000000Z
 cover:
   type: external
   external:
@@ -78,77 +78,23 @@ url: https://www.notion.so/Karaoke-hosted-by-Jason-and-Avriel-d52315f6a0e5412188
 object: list
 results:
 - object: block
-  id: b5c0b921-7324-43eb-b94c-0b6b69bf233f
-  created_time: 2021-11-05T09:42:00.0000000Z
-  last_edited_time: 2021-11-05T09:42:00.0000000Z
-  has_children: false
+  id: 5c32a858-6171-46b3-bdec-b404af55a7fc
+  created_time: 2021-11-12T14:59:00.0000000Z
+  last_edited_time: 2021-11-12T14:59:00.0000000Z
+  has_children: true
   archived: false
-  type: paragraph
-  paragraph:
-    text:
-    - type: mention
-      mention:
-        type: page
-        page:
-          id: cb083fc4-f0b7-459a-a5af-e1900ef25a1f
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: Untitled
-      href: https://www.notion.so/cb083fc4f0b7459aa5afe1900ef25a1f
-    - type: text
-      text:
-        content: ' '
-        link: 
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: ' '
-      href: 
+  type: synced_block
+  synced_block:
+    synced_from: 
 - object: block
-  id: 115c1214-a7ee-4d4d-92a4-77313754ad65
-  created_time: 2021-11-05T09:43:00.0000000Z
-  last_edited_time: 2021-11-05T09:43:00.0000000Z
-  has_children: false
+  id: d0fa64ba-5815-4146-8397-b1cdc6682867
+  created_time: 2021-11-12T14:59:00.0000000Z
+  last_edited_time: 2021-11-12T14:59:00.0000000Z
+  has_children: true
   archived: false
-  type: paragraph
-  paragraph:
-    text:
-    - type: mention
-      mention:
-        type: page
-        page:
-          id: 06eedd6e-889c-4336-9b68-aa6f0742675b
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: Untitled
-      href: https://www.notion.so/06eedd6e889c43369b68aa6f0742675b
-    - type: text
-      text:
-        content: ' '
-        link: 
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: ' '
-      href: 
+  type: synced_block
+  synced_block:
+    synced_from: 
 - object: block
   id: b776899d-937c-448d-9308-e6f4c427a14f
   created_time: 2021-11-05T09:42:00.0000000Z
