@@ -1,11 +1,11 @@
 object: page
 id: 0d5dad4c-a134-4bbe-9d01-5f8f348d1e69
 created_time: 2021-11-12T14:58:00.0000000Z
-last_edited_time: 2021-11-12T14:59:00.0000000Z
+last_edited_time: 2021-11-13T06:31:00.0000000Z
 cover:
   type: external
   external:
-    url: https://images.unsplash.com/photo-1606595888909-dbbdc1f51a71?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
+    url: https://images.unsplash.com/photo-1599619351208-3e6c839d6828?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
 icon:
   type: emoji
   emoji: "\U0001F389"
@@ -35,7 +35,21 @@ properties:
   Sign up here:
     id: ']hGQ'
     type: rich_text
-    rich_text: []
+    rich_text:
+    - type: text
+      text:
+        content: https://forms.gle/LEKBWqkAqZmDjc1s7
+        link:
+          url: https://forms.gle/LEKBWqkAqZmDjc1s7
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: https://forms.gle/LEKBWqkAqZmDjc1s7
+      href: https://forms.gle/LEKBWqkAqZmDjc1s7
   Hosts:
     id: cdbz
     type: multi_select
@@ -49,7 +63,7 @@ properties:
   Meeting Link:
     id: w~\Q
     type: url
-    url: https://meet.google.com/avr-gojq-wkp
+    url: https://meet.google.com/uxd-dkgw-tca
   Date:
     id: '|tal'
     type: date
@@ -108,9 +122,9 @@ results:
   type: divider
   divider: {}
 - object: block
-  id: e07c06f2-e504-4a92-b38b-87a144687559
-  created_time: 2021-11-12T14:59:00.0000000Z
-  last_edited_time: 2021-11-12T14:59:00.0000000Z
+  id: 33509951-68c1-409e-b956-7ac987d552ea
+  created_time: 2021-11-13T05:47:00.0000000Z
+  last_edited_time: 2021-11-13T05:54:00.0000000Z
   has_children: false
   archived: false
   type: paragraph
@@ -118,7 +132,7 @@ results:
     text:
     - type: text
       text:
-        content: Hey guys, it's been quite a while since the last time we talked on the air. And now, we're back!!!
+        content: "Hey guys, this Saturday night, let's talk about 在家太廢怎麼辦! We've been bothered by it for a long time and we still cannot figure it out... Are you having the problem as well? Or do you have any tips to resolve this sort of problem? Or are you just wanting to practise English or listen to the co-host's beautiful voice? Lol. Anyway, let's just have fun and chat! Look forward to seeing you then. "
         link: 
       annotations:
         bold: false
@@ -127,86 +141,20 @@ results:
         underline: false
         code: false
         color: default
-      plain_text: Hey guys, it's been quite a while since the last time we talked on the air. And now, we're back!!!
-      href: 
-- object: block
-  id: deb7b677-cfd0-4681-b819-48594b1160e4
-  created_time: 2021-11-12T14:59:00.0000000Z
-  last_edited_time: 2021-11-12T14:59:00.0000000Z
-  has_children: false
-  archived: false
-  type: paragraph
-  paragraph:
-    text:
-    - type: text
-      text:
-        content: "This time, we're having a free talk, which means that we welcome any topics that you bring or are interested in talking about. Or probably, if you want to know how we learn English either at school (We're actually vocational high school students majoring in Applied Foreign Languages, and we're glad to share how the curriculums word with you if you're interested.) or outside the school, we can share it with you, too. "
-        link: 
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: "This time, we're having a free talk, which means that we welcome any topics that you bring or are interested in talking about. Or probably, if you want to know how we learn English either at school (We're actually vocational high school students majoring in Applied Foreign Languages, and we're glad to share how the curriculums word with you if you're interested.) or outside the school, we can share it with you, too. "
+      plain_text: "Hey guys, this Saturday night, let's talk about 在家太廢怎麼辦! We've been bothered by it for a long time and we still cannot figure it out... Are you having the problem as well? Or do you have any tips to resolve this sort of problem? Or are you just wanting to practise English or listen to the co-host's beautiful voice? Lol. Anyway, let's just have fun and chat! Look forward to seeing you then. "
       href: 
 - object: block
   id: 4df62fd4-af0d-460e-9914-61f8504b1905
   created_time: 2021-11-12T14:59:00.0000000Z
-  last_edited_time: 2021-11-12T14:59:00.0000000Z
+  last_edited_time: 2021-11-13T05:50:00.0000000Z
   has_children: false
   archived: false
   type: divider
   divider: {}
 - object: block
-  id: 06cbca99-ad29-4d5d-ac8c-ed79f15758df
-  created_time: 2021-11-12T14:59:00.0000000Z
-  last_edited_time: 2021-11-12T14:59:00.0000000Z
-  has_children: false
-  archived: false
-  type: paragraph
-  paragraph:
-    text:
-    - type: text
-      text:
-        content: For sure, if you're afraid that your English might not be good enough, or you feel unconfident about speaking English, etc., we also welcome you to sign up for an audience seat. By the way, we may accept some more speakers at the very beginning of the show, or during the show, so don't worry if you've signed up for an audience but you then found you want to share something with us.
-        link: 
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: For sure, if you're afraid that your English might not be good enough, or you feel unconfident about speaking English, etc., we also welcome you to sign up for an audience seat. By the way, we may accept some more speakers at the very beginning of the show, or during the show, so don't worry if you've signed up for an audience but you then found you want to share something with us.
-      href: 
-- object: block
-  id: 392ee71a-3cef-4fbb-9fb8-a4bd7288f879
-  created_time: 2021-11-12T14:59:00.0000000Z
-  last_edited_time: 2021-11-12T14:59:00.0000000Z
-  has_children: false
-  archived: false
-  type: paragraph
-  paragraph:
-    text:
-    - type: text
-      text:
-        content: '!!!By the way, if you suddenly find you will have to miss our show but you’ve signed up for it already, please tell us before the show starts, cheers.'
-        link: 
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: '!!!By the way, if you suddenly find you will have to miss our show but you’ve signed up for it already, please tell us before the show starts, cheers.'
-      href: 
-- object: block
   id: d161ba6e-6a11-4cf6-b61b-aa0bf9ab0a34
   created_time: 2021-11-12T14:59:00.0000000Z
-  last_edited_time: 2021-11-12T14:59:00.0000000Z
+  last_edited_time: 2021-11-13T05:55:00.0000000Z
   has_children: false
   archived: false
   type: paragraph
@@ -214,7 +162,7 @@ results:
     text:
     - type: text
       text:
-        content: If you have any questions, please contact the hosts. Or fill in the feedback form we provide at the end of each show. In either way, we’ll be able to know your demands and contact you individually.
+        content: If you have any other questions, please contact the hosts. Or fill in the feedback form we provide at the end of each show. In either way, we’ll be able to know your demands and contact you individually.
         link: 
       annotations:
         bold: false
@@ -223,12 +171,12 @@ results:
         underline: false
         code: false
         color: default
-      plain_text: If you have any questions, please contact the hosts. Or fill in the feedback form we provide at the end of each show. In either way, we’ll be able to know your demands and contact you individually.
+      plain_text: If you have any other questions, please contact the hosts. Or fill in the feedback form we provide at the end of each show. In either way, we’ll be able to know your demands and contact you individually.
       href: 
 - object: block
-  id: 5e323246-1991-4cff-8d5e-359eef9ac81d
-  created_time: 2021-11-12T14:58:00.0000000Z
-  last_edited_time: 2021-11-12T14:58:00.0000000Z
+  id: cc759d29-41f8-4e59-9fc5-ad523d082231
+  created_time: 2021-11-13T05:54:00.0000000Z
+  last_edited_time: 2021-11-13T05:54:00.0000000Z
   has_children: false
   archived: false
   type: paragraph
@@ -255,79 +203,7 @@ results:
 - object: block
   id: b659cd93-af1a-4637-8802-059fa08bb9dc
   created_time: 2021-11-12T14:58:00.0000000Z
-  last_edited_time: 2021-11-12T14:58:00.0000000Z
-  has_children: false
-  archived: false
-  type: paragraph
-  paragraph:
-    text: []
-- object: block
-  id: 7875960f-08f8-48db-b743-b15531e4c020
-  created_time: 2021-11-12T14:58:00.0000000Z
-  last_edited_time: 2021-11-12T14:58:00.0000000Z
-  has_children: false
-  archived: false
-  type: paragraph
-  paragraph:
-    text: []
-- object: block
-  id: 048d8f23-e4d0-4c30-831e-8c55a8163a69
-  created_time: 2021-11-12T14:58:00.0000000Z
-  last_edited_time: 2021-11-12T14:58:00.0000000Z
-  has_children: false
-  archived: false
-  type: paragraph
-  paragraph:
-    text: []
-- object: block
-  id: 67c3eb4c-9fdc-47bc-a1c4-ca39e8414bc9
-  created_time: 2021-11-12T14:58:00.0000000Z
-  last_edited_time: 2021-11-12T14:58:00.0000000Z
-  has_children: false
-  archived: false
-  type: paragraph
-  paragraph:
-    text: []
-- object: block
-  id: 74a8356c-782f-4c33-a4e6-c2120e89fd10
-  created_time: 2021-11-12T14:58:00.0000000Z
-  last_edited_time: 2021-11-12T14:58:00.0000000Z
-  has_children: false
-  archived: false
-  type: paragraph
-  paragraph:
-    text: []
-- object: block
-  id: beb502a4-50ca-4446-8142-efcc81a036e1
-  created_time: 2021-11-12T14:58:00.0000000Z
-  last_edited_time: 2021-11-12T14:58:00.0000000Z
-  has_children: false
-  archived: false
-  type: paragraph
-  paragraph:
-    text: []
-- object: block
-  id: 635fe7e5-42a0-4c09-97e0-63cb7ba89eaa
-  created_time: 2021-11-12T14:58:00.0000000Z
-  last_edited_time: 2021-11-12T14:58:00.0000000Z
-  has_children: false
-  archived: false
-  type: paragraph
-  paragraph:
-    text: []
-- object: block
-  id: 5b17efa8-9ad5-4464-a5e2-a62fc707c644
-  created_time: 2021-11-12T14:58:00.0000000Z
-  last_edited_time: 2021-11-12T14:58:00.0000000Z
-  has_children: false
-  archived: false
-  type: paragraph
-  paragraph:
-    text: []
-- object: block
-  id: fbafb133-0999-488c-bdda-1b5f2a77b361
-  created_time: 2021-11-12T14:58:00.0000000Z
-  last_edited_time: 2021-11-12T14:58:00.0000000Z
+  last_edited_time: 2021-11-13T05:54:00.0000000Z
   has_children: false
   archived: false
   type: paragraph
