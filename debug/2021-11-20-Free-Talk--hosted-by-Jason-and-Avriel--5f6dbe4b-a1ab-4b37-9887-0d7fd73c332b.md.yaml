@@ -1,0 +1,250 @@
+object: page
+id: 5f6dbe4b-a1ab-4b37-9887-0d7fd73c332b
+created_time: 2021-11-18T12:32:00.0000000Z
+last_edited_time: 2021-11-18T12:43:00.0000000Z
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1569937745011-2d2aeb42da12?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
+icon:
+  type: emoji
+  emoji: "\U0001F4AC"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: 3775b82a-0108-475c-ae48-b2c8e248dcef
+      name: Google Meet
+      color: pink
+  Sign up here:
+    id: ']hGQ'
+    type: rich_text
+    rich_text:
+    - type: text
+      text:
+        content: https://forms.gle/rotmyQa5Gnt4PksH8
+        link:
+          url: https://forms.gle/rotmyQa5Gnt4PksH8
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: https://forms.gle/rotmyQa5Gnt4PksH8
+      href: https://forms.gle/rotmyQa5Gnt4PksH8
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: d447c3aa-2c07-4612-a18d-0b37adfe1911
+      name: Jason
+      color: red
+    - id: c7215c01-4a35-40f8-a287-520fdea09b5f
+      name: Avriel
+      color: gray
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: ' https://meet.google.com/trp-ywaw-aqk'
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-11-20T13:00:00.0000000+00:00
+      end: 2021-11-20T14:30:00.0000000+00:00
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: 'Free Talk, hosted by Jason and Avriel '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'Free Talk, hosted by Jason and Avriel '
+      href: 
+url: https://www.notion.so/Free-Talk-hosted-by-Jason-and-Avriel-5f6dbe4ba1ab4b3798870d7fd73c332b
+
+object: list
+results:
+- object: block
+  id: f3d3ef1f-190a-4d69-8b23-80db4dafe430
+  created_time: 2021-11-18T12:32:00.0000000Z
+  last_edited_time: 2021-11-18T12:32:00.0000000Z
+  has_children: true
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: 5c32a858-6171-46b3-bdec-b404af55a7fc
+- object: block
+  id: d502e412-37dc-4f93-83b1-550931c44b8a
+  created_time: 2021-11-18T12:33:00.0000000Z
+  last_edited_time: 2021-11-18T12:33:00.0000000Z
+  has_children: true
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: d0fa64ba-5815-4146-8397-b1cdc6682867
+- object: block
+  id: 7e9701fe-390d-411a-a790-6dd450281f36
+  created_time: 2021-11-18T12:33:00.0000000Z
+  last_edited_time: 2021-11-18T12:33:00.0000000Z
+  has_children: false
+  archived: false
+  type: divider
+  divider: {}
+- object: block
+  id: 70abdb6c-d30f-4676-895a-8257eff67746
+  created_time: 2021-11-18T12:33:00.0000000Z
+  last_edited_time: 2021-11-18T12:37:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: "Hey guys, we're having a free talk session this Saturday night. Come talk to us!!! You are more than welcome to bring your beer or wine to our show but for both of us, we'll be drinking only water. Lol. We talk about everything you feel like talking about since it's a free talk session, which means there'll not be any specific topics but just random ones. You're also welcome to ask us any questions about English learning or vocational school life. Anyway, just come and let's make this weekend more meaningful and colourful together! Look forward to seeing you then. "
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "Hey guys, we're having a free talk session this Saturday night. Come talk to us!!! You are more than welcome to bring your beer or wine to our show but for both of us, we'll be drinking only water. Lol. We talk about everything you feel like talking about since it's a free talk session, which means there'll not be any specific topics but just random ones. You're also welcome to ask us any questions about English learning or vocational school life. Anyway, just come and let's make this weekend more meaningful and colourful together! Look forward to seeing you then. "
+      href: 
+- object: block
+  id: 27ffdba5-9c5d-42d1-8abb-827a96c7f05a
+  created_time: 2021-11-18T12:32:00.0000000Z
+  last_edited_time: 2021-11-18T12:37:00.0000000Z
+  has_children: false
+  archived: false
+  type: divider
+  divider: {}
+- object: block
+  id: bc8e4707-7e9e-4145-8d7c-585cfc79bfde
+  created_time: 2021-11-18T12:37:00.0000000Z
+  last_edited_time: 2021-11-18T12:38:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: If you have any other questions, please contact the hosts (We've provided you with our contact information on the self-introduction page above. Go find them if you need them.). Or fill in the feedback form we provide at the end of each show. In either way, we’ll be able to know your demands and contact you individually.
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: If you have any other questions, please contact the hosts (We've provided you with our contact information on the self-introduction page above. Go find them if you need them.). Or fill in the feedback form we provide at the end of each show. In either way, we’ll be able to know your demands and contact you individually.
+      href: 
+- object: block
+  id: 92854b6b-5bc4-42a9-a259-fbc458cd80e5
+  created_time: 2021-11-18T12:39:00.0000000Z
+  last_edited_time: 2021-11-18T12:39:00.0000000Z
+  has_children: false
+  archived: false
+  type: divider
+  divider: {}
+- object: block
+  id: 6edeef47-ed06-4264-a2a6-02d661a3e1f0
+  created_time: 2021-11-18T12:39:00.0000000Z
+  last_edited_time: 2021-11-18T12:43:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: The last thing I personally want to share with you. Never be afraid of speaking and practising English. I can relate to what you're feeling in the moment of speaking since I've experienced something similar before but now I've come over it. And I believe you can do that as well. Just believe in yourself and never think that people will laugh at you for your poor speaking ability. It's a very friendly environment, everyone has the right to practise English here. Just feel relaxed and speak up. And you're not far from the day you can freely use English as a tool!
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: The last thing I personally want to share with you. Never be afraid of speaking and practising English. I can relate to what you're feeling in the moment of speaking since I've experienced something similar before but now I've come over it. And I believe you can do that as well. Just believe in yourself and never think that people will laugh at you for your poor speaking ability. It's a very friendly environment, everyone has the right to practise English here. Just feel relaxed and speak up. And you're not far from the day you can freely use English as a tool!
+      href: 
+- object: block
+  id: 25caac33-9218-40cf-a0ba-6cabe5c6fa81
+  created_time: 2021-11-18T12:32:00.0000000Z
+  last_edited_time: 2021-11-18T12:32:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: a7805dd9-423e-4756-b279-e7c0d8f0f84d
+  created_time: 2021-11-18T12:32:00.0000000Z
+  last_edited_time: 2021-11-18T12:32:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: acd21954-1011-4d90-8e50-f90dd5de6ee4
+  created_time: 2021-11-18T12:32:00.0000000Z
+  last_edited_time: 2021-11-18T12:43:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: b27d94b8-822d-497d-ad0a-f5a5c00eaf5d
+  created_time: 2021-11-18T12:32:00.0000000Z
+  last_edited_time: 2021-11-18T12:32:00.0000000Z
+  has_children: true
+  archived: false
+  type: column_list
+  column_list: {}
+- object: block
+  id: d91df2a1-3f38-492f-929d-e746d0289fe8
+  created_time: 2021-11-18T12:32:00.0000000Z
+  last_edited_time: 2021-11-18T12:32:00.0000000Z
+  has_children: false
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
+next_cursor: 
+has_more: false
+
