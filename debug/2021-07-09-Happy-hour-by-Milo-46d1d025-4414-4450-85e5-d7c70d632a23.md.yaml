@@ -1,0 +1,457 @@
+object: page
+id: 46d1d025-4414-4450-85e5-d7c70d632a23
+created_time: 2021-06-18T15:52:00.0000000Z
+last_edited_time: 2021-06-30T09:27:00.0000000Z
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1620165366489-d08eff58ccf5?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
+icon:
+  type: emoji
+  emoji: "\U0001F37B"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: 3775b82a-0108-475c-ae48-b2c8e248dcef
+      name: Google Meet
+      color: pink
+  Sign up here:
+    id: ']hGQ'
+    type: rich_text
+    rich_text: []
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: fa4fc61a-c0ec-4fc4-b915-e1dcad3a3a87
+      name: Milo
+      color: default
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://meet.google.com/yyf-viys-jih
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-07-09T12:30:00.0000000+00:00
+      end: 2021-07-09T15:30:00.0000000+00:00
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: Happy hour by Milo
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Happy hour by Milo
+      href: 
+url: https://www.notion.so/Happy-hour-by-Milo-46d1d0254414445085e5d7c70d632a23
+
+object: list
+results:
+- object: block
+  id: d15bf7e7-6523-4a95-9c58-1741c81fb7ae
+  created_time: 2021-06-22T06:18:00.0000000Z
+  last_edited_time: 2021-06-22T06:30:00.0000000Z
+  has_children: false
+  archived: false
+  type: heading_1
+  heading_1:
+    text:
+    - type: text
+      text:
+        content: "Let's chitchat in English. "
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "Let's chitchat in English. "
+      href: 
+- object: block
+  id: a90d13fb-082b-48e9-ab70-627270d754a4
+  created_time: 2021-06-22T06:06:00.0000000Z
+  last_edited_time: 2021-06-22T06:41:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: '時段： PM 08:30 ~ PM 11:30 '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '時段： PM 08:30 ~ PM 11:30 '
+      href: 
+- object: block
+  id: 11ddd95b-b789-485d-b23a-5c2b5c567aa4
+  created_time: 2021-06-22T06:15:00.0000000Z
+  last_edited_time: 2021-06-22T06:41:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: 條件：需要至少有一杯水、飲料或是酒，願意嘗試開口講英文的心
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 條件：需要至少有一杯水、飲料或是酒，願意嘗試開口講英文的心
+      href: 
+- object: block
+  id: a906e0ae-de25-4205-b655-a525b2717857
+  created_time: 2021-06-22T06:20:00.0000000Z
+  last_edited_time: 2021-06-22T06:31:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: 優點：不會酒駕、英文進步、交新朋友、一夜開心
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 優點：不會酒駕、英文進步、交新朋友、一夜開心
+      href: 
+- object: block
+  id: 96dd5408-58e5-425f-8879-207a051567af
+  created_time: 2021-06-22T06:09:00.0000000Z
+  last_edited_time: 2021-06-22T06:54:00.0000000Z
+  has_children: false
+  archived: false
+  type: heading_2
+  heading_2:
+    text:
+    - type: text
+      text:
+        content: 線上乾杯~有緣無緣大家來作伙~厚搭啦
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 線上乾杯~有緣無緣大家來作伙~厚搭啦
+      href: 
+- object: block
+  id: 883565a5-4f4d-4b75-a500-5d464683e036
+  created_time: 2021-06-22T06:10:00.0000000Z
+  last_edited_time: 2021-06-22T06:35:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 大家請
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 大家請
+      href: 
+    - type: text
+      text:
+        content: 自備任何酒類
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: true
+        code: false
+        color: default
+      plain_text: 自備任何酒類
+      href: 
+    - type: text
+      text:
+        content: 、宵夜或晚餐，線上歡飲+開心聊天+邊吃邊聊
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 、宵夜或晚餐，線上歡飲+開心聊天+邊吃邊聊
+      href: 
+- object: block
+  id: 2cb74286-9193-46cc-85da-e98e85f2fa93
+  created_time: 2021-06-22T06:10:00.0000000Z
+  last_edited_time: 2021-06-22T06:39:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: (
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: (
+      href: 
+    - type: text
+      text:
+        content: 無法飲酒但想參加者，也可
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: red
+      plain_text: 無法飲酒但想參加者，也可
+      href: 
+    - type: text
+      text:
+        content: 自備水或飲料
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: true
+        code: false
+        color: red
+      plain_text: 自備水或飲料
+      href: 
+    - type: text
+      text:
+        content: 來參加
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: red
+      plain_text: 來參加
+      href: 
+    - type: text
+      text:
+        content: )
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: )
+      href: 
+- object: block
+  id: 0056b262-ee1f-4970-aa77-4690783f0a89
+  created_time: 2021-06-22T06:14:00.0000000Z
+  last_edited_time: 2021-06-22T06:28:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 請準備好您的飲料，到時候，時不時會線上一同喊 Cheers。
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 請準備好您的飲料，到時候，時不時會線上一同喊 Cheers。
+      href: 
+- object: block
+  id: eb25f4c3-743f-4ef2-b878-721967925db0
+  created_time: 2021-06-22T06:25:00.0000000Z
+  last_edited_time: 2021-06-22T06:28:00.0000000Z
+  has_children: false
+  archived: false
+  type: heading_1
+  heading_1:
+    text:
+    - type: text
+      text:
+        content: "\U0001F923 \U0001F37B \U0001F37B \U0001F923 \U0001F37B \U0001F37B \U0001F923 \U0001F37B \U0001F37B \U0001F923 "
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "\U0001F923 \U0001F37B \U0001F37B \U0001F923 \U0001F37B \U0001F37B \U0001F923 \U0001F37B \U0001F37B \U0001F923 "
+      href: 
+- object: block
+  id: bf02bca8-3a45-4db0-b466-9f4e3246d58c
+  created_time: 2021-06-22T06:25:00.0000000Z
+  last_edited_time: 2021-06-22T06:27:00.0000000Z
+  has_children: false
+  archived: false
+  type: heading_2
+  heading_2:
+    text:
+    - type: text
+      text:
+        content: 預計最適合本活動的有以下三種
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 預計最適合本活動的有以下三種
+      href: 
+- object: block
+  id: f998295b-9fba-43a8-81cb-f7475a959327
+  created_time: 2021-06-22T06:25:00.0000000Z
+  last_edited_time: 2021-06-22T06:25:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: '對象1：活潑外向喜歡用聊天交朋友的人 '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '對象1：活潑外向喜歡用聊天交朋友的人 '
+      href: 
+- object: block
+  id: a23bc8a4-1b89-48c8-bc39-b339511d49bb
+  created_time: 2021-06-22T06:25:00.0000000Z
+  last_edited_time: 2021-06-22T06:29:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: 對象2：覺得英文不太會講、怕生、容易緊張、或是平常放不太開的人
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 對象2：覺得英文不太會講、怕生、容易緊張、或是平常放不太開的人
+      href: 
+- object: block
+  id: caac255a-14aa-445f-94ff-082eb8eb4bc7
+  created_time: 2021-06-22T06:26:00.0000000Z
+  last_edited_time: 2021-06-22T06:53:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: '對象3：我就是愛喝咖餐系  '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '對象3：我就是愛喝咖餐系  '
+      href: 
+- object: block
+  id: e7fe464b-4aaf-4116-9316-ec6afadd9867
+  created_time: 2021-06-22T08:19:00.0000000Z
+  last_edited_time: 2021-06-22T08:19:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 265e5966-d9cf-4374-9797-dccf3102b26a
+  created_time: 2021-06-22T06:10:00.0000000Z
+  last_edited_time: 2021-06-22T06:10:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+next_cursor: 
+has_more: false
+

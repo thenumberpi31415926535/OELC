@@ -1,0 +1,403 @@
+object: page
+id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
+created_time: 2021-08-10T07:46:00.0000000Z
+last_edited_time: 2021-08-15T17:25:00.0000000Z
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1519055301076-a34b55a8b4e8?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
+icon:
+  type: emoji
+  emoji: "\U0001F47B"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: 4cc93307-5fe5-4626-91c3-5ed284b7ca4d
+      name: Discord
+      color: purple
+  Sign up here:
+    id: ']hGQ'
+    type: rich_text
+    rich_text:
+    - type: text
+      text:
+        content: "Join Pi's "
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "Join Pi's "
+      href: 
+    - type: text
+      text:
+        content: 'Discord '
+        link:
+          url: https://discord.gg/vE7QUXGDnS
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'Discord '
+      href: https://discord.gg/vE7QUXGDnS
+    - type: text
+      text:
+        content: 'server and sign up in #annoncements!'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'server and sign up in #annoncements!'
+      href: 
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: b5fd044f-4265-4924-b11a-3435f6d8deb8
+      name: Bones
+      color: yellow
+    - id: 5fd12e96-75db-41b9-b28e-3f854c2cf009
+      name: Pi
+      color: brown
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://discord.gg/vE7QUXGDnS
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-08-11T13:00:00.0000000+00:00
+      end: 
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: IT'S SPOOKY SEASON!
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: IT'S SPOOKY SEASON!
+      href: 
+url: https://www.notion.so/IT-S-SPOOKY-SEASON-1d09269f40ae4c3eadd27645e3006ddf
+
+object: list
+results:
+- object: block
+  id: e60a5cda-5078-4904-ae7f-536f6bd5194c
+  created_time: 2021-08-10T12:47:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: It's that time of the year again! Share your spooky experiences with us!
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: It's that time of the year again! Share your spooky experiences with us!
+      href: 
+- object: block
+  id: 4502d7ff-01a6-4074-9b05-12c7d0d7009e
+  created_time: 2021-08-10T07:48:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Are there any encounters that you experienced yourself? (or a story from your friend)
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Are there any encounters that you experienced yourself? (or a story from your friend)
+      href: 
+- object: block
+  id: 432b976d-b13a-48b0-a849-d8bb8516626e
+  created_time: 2021-08-10T07:48:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: |-
+          Would you go to a haunted place ON A
+            DARE?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: |-
+        Would you go to a haunted place ON A
+          DARE?
+      href: 
+- object: block
+  id: 60d2aaf8-692a-406e-a998-af72ade26185
+  created_time: 2021-08-10T07:48:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: If you were a ghost who or what would you haunt?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: If you were a ghost who or what would you haunt?
+      href: 
+- object: block
+  id: a98181ed-4b5a-4019-8e71-f98ffd41f7fd
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What are some superstitions in Taiwan?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What are some superstitions in Taiwan?
+      href: 
+- object: block
+  id: 8ffc30cd-8907-4339-a85f-574b327774fe
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Would you follow the rituals out of respect even when it's not your beliefs?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Would you follow the rituals out of respect even when it's not your beliefs?
+      href: 
+- object: block
+  id: b17de023-2dec-4fc5-b352-1a267790fd57
+  created_time: 2021-08-10T07:49:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 9b193424-ad18-45fc-bc18-92f83828e9a2
+  created_time: 2021-08-10T07:46:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  archived: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: eab018a8-6415-4e66-89b0-866afbcef257
+  created_time: 2021-08-10T07:46:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: mention
+      mention:
+        type: page
+        page:
+          id: 12c4a9e6-45d5-4aef-a860-b5f927a0b220
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Untitled
+      href: https://www.notion.so/12c4a9e645d54aefa860b5f927a0b220
+    - type: text
+      text:
+        content: ' '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: ' '
+      href: 
+- object: block
+  id: 4fb5017a-b750-4563-afbd-badf38caed45
+  created_time: 2021-08-10T07:46:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: mention
+      mention:
+        type: page
+        page:
+          id: 482e61b0-2b9c-4456-b2b4-fe86bb7544c6
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Untitled
+      href: https://www.notion.so/482e61b02b9c4456b2b4fe86bb7544c6
+    - type: text
+      text:
+        content: ' '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: ' '
+      href: 
+- object: block
+  id: 94f2e8a8-8ea6-4d27-8618-e475b5a3b11c
+  created_time: 2021-08-10T07:46:00.0000000Z
+  last_edited_time: 2021-08-15T17:25:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 6b43c597-2177-4545-bd00-19e237a5f321
+  created_time: 2021-08-10T07:51:00.0000000Z
+  last_edited_time: 2021-08-10T07:51:00.0000000Z
+  has_children: false
+  archived: false
+  type: image
+  image:
+    caption: []
+    type: file
+    file:
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8efcf85d-3ac6-4afa-9d37-14316279d529/Brainstorming_-_08_11_Supernatural_experiences.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211128%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211128T005830Z&X-Amz-Expires=3600&X-Amz-Signature=53441e84558eb7b93aac3c80932b81e2f93334f71af2cb809300821f9ec76ce1&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2021-11-28T01:58:30.0780000Z
+- object: block
+  id: 648be114-bbe9-437c-b7d3-8313ecd0fa16
+  created_time: 2021-08-10T07:46:00.0000000Z
+  last_edited_time: 2021-08-10T07:46:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 4a1597cb-7192-43fc-8f80-0fc9a9fe824c
+  created_time: 2021-08-10T07:46:00.0000000Z
+  last_edited_time: 2021-08-10T07:46:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: c89e4ca9-d1f9-49c9-ac64-a77f15570af6
+  created_time: 2021-08-10T07:46:00.0000000Z
+  last_edited_time: 2021-08-10T07:46:00.0000000Z
+  has_children: false
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
+- object: block
+  id: 9676506c-1322-489a-9ca2-65b1bf31c73b
+  created_time: 2021-08-10T07:46:00.0000000Z
+  last_edited_time: 2021-08-10T07:46:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+next_cursor: 
+has_more: false
+
