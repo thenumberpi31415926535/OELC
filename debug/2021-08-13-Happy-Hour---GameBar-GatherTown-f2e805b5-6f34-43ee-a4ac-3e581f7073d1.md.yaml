@@ -1,0 +1,926 @@
+object: page
+id: f2e805b5-6f34-43ee-a4ac-3e581f7073d1
+created_time: 2021-07-20T12:14:00.0000000Z
+last_edited_time: 2021-08-13T06:01:00.0000000Z
+cover:
+  type: file
+  file:
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b237fb23-4898-4701-9f36-f2b07cda4029/Screen_Shot_2021-08-05_at_6.25.11_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211208T010222Z&X-Amz-Expires=3600&X-Amz-Signature=67089244234598016f0441f91d009e193c49357444dc92f9182985196684a5a3&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2021-12-08T02:02:22.2120000Z
+icon:
+  type: emoji
+  emoji: "\U0001F37B"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: f63c09ba-7d60-47fb-b786-228752a3d619
+      name: Gather Town
+      color: gray
+  Sign up here:
+    id: ']hGQ'
+    type: rich_text
+    rich_text: []
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: fa4fc61a-c0ec-4fc4-b915-e1dcad3a3a87
+      name: Milo
+      color: default
+    - id: 90954489-1a43-40bf-9867-af7ca6ae7391
+      name: Üya
+      color: brown
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://meet.google.com/fcz-yhyp-szx
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-08-13T12:30:00.0000000+00:00
+      end: 2021-08-13T14:30:00.0000000+00:00
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: Happy Hour - GameBar@GatherTown
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Happy Hour - GameBar@GatherTown
+      href: 
+url: https://www.notion.so/Happy-Hour-GameBar-GatherTown-f2e805b56f3443eea4ac3e581f7073d1
+
+object: list
+results:
+- object: block
+  id: 3a4530ff-bd61-4f74-8245-6700026a907e
+  created_time: 2021-08-10T06:49:00.0000000Z
+  last_edited_time: 2021-08-10T06:49:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: '!以下連結為Gather Town的操作參考說明，如果對此軟體不熟悉的朋友，歡迎參閱一下!!!'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '!以下連結為Gather Town的操作參考說明，如果對此軟體不熟悉的朋友，歡迎參閱一下!!!'
+      href: 
+- object: block
+  id: 8e8afd74-625b-4115-a069-776c094d64b1
+  created_time: 2021-08-10T06:49:00.0000000Z
+  last_edited_time: 2021-08-10T06:49:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: https://hackmd.io/5oBCH7IrTVuL-tm2rofrHw?view
+        link:
+          url: https://hackmd.io/5oBCH7IrTVuL-tm2rofrHw?view
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: https://hackmd.io/5oBCH7IrTVuL-tm2rofrHw?view
+      href: https://hackmd.io/5oBCH7IrTVuL-tm2rofrHw?view
+- object: block
+  id: 5b9d2a10-e480-476b-a84d-3a95a0ba1e11
+  created_time: 2021-08-05T10:23:00.0000000Z
+  last_edited_time: 2021-08-10T06:49:00.0000000Z
+  has_children: false
+  archived: false
+  type: heading_1
+  heading_1:
+    text:
+    - type: text
+      text:
+        content: "Let's chitchat in English. "
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "Let's chitchat in English. "
+      href: 
+- object: block
+  id: abab66c0-68dc-4a50-8863-810926e55d73
+  created_time: 2021-08-05T10:23:00.0000000Z
+  last_edited_time: 2021-08-05T10:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: '時段： PM 08:30 ~ PM 10:30 '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '時段： PM 08:30 ~ PM 10:30 '
+      href: 
+- object: block
+  id: 6e238010-af42-4673-a751-e297236f6dbf
+  created_time: 2021-08-05T10:23:00.0000000Z
+  last_edited_time: 2021-08-05T10:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: 條件：需要至少有一杯水、飲料或是酒，願意嘗試開口講英文的心
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 條件：需要至少有一杯水、飲料或是酒，願意嘗試開口講英文的心
+      href: 
+- object: block
+  id: 1547dc30-d3c2-46d3-8726-ad815b68ee3a
+  created_time: 2021-08-05T10:23:00.0000000Z
+  last_edited_time: 2021-08-05T10:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: 優點：不會酒駕、英文進步、交新朋友、一夜開心、一起玩遊戲不無聊
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 優點：不會酒駕、英文進步、交新朋友、一夜開心、一起玩遊戲不無聊
+      href: 
+- object: block
+  id: 11afbccf-5eb0-41e5-a958-418a90847b7a
+  created_time: 2021-08-05T10:23:00.0000000Z
+  last_edited_time: 2021-08-05T10:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: heading_2
+  heading_2:
+    text:
+    - type: text
+      text:
+        content: 線上乾杯~有緣無緣大家來作伙~厚搭啦
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 線上乾杯~有緣無緣大家來作伙~厚搭啦
+      href: 
+- object: block
+  id: b9163809-fb50-4458-b5e6-293adf616929
+  created_time: 2021-08-05T10:23:00.0000000Z
+  last_edited_time: 2021-08-05T10:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 大家請
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 大家請
+      href: 
+    - type: text
+      text:
+        content: 自備任何酒類
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: true
+        code: false
+        color: default
+      plain_text: 自備任何酒類
+      href: 
+    - type: text
+      text:
+        content: 、宵夜或晚餐，線上歡飲+開心聊天+邊吃邊聊
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 、宵夜或晚餐，線上歡飲+開心聊天+邊吃邊聊
+      href: 
+- object: block
+  id: 80f18152-c8b9-4683-b8ab-0c9e0105638f
+  created_time: 2021-08-05T10:23:00.0000000Z
+  last_edited_time: 2021-08-05T10:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: (
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: (
+      href: 
+    - type: text
+      text:
+        content: 無法飲酒但想參加者，也可
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: red
+      plain_text: 無法飲酒但想參加者，也可
+      href: 
+    - type: text
+      text:
+        content: 自備水或飲料
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: true
+        code: false
+        color: red
+      plain_text: 自備水或飲料
+      href: 
+    - type: text
+      text:
+        content: 來參加
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: red
+      plain_text: 來參加
+      href: 
+    - type: text
+      text:
+        content: )
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: )
+      href: 
+- object: block
+  id: f86013dd-0a06-467f-a94f-619208a2a32b
+  created_time: 2021-08-05T10:23:00.0000000Z
+  last_edited_time: 2021-08-05T10:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 請準備好您的飲料，到時候，時不時會線上一同喊 Cheers。
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 請準備好您的飲料，到時候，時不時會線上一同喊 Cheers。
+      href: 
+- object: block
+  id: 0a45839e-1f63-487f-a6b2-cce080499874
+  created_time: 2021-08-05T10:23:00.0000000Z
+  last_edited_time: 2021-08-05T10:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: heading_1
+  heading_1:
+    text:
+    - type: text
+      text:
+        content: "\U0001F923 \U0001F37B \U0001F37B \U0001F923 \U0001F37B \U0001F37B \U0001F923 \U0001F37B \U0001F37B \U0001F923 "
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "\U0001F923 \U0001F37B \U0001F37B \U0001F923 \U0001F37B \U0001F37B \U0001F923 \U0001F37B \U0001F37B \U0001F923 "
+      href: 
+- object: block
+  id: 7690ccb6-74b7-41c1-9484-54fdb0ab402a
+  created_time: 2021-08-05T10:23:00.0000000Z
+  last_edited_time: 2021-08-05T10:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: heading_2
+  heading_2:
+    text:
+    - type: text
+      text:
+        content: 預計最適合本活動的有以下三種
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 預計最適合本活動的有以下三種
+      href: 
+- object: block
+  id: 80807add-300c-46cf-a4f3-dd0cb4867d0a
+  created_time: 2021-08-05T10:23:00.0000000Z
+  last_edited_time: 2021-08-05T10:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: '對象1：活潑外向喜歡用聊天交朋友的人 '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '對象1：活潑外向喜歡用聊天交朋友的人 '
+      href: 
+- object: block
+  id: 28049dee-3564-4e81-870d-17e86aedf160
+  created_time: 2021-08-05T10:23:00.0000000Z
+  last_edited_time: 2021-08-05T10:23:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: 對象2：覺得英文不太會講、怕生、容易緊張、或是平常放不太開的人
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 對象2：覺得英文不太會講、怕生、容易緊張、或是平常放不太開的人
+      href: 
+- object: block
+  id: 805d0aba-029b-4d02-bf5d-4af6bcb43c94
+  created_time: 2021-08-05T10:23:00.0000000Z
+  last_edited_time: 2021-08-05T14:12:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: '對象3：我就是愛一起玩遊戲 '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '對象3：我就是愛一起玩遊戲 '
+      href: 
+- object: block
+  id: 04029d3c-66c4-4d32-8d72-2357f8b5af86
+  created_time: 2021-08-05T14:13:00.0000000Z
+  last_edited_time: 2021-08-05T14:13:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 37a8a721-33dc-4831-848c-9e9cc7f01a37
+  created_time: 2021-08-05T13:49:00.0000000Z
+  last_edited_time: 2021-08-05T14:13:00.0000000Z
+  has_children: false
+  archived: false
+  type: heading_1
+  heading_1:
+    text:
+    - type: text
+      text:
+        content: 如何進入 Game Bar at Gather Town
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 如何進入 Game Bar at Gather Town
+      href: 
+- object: block
+  id: b3f9c036-bc08-429f-8fbe-92a0b9b53d67
+  created_time: 2021-08-05T13:49:00.0000000Z
+  last_edited_time: 2021-08-05T14:13:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: Gather Town 有個連結，請到上面網址中的 Google Meet 內取得。
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Gather Town 有個連結，請到上面網址中的 Google Meet 內取得。
+      href: 
+- object: block
+  id: 7a3d9bc9-51f4-4bcc-a7b3-f23300d0699a
+  created_time: 2021-08-05T13:49:00.0000000Z
+  last_edited_time: 2021-08-05T13:49:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: '大家請在 PM08:30 至 PM09:00 的時候，使用下方 Google Meet 入場。 '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '大家請在 PM08:30 至 PM09:00 的時候，使用下方 Google Meet 入場。 '
+      href: 
+- object: block
+  id: 68eff484-7b50-4574-8a66-a7d30fbe5a76
+  created_time: 2021-08-05T13:49:00.0000000Z
+  last_edited_time: 2021-08-05T14:14:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: https://meet.google.com/fcz-yhyp-szx
+        link:
+          url: https://meet.google.com/fcz-yhyp-szx
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: https://meet.google.com/fcz-yhyp-szx
+      href: https://meet.google.com/fcz-yhyp-szx
+    - type: text
+      text:
+        content: '  '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '  '
+      href: 
+- object: block
+  id: 82a04d77-4bc5-4e53-8f7f-980d303c8b48
+  created_time: 2021-08-05T14:14:00.0000000Z
+  last_edited_time: 2021-08-05T14:14:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 會教大家怎麼作 Gather Town 基本的操作
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 會教大家怎麼作 Gather Town 基本的操作
+      href: 
+- object: block
+  id: 337b5749-fc2e-4e5b-87e7-b46889a389bb
+  created_time: 2021-08-05T13:49:00.0000000Z
+  last_edited_time: 2021-08-05T14:14:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 若是, 超過時間進入 Google Meet 的人，
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 若是, 超過時間進入 Google Meet 的人，
+      href: 
+- object: block
+  id: 3cfb4bb9-1dbe-4903-bcfb-ee48c9fc4c3f
+  created_time: 2021-08-05T14:14:00.0000000Z
+  last_edited_time: 2021-08-05T14:14:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 仍然也請到 Google Meet 之中發訊息，要連結。
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 仍然也請到 Google Meet 之中發訊息，要連結。
+      href: 
+- object: block
+  id: f79fe0b8-e2b3-40ee-820e-2fd9b5542e96
+  created_time: 2021-08-05T13:49:00.0000000Z
+  last_edited_time: 2021-08-05T13:50:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 726d1a9c-3d80-4f1c-9241-1b95d982d960
+  created_time: 2021-08-05T13:49:00.0000000Z
+  last_edited_time: 2021-08-05T13:56:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: '連到 Gather Town 連結之後，請使用 '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '連到 Gather Town 連結之後，請使用 '
+      href: 
+    - type: text
+      text:
+        content: 電腦 + Chrome 瀏覽器
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 電腦 + Chrome 瀏覽器
+      href: 
+    - type: text
+      text:
+        content: ' 開啟'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: ' 開啟'
+      href: 
+- object: block
+  id: d3d78814-fc50-4430-8288-984cdc969b5c
+  created_time: 2021-08-05T13:49:00.0000000Z
+  last_edited_time: 2021-08-05T14:14:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 「請勿使用」：因 iOS 手機或 iPad 進 Gather Town 會有問題，
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 「請勿使用」：因 iOS 手機或 iPad 進 Gather Town 會有問題，
+      href: 
+- object: block
+  id: 06c17047-a999-4538-9942-bad9ca605be3
+  created_time: 2021-08-05T14:14:00.0000000Z
+  last_edited_time: 2021-08-05T14:14:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 請不要使用它，如此能確保活動順暢也不造成他人麻須。
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 請不要使用它，如此能確保活動順暢也不造成他人麻須。
+      href: 
+- object: block
+  id: 28799c95-dc02-4b77-b7e8-5dcf82780928
+  created_time: 2021-08-10T06:17:00.0000000Z
+  last_edited_time: 2021-08-10T06:17:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: db3850af-25f0-47b8-88b2-4cd507d9bf34
+  created_time: 2021-08-10T06:17:00.0000000Z
+  last_edited_time: 2021-08-10T06:18:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: '!!!以下連結為Gather Town的操作參考說明，如果對此軟體不熟悉的朋友，歡迎參閱一下!!!'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '!!!以下連結為Gather Town的操作參考說明，如果對此軟體不熟悉的朋友，歡迎參閱一下!!!'
+      href: 
+- object: block
+  id: bfb45885-cc6b-40c0-99da-b9a604febe23
+  created_time: 2021-08-10T06:16:00.0000000Z
+  last_edited_time: 2021-08-10T06:17:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: https://hackmd.io/5oBCH7IrTVuL-tm2rofrHw?view
+        link:
+          url: https://hackmd.io/5oBCH7IrTVuL-tm2rofrHw?view
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: https://hackmd.io/5oBCH7IrTVuL-tm2rofrHw?view
+      href: https://hackmd.io/5oBCH7IrTVuL-tm2rofrHw?view
+- object: block
+  id: 58b1805f-bb5e-41ea-b0c1-5a6a3057ef4a
+  created_time: 2021-08-05T13:56:00.0000000Z
+  last_edited_time: 2021-08-05T13:56:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 7e4889b9-341c-4e25-b015-cc3348bef103
+  created_time: 2021-08-05T13:56:00.0000000Z
+  last_edited_time: 2021-08-05T14:14:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 進入之後，會有左區與右區的特別規定
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 進入之後，會有左區與右區的特別規定
+      href: 
+- object: block
+  id: 08fe2863-ce8f-4d50-833c-9aec34db1883
+  created_time: 2021-08-05T13:56:00.0000000Z
+  last_edited_time: 2021-08-05T13:56:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 場地內左邊區域，禁止「開鏡頭」，所以進入此區之時，請關鏡頭。
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 場地內左邊區域，禁止「開鏡頭」，所以進入此區之時，請關鏡頭。
+      href: 
+- object: block
+  id: 27000958-341c-4712-8995-e2c0e96dbf4f
+  created_time: 2021-08-05T13:56:00.0000000Z
+  last_edited_time: 2021-08-05T13:56:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 場地內右邊區域，禁止「關鏡頭」，所以進入此區之時，請開鏡頭。
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 場地內右邊區域，禁止「關鏡頭」，所以進入此區之時，請開鏡頭。
+      href: 
+- object: block
+  id: d7cab7cc-1535-4e24-b940-81b17dd32349
+  created_time: 2021-08-05T13:56:00.0000000Z
+  last_edited_time: 2021-08-05T13:56:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 想加入右邊區域活動的人，請記得準備好鏡頭與耳麥，配合一下不同區的規則。
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 想加入右邊區域活動的人，請記得準備好鏡頭與耳麥，配合一下不同區的規則。
+      href: 
+- object: block
+  id: 45073fba-6ecf-4211-b517-55479df6e006
+  created_time: 2021-08-05T13:49:00.0000000Z
+  last_edited_time: 2021-08-05T13:49:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+next_cursor: 
+has_more: false
+

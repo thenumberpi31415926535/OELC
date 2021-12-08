@@ -1,0 +1,327 @@
+object: page
+id: 1651c1ce-150b-493b-8ebc-ea5cc32dc4d9
+created_time: 2021-08-17T11:09:00.0000000Z
+last_edited_time: 2021-08-27T19:08:00.0000000Z
+cover:
+  type: file
+  file:
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/285f20f1-da99-4bfa-8db7-fc7ebb642af4/Welcome_to_Abbys_Online_Talk_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211208T010208Z&X-Amz-Expires=3600&X-Amz-Signature=95ac64285df59fdadfd9151018b97818e14e9c9ef65beedc2fcffc87a08cbb34&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2021-12-08T02:02:08.8730000Z
+icon:
+  type: emoji
+  emoji: "\U0001F60D"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: f7d2cf99-bbb7-474f-863c-e691575a7ba2
+      name: intermediate to advanced
+      color: gray
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: 3775b82a-0108-475c-ae48-b2c8e248dcef
+      name: Google Meet
+      color: pink
+  Sign up here:
+    id: ']hGQ'
+    type: rich_text
+    rich_text:
+    - type: text
+      text:
+        content: "Just leave a comment below \U0001F642"
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "Just leave a comment below \U0001F642"
+      href: 
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: b7c804e4-3f3e-476f-8d87-8bc0c40e4fbe
+      name: Abby
+      color: green
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: meet.google.com/cmd-sxum-dwr
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-08-27T14:00:00.0000000+00:00
+      end: 
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: TGIF talk by Abby
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: TGIF talk by Abby
+      href: 
+url: https://www.notion.so/TGIF-talk-by-Abby-1651c1ce150b493b8ebcea5cc32dc4d9
+
+object: list
+results:
+- object: block
+  id: 4fe83c4e-b461-4a07-868e-4d974e165527
+  created_time: 2021-08-27T01:45:00.0000000Z
+  last_edited_time: 2021-08-27T01:45:00.0000000Z
+  has_children: false
+  archived: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: 423ca862-0d39-4c47-adec-e928a4f7b55d
+  created_time: 2021-08-27T01:45:00.0000000Z
+  last_edited_time: 2021-08-27T01:45:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 644d8856-8b26-4a91-b3f4-1684a8671151
+  created_time: 2021-08-26T15:03:00.0000000Z
+  last_edited_time: 2021-08-27T01:45:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: Thank God It's Friday! I just posted this before a day so let's do a FREE TALK!
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Thank God It's Friday! I just posted this before a day so let's do a FREE TALK!
+      href: 
+- object: block
+  id: 5e3d0298-8cf8-4617-aff1-ff4f7a97861b
+  created_time: 2021-08-26T15:03:00.0000000Z
+  last_edited_time: 2021-08-26T15:03:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: "I usually don't post too much here so let's just meet and talk to see how it goes\U0001F606\U0001F44D\U0001F3FB"
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "I usually don't post too much here so let's just meet and talk to see how it goes\U0001F606\U0001F44D\U0001F3FB"
+      href: 
+- object: block
+  id: 4ab09785-32e6-40b1-92c3-18001137a2d7
+  created_time: 2021-08-26T15:03:00.0000000Z
+  last_edited_time: 2021-08-27T05:15:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: Can’t wait to see y’all soon!
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Can’t wait to see y’all soon!
+      href: 
+- object: block
+  id: 668a6152-4c40-4e85-aeb0-bdd6cc2eaf9a
+  created_time: 2021-08-26T15:09:00.0000000Z
+  last_edited_time: 2021-08-26T15:09:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 614e3bc6-9035-4988-bdea-27fec86f55d9
+  created_time: 2021-08-26T15:08:00.0000000Z
+  last_edited_time: 2021-08-26T15:09:00.0000000Z
+  has_children: false
+  archived: false
+  type: image
+  image:
+    caption: []
+    type: file
+    file:
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1199ff4e-a554-4720-b286-b946524133c9/7A1E97AD-EE00-4993-A874-04E5C8B13482.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211208T010209Z&X-Amz-Expires=3600&X-Amz-Signature=f8848a305116db6ad98f453ea4c56ff5f4442e11e54c0396c3124d7859d78deb&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2021-12-08T02:02:09.1190000Z
+- object: block
+  id: f965c706-f7ab-4d2e-bc8c-bf35d5e899fd
+  created_time: 2021-08-26T15:09:00.0000000Z
+  last_edited_time: 2021-08-26T15:09:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 489ee0a2-2c24-46cc-9c18-14c62a59e401
+  created_time: 2021-08-26T15:09:00.0000000Z
+  last_edited_time: 2021-08-26T15:12:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: '                                               The photo was taken at Empire Building!'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '                                               The photo was taken at Empire Building!'
+      href: 
+- object: block
+  id: d8b11c4d-da92-4cd5-a4b5-01f0c23829b7
+  created_time: 2021-08-26T15:09:00.0000000Z
+  last_edited_time: 2021-08-26T15:09:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 34c845d1-0ec3-46a6-88b0-56e5f7cedd36
+  created_time: 2021-08-26T15:09:00.0000000Z
+  last_edited_time: 2021-08-26T15:09:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 3b607457-cba5-4c4e-b743-e43dc4b9a85e
+  created_time: 2021-08-26T15:03:00.0000000Z
+  last_edited_time: 2021-08-26T15:09:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 2b6321c6-e0af-43e4-86e7-dc4d0abb1ba9
+  created_time: 2021-08-17T11:09:00.0000000Z
+  last_edited_time: 2021-08-17T11:09:00.0000000Z
+  has_children: false
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
+- object: block
+  id: bc8eda50-c142-4b99-a553-01fba06f6316
+  created_time: 2021-08-27T08:17:00.0000000Z
+  last_edited_time: 2021-08-27T08:17:00.0000000Z
+  has_children: false
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
+- object: block
+  id: ea13ef52-8567-4d8e-9cdb-f175807d82a8
+  created_time: 2021-08-27T08:18:00.0000000Z
+  last_edited_time: 2021-08-27T08:18:00.0000000Z
+  has_children: false
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
+- object: block
+  id: 40af330e-5f69-4c04-967f-966c4aa4ae5e
+  created_time: 2021-08-27T08:18:00.0000000Z
+  last_edited_time: 2021-08-27T08:18:00.0000000Z
+  has_children: false
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
+- object: block
+  id: 3549608c-378a-4e2a-9785-18c682d919b8
+  created_time: 2021-08-27T08:18:00.0000000Z
+  last_edited_time: 2021-08-27T08:18:00.0000000Z
+  has_children: false
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
+- object: block
+  id: 609221d7-cc19-4aa4-911f-744d3a012aec
+  created_time: 2021-08-27T08:18:00.0000000Z
+  last_edited_time: 2021-08-27T08:18:00.0000000Z
+  has_children: false
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
+- object: block
+  id: e367447e-3997-4abd-a42f-14ec726506a1
+  created_time: 2021-08-27T06:58:00.0000000Z
+  last_edited_time: 2021-08-27T06:58:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+next_cursor: 
+has_more: false
+

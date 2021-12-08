@@ -1,0 +1,322 @@
+object: page
+id: e7e5448e-0674-49dc-a5a0-240e7df2ec57
+created_time: 2021-08-23T07:44:00.0000000Z
+last_edited_time: 2021-08-23T07:47:00.0000000Z
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1495727034151-8fdc73e332a8?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
+icon:
+  type: emoji
+  emoji: "\U0001F468‍\U0001F393"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: 4cc93307-5fe5-4626-91c3-5ed284b7ca4d
+      name: Discord
+      color: purple
+  Sign up here:
+    id: ']hGQ'
+    type: rich_text
+    rich_text:
+    - type: text
+      text:
+        content: "Join Pi's "
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "Join Pi's "
+      href: 
+    - type: text
+      text:
+        content: 'Discord '
+        link:
+          url: https://discord.gg/vE7QUXGDnS
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'Discord '
+      href: https://discord.gg/vE7QUXGDnS
+    - type: text
+      text:
+        content: 'server and sign up in #annoncements!'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'server and sign up in #annoncements!'
+      href: 
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: b5fd044f-4265-4924-b11a-3435f6d8deb8
+      name: Bones
+      color: yellow
+    - id: 5fd12e96-75db-41b9-b28e-3f854c2cf009
+      name: Pi
+      color: brown
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://discord.gg/vE7QUXGDnS
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-09-01T13:00:00.0000000+00:00
+      end: 
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: Back to School!
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Back to School!
+      href: 
+url: https://www.notion.so/Back-to-School-e7e5448e067449dca5a0240e7df2ec57
+
+object: list
+results:
+- object: block
+  id: 71bfed26-e3ef-4331-9c9e-bd10b72d4f08
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:45:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Does back to school mean differently to you in different stages of life?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Does back to school mean differently to you in different stages of life?
+      href: 
+- object: block
+  id: 0052ce2d-2e67-4bed-ac4b-78c278eb1289
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:45:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What are the school rules you find unreasonable?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What are the school rules you find unreasonable?
+      href: 
+- object: block
+  id: 3cef1e36-add5-4126-9e64-ac99204843aa
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:45:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What do you think about Taiwan's school culture?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What do you think about Taiwan's school culture?
+      href: 
+- object: block
+  id: 63593ae7-9a0b-4d68-b996-32507b2d8ee4
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:46:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: What are some traditions that you do with your family when you are on vacation?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What are some traditions that you do with your family when you are on vacation?
+      href: 
+- object: block
+  id: 9df1e46c-3f29-4a6c-a4f8-299dadc46e4b
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:46:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Are you the law abiding student or are you a rebel?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Are you the law abiding student or are you a rebel?
+      href: 
+- object: block
+  id: a037e770-fc49-42a5-9d99-9b382e25be19
+  created_time: 2021-08-23T07:46:00.0000000Z
+  last_edited_time: 2021-08-23T07:46:00.0000000Z
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    text:
+    - type: text
+      text:
+        content: Do most of your favourite memories happen in or outside school holidays?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Do most of your favourite memories happen in or outside school holidays?
+      href: 
+- object: block
+  id: 58f21ce3-11d8-4841-a26c-aae5887233f4
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:44:00.0000000Z
+  has_children: false
+  archived: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: e0a68235-dcb0-4983-a1a8-cb7be0c627fe
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:44:00.0000000Z
+  has_children: true
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: 1556fe25-1bdb-479b-ba72-ba543d2feb4e
+- object: block
+  id: 5c45edfb-4b1b-4301-8853-cf204f0ffa37
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:44:00.0000000Z
+  has_children: true
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: a41066ae-c1a1-4ded-abb9-1d19e2f520ff
+- object: block
+  id: 61926dab-e191-4b6d-991a-788a4affb2d3
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:44:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: e143700a-4a02-4150-9337-c897b03a03d7
+  created_time: 2021-08-23T07:47:00.0000000Z
+  last_edited_time: 2021-08-23T07:47:00.0000000Z
+  has_children: false
+  archived: false
+  type: image
+  image:
+    caption: []
+    type: file
+    file:
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/47602354-5513-4a91-b05c-90aade891bc7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211208T010211Z&X-Amz-Expires=3600&X-Amz-Signature=1213001160f8cc447ddabe6d686a9ad606edb4a768962f8a43b2d89c05065770&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2021-12-08T02:02:11.7260000Z
+- object: block
+  id: fc35e0dc-2e2b-4275-ba2b-ea71aa117613
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:44:00.0000000Z
+  has_children: false
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
+- object: block
+  id: 00d9fb83-e091-425c-8468-09176c083a6c
+  created_time: 2021-08-23T07:44:00.0000000Z
+  last_edited_time: 2021-08-23T07:44:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+next_cursor: 
+has_more: false
+

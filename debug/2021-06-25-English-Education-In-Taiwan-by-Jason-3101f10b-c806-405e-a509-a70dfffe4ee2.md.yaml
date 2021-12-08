@@ -1,0 +1,177 @@
+object: page
+id: 3101f10b-c806-405e-a509-a70dfffe4ee2
+created_time: 2021-06-23T07:11:00.0000000Z
+last_edited_time: 2021-06-24T06:34:00.0000000Z
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
+icon:
+  type: emoji
+  emoji: "\U0001F3EB"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: ebcf81e4-1144-4c40-b74e-756d9c2b2506
+      name: Skype
+      color: green
+  Sign up here:
+    id: ']hGQ'
+    type: rich_text
+    rich_text:
+    - type: text
+      text:
+        content: https://forms.gle/Ay8KCADQRkzMuRtT8
+        link:
+          url: https://forms.gle/Ay8KCADQRkzMuRtT8
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: https://forms.gle/Ay8KCADQRkzMuRtT8
+      href: https://forms.gle/Ay8KCADQRkzMuRtT8
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: d447c3aa-2c07-4612-a18d-0b37adfe1911
+      name: Jason
+      color: red
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://join.skype.com/v06ubCvQXA0W
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-06-25T13:00:00.0000000+00:00
+      end: 2021-06-25T14:30:00.0000000+00:00
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: English Education In Taiwan by Jason
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: English Education In Taiwan by Jason
+      href: 
+url: https://www.notion.so/English-Education-In-Taiwan-by-Jason-3101f10bc806405ea509a70dfffe4ee2
+
+object: list
+results:
+- object: block
+  id: cc3ccd98-15be-4b13-bc88-b87bbcda753e
+  created_time: 2021-06-23T09:53:00.0000000Z
+  last_edited_time: 2021-06-23T09:53:00.0000000Z
+  has_children: false
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: ec87eee5-1e2a-4ac3-9bd1-ae97205ec8d1
+- object: block
+  id: 15b1eddc-3888-47ac-bc10-cfb4fdf43f26
+  created_time: 2021-06-23T09:53:00.0000000Z
+  last_edited_time: 2021-06-23T09:53:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 16da3d22-2eb4-42a5-a79c-3254db919660
+  created_time: 2021-06-23T07:14:00.0000000Z
+  last_edited_time: 2021-06-23T09:53:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: 'Brief introduction: This time, we are going to talk about some problems/myths of English learning in Taiwan, some problems that the students in Taiwan are facing, etc., if you have any ideas, just sign up, we are looking forward to listening to your sharing.'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'Brief introduction: This time, we are going to talk about some problems/myths of English learning in Taiwan, some problems that the students in Taiwan are facing, etc., if you have any ideas, just sign up, we are looking forward to listening to your sharing.'
+      href: 
+- object: block
+  id: 71153790-d5f9-4c04-99fa-748135155f93
+  created_time: 2021-06-23T07:17:00.0000000Z
+  last_edited_time: 2021-06-23T07:17:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 8899da6c-d863-4d5b-95ea-1ad2bc9f24d6
+  created_time: 2021-06-23T07:17:00.0000000Z
+  last_edited_time: 2021-06-23T07:17:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: '!!!By the way, if you suddenly find you will have to miss our show but you’ve registered for it already, please tell us before the show starts, cheers.'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '!!!By the way, if you suddenly find you will have to miss our show but you’ve registered for it already, please tell us before the show starts, cheers.'
+      href: 
+- object: block
+  id: ccbfcd2c-c597-4e00-a969-cf8fea1f1b66
+  created_time: 2021-06-23T07:17:00.0000000Z
+  last_edited_time: 2021-06-23T07:17:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: If you have any questions, please contact the host. Or fill in the feedback form we provide at the end of each show. In either way, we’ll be able to know your demands, and contact you individually.
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: If you have any questions, please contact the host. Or fill in the feedback form we provide at the end of each show. In either way, we’ll be able to know your demands, and contact you individually.
+      href: 
+next_cursor: 
+has_more: false
+
