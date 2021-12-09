@@ -65,6 +65,7 @@ properties:
     date:
       start: 2021-10-06T13:00:00.0000000+00:00
       end: 
+      time_zone: 
   Name:
     id: title
     type: title

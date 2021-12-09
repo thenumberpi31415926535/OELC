@@ -5,8 +5,8 @@ last_edited_time: 2021-08-27T19:08:00.0000000Z
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/285f20f1-da99-4bfa-8db7-fc7ebb642af4/Welcome_to_Abbys_Online_Talk_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211208T010208Z&X-Amz-Expires=3600&X-Amz-Signature=95ac64285df59fdadfd9151018b97818e14e9c9ef65beedc2fcffc87a08cbb34&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2021-12-08T02:02:08.8730000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/285f20f1-da99-4bfa-8db7-fc7ebb642af4/Welcome_to_Abbys_Online_Talk_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211209T005908Z&X-Amz-Expires=3600&X-Amz-Signature=2fe314a852bf9a99919b7f214d3171278b124f1a5568ee5939710854e1c13e79&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2021-12-09T01:59:08.5900000Z
 icon:
   type: emoji
   emoji: "\U0001F60D"
@@ -63,6 +63,7 @@ properties:
     date:
       start: 2021-08-27T14:00:00.0000000+00:00
       end: 
+      time_zone: 
   Name:
     id: title
     type: title
@@ -187,8 +188,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1199ff4e-a554-4720-b286-b946524133c9/7A1E97AD-EE00-4993-A874-04E5C8B13482.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211208T010209Z&X-Amz-Expires=3600&X-Amz-Signature=f8848a305116db6ad98f453ea4c56ff5f4442e11e54c0396c3124d7859d78deb&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2021-12-08T02:02:09.1190000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1199ff4e-a554-4720-b286-b946524133c9/7A1E97AD-EE00-4993-A874-04E5C8B13482.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211209T005908Z&X-Amz-Expires=3600&X-Amz-Signature=257f2c6425889760d090ed2e1a7df2823d584f3ef66c0220df84483011314c22&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2021-12-09T01:59:08.7960000Z
 - object: block
   id: f965c706-f7ab-4d2e-bc8c-bf35d5e899fd
   created_time: 2021-08-26T15:09:00.0000000Z

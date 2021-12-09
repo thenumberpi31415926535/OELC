@@ -66,6 +66,7 @@ properties:
     date:
       start: 2021-06-16T13:00:00.0000000+00:00
       end: 2021-06-16T14:30:00.0000000+00:00
+      time_zone: 
   Name:
     id: title
     type: title
@@ -390,8 +391,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5e66a8cb-cc55-4354-abd7-0efc4deccbac/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211208T010248Z&X-Amz-Expires=3600&X-Amz-Signature=670504658f477627427731d0107ef228fb61d32717d6273fd6892806ce33628d&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2021-12-08T02:02:48.5110000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5e66a8cb-cc55-4354-abd7-0efc4deccbac/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211209T005933Z&X-Amz-Expires=3600&X-Amz-Signature=08929db7df62493fc41b66173ffd1b745c1c78363493990062e598b403b21b19&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2021-12-09T01:59:33.7310000Z
 next_cursor: 
 has_more: false
 

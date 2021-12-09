@@ -1,30 +1,30 @@
 ---
+software: Skype
+name: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
 hosts:
 - Jason
 - Teacher Pan
 - Riley
-notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-by-Jason-Pan-and-Riley-71110e2ad4e54ef9a5540c744a59c377
-archived: false
-created_time: 2021-06-30T15:01:00.0000000
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-last_edited_time: 2021-07-05T23:05:00.0000000
-id: 71110e2a-d4e5-4ef9-a554-0c744a59c377
-talktime: 2021-07-04T20:00:00.0000000
-language_level: No limit
 title: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
-meeting_link: https://join.skype.com/wEhREpKESENC
-software: Skype
-sign_up_here: 
 parent_type: database_id
-object: page
+indexDate: 2021-07-04
+archived: false
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 tags:
 - Talk
 - 2021-07-04
 - Jason
 - Teacher Pan
 - Riley
-indexDate: 2021-07-04
-name: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
+notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-by-Jason-Pan-and-Riley-71110e2ad4e54ef9a5540c744a59c377
+sign_up_here: 
+object: page
+created_time: 2021-06-30T15:01:00.0000000
+meeting_link: https://join.skype.com/wEhREpKESENC
+id: 71110e2a-d4e5-4ef9-a554-0c744a59c377
+language_level: No limit
+last_edited_time: 2021-07-05T23:05:00.0000000
+talktime: 2021-07-04T20:00:00.0000000
 ---
 
 
