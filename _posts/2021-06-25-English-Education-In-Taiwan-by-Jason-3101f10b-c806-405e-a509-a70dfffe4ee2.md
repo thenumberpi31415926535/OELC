@@ -1,24 +1,24 @@
 ---
-sign_up_here: '[https://forms.gle/Ay8KCADQRkzMuRtT8](https://forms.gle/Ay8KCADQRkzMuRtT8)'
-software: Skype
-notion_url: https://www.notion.so/English-Education-In-Taiwan-by-Jason-3101f10bc806405ea509a70dfffe4ee2
-hosts: Jason
-archived: false
-parent_type: database_id
-name: English Education In Taiwan by Jason
-object: page
 last_edited_time: 2021-06-24T14:34:00.0000000
-meeting_link: https://join.skype.com/v06ubCvQXA0W
-created_time: 2021-06-23T15:11:00.0000000
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-indexDate: 2021-06-25
-id: 3101f10b-c806-405e-a509-a70dfffe4ee2
-talktime: 2021-06-25T21:00:00.0000000
-title: English Education In Taiwan by Jason
 tags:
 - Talk
 - 2021-06-25
 - Jason
+object: page
+meeting_link: https://join.skype.com/v06ubCvQXA0W
+notion_url: https://www.notion.so/English-Education-In-Taiwan-by-Jason-3101f10bc806405ea509a70dfffe4ee2
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+sign_up_here: '[https://forms.gle/Ay8KCADQRkzMuRtT8](https://forms.gle/Ay8KCADQRkzMuRtT8)'
+hosts: Jason
+name: English Education In Taiwan by Jason
+software: Skype
+created_time: 2021-06-23T15:11:00.0000000
+archived: false
+id: 3101f10b-c806-405e-a509-a70dfffe4ee2
+title: English Education In Taiwan by Jason
+indexDate: 2021-06-25
+talktime: 2021-06-25T21:00:00.0000000
+parent_type: database_id
 ---
 
 
