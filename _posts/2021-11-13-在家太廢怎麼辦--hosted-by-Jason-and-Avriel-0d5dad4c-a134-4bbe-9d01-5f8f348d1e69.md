@@ -1,28 +1,28 @@
 ---
-object: page
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 title: 在家太廢怎麼辦, hosted by Jason and Avriel
-archived: false
-meeting_link: https://meet.google.com/uxd-dkgw-tca
-parent_type: database_id
-created_time: 2021-11-12T22:58:00.0000000
-sign_up_here: '[https://forms.gle/LEKBWqkAqZmDjc1s7](https://forms.gle/LEKBWqkAqZmDjc1s7)'
+software: Google Meet
+last_edited_time: 2021-11-13T14:31:00.0000000
+id: 0d5dad4c-a134-4bbe-9d01-5f8f348d1e69
 hosts:
 - Jason
 - Avriel
-language_level: No limit
-talktime: 2021-11-13T21:00:00.0000000
 notion_url: https://www.notion.so/hosted-by-Jason-and-Avriel-0d5dad4ca1344bbe9d015f8f348d1e69
-name: 在家太廢怎麼辦, hosted by Jason and Avriel
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+sign_up_here: '[https://forms.gle/LEKBWqkAqZmDjc1s7](https://forms.gle/LEKBWqkAqZmDjc1s7)'
+parent_type: database_id
 indexDate: 2021-11-13
-software: Google Meet
-last_edited_time: 2021-11-13T14:31:00.0000000
 tags:
 - Talk
 - 2021-11-13
 - Jason
 - Avriel
-id: 0d5dad4c-a134-4bbe-9d01-5f8f348d1e69
+object: page
+language_level: No limit
+archived: false
+meeting_link: https://meet.google.com/uxd-dkgw-tca
+created_time: 2021-11-12T22:58:00.0000000
+talktime: 2021-11-13T21:00:00.0000000
+name: 在家太廢怎麼辦, hosted by Jason and Avriel
 ---
 
 
