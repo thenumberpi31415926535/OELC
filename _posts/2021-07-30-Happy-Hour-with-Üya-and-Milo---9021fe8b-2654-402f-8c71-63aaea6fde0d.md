@@ -1,27 +1,27 @@
 ---
+notion_url: https://www.notion.so/Happy-Hour-with-ya-and-Milo-9021fe8b2654402f8c7163aaea6fde0d
+sign_up_here: '[https://docs.google.com/forms/d/e/1FAIpQLSdADAjUl5Y5HSU7DW4_57NqFsiOVW9_66FsI6u0AFzJ9FNjZg/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSdADAjUl5Y5HSU7DW4_57NqFsiOVW9_66FsI6u0AFzJ9FNjZg/viewform?usp=sf_link)'
+object: page
+archived: false
+name: Happy Hour with Üya and Milo.$
+title: Happy Hour with Üya and Milo.$
+indexDate: 2021-07-30
+language_level: No limit
+created_time: 2021-07-20T20:14:00.0000000
 tags:
 - Talk
 - 2021-07-30
 - Üya
 - Milo
-indexDate: 2021-07-30
-archived: false
-id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-object: page
-title: Happy Hour with Üya and Milo.$
 talktime: 2021-07-30T20:30:00.0000000
-software: Skype
 meeting_link: join.skype.com/u6uJW0aiuHv6
-created_time: 2021-07-20T20:14:00.0000000
-name: Happy Hour with Üya and Milo.$
 hosts:
 - Üya
 - Milo
-notion_url: https://www.notion.so/Happy-Hour-with-ya-and-Milo-9021fe8b2654402f8c7163aaea6fde0d
+id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+software: Skype
 parent_type: database_id
-language_level: No limit
-sign_up_here: '[https://docs.google.com/forms/d/e/1FAIpQLSdADAjUl5Y5HSU7DW4_57NqFsiOVW9_66FsI6u0AFzJ9FNjZg/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSdADAjUl5Y5HSU7DW4_57NqFsiOVW9_66FsI6u0AFzJ9FNjZg/viewform?usp=sf_link)'
 last_edited_time: 2021-08-02T23:25:00.0000000
 ---
 
