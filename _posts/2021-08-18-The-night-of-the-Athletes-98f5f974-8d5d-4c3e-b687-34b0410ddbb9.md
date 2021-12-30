@@ -1,30 +1,30 @@
 ---
-hosts:
-- Duke
-- Jason
-- Momo
-title: The night of the Athletes
-indexDate: 2021-08-18
-parent_type: database_id
-id: 98f5f974-8d5d-4c3e-b687-34b0410ddbb9
 last_edited_time: 2021-08-17T12:18:00.0000000
+created_time: 2021-07-20T20:15:00.0000000
+sign_up_here: 
+name: The night of the Athletes
 tags:
 - Talk
 - 2021-08-18
 - Duke
 - Jason
 - Momo
-talktime: 2021-08-18T20:30:00.0000000
-sign_up_here: 
-language_level: No limit
-object: page
-archived: false
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-name: The night of the Athletes
-meeting_link: https://discord.gg/pSAXZARt
 notion_url: https://www.notion.so/The-night-of-the-Athletes-98f5f9748d5d4c3eb68734b0410ddbb9
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+indexDate: 2021-08-18
+meeting_link: https://discord.gg/pSAXZARt
+title: The night of the Athletes
+object: page
+language_level: No limit
+talktime: 2021-08-18T20:30:00.0000000
+hosts:
+- Duke
+- Jason
+- Momo
 software: Discord
-created_time: 2021-07-20T20:15:00.0000000
+parent_type: database_id
+id: 98f5f974-8d5d-4c3e-b687-34b0410ddbb9
+archived: false
 ---
 
 #                     Welcome to the night of Athletes!
