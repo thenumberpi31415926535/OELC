@@ -1,0 +1,154 @@
+object: page
+id: dff585cf-24c4-48a7-8d41-3b30708b0767
+created_time: 2021-08-17T11:10:00.0000000Z
+last_edited_time: 2022-01-15T14:21:00.0000000Z
+cover:
+  type: file
+  file:
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fb8672ab-8a15-4584-b0f2-4120bf6f5648/Welcome_to_Abbys_Online_Talk_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220116%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220116T010558Z&X-Amz-Expires=3600&X-Amz-Signature=25424ebe245681cc986f0096c370615d380f5a0f4ed83a3bf9570f1daf6882a3&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-01-16T02:05:58.6880000Z
+icon:
+  type: emoji
+  emoji: "\U0001F389"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: f7d2cf99-bbb7-474f-863c-e691575a7ba2
+      name: intermediate to advanced
+      color: gray
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: 3775b82a-0108-475c-ae48-b2c8e248dcef
+      name: Google Meet
+      color: pink
+  Sign up here:
+    id: ']hGQ'
+    type: rich_text
+    rich_text:
+    - type: text
+      text:
+        content: "Just come \U0001F642"
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "Just come \U0001F642"
+      href: 
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: b7c804e4-3f3e-476f-8d87-8bc0c40e4fbe
+      name: Abby
+      color: green
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://meet.google.com/ijn-vugd-osn
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2022-01-15T14:00:00.0000000+00:00
+      end: 
+      time_zone: 
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: Happy 2022!
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Happy 2022!
+      href: 
+url: https://www.notion.so/Happy-2022-dff585cf24c448a78d413b30708b0767
+
+object: list
+results:
+- object: block
+  id: 1f54e28e-58cd-4ffb-a3d5-2186089cdbec
+  created_time: 2021-08-17T11:10:00.0000000Z
+  last_edited_time: 2022-01-15T10:13:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: Hello, I am honored and excited to be the host at the first meeting of this group in 2022! Let's have a free talk to meet this new year :)
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Hello, I am honored and excited to be the host at the first meeting of this group in 2022! Let's have a free talk to meet this new year :)
+      href: 
+- object: block
+  id: 6683066c-54ec-44d7-8f6a-01a6c19c1c0e
+  created_time: 2022-01-15T10:17:00.0000000Z
+  last_edited_time: 2022-01-15T10:18:00.0000000Z
+  has_children: false
+  archived: false
+  type: image
+  image:
+    caption: []
+    type: file
+    file:
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/be4db792-0d9a-402f-85da-e706fdbf37c6/Pattern_Illustration_New_Year_Card.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220116%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220116T010559Z&X-Amz-Expires=3600&X-Amz-Signature=9d1c753805fd90fd1fe4ba00d3f13087172eca223777afeaa9c5f7cf0115d755&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-01-16T02:05:59.5210000Z
+- object: block
+  id: 73a27c72-e9e2-4eea-bfa4-f683f9fc725b
+  created_time: 2022-01-15T10:13:00.0000000Z
+  last_edited_time: 2022-01-15T10:14:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: a1170dde-a6c7-4fe3-a793-31fa566beaf4
+  created_time: 2022-01-15T10:13:00.0000000Z
+  last_edited_time: 2022-01-15T10:13:00.0000000Z
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text: []
+- object: block
+  id: 3ebc587b-cbf2-455d-9fc4-adf1a0fb8f85
+  created_time: 2021-08-17T11:10:00.0000000Z
+  last_edited_time: 2021-08-17T11:10:00.0000000Z
+  has_children: false
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
+next_cursor: 
+has_more: false
+
