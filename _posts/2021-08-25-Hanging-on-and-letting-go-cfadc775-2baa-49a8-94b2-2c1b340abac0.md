@@ -1,31 +1,31 @@
 ---
-id: cfadc775-2baa-49a8-94b2-2c1b340abac0
-language_level: No limit
-software: Discord
-indexDate: 2021-08-25
-object: page
+meeting_link: https://discord.gg/vE7QUXGDnS
+last_edited_time: 2021-08-25T20:20:00.0000000
+archived: false
+parent_type: database_id
+notion_url: https://www.notion.so/Hanging-on-and-letting-go-cfadc7752baa49a894b22c1b340abac0
 tags:
 - Talk
 - 2021-08-25
 - Bones
 - Pi
+created_time: 2021-08-20T14:14:00.0000000
+hosts:
+- Bones
+- Pi
+language_level: No limit
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+name: Hanging on and letting go
+title: Hanging on and letting go
+software: Discord
+id: cfadc775-2baa-49a8-94b2-2c1b340abac0
+object: page
 sign_up_here:
 - "Join Pi's "
 - '[Discord ](https://discord.gg/vE7QUXGDnS)'
 - 'server and sign up in #annoncements!'
-hosts:
-- Bones
-- Pi
-parent_type: database_id
-notion_url: https://www.notion.so/Hanging-on-and-letting-go-cfadc7752baa49a894b22c1b340abac0
-name: Hanging on and letting go
-created_time: 2021-08-20T14:14:00.0000000
-archived: false
 talktime: 2021-08-25T21:00:00.0000000
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-title: Hanging on and letting go
-last_edited_time: 2021-08-25T20:20:00.0000000
-meeting_link: https://discord.gg/vE7QUXGDnS
+indexDate: 2021-08-25
 ---
 
    - Do you ever have to let go of something or someone that was a tough decision for you? Why?
