@@ -1,28 +1,28 @@
 ---
 indexDate: 2021-06-27
-last_edited_time: 2021-06-27T09:29:00.0000000
-language_level: No limit
-software: Google Meet
-object: page
-sign_up_here: 
 tags:
 - Talk
 - 2021-06-27
 - Peggy@李明霈
 - Antina@張庭瑄
-title: Sunday's Talk by Peggy and Antina
-notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-44658c7c16fa4dd58796102940e216b3
-parent_type: database_id
-name: Sunday's Talk by Peggy and Antina
 id: 44658c7c-16fa-4dd5-8796-102940e216b3
-talktime: 2021-06-27T09:30:00.0000000
-meeting_link: https://meet.google.com/uor-traf-jys
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+last_edited_time: 2021-06-27T09:29:00.0000000
+title: Sunday's Talk by Peggy and Antina
 created_time: 2021-06-14T14:15:00.0000000
+sign_up_here: 
+software: Google Meet
+notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-44658c7c16fa4dd58796102940e216b3
 hosts:
 - Peggy@李明霈
 - Antina@張庭瑄
+talktime: 2021-06-27T09:30:00.0000000
+object: page
+parent_type: database_id
 archived: false
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+language_level: No limit
+meeting_link: https://meet.google.com/uor-traf-jys
+name: Sunday's Talk by Peggy and Antina
 ---
 
 # Topic: Video Call  
