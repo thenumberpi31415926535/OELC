@@ -1,31 +1,31 @@
 ---
-created_time: 2021-08-20T14:14:00.0000000
+meeting_link: https://discord.gg/vE7QUXGDnS
+archived: false
 last_edited_time: 2021-08-25T20:20:00.0000000
-notion_url: https://www.notion.so/Hanging-on-and-letting-go-cfadc7752baa49a894b22c1b340abac0
-indexDate: 2021-08-25
+title: Hanging on and letting go
+parent_type: database_id
+object: page
+hosts:
+- Bones
+- Pi
+id: cfadc775-2baa-49a8-94b2-2c1b340abac0
+software: Discord
 sign_up_here:
 - "Join Pi's "
 - '[Discord ](https://discord.gg/vE7QUXGDnS)'
 - 'server and sign up in #annoncements!'
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-title: Hanging on and letting go
-hosts:
-- Bones
-- Pi
-archived: false
+talktime: 2021-08-25T21:00:00.0000000
 language_level: No limit
+name: Hanging on and letting go
+indexDate: 2021-08-25
+created_time: 2021-08-20T14:14:00.0000000
+notion_url: https://www.notion.so/Hanging-on-and-letting-go-cfadc7752baa49a894b22c1b340abac0
 tags:
 - Talk
 - 2021-08-25
 - Bones
 - Pi
-id: cfadc775-2baa-49a8-94b2-2c1b340abac0
-object: page
-talktime: 2021-08-25T21:00:00.0000000
-software: Discord
-parent_type: database_id
-meeting_link: https://discord.gg/vE7QUXGDnS
-name: Hanging on and letting go
 ---
 
    - Do you ever have to let go of something or someone that was a tough decision for you? Why?
