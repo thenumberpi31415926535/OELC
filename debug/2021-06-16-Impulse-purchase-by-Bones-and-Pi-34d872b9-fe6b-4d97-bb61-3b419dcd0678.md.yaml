@@ -2,6 +2,12 @@ object: page
 id: 34d872b9-fe6b-4d97-bb61-3b419dcd0678
 created_time: 2021-06-13T18:34:00.0000000Z
 last_edited_time: 2021-06-16T12:39:00.0000000Z
+created_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+last_edited_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
 cover:
   type: external
   external:
@@ -92,6 +98,12 @@ results:
   id: a6df56af-ebe5-4249-9f74-db275907efad
   created_time: 2021-06-13T18:35:00.0000000Z
   last_edited_time: 2021-06-13T18:35:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -128,6 +140,12 @@ results:
   id: 2fc8c571-14c0-42af-8152-9ace1d03c605
   created_time: 2021-06-15T07:15:00.0000000Z
   last_edited_time: 2021-06-15T07:15:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
   has_children: false
   archived: false
   type: paragraph
@@ -137,6 +155,12 @@ results:
   id: ace4d6b9-76fa-4d12-b4da-d69f605d90a2
   created_time: 2021-06-15T07:15:00.0000000Z
   last_edited_time: 2021-06-15T07:15:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
   has_children: false
   archived: false
   type: paragraph
@@ -159,6 +183,12 @@ results:
   id: dd81f100-edb6-44cc-9c49-d4d042c2848b
   created_time: 2021-06-15T07:17:00.0000000Z
   last_edited_time: 2021-06-15T07:54:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -207,6 +237,12 @@ results:
   id: aaffaf40-2144-474d-a745-ac5dbb9acfe6
   created_time: 2021-06-15T07:15:00.0000000Z
   last_edited_time: 2021-06-15T07:15:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
   has_children: false
   archived: false
   type: bookmark
@@ -217,6 +253,12 @@ results:
   id: 7c5dc51b-03be-43b5-97fd-dbc902bec985
   created_time: 2021-06-15T07:15:00.0000000Z
   last_edited_time: 2021-06-15T07:15:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
   has_children: false
   archived: false
   type: paragraph
@@ -226,6 +268,12 @@ results:
   id: f055b3c5-3885-483d-9780-d6194ea75c1a
   created_time: 2021-06-15T07:17:00.0000000Z
   last_edited_time: 2021-06-15T07:18:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: heading_2
@@ -248,6 +296,12 @@ results:
   id: f3c4ed2a-15b3-4d0b-85b6-6d622e0a3c33
   created_time: 2021-06-15T07:18:00.0000000Z
   last_edited_time: 2021-06-15T07:18:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: divider
@@ -256,6 +310,12 @@ results:
   id: f5c4d179-f1c7-4849-9743-565f3a5cb8af
   created_time: 2021-06-15T07:18:00.0000000Z
   last_edited_time: 2021-06-15T07:18:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -278,6 +338,12 @@ results:
   id: 93d37689-aa32-45e2-83fa-b3d284b34195
   created_time: 2021-06-15T07:17:00.0000000Z
   last_edited_time: 2021-06-15T07:18:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -300,6 +366,12 @@ results:
   id: 9dce4e43-5c0c-4ce6-abcf-06a8ba7ddce4
   created_time: 2021-06-15T07:17:00.0000000Z
   last_edited_time: 2021-06-15T07:18:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -322,6 +394,12 @@ results:
   id: 93da25c9-1f62-41d8-98f9-e100a45b9bdd
   created_time: 2021-06-15T07:17:00.0000000Z
   last_edited_time: 2021-06-15T07:18:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -344,6 +422,12 @@ results:
   id: 85864d69-d42e-4b5d-ac5a-a151ce1cbde4
   created_time: 2021-06-15T07:17:00.0000000Z
   last_edited_time: 2021-06-15T07:18:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -366,6 +450,12 @@ results:
   id: c538be6d-41b1-4463-84f5-10783c3f285c
   created_time: 2021-06-15T07:16:00.0000000Z
   last_edited_time: 2021-06-15T07:16:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
   has_children: false
   archived: false
   type: paragraph
@@ -375,6 +465,12 @@ results:
   id: bbaf79aa-f0bf-4180-84c6-f21e64cb2921
   created_time: 2021-06-15T07:16:00.0000000Z
   last_edited_time: 2021-06-15T07:16:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
   has_children: false
   archived: false
   type: paragraph
@@ -384,6 +480,12 @@ results:
   id: ea048bbb-c898-4154-b701-17cd437b991e
   created_time: 2021-06-15T07:16:00.0000000Z
   last_edited_time: 2021-06-15T07:16:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
   has_children: false
   archived: false
   type: image
@@ -391,8 +493,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5e66a8cb-cc55-4354-abd7-0efc4deccbac/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220218%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220218T010954Z&X-Amz-Expires=3600&X-Amz-Signature=d063c11fe27405df06d76d79956e6d5e75dfe0105c0f563f4bd8e85098327064&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-02-18T02:09:54.0910000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5e66a8cb-cc55-4354-abd7-0efc4deccbac/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220219%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220219T010541Z&X-Amz-Expires=3600&X-Amz-Signature=27e378347347a54b723f4a7e54e8437497add8388c69f46f90e5b2b37aae0eec&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-02-19T02:05:41.8290000Z
 next_cursor: 
 has_more: false
 

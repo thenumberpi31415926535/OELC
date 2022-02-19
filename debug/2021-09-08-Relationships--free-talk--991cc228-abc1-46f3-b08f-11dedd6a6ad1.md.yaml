@@ -2,6 +2,12 @@ object: page
 id: 991cc228-abc1-46f3-b08f-11dedd6a6ad1
 created_time: 2021-09-02T05:54:00.0000000Z
 last_edited_time: 2021-09-02T05:58:00.0000000Z
+created_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+last_edited_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
 cover:
   type: external
   external:
@@ -91,6 +97,12 @@ results:
   id: 4d97cc83-d257-4180-8311-bdd560e83df2
   created_time: 2021-09-02T05:54:00.0000000Z
   last_edited_time: 2021-09-02T05:54:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: unsupported
@@ -99,6 +111,12 @@ results:
   id: 0ea16f3d-5f5b-4afd-ad2d-5645165253af
   created_time: 2021-09-02T05:55:00.0000000Z
   last_edited_time: 2021-09-02T05:56:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -121,6 +139,12 @@ results:
   id: 4ce87acb-3a0b-48a8-b253-23c39cb527ac
   created_time: 2021-09-02T05:55:00.0000000Z
   last_edited_time: 2021-09-02T05:56:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -143,6 +167,12 @@ results:
   id: 1dc16187-f24e-4c6b-9f76-e51c131c02a5
   created_time: 2021-09-02T05:55:00.0000000Z
   last_edited_time: 2021-09-02T05:56:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -165,6 +195,12 @@ results:
   id: 397fa703-31d0-465f-9cb1-c6be105e94c0
   created_time: 2021-09-02T05:55:00.0000000Z
   last_edited_time: 2021-09-02T05:56:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -187,6 +223,12 @@ results:
   id: c2c750d7-bf97-485e-a7f7-9bfd92afce9a
   created_time: 2021-09-02T05:55:00.0000000Z
   last_edited_time: 2021-09-02T05:56:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -209,6 +251,12 @@ results:
   id: b65fdd9e-c692-418a-887c-5d2e221b0348
   created_time: 2021-09-02T05:55:00.0000000Z
   last_edited_time: 2021-09-02T05:56:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -231,6 +279,12 @@ results:
   id: a8929094-cb50-4fdf-9cab-0badfefc5f61
   created_time: 2021-09-02T05:55:00.0000000Z
   last_edited_time: 2021-09-02T05:56:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -253,6 +307,12 @@ results:
   id: ebac20c9-8fba-411a-b8a9-2ae6df6ea3b1
   created_time: 2021-09-02T05:56:00.0000000Z
   last_edited_time: 2021-09-02T05:56:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -262,6 +322,12 @@ results:
   id: c18d6689-b366-4045-878c-23db753dff2f
   created_time: 2021-09-02T05:54:00.0000000Z
   last_edited_time: 2021-09-02T05:55:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: true
   archived: false
   type: synced_block
@@ -273,6 +339,12 @@ results:
   id: cc43ed31-ac76-42d4-9052-becc23360909
   created_time: 2021-09-02T05:54:00.0000000Z
   last_edited_time: 2021-09-02T05:54:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: true
   archived: false
   type: synced_block
@@ -284,6 +356,12 @@ results:
   id: bc8c7f6b-d4d0-4437-8c24-e57db8b8ca08
   created_time: 2021-09-02T05:57:00.0000000Z
   last_edited_time: 2021-09-02T05:57:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -293,6 +371,12 @@ results:
   id: 449c8cbd-9dea-4c18-a481-f5aa3d5af4bc
   created_time: 2021-09-02T05:57:00.0000000Z
   last_edited_time: 2021-09-02T05:57:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: image
@@ -300,12 +384,18 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/eaa5a51f-c5da-4ae0-81e3-18679f6a288c/Brainstorming_-_09_8_Relationship-Free_talk.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220218%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220218T010914Z&X-Amz-Expires=3600&X-Amz-Signature=7f2689d3495a7866f2271ca5235f2a07639716a92cbf7de6169a18d25b370166&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-02-18T02:09:14.3500000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/eaa5a51f-c5da-4ae0-81e3-18679f6a288c/Brainstorming_-_09_8_Relationship-Free_talk.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220219%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220219T010456Z&X-Amz-Expires=3600&X-Amz-Signature=75fb50e014d1a5ac4f1e1d07576781918a4b70f8fb0734648cf422f858d7067f&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-02-19T02:04:56.2850000Z
 - object: block
   id: ac54503f-3fb5-4db5-8abd-5dee2ffdd26e
   created_time: 2021-09-02T05:57:00.0000000Z
   last_edited_time: 2021-09-02T05:57:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -315,6 +405,12 @@ results:
   id: 50877227-e589-4354-8c80-41a8092ae340
   created_time: 2021-09-02T05:54:00.0000000Z
   last_edited_time: 2021-09-02T05:57:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -324,6 +420,12 @@ results:
   id: ce79910d-ed23-4238-9aed-8886ac7edad0
   created_time: 2021-09-02T05:54:00.0000000Z
   last_edited_time: 2021-09-02T05:54:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: synced_block
@@ -335,6 +437,12 @@ results:
   id: 65928178-e627-4f31-a4dc-ce410ad8d412
   created_time: 2021-09-02T05:54:00.0000000Z
   last_edited_time: 2021-09-02T05:54:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph

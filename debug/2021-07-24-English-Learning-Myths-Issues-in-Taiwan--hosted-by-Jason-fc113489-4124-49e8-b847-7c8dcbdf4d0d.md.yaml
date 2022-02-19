@@ -2,6 +2,12 @@ object: page
 id: fc113489-4124-49e8-b847-7c8dcbdf4d0d
 created_time: 2021-07-21T13:02:00.0000000Z
 last_edited_time: 2021-07-23T10:39:00.0000000Z
+created_by:
+  object: user
+  id: 5f118345-72dd-478d-b052-bc7798916619
+last_edited_by:
+  object: user
+  id: 5f118345-72dd-478d-b052-bc7798916619
 cover:
   type: external
   external:
@@ -89,6 +95,12 @@ results:
   id: 1f627293-7caa-49e0-a379-4bd5554cf64a
   created_time: 2021-07-21T13:02:00.0000000Z
   last_edited_time: 2021-07-21T13:04:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: unsupported
@@ -97,6 +109,12 @@ results:
   id: c80d5d79-3302-44cd-99c4-caa302c9cf4a
   created_time: 2021-07-21T13:18:00.0000000Z
   last_edited_time: 2021-07-21T13:18:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: unsupported
@@ -105,6 +123,12 @@ results:
   id: 048105d3-8ee2-45e1-a6e3-0c238c5ca5d3
   created_time: 2021-07-21T13:19:00.0000000Z
   last_edited_time: 2021-07-21T13:19:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -114,6 +138,12 @@ results:
   id: 1092e891-a0b8-43c3-9809-2479fa6babd2
   created_time: 2021-07-21T13:19:00.0000000Z
   last_edited_time: 2021-07-22T01:33:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -136,6 +166,12 @@ results:
   id: 64ef9cd6-b85c-42f7-8913-072537251d5b
   created_time: 2021-07-21T13:19:00.0000000Z
   last_edited_time: 2021-07-21T13:19:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -158,6 +194,12 @@ results:
   id: 3c256fb9-0c0c-46f4-9bdf-49cb5207b65d
   created_time: 2021-07-21T13:19:00.0000000Z
   last_edited_time: 2021-07-21T13:19:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -167,6 +209,12 @@ results:
   id: e8deda28-9f44-4a54-a795-fac69d59525c
   created_time: 2021-07-21T13:19:00.0000000Z
   last_edited_time: 2021-07-21T13:20:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -189,6 +237,12 @@ results:
   id: 65e34dda-e187-4a4d-b581-9b3c62c94ae8
   created_time: 2021-07-21T13:19:00.0000000Z
   last_edited_time: 2021-07-21T13:19:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -198,6 +252,12 @@ results:
   id: 09b1dcc1-3af9-4b8d-b34c-5e8487e8b637
   created_time: 2021-07-21T13:19:00.0000000Z
   last_edited_time: 2021-07-21T13:19:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -220,6 +280,12 @@ results:
   id: cd1bf089-fab3-4524-99da-6a418bd6de20
   created_time: 2021-07-21T13:19:00.0000000Z
   last_edited_time: 2021-07-21T13:19:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -242,6 +308,12 @@ results:
   id: 9b86212c-3ea0-4a0c-9aa0-6b02f4449037
   created_time: 2021-07-21T13:04:00.0000000Z
   last_edited_time: 2021-07-21T13:04:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -251,6 +323,12 @@ results:
   id: ca7fffda-5850-4ea1-850e-44de8ba186aa
   created_time: 2021-07-21T13:04:00.0000000Z
   last_edited_time: 2021-07-21T13:04:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -260,6 +338,12 @@ results:
   id: ff8ffde3-5670-465c-be02-82c3ceb56d6d
   created_time: 2021-07-21T13:02:00.0000000Z
   last_edited_time: 2021-07-21T13:21:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: synced_block
@@ -271,6 +355,12 @@ results:
   id: e19d2b2b-40cf-44e4-a8c1-7880bce77251
   created_time: 2021-07-21T13:04:00.0000000Z
   last_edited_time: 2021-07-21T13:04:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -280,6 +370,12 @@ results:
   id: 6c2a9cdc-761a-4f75-b25a-af74893d4c31
   created_time: 2021-07-21T13:04:00.0000000Z
   last_edited_time: 2021-07-21T13:04:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -289,6 +385,12 @@ results:
   id: b1c69a95-8106-401d-8cb0-468e93e1d1f8
   created_time: 2021-07-21T13:03:00.0000000Z
   last_edited_time: 2021-07-21T13:04:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph

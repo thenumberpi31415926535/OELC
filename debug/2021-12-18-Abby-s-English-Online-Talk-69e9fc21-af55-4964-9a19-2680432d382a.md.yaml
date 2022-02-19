@@ -2,11 +2,17 @@ object: page
 id: 69e9fc21-af55-4964-9a19-2680432d382a
 created_time: 2021-08-17T11:10:00.0000000Z
 last_edited_time: 2021-12-18T16:17:00.0000000Z
+created_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+last_edited_by:
+  object: user
+  id: 4fd4b7fa-315a-487f-a1ac-f1c6eb9dad97
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/25949ee0-b4e4-4e71-b501-8cb6936552d9/eNGLISH_%283%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220218%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220218T010853Z&X-Amz-Expires=3600&X-Amz-Signature=835e5d61d6f6f193193651bf272fa622e226534d4526699797da01bab71c81c2&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-02-18T02:08:53.6460000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/25949ee0-b4e4-4e71-b501-8cb6936552d9/eNGLISH_%283%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220219%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220219T010438Z&X-Amz-Expires=3600&X-Amz-Signature=185b2ce3181b3ec10833e41889a3925d3d2db725f507e73f826b8ac0ee926c8e&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-02-19T02:04:38.0480000Z
 icon:
   type: emoji
   emoji: "\U0001F970"
@@ -89,6 +95,12 @@ results:
   id: a9c76a0d-b604-4e15-b70c-cddab3dac909
   created_time: 2021-08-17T11:10:00.0000000Z
   last_edited_time: 2021-12-17T16:09:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 98344252-5269-4738-9bc3-1d997b527939
   has_children: false
   archived: false
   type: paragraph
@@ -111,6 +123,12 @@ results:
   id: db256e3e-c6ea-441c-97c9-cd3188910769
   created_time: 2021-12-17T15:56:00.0000000Z
   last_edited_time: 2021-12-17T15:56:00.0000000Z
+  created_by:
+    object: user
+    id: 98344252-5269-4738-9bc3-1d997b527939
+  last_edited_by:
+    object: user
+    id: 98344252-5269-4738-9bc3-1d997b527939
   has_children: false
   archived: false
   type: paragraph
@@ -120,6 +138,12 @@ results:
   id: 4783145a-6fa1-4c46-9df4-3696b986b9da
   created_time: 2021-12-17T15:54:00.0000000Z
   last_edited_time: 2021-12-17T15:56:00.0000000Z
+  created_by:
+    object: user
+    id: 98344252-5269-4738-9bc3-1d997b527939
+  last_edited_by:
+    object: user
+    id: 98344252-5269-4738-9bc3-1d997b527939
   has_children: false
   archived: false
   type: image
@@ -127,12 +151,18 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7373e0fd-47f9-4d05-9ea0-0e063df404f3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220218%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220218T010853Z&X-Amz-Expires=3600&X-Amz-Signature=a66c8b54bbb0bf01d2fe326abfb51fe6056f8ec4f11ee624a70ae5af29632388&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-02-18T02:08:53.9300000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7373e0fd-47f9-4d05-9ea0-0e063df404f3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220219%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220219T010438Z&X-Amz-Expires=3600&X-Amz-Signature=326220e55250c5b2eaa51d893e109d0bb77eb7ce10e79a8ca6463f6715cefd36&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-02-19T02:04:38.3430000Z
 - object: block
   id: 1b37bf8c-a789-40e0-92c7-a511b90f89f2
   created_time: 2021-12-17T14:18:00.0000000Z
   last_edited_time: 2021-12-17T15:56:00.0000000Z
+  created_by:
+    object: user
+    id: 98344252-5269-4738-9bc3-1d997b527939
+  last_edited_by:
+    object: user
+    id: 98344252-5269-4738-9bc3-1d997b527939
   has_children: false
   archived: false
   type: paragraph
@@ -142,6 +172,12 @@ results:
   id: 023a0334-e9ef-41d5-bc59-ceb94fa5b756
   created_time: 2021-12-17T14:18:00.0000000Z
   last_edited_time: 2021-12-17T15:56:00.0000000Z
+  created_by:
+    object: user
+    id: 98344252-5269-4738-9bc3-1d997b527939
+  last_edited_by:
+    object: user
+    id: 98344252-5269-4738-9bc3-1d997b527939
   has_children: false
   archived: false
   type: paragraph
@@ -164,6 +200,12 @@ results:
   id: 9dac5158-8948-46f2-8790-6a44bae7925e
   created_time: 2021-12-17T14:18:00.0000000Z
   last_edited_time: 2021-12-17T14:18:00.0000000Z
+  created_by:
+    object: user
+    id: 98344252-5269-4738-9bc3-1d997b527939
+  last_edited_by:
+    object: user
+    id: 98344252-5269-4738-9bc3-1d997b527939
   has_children: false
   archived: false
   type: paragraph
@@ -173,6 +215,12 @@ results:
   id: fb15c71e-5f2e-4cb0-a4fe-ceb7d6f27881
   created_time: 2021-12-17T14:18:00.0000000Z
   last_edited_time: 2021-12-17T14:18:00.0000000Z
+  created_by:
+    object: user
+    id: 98344252-5269-4738-9bc3-1d997b527939
+  last_edited_by:
+    object: user
+    id: 98344252-5269-4738-9bc3-1d997b527939
   has_children: false
   archived: false
   type: paragraph
@@ -182,6 +230,12 @@ results:
   id: bf414c00-bf35-43d9-b9f7-dcdf2406acde
   created_time: 2021-12-17T14:18:00.0000000Z
   last_edited_time: 2021-12-17T14:18:00.0000000Z
+  created_by:
+    object: user
+    id: 98344252-5269-4738-9bc3-1d997b527939
+  last_edited_by:
+    object: user
+    id: 98344252-5269-4738-9bc3-1d997b527939
   has_children: false
   archived: false
   type: paragraph
@@ -191,6 +245,12 @@ results:
   id: addd364c-0305-497f-b7f5-14a816312e68
   created_time: 2021-12-17T14:18:00.0000000Z
   last_edited_time: 2021-12-17T14:18:00.0000000Z
+  created_by:
+    object: user
+    id: 98344252-5269-4738-9bc3-1d997b527939
+  last_edited_by:
+    object: user
+    id: 98344252-5269-4738-9bc3-1d997b527939
   has_children: false
   archived: false
   type: paragraph
@@ -213,6 +273,12 @@ results:
   id: aba6c54c-0b1c-47cb-86b8-09c55bb9e46b
   created_time: 2021-08-17T11:10:00.0000000Z
   last_edited_time: 2021-08-17T11:10:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: synced_block

@@ -2,6 +2,12 @@ object: page
 id: 03161d3c-ce5b-436a-82e0-512729be806c
 created_time: 2021-07-05T15:05:00.0000000Z
 last_edited_time: 2021-07-25T02:06:00.0000000Z
+created_by:
+  object: user
+  id: 5f118345-72dd-478d-b052-bc7798916619
+last_edited_by:
+  object: user
+  id: 5f118345-72dd-478d-b052-bc7798916619
 cover: 
 icon:
   type: emoji
@@ -75,6 +81,12 @@ results:
   id: 81f858ee-3d17-40bf-958b-9d98131eaa6f
   created_time: 2021-07-10T10:07:00.0000000Z
   last_edited_time: 2021-07-10T14:03:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: unsupported
@@ -83,6 +95,12 @@ results:
   id: 13c3ecf0-f8ab-4935-9211-77935ef4bba8
   created_time: 2021-07-05T15:05:00.0000000Z
   last_edited_time: 2021-07-05T15:05:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: true
   archived: false
   type: synced_block
@@ -94,6 +112,12 @@ results:
   id: 564f1ec9-7bf2-43e9-9564-6b7b97082ad9
   created_time: 2021-07-21T13:57:00.0000000Z
   last_edited_time: 2021-07-21T13:57:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: synced_block
@@ -105,6 +129,12 @@ results:
   id: 31717ba4-adf7-4ad6-868d-e43cf17f0aba
   created_time: 2021-07-21T13:57:00.0000000Z
   last_edited_time: 2021-07-21T13:57:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -114,6 +144,12 @@ results:
   id: f8aab6f0-ddab-469f-9419-cdce0e6a457b
   created_time: 2021-07-21T13:57:00.0000000Z
   last_edited_time: 2021-07-21T13:57:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -123,6 +159,12 @@ results:
   id: 54892b49-d696-489d-812a-8741a5cab838
   created_time: 2021-07-21T13:56:00.0000000Z
   last_edited_time: 2021-07-21T13:56:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -145,6 +187,12 @@ results:
   id: 0b48ad33-f17c-4530-9135-cd9b70ea4f02
   created_time: 2021-07-21T13:56:00.0000000Z
   last_edited_time: 2021-07-22T01:22:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -167,6 +215,12 @@ results:
   id: e6758779-296b-464b-b81c-8ce9ee12263a
   created_time: 2021-07-21T13:55:00.0000000Z
   last_edited_time: 2021-07-21T13:55:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -176,6 +230,12 @@ results:
   id: f62bee05-a57a-4ffd-97a1-57c6b261bdd7
   created_time: 2021-07-20T12:10:00.0000000Z
   last_edited_time: 2021-07-21T13:55:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -185,6 +245,12 @@ results:
   id: d6f0fe54-3f13-4038-903c-3f08ae81b62d
   created_time: 2021-07-20T12:10:00.0000000Z
   last_edited_time: 2021-07-20T12:10:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: synced_block

@@ -2,6 +2,12 @@ object: page
 id: 2b7c5896-512e-4fca-bafa-107abf8ec43d
 created_time: 2021-06-13T16:56:00.0000000Z
 last_edited_time: 2021-06-23T07:13:00.0000000Z
+created_by:
+  object: user
+  id: 5f118345-72dd-478d-b052-bc7798916619
+last_edited_by:
+  object: user
+  id: 5f118345-72dd-478d-b052-bc7798916619
 cover:
   type: external
   external:
@@ -89,6 +95,12 @@ results:
   id: 451a93a9-980a-4d18-afd2-daea0764e91c
   created_time: 2021-06-13T17:06:00.0000000Z
   last_edited_time: 2021-06-15T07:26:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -111,6 +123,12 @@ results:
   id: a87e497f-1444-439b-9f23-96e22940f697
   created_time: 2021-06-13T17:02:00.0000000Z
   last_edited_time: 2021-06-15T07:26:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -134,6 +152,12 @@ results:
   id: 2f62d5b3-cc67-4fd6-8810-01a7d08f5746
   created_time: 2021-06-15T07:26:00.0000000Z
   last_edited_time: 2021-06-15T07:26:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -143,6 +167,12 @@ results:
   id: d7ba5964-d060-4c94-869f-b1f77fefa70f
   created_time: 2021-06-13T17:02:00.0000000Z
   last_edited_time: 2021-06-15T07:26:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -165,6 +195,12 @@ results:
   id: 8e9eba18-0011-4ab5-8f77-db7c6e995010
   created_time: 2021-06-13T17:09:00.0000000Z
   last_edited_time: 2021-06-13T17:09:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -187,6 +223,12 @@ results:
   id: 62588360-2d5f-4529-9ecf-b895118c0bda
   created_time: 2021-06-15T07:26:00.0000000Z
   last_edited_time: 2021-06-15T07:26:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -196,6 +238,12 @@ results:
   id: 8ad3cbd4-4741-4ddb-8afd-5290fc47cee2
   created_time: 2021-06-13T17:06:00.0000000Z
   last_edited_time: 2021-06-15T07:26:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -218,6 +266,12 @@ results:
   id: 77527f9c-d6b3-40cf-a2c5-a4e4eb331207
   created_time: 2021-06-13T17:06:00.0000000Z
   last_edited_time: 2021-06-13T17:09:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -240,6 +294,12 @@ results:
   id: 1c80b833-4a39-4ce3-9b47-1f274f44abc5
   created_time: 2021-06-13T17:02:00.0000000Z
   last_edited_time: 2021-06-13T17:02:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph

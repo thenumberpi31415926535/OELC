@@ -2,6 +2,12 @@ object: page
 id: fb63dbb2-c0eb-4582-ba72-a5fc5149cb01
 created_time: 2021-06-25T00:55:00.0000000Z
 last_edited_time: 2021-06-25T00:59:00.0000000Z
+created_by:
+  object: user
+  id: 5f118345-72dd-478d-b052-bc7798916619
+last_edited_by:
+  object: user
+  id: 5f118345-72dd-478d-b052-bc7798916619
 cover: 
 icon: 
 parent:
@@ -76,6 +82,12 @@ results:
   id: 737d750e-bbca-4775-8e6a-9ed0dde6d64a
   created_time: 2021-06-25T00:57:00.0000000Z
   last_edited_time: 2021-06-25T00:59:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph

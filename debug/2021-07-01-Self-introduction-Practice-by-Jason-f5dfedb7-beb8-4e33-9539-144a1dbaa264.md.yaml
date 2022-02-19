@@ -2,6 +2,12 @@ object: page
 id: f5dfedb7-beb8-4e33-9539-144a1dbaa264
 created_time: 2021-06-28T12:56:00.0000000Z
 last_edited_time: 2021-07-02T10:57:00.0000000Z
+created_by:
+  object: user
+  id: 5f118345-72dd-478d-b052-bc7798916619
+last_edited_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
 cover: 
 icon:
   type: emoji
@@ -86,6 +92,12 @@ results:
   id: 3ed87897-be2c-4cb8-9c6f-b559735127ae
   created_time: 2021-06-28T12:58:00.0000000Z
   last_edited_time: 2021-06-28T12:58:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: synced_block
@@ -97,6 +109,12 @@ results:
   id: 9cc4be52-5577-4941-bc9f-c01515a6eac2
   created_time: 2021-06-28T12:59:00.0000000Z
   last_edited_time: 2021-06-28T12:59:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph
@@ -106,6 +124,12 @@ results:
   id: 242bec8b-d1b0-4306-80fe-ff2f43fabde8
   created_time: 2021-06-28T12:59:00.0000000Z
   last_edited_time: 2021-06-28T13:05:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: true
   archived: false
   type: paragraph
@@ -115,6 +139,12 @@ results:
   id: b1f5d0a0-7aa7-4da1-aabe-8d8359848dd0
   created_time: 2021-06-28T13:05:00.0000000Z
   last_edited_time: 2021-06-28T13:05:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
   type: paragraph

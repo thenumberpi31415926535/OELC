@@ -2,6 +2,12 @@ object: page
 id: 44658c7c-16fa-4dd5-8796-102940e216b3
 created_time: 2021-06-14T06:15:00.0000000Z
 last_edited_time: 2021-06-27T01:29:00.0000000Z
+created_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+last_edited_by:
+  object: user
+  id: d70c11d6-9dd7-4ae4-8107-735e84887cee
 cover:
   type: external
   external:
@@ -78,6 +84,12 @@ results:
   id: 321f14b6-8c41-4c5d-90e7-4cb25f8fb446
   created_time: 2021-06-25T08:07:00.0000000Z
   last_edited_time: 2021-06-25T08:11:00.0000000Z
+  created_by:
+    object: user
+    id: 42e2fdae-acbc-40be-9b84-a3cd7df0de82
+  last_edited_by:
+    object: user
+    id: 42e2fdae-acbc-40be-9b84-a3cd7df0de82
   has_children: false
   archived: false
   type: heading_1
@@ -100,6 +112,12 @@ results:
   id: 6455e9f9-c19e-4c6b-993c-2fcf74c6e82c
   created_time: 2021-06-25T08:11:00.0000000Z
   last_edited_time: 2021-06-25T08:12:00.0000000Z
+  created_by:
+    object: user
+    id: 42e2fdae-acbc-40be-9b84-a3cd7df0de82
+  last_edited_by:
+    object: user
+    id: 42e2fdae-acbc-40be-9b84-a3cd7df0de82
   has_children: false
   archived: false
   type: paragraph
@@ -122,6 +140,12 @@ results:
   id: 98f50177-8499-4de1-82dc-3749faeaebb8
   created_time: 2021-06-25T08:12:00.0000000Z
   last_edited_time: 2021-06-25T08:13:00.0000000Z
+  created_by:
+    object: user
+    id: 42e2fdae-acbc-40be-9b84-a3cd7df0de82
+  last_edited_by:
+    object: user
+    id: 42e2fdae-acbc-40be-9b84-a3cd7df0de82
   has_children: false
   archived: false
   type: paragraph
@@ -144,6 +168,12 @@ results:
   id: b5e8cdba-39be-4e15-8855-e4389137337e
   created_time: 2021-06-25T08:12:00.0000000Z
   last_edited_time: 2021-06-25T08:13:00.0000000Z
+  created_by:
+    object: user
+    id: 42e2fdae-acbc-40be-9b84-a3cd7df0de82
+  last_edited_by:
+    object: user
+    id: 42e2fdae-acbc-40be-9b84-a3cd7df0de82
   has_children: false
   archived: false
   type: numbered_list_item
@@ -166,6 +196,12 @@ results:
   id: d86bfdb6-75f7-4d09-9955-afbf86fb0400
   created_time: 2021-06-25T08:12:00.0000000Z
   last_edited_time: 2021-06-25T08:12:00.0000000Z
+  created_by:
+    object: user
+    id: 42e2fdae-acbc-40be-9b84-a3cd7df0de82
+  last_edited_by:
+    object: user
+    id: 42e2fdae-acbc-40be-9b84-a3cd7df0de82
   has_children: false
   archived: false
   type: numbered_list_item
@@ -188,6 +224,12 @@ results:
   id: c9fb6e5f-59bf-4729-be7e-0832394110fb
   created_time: 2021-06-25T08:12:00.0000000Z
   last_edited_time: 2021-06-25T08:13:00.0000000Z
+  created_by:
+    object: user
+    id: 42e2fdae-acbc-40be-9b84-a3cd7df0de82
+  last_edited_by:
+    object: user
+    id: 42e2fdae-acbc-40be-9b84-a3cd7df0de82
   has_children: false
   archived: false
   type: numbered_list_item
@@ -210,6 +252,12 @@ results:
   id: b12c9f0b-4ab4-4fb7-98f1-e9e350282d51
   created_time: 2021-06-25T08:12:00.0000000Z
   last_edited_time: 2021-06-25T08:13:00.0000000Z
+  created_by:
+    object: user
+    id: 42e2fdae-acbc-40be-9b84-a3cd7df0de82
+  last_edited_by:
+    object: user
+    id: 42e2fdae-acbc-40be-9b84-a3cd7df0de82
   has_children: false
   archived: false
   type: numbered_list_item
@@ -232,6 +280,12 @@ results:
   id: 211ccc9d-9125-4754-af60-af272936dcc3
   created_time: 2021-06-25T08:12:00.0000000Z
   last_edited_time: 2021-06-25T08:13:00.0000000Z
+  created_by:
+    object: user
+    id: 42e2fdae-acbc-40be-9b84-a3cd7df0de82
+  last_edited_by:
+    object: user
+    id: 42e2fdae-acbc-40be-9b84-a3cd7df0de82
   has_children: false
   archived: false
   type: numbered_list_item
@@ -254,6 +308,12 @@ results:
   id: e0e9739c-4584-4fce-b482-f6cb1f73ed87
   created_time: 2021-06-18T14:54:00.0000000Z
   last_edited_time: 2021-06-25T08:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 42e2fdae-acbc-40be-9b84-a3cd7df0de82
   has_children: false
   archived: false
   type: paragraph
@@ -276,6 +336,12 @@ results:
   id: 08b911e9-109f-49fa-83b3-441d868e59eb
   created_time: 2021-06-18T14:54:00.0000000Z
   last_edited_time: 2021-06-18T14:54:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -304,6 +370,12 @@ results:
   id: b4ed689f-0a3f-46fd-bcc0-41daccfcce42
   created_time: 2021-06-18T14:54:00.0000000Z
   last_edited_time: 2021-06-18T14:54:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph

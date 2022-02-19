@@ -2,6 +2,12 @@ object: page
 id: 5bb54fd4-7e7c-44e5-bc38-5dd9e16918f4
 created_time: 2021-07-26T07:26:00.0000000Z
 last_edited_time: 2021-08-15T17:26:00.0000000Z
+created_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+last_edited_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
 cover:
   type: external
   external:
@@ -118,6 +124,12 @@ results:
   id: 6a3e5a25-05b1-4dbf-9fd5-8de628e065a1
   created_time: 2021-07-26T07:26:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -127,6 +139,12 @@ results:
   id: ea51874a-f493-4382-9a7f-7b2cde89dca5
   created_time: 2021-07-26T07:26:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: unsupported
@@ -135,6 +153,12 @@ results:
   id: c2e16a5e-d1cf-4615-8ac5-15b4b74e1ea8
   created_time: 2021-07-26T07:26:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -171,6 +195,12 @@ results:
   id: 76886e8f-28a4-40ff-b987-d68fe4548a2f
   created_time: 2021-07-26T07:26:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -207,6 +237,12 @@ results:
   id: 0c05025d-f42d-49de-aa54-8d3e6a5e43b1
   created_time: 2021-07-26T07:26:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -216,6 +252,12 @@ results:
   id: f0c176cb-0817-4025-9aed-5e4a7e602abe
   created_time: 2021-07-26T07:26:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -225,6 +267,12 @@ results:
   id: 000a40c1-9c32-4429-92b7-ddffba041cc2
   created_time: 2021-07-26T07:26:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -247,6 +295,12 @@ results:
   id: 2eadc362-603b-4781-90c4-c1975cab1277
   created_time: 2021-07-26T07:33:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -269,6 +323,12 @@ results:
   id: 390bd231-c284-46ee-827f-c14580374184
   created_time: 2021-07-26T07:33:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -291,6 +351,12 @@ results:
   id: e141df2b-ccc2-487f-afe6-d2deb30f4dbc
   created_time: 2021-07-26T07:33:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -313,6 +379,12 @@ results:
   id: f22f593e-3923-4543-97dd-1d0cdaa778c2
   created_time: 2021-07-26T07:33:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -335,6 +407,12 @@ results:
   id: 7ea0c5d4-2124-4af4-b111-810d92e2e33e
   created_time: 2021-07-26T07:33:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -357,6 +435,12 @@ results:
   id: 4d983546-8b30-4c98-9a80-80f7aac4c94c
   created_time: 2021-07-26T07:33:00.0000000Z
   last_edited_time: 2021-07-26T07:33:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -366,6 +450,12 @@ results:
   id: 5581a68f-bfbe-48fb-84ee-5ec5e9b08472
   created_time: 2021-07-26T07:34:00.0000000Z
   last_edited_time: 2021-07-26T07:34:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: image
@@ -373,12 +463,18 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/50e8ccec-a7b7-4726-8fd5-074b79fc888e/Brainstorming_-_07_28_What_do_i_do_when_i39m_lost_in_convos.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220218%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220218T010925Z&X-Amz-Expires=3600&X-Amz-Signature=b7a223f3bce90b7ca4c80a1cce6ab626e8fce09cc0cfb1837885303516d83fad&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-02-18T02:09:25.6660000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/50e8ccec-a7b7-4726-8fd5-074b79fc888e/Brainstorming_-_07_28_What_do_i_do_when_i39m_lost_in_convos.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220219%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220219T010505Z&X-Amz-Expires=3600&X-Amz-Signature=890575a15c095a90fd3022afb79812c21e8bfe8a6951b557b9c684d5a69b60bb&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-02-19T02:05:05.2940000Z
 - object: block
   id: cce64d5d-ade8-4245-b075-c719ec8ed744
   created_time: 2021-07-26T07:27:00.0000000Z
   last_edited_time: 2021-07-26T07:33:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -388,6 +484,12 @@ results:
   id: 8158c0fb-b029-4d08-ad64-d2125545ea1b
   created_time: 2021-07-26T07:26:00.0000000Z
   last_edited_time: 2021-07-26T07:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: synced_block
@@ -399,6 +501,12 @@ results:
   id: e5b67c42-3f6a-4c85-a305-83118a49d52f
   created_time: 2021-07-26T07:26:00.0000000Z
   last_edited_time: 2021-07-26T07:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph

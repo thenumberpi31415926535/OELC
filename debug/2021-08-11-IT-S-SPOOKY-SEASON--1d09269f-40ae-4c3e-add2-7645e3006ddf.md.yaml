@@ -2,6 +2,12 @@ object: page
 id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
 created_time: 2021-08-10T07:46:00.0000000Z
 last_edited_time: 2021-08-15T17:25:00.0000000Z
+created_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+last_edited_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
 cover:
   type: external
   external:
@@ -118,6 +124,12 @@ results:
   id: e60a5cda-5078-4904-ae7f-536f6bd5194c
   created_time: 2021-08-10T12:47:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -140,6 +152,12 @@ results:
   id: 4502d7ff-01a6-4074-9b05-12c7d0d7009e
   created_time: 2021-08-10T07:48:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -162,6 +180,12 @@ results:
   id: 432b976d-b13a-48b0-a849-d8bb8516626e
   created_time: 2021-08-10T07:48:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -188,6 +212,12 @@ results:
   id: 60d2aaf8-692a-406e-a998-af72ade26185
   created_time: 2021-08-10T07:48:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -210,6 +240,12 @@ results:
   id: a98181ed-4b5a-4019-8e71-f98ffd41f7fd
   created_time: 2021-08-10T07:49:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -232,6 +268,12 @@ results:
   id: 8ffc30cd-8907-4339-a85f-574b327774fe
   created_time: 2021-08-10T07:49:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -254,6 +296,12 @@ results:
   id: b17de023-2dec-4fc5-b352-1a267790fd57
   created_time: 2021-08-10T07:49:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -263,6 +311,12 @@ results:
   id: 9b193424-ad18-45fc-bc18-92f83828e9a2
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: unsupported
@@ -271,6 +325,12 @@ results:
   id: eab018a8-6415-4e66-89b0-866afbcef257
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -307,6 +367,12 @@ results:
   id: 4fb5017a-b750-4563-afbd-badf38caed45
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -343,6 +409,12 @@ results:
   id: 94f2e8a8-8ea6-4d27-8618-e475b5a3b11c
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -352,6 +424,12 @@ results:
   id: 6b43c597-2177-4545-bd00-19e237a5f321
   created_time: 2021-08-10T07:51:00.0000000Z
   last_edited_time: 2021-08-10T07:51:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: image
@@ -359,12 +437,18 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8efcf85d-3ac6-4afa-9d37-14316279d529/Brainstorming_-_08_11_Supernatural_experiences.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220218%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220218T010928Z&X-Amz-Expires=3600&X-Amz-Signature=0d76bc12ca94aa4302ae9392268bd791675d1fbe57774e84ed3f8f6d2e3607e9&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-02-18T02:09:28.7290000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8efcf85d-3ac6-4afa-9d37-14316279d529/Brainstorming_-_08_11_Supernatural_experiences.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220219%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220219T010507Z&X-Amz-Expires=3600&X-Amz-Signature=4494f3c3015b282aa0721b367219e65d903786892ebf77d92248a131c799696e&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-02-19T02:05:07.6020000Z
 - object: block
   id: 648be114-bbe9-437c-b7d3-8313ecd0fa16
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-10T07:46:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -374,6 +458,12 @@ results:
   id: 4a1597cb-7192-43fc-8f80-0fc9a9fe824c
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-10T07:46:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -383,6 +473,12 @@ results:
   id: c89e4ca9-d1f9-49c9-ac64-a77f15570af6
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-10T07:46:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: synced_block
@@ -394,6 +490,12 @@ results:
   id: 9676506c-1322-489a-9ca2-65b1bf31c73b
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-10T07:46:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph

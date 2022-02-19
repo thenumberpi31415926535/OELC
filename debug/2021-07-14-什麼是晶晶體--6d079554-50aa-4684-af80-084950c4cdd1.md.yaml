@@ -2,6 +2,12 @@ object: page
 id: 6d079554-50aa-4684-af80-084950c4cdd1
 created_time: 2021-07-01T11:39:00.0000000Z
 last_edited_time: 2021-08-15T17:26:00.0000000Z
+created_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+last_edited_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
 cover:
   type: external
   external:
@@ -95,6 +101,12 @@ results:
   id: 8b70cb0a-33cf-4fad-8fc0-c34c9afe2048
   created_time: 2021-07-02T09:53:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -104,6 +116,12 @@ results:
   id: f6c242c3-aba2-4030-b809-4fed5bbd91f2
   created_time: 2021-07-02T09:12:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -140,6 +158,12 @@ results:
   id: 7f101f01-8595-44e9-8833-ddccc7e52881
   created_time: 2021-07-02T09:51:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -176,6 +200,12 @@ results:
   id: d8929c03-d7fb-4c01-8dff-70b2c9489ac8
   created_time: 2021-07-13T14:43:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: true
   archived: false
   type: synced_block
@@ -185,6 +215,12 @@ results:
   id: 29aa228a-34e0-4d37-843b-44cc4677e867
   created_time: 2021-07-02T09:52:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -221,6 +257,12 @@ results:
   id: 8c2c9dbf-a4d7-43b9-ad90-7037b9faba51
   created_time: 2021-07-14T16:13:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -230,6 +272,12 @@ results:
   id: 66508d2a-2a9f-456c-81bf-3d5983b5b3a0
   created_time: 2021-07-14T16:13:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: synced_block
@@ -239,6 +287,12 @@ results:
   id: 208bccaf-0616-4113-8ea2-6e9472af9c35
   created_time: 2021-07-02T11:27:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -248,6 +302,12 @@ results:
   id: 2335c05f-e62b-4d6f-b7c8-61d7f8474dbe
   created_time: 2021-07-02T11:29:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -257,6 +317,12 @@ results:
   id: 64745f78-b131-4571-a2fb-7b7ad7d29e2b
   created_time: 2021-07-02T11:27:00.0000000Z
   last_edited_time: 2021-07-02T11:29:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -279,6 +345,12 @@ results:
   id: 4dc0b44c-ae31-4d4f-b1ee-9c88171b6118
   created_time: 2021-07-02T11:29:00.0000000Z
   last_edited_time: 2021-07-02T11:29:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: divider
@@ -287,6 +359,12 @@ results:
   id: 38e6720a-e8c1-4798-8ae5-2d055609286e
   created_time: 2021-07-02T11:29:00.0000000Z
   last_edited_time: 2021-07-02T11:29:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -309,6 +387,12 @@ results:
   id: 171be30d-8919-4e12-8504-8152452a3593
   created_time: 2021-07-02T11:29:00.0000000Z
   last_edited_time: 2021-07-02T11:29:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -331,6 +415,12 @@ results:
   id: e8f74bc6-b1c8-46dd-8661-e0df5371c2ce
   created_time: 2021-07-02T11:29:00.0000000Z
   last_edited_time: 2021-07-02T11:29:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -353,6 +443,12 @@ results:
   id: 2aba4bab-4281-4b02-ac61-adf18e569125
   created_time: 2021-07-02T11:30:00.0000000Z
   last_edited_time: 2021-07-02T11:30:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -375,6 +471,12 @@ results:
   id: dbb7c36c-d3c1-4aba-9506-4fecb965e311
   created_time: 2021-07-02T11:30:00.0000000Z
   last_edited_time: 2021-07-02T11:30:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -397,6 +499,12 @@ results:
   id: 3d83fc0c-f33f-424f-b1d2-308f4cc31945
   created_time: 2021-07-02T11:30:00.0000000Z
   last_edited_time: 2021-07-02T11:30:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: bulleted_list_item
@@ -419,6 +527,12 @@ results:
   id: ae623cf5-b0db-40d9-a3d3-f03e34b55387
   created_time: 2021-07-13T10:34:00.0000000Z
   last_edited_time: 2021-07-13T10:34:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: paragraph
@@ -428,6 +542,12 @@ results:
   id: 4204336c-d182-4437-a5b5-63c58c677b36
   created_time: 2021-07-13T10:34:00.0000000Z
   last_edited_time: 2021-07-13T10:34:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
   type: image
@@ -435,8 +555,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9d053b3d-690b-4c6a-9de1-b41b043e6824/Brainstorming.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220218%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220218T010926Z&X-Amz-Expires=3600&X-Amz-Signature=f166fbf3f75f4632279b8652040d1be2f37b86f725e29fbce58fd9fd4dc7c339&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-02-18T02:09:26.5680000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9d053b3d-690b-4c6a-9de1-b41b043e6824/Brainstorming.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220219%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220219T010505Z&X-Amz-Expires=3600&X-Amz-Signature=9caa945cc74e8ca67607b9d62c75ad91045ff62213d3c8c998c0815949153cb6&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-02-19T02:05:05.9930000Z
 next_cursor: 
 has_more: false
 
