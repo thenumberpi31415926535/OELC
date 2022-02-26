@@ -1,0 +1,195 @@
+object: page
+id: 16b8ee4d-18ae-4a86-abd5-a1c4ac9f4b6e
+created_time: 2021-06-12T08:14:00.0000000Z
+last_edited_time: 2021-06-14T07:14:00.0000000Z
+created_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+last_edited_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1585909695284-32d2985ac9c0?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
+icon:
+  type: emoji
+  emoji: "\U0001F5E3️"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: f7d2cf99-bbb7-474f-863c-e691575a7ba2
+      name: intermediate to advanced
+      color: gray
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: 3775b82a-0108-475c-ae48-b2c8e248dcef
+      name: Google Meet
+      color: pink
+  Sign up here:
+    id: ']hGQ'
+    type: rich_text
+    rich_text: []
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: b7c804e4-3f3e-476f-8d87-8bc0c40e4fbe
+      name: Abby
+      color: green
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://meet.google.com/bce-znvw-icb
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-06-14T13:00:00.0000000+00:00
+      end: 2021-06-14T14:30:00.0000000+00:00
+      time_zone: 
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: Speech Review
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Speech Review
+      href: 
+url: https://www.notion.so/Speech-Review-16b8ee4d18ae4a86abd5a1c4ac9f4b6e
+
+object: list
+results:
+- object: block
+  id: 1b6ab03e-7b16-4e95-b56c-53856476b343
+  created_time: 2021-06-12T08:18:00.0000000Z
+  last_edited_time: 2021-06-12T09:38:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 98344252-5269-4738-9bc3-1d997b527939
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: "Abby will prepare an around five minutes speech and each participant need to be an evaluator for giving any feedback to the host. After that, we can have a discussion based on the host's presentation content or have a free talk. I won't let you know what is the topic of the speech for now because sometimes we need the surprise to abundant our life \U0001F970"
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "Abby will prepare an around five minutes speech and each participant need to be an evaluator for giving any feedback to the host. After that, we can have a discussion based on the host's presentation content or have a free talk. I won't let you know what is the topic of the speech for now because sometimes we need the surprise to abundant our life \U0001F970"
+      href: 
+- object: block
+  id: dbc65810-eaa4-401e-b1da-b8d42527b20b
+  created_time: 2021-06-12T08:18:00.0000000Z
+  last_edited_time: 2021-06-12T08:18:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: |
+          ✨How to join?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: |
+        ✨How to join?
+      href: 
+    - type: text
+      text:
+        content: https://meet.google.com/bce-znvw-icb
+        link:
+          url: https://meet.google.com/bce-znvw-icb
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: https://meet.google.com/bce-znvw-icb
+      href: https://meet.google.com/bce-znvw-icb
+    - type: text
+      text:
+        content: "\nFeel free to come in before the meeting to test your sound and microphone. You just need to log in to your Google and click the link, then you are all set!\U0001F973"
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "\nFeel free to come in before the meeting to test your sound and microphone. You just need to log in to your Google and click the link, then you are all set!\U0001F973"
+      href: 
+- object: block
+  id: b348bc23-1f82-4b85-b3f4-992bb7b9a549
+  created_time: 2021-06-12T08:18:00.0000000Z
+  last_edited_time: 2021-06-12T09:38:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 98344252-5269-4738-9bc3-1d997b527939
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    text:
+    - type: text
+      text:
+        content: "✨Wanna join?\nComment below to let me know if you are going to be a speaker or listener \U0001F609"
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "✨Wanna join?\nComment below to let me know if you are going to be a speaker or listener \U0001F609"
+      href: 
+next_cursor: 
+has_more: false
+
