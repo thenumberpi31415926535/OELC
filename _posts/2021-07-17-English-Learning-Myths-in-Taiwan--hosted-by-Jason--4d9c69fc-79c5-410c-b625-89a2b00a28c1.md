@@ -1,25 +1,25 @@
 ---
-last_edited_time: 2021-07-20T20:11:00.0000000
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-object: page
+notion_url: https://www.notion.so/English-Learning-Myths-in-Taiwan-hosted-by-Jason-4d9c69fc79c5410cb62589a2b00a28c1
+talktime: 2021-07-17T15:30:00.0000000
+sign_up_here: '[https://forms.gle/CxB3xMiDcHiSZuVr6](https://forms.gle/CxB3xMiDcHiSZuVr6)'
+title: 'English Learning Myths in Taiwan, hosted by Jason '
 tags:
 - Talk
 - 2021-07-17
 - Jason
 hosts: Jason
-name: 'English Learning Myths in Taiwan, hosted by Jason '
-indexDate: 2021-07-17
-title: 'English Learning Myths in Taiwan, hosted by Jason '
-id: 4d9c69fc-79c5-410c-b625-89a2b00a28c1
-parent_type: database_id
-sign_up_here: '[https://forms.gle/CxB3xMiDcHiSZuVr6](https://forms.gle/CxB3xMiDcHiSZuVr6)'
+last_edited_time: 2021-07-20T20:11:00.0000000
 archived: false
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+indexDate: 2021-07-17
+software: Discord
+object: page
+created_time: 2021-07-13T22:25:00.0000000
+name: 'English Learning Myths in Taiwan, hosted by Jason '
+id: 4d9c69fc-79c5-410c-b625-89a2b00a28c1
 meeting_link: https://discord.gg/pUgB4XEQrH
 language_level: 'CEFR: B2 and ups'
-notion_url: https://www.notion.so/English-Learning-Myths-in-Taiwan-hosted-by-Jason-4d9c69fc79c5410cb62589a2b00a28c1
-talktime: 2021-07-17T15:30:00.0000000
-software: Discord
-created_time: 2021-07-13T22:25:00.0000000
+parent_type: database_id
 ---
 
 
