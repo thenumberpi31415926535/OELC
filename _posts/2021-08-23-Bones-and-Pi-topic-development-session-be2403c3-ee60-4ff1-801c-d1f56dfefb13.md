@@ -1,11 +1,13 @@
 ---
-notion_url: https://www.notion.so/Bones-and-Pi-topic-development-session-be2403c3ee604ff1801cd1f56dfefb13
+name: Bones and Pi topic development session
+created_time: 2021-08-23T12:57:00.0000000
 talktime: 2021-08-23T14:00:00.0000000
-sign_up_here:
-- "Join Pi's "
-- '[Discord ](https://discord.gg/vE7QUXGDnS)'
-- 'server and sign up in #annoncements!'
-title: Bones and Pi topic development session
+object: page
+archived: false
+software: Discord
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+indexDate: 2021-08-23
+last_edited_time: 2021-08-23T13:02:00.0000000
 tags:
 - Talk
 - 2021-08-23
@@ -14,17 +16,15 @@ tags:
 hosts:
 - Bones
 - Pi
-last_edited_time: 2021-08-23T13:02:00.0000000
-archived: false
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-indexDate: 2021-08-23
-software: Discord
-object: page
-created_time: 2021-08-23T12:57:00.0000000
-name: Bones and Pi topic development session
 id: be2403c3-ee60-4ff1-801c-d1f56dfefb13
 meeting_link: https://discord.gg/vE7QUXGDnS
+sign_up_here:
+- "Join Pi's "
+- '[Discord ](https://discord.gg/vE7QUXGDnS)'
+- 'server and sign up in #annoncements!'
+notion_url: https://www.notion.so/Bones-and-Pi-topic-development-session-be2403c3ee604ff1801cd1f56dfefb13
 language_level: No limit
+title: Bones and Pi topic development session
 parent_type: database_id
 ---
 
