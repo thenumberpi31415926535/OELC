@@ -2,38 +2,40 @@
 object: page
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 name: Sunday's Talk by Peggy and Antina
-created_time: 2021-06-25T18:35:00.0000000
+created_time: 2021-06-25T18:39:00.0000000
 archived: false
-notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-64c75db2c8c84a85b48f8755eac37007
-indexDate: 2021-08-01
+notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-7d4b494728d04138947ae6cbe75dafa9
+indexDate: 2021-07-11
 hosts:
 - Peggy@李明霈
 - Antina@張庭瑄
-id: 64c75db2-c8c8-4a85-b48f-8755eac37007
+id: 7d4b4947-28d0-4138-947a-e6cbe75dafa9
 title: Sunday's Talk by Peggy and Antina
 tags:
 - Talk
-- 2021-08-01
+- 2021-07-11
 - Peggy@李明霈
 - Antina@張庭瑄
-talktime: 2021-08-01T09:30:00.0000000
+talktime: 2021-07-11T09:30:00.0000000
 parent_type: database_id
-last_edited_time: 2021-08-01T09:33:00.0000000
+last_edited_time: 2021-07-20T20:14:00.0000000
 language_level: No limit
-meeting_link: https://meet.googley.com/tud-hdfb-tua
+meeting_link: https://meet.google.com/uor-traf-jyshttps://meet.google.com/uor-traf-jys
 sign_up_here: Please comment below note in Line group
 software: Google Meet
 ---
 
-# Free Talk 
+
+# Game Time!
 📅
 9:30～9:40 self-introduction
-9:40～10:30 Free Talk !
+9:40～10:10 guessing game!
+10:10~10:30 discussion
 ✨
 How to join?
 We provide the link in post, feel free to come in before the meeting to test your sound and microphone. You just need to log in to your Google and click the link, then you are all set!
 ✨
 Wanna join?
-Comment below note in Line group to let me know if you are going to be a speaker or listener :)
+Comment below to let me know if you are going to be a speaker or listener :)
 
 
