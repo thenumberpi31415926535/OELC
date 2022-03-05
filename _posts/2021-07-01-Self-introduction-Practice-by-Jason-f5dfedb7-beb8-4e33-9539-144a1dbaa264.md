@@ -1,25 +1,25 @@
 ---
-meeting_link: https://join.skype.com/xMKyV4Fx3KXT
-hosts: Jason
+archived: false
 last_edited_time: 2021-07-02T18:57:00.0000000
+talktime: 2021-07-01T21:00:00.0000000
+meeting_link: https://join.skype.com/xMKyV4Fx3KXT
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+parent_type: database_id
+id: f5dfedb7-beb8-4e33-9539-144a1dbaa264
+software: Skype
+name: Self-introduction Practice by Jason
+created_time: 2021-06-28T20:56:00.0000000
+title: Self-introduction Practice by Jason
 tags:
 - Talk
 - 2021-07-01
 - Jason
-talktime: 2021-07-01T21:00:00.0000000
-name: Self-introduction Practice by Jason
-title: Self-introduction Practice by Jason
-indexDate: 2021-07-01
 object: page
-archived: false
-created_time: 2021-06-28T20:56:00.0000000
-software: Skype
-sign_up_here: '[https://forms.gle/CET8RqptGHtUapEG7](https://forms.gle/CET8RqptGHtUapEG7)'
-id: f5dfedb7-beb8-4e33-9539-144a1dbaa264
-notion_url: https://www.notion.so/Self-introduction-Practice-by-Jason-f5dfedb7beb84e339539144a1dbaa264
-parent_type: database_id
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 language_level: No limit
+hosts: Jason
+sign_up_here: '[https://forms.gle/CET8RqptGHtUapEG7](https://forms.gle/CET8RqptGHtUapEG7)'
+notion_url: https://www.notion.so/Self-introduction-Practice-by-Jason-f5dfedb7beb84e339539144a1dbaa264
+indexDate: 2021-07-01
 ---
 
 
