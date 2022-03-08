@@ -111,6 +111,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: mention
       mention:
@@ -153,6 +154,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: mention
       mention:
@@ -209,6 +211,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: mention
       mention:
@@ -251,6 +254,7 @@ results:
   archived: false
   type: heading_2
   heading_2:
+    color: default
     text:
     - type: text
       text:
@@ -293,6 +297,7 @@ results:
   archived: false
   type: numbered_list_item
   numbered_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -321,6 +326,7 @@ results:
   archived: false
   type: numbered_list_item
   numbered_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -349,6 +355,7 @@ results:
   archived: false
   type: numbered_list_item
   numbered_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -377,6 +384,7 @@ results:
   archived: false
   type: numbered_list_item
   numbered_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -408,8 +416,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4fa5f828-7834-4130-a4c5-aa696870a0da/Brainstorming_ideas_18.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220307%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220307T011052Z&X-Amz-Expires=3600&X-Amz-Signature=13bdd1637ae845d3ddc1f24b32aeb856c0f941944352c0621ad2ba1878a1e60a&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-03-07T02:10:52.1540000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4fa5f828-7834-4130-a4c5-aa696870a0da/Brainstorming_ideas_18.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T010913Z&X-Amz-Expires=3600&X-Amz-Signature=3cf7ba975a22752296be1c9c27700de1094920dbaef9cdca8e60955034a83263&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-03-08T02:09:13.1220000Z
 - object: block
   id: 7d0a02f7-e55d-4a54-8f38-c35604c1144c
   created_time: 2021-06-21T08:00:00.0000000Z
@@ -424,6 +432,7 @@ results:
   archived: false
   type: numbered_list_item
   numbered_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -452,6 +461,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 next_cursor: 
 has_more: false

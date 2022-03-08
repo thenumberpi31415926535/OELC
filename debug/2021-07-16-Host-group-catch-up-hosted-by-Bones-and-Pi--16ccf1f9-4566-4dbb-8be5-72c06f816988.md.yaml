@@ -108,6 +108,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -136,6 +137,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 8ca27ac2-b63d-41ba-b95f-bc4d8580e739
@@ -168,6 +170,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 2d1d1cca-6132-4a8f-ba52-34c48dc8c708
@@ -198,6 +201,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 next_cursor: 
 has_more: false

@@ -134,6 +134,7 @@ results:
   archived: false
   type: bulleted_list_item
   bulleted_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -162,6 +163,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: cf760ff2-94b0-47ab-8c3f-e749f208c1bd
@@ -177,6 +179,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 427a5e09-d8cf-4500-9cba-4b9b79fc0865
@@ -192,6 +195,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: e18e0e73-1e79-4362-b5d2-48e7c2cdfb96
@@ -207,6 +211,7 @@ results:
   archived: false
   type: bulleted_list_item
   bulleted_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -235,6 +240,7 @@ results:
   archived: false
   type: bulleted_list_item
   bulleted_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -263,6 +269,7 @@ results:
   archived: false
   type: bulleted_list_item
   bulleted_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -291,6 +298,7 @@ results:
   archived: false
   type: bulleted_list_item
   bulleted_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -367,6 +375,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 59dac72f-36ea-4824-a35f-aef2c20768eb
@@ -385,8 +394,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7d10797a-fea8-4a8e-81be-bbcfc0fd7ee1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220307%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220307T011015Z&X-Amz-Expires=3600&X-Amz-Signature=a46fc4a0ae6f6bd35f997d084cf5d14527865e7ede6d19921826a83be8e19d39&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-03-07T02:10:15.4020000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7d10797a-fea8-4a8e-81be-bbcfc0fd7ee1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T010813Z&X-Amz-Expires=3600&X-Amz-Signature=bfe238cce4c2404d3719b388ffbe6beb57b624a4b20de9cf954e8b2449a86f37&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-03-08T02:08:13.5500000Z
 - object: block
   id: da44830e-dd55-499b-9d8d-afde6b81d837
   created_time: 2021-08-20T06:14:00.0000000Z
@@ -401,6 +410,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 24b59965-b121-4fab-b437-2a67c54b23ed
@@ -433,6 +443,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 next_cursor: 
 has_more: false

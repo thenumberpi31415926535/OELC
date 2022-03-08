@@ -108,6 +108,7 @@ results:
   archived: false
   type: heading_3
   heading_3:
+    color: default
     text:
     - type: text
       text:
@@ -149,6 +150,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: mention
       mention:
@@ -191,6 +193,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: mention
       mention:
@@ -247,6 +250,7 @@ results:
   archived: false
   type: heading_3
   heading_3:
+    color: default
     text:
     - type: text
       text:
@@ -339,6 +343,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -367,6 +372,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -395,6 +401,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -437,6 +444,7 @@ results:
   archived: false
   type: heading_2
   heading_2:
+    color: default
     text:
     - type: text
       text:
@@ -478,6 +486,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -506,6 +515,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 433433db-ce80-4988-b9eb-e1f1b3bc41dc
@@ -521,6 +531,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -549,6 +560,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 2cbcbe2d-1aa2-45df-a9a0-b90a687b95cd
@@ -564,6 +576,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -592,6 +605,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -666,6 +680,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 79f04de3-eb5e-4851-aff8-f72ee33a74be
@@ -681,6 +696,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: eab886b8-7769-4b62-a1c8-e81b01bd04ad
@@ -696,6 +712,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: cdd2a0b4-1114-41e2-b1dc-1b3d391618c1
@@ -711,6 +728,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: c76fa6b7-6a9b-4599-bb57-8d5073fca6b0

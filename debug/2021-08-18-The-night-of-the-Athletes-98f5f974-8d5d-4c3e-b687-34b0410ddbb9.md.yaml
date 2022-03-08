@@ -97,6 +97,7 @@ results:
   archived: false
   type: heading_1
   heading_1:
+    color: default
     text:
     - type: text
       text:
@@ -160,6 +161,7 @@ results:
   archived: false
   type: heading_3
   heading_3:
+    color: default
     text:
     - type: text
       text:
@@ -188,6 +190,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -216,6 +219,7 @@ results:
   archived: false
   type: bulleted_list_item
   bulleted_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -244,6 +248,7 @@ results:
   archived: false
   type: bulleted_list_item
   bulleted_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -272,6 +277,7 @@ results:
   archived: false
   type: bulleted_list_item
   bulleted_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -300,6 +306,7 @@ results:
   archived: false
   type: bulleted_list_item
   bulleted_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -328,6 +335,7 @@ results:
   archived: false
   type: bulleted_list_item
   bulleted_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -423,6 +431,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -451,6 +460,7 @@ results:
   archived: false
   type: heading_2
   heading_2:
+    color: default
     text:
     - type: text
       text:
@@ -479,6 +489,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 663f4aaf-262a-44f0-8bae-e842eb98f7be

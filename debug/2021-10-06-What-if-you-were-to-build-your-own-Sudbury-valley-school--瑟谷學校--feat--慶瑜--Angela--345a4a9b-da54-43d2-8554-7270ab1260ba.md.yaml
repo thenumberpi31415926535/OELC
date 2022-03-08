@@ -121,6 +121,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -149,6 +150,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: d8e78f95-9d47-4984-9d25-87f448933259
@@ -164,6 +166,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 7cf4fdcd-1dfb-4d68-9167-27c8005cca24
@@ -179,6 +182,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -221,6 +225,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -250,6 +255,7 @@ results:
   archived: false
   type: quote
   quote:
+    color: default
     text:
     - type: text
       text:
@@ -278,6 +284,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: f183de13-10ed-4e3d-81da-7bc6ceb6295b
@@ -293,6 +300,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -321,6 +329,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -349,6 +358,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -377,6 +387,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: e3f56f5e-6b34-40cd-8993-8153c8894544
@@ -392,6 +403,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 8fc89ffe-f219-437b-b0e0-e2c27c88cccd
@@ -407,6 +419,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -452,6 +465,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: mention
       mention:
@@ -511,6 +525,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: a485e524-94b7-4e6f-bd67-b6d0a4f9169c
@@ -543,6 +558,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 next_cursor: 
 has_more: false

@@ -134,6 +134,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: ea51874a-f493-4382-9a7f-7b2cde89dca5
@@ -163,6 +164,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: mention
       mention:
@@ -205,6 +207,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: mention
       mention:
@@ -247,6 +250,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: f0c176cb-0817-4025-9aed-5e4a7e602abe
@@ -262,6 +266,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 000a40c1-9c32-4429-92b7-ddffba041cc2
@@ -277,6 +282,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -305,6 +311,7 @@ results:
   archived: false
   type: bulleted_list_item
   bulleted_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -333,6 +340,7 @@ results:
   archived: false
   type: bulleted_list_item
   bulleted_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -361,6 +369,7 @@ results:
   archived: false
   type: bulleted_list_item
   bulleted_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -389,6 +398,7 @@ results:
   archived: false
   type: bulleted_list_item
   bulleted_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -417,6 +427,7 @@ results:
   archived: false
   type: bulleted_list_item
   bulleted_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -445,6 +456,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 5581a68f-bfbe-48fb-84ee-5ec5e9b08472
@@ -463,8 +475,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/50e8ccec-a7b7-4726-8fd5-074b79fc888e/Brainstorming_-_07_28_What_do_i_do_when_i39m_lost_in_convos.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220307%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220307T011021Z&X-Amz-Expires=3600&X-Amz-Signature=84ef778e81192b02ee38247467de4e0b8838bab718d0f0db9e4f53d5bf405421&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-03-07T02:10:21.8060000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/50e8ccec-a7b7-4726-8fd5-074b79fc888e/Brainstorming_-_07_28_What_do_i_do_when_i39m_lost_in_convos.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T010820Z&X-Amz-Expires=3600&X-Amz-Signature=f6e799301eff3f64d1788d18549bdfddaf9c796c3acbb88e9781e09fd1c41a08&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-03-08T02:08:20.7220000Z
 - object: block
   id: cce64d5d-ade8-4245-b075-c719ec8ed744
   created_time: 2021-07-26T07:27:00.0000000Z
@@ -479,6 +491,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 8158c0fb-b029-4d08-ad64-d2125545ea1b
@@ -511,6 +524,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 next_cursor: 
 has_more: false

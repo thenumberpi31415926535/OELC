@@ -11,13 +11,13 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8dfc8af9-27f0-41cd-becd-f6dddeb360f5/83A23BB8-E2A5-4CDC-A22C-90643D782C44.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220307%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220307T010955Z&X-Amz-Expires=3600&X-Amz-Signature=4064c91ac133b2f0769a9207a3de6ac366787d31ced3230815db01ab7fb4911a&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-03-07T02:09:55.2460000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8dfc8af9-27f0-41cd-becd-f6dddeb360f5/83A23BB8-E2A5-4CDC-A22C-90643D782C44.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T010755Z&X-Amz-Expires=3600&X-Amz-Signature=809b464ed497a4547eb1c88108b38d2bb461cbec0412dc171e8b4e326bfe9c90&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-03-08T02:07:55.0280000Z
 icon:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/627c6e2e-feb0-44b5-b62e-f035f0dbb58c/C5F0CF0F-CC6E-4270-B8AE-69E806A09DE6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220307%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220307T010955Z&X-Amz-Expires=3600&X-Amz-Signature=55b9cc12fcf1b17a37e6691d2f415dec3d0cd9c8d38435466b50f48d10322c22&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-03-07T02:09:55.2500000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/627c6e2e-feb0-44b5-b62e-f035f0dbb58c/C5F0CF0F-CC6E-4270-B8AE-69E806A09DE6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T010755Z&X-Amz-Expires=3600&X-Amz-Signature=a437bd59023caf0a65e35f09d49544e542d14446b3c916fa508c319ca155e597&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-03-08T02:07:55.0310000Z
 parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
@@ -108,6 +108,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -136,6 +137,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -164,6 +166,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: dfcb4a6c-82f7-4eab-a81f-fdf5ed4b3b16
@@ -179,6 +182,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -207,6 +211,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -261,6 +266,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 22a1b6b9-fcc7-4db8-b74e-04486daaec79
@@ -276,6 +282,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: b260156f-94f6-43a5-91c0-f68c2a4e7053
@@ -291,6 +298,7 @@ results:
   archived: false
   type: heading_1
   heading_1:
+    color: default
     text:
     - type: text
       text:
@@ -319,6 +327,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -347,6 +356,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -389,6 +399,7 @@ results:
   archived: false
   type: heading_1
   heading_1:
+    color: default
     text:
     - type: text
       text:
@@ -417,6 +428,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -445,6 +457,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -473,6 +486,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -501,6 +515,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 4e70915f-e96e-4785-9011-692ed17336d3
@@ -516,6 +531,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 18cf8abf-9a5b-4cc7-9d8d-abb429700ff6
@@ -531,6 +547,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 2ea35dc4-4d31-4b47-ac27-71a7e7a2dd17
@@ -546,6 +563,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: bd0b6d58-aedb-49e2-ae68-2a92d7051fdb
@@ -561,6 +579,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: c6498e94-4f0e-4804-9e58-0626087d7b70
@@ -576,6 +595,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: ddfa382b-d621-40d3-921e-afc561b35ae4
@@ -591,6 +611,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 613ef93a-4f87-475f-a069-a5764f469100
@@ -606,6 +627,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 9a465ce9-2610-4703-bc39-924402898e20
@@ -621,6 +643,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 75587adf-4cad-4883-bc89-456d8094934c
@@ -636,6 +659,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: fb2a21b0-1109-476d-bd8e-dcd0c936a6a0
@@ -651,6 +675,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: c1510d99-8c1d-473e-8412-a81877732018
@@ -666,6 +691,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: b583f7f6-f911-4c19-80fe-45bb33c2feb9
@@ -681,6 +707,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 9943da6d-d01b-4d13-a5a4-6a23e56c4085
@@ -696,6 +723,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: b96d9ee3-1721-4b7a-9887-f6b216f9073b
@@ -711,6 +739,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: a9343618-7b09-418e-b37e-62107f8419bd
@@ -726,6 +755,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 88939eb9-1753-4690-b899-0ebcd81d25ab
@@ -741,6 +771,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 05cd45ff-f9b1-435a-9c57-fcf9c1003f20
@@ -756,6 +787,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: ca17f7e6-6662-4b80-ae9e-4d40c631f17e
@@ -771,6 +803,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 6ee5b4c1-a01e-4988-af7d-0940ceb50fbe
@@ -786,6 +819,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 3d1ad3f5-afd2-412a-be41-99d618cd5698
@@ -801,6 +835,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 918f1607-75e0-44a1-a805-4ea3d8ac7feb
@@ -816,6 +851,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: cc23144c-b2eb-4822-9dfa-803684b169ed

@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/37599b5e-9c8f-461f-b8ea-9d5d06bf21dc/eNGLISH_%283%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220307%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220307T011011Z&X-Amz-Expires=3600&X-Amz-Signature=27b35d0d6da1369afbbf64f464e87095635fd1c0473d6173a6aa72ce79409c0e&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-03-07T02:10:11.9320000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/37599b5e-9c8f-461f-b8ea-9d5d06bf21dc/eNGLISH_%283%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T010809Z&X-Amz-Expires=3600&X-Amz-Signature=94c10b4c8db730f09d71368f5a23713bfe18664956483e2d9162285c81283c4f&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-03-08T02:08:09.6290000Z
 icon:
   type: emoji
   emoji: "\U0001F60D"
@@ -105,6 +105,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -133,6 +134,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -161,6 +163,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -189,6 +192,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -217,6 +221,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 1ad30b7a-c2d5-404f-a77b-809ed19a65d0
@@ -232,6 +237,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 19f45cf1-c53f-499c-8737-cb97590134a5
@@ -247,6 +253,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: f79714ea-4923-417a-a851-5d3311dfea3b
@@ -265,8 +272,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/610a00a6-a635-4184-9162-471717ddeb46/5E8D65AD-B290-4AAD-B0EB-BDF4CD0FD2F1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220307%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220307T011012Z&X-Amz-Expires=3600&X-Amz-Signature=4d18f71a37f81cda09612c90c9e5703d9f1508be49c5678fbaac972ae152df31&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-03-07T02:10:12.2130000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/610a00a6-a635-4184-9162-471717ddeb46/5E8D65AD-B290-4AAD-B0EB-BDF4CD0FD2F1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T010809Z&X-Amz-Expires=3600&X-Amz-Signature=e9e69d05b217f7b5bcf41e9450943e371571208027d639d54a4e08a91fe9e369&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-03-08T02:08:09.9340000Z
 - object: block
   id: 573c7ca8-679d-47a6-8c31-8a65a855e2a2
   created_time: 2021-09-02T15:53:00.0000000Z
@@ -281,6 +288,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -309,6 +317,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: a498d8a4-bc51-46be-9661-80c33aeab2b9
@@ -324,6 +333,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 8af37453-d7a1-441f-9320-ba28ca9715b1
@@ -339,6 +349,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: c4a6a22e-990b-4b69-87db-13581cd0d14f
@@ -354,6 +365,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: cfdf6f3d-3ac6-4c93-b6ef-0804c9158b2d
@@ -369,6 +381,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: c60bc898-3ce1-4ead-9afe-fa5ff149b0dd
@@ -384,6 +397,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: f80b46fe-86b6-4755-bcaf-6c689faddd9a
@@ -399,6 +413,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 235f2de7-971a-4f93-92a3-84fe33228378
@@ -414,6 +429,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:

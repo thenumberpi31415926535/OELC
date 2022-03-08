@@ -87,6 +87,7 @@ results:
   archived: false
   type: heading_3
   heading_3:
+    color: default
     text:
     - type: text
       text:
@@ -129,6 +130,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 3c02e313-766d-44b3-a6de-1dcdc5173a85
@@ -144,6 +146,7 @@ results:
   archived: false
   type: numbered_list_item
   numbered_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -172,6 +175,7 @@ results:
   archived: false
   type: numbered_list_item
   numbered_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -200,6 +204,7 @@ results:
   archived: false
   type: numbered_list_item
   numbered_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -228,6 +233,7 @@ results:
   archived: false
   type: numbered_list_item
   numbered_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -256,6 +262,7 @@ results:
   archived: false
   type: numbered_list_item
   numbered_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -284,6 +291,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -312,6 +320,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:

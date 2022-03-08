@@ -104,6 +104,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -132,6 +133,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 17b4e478-259a-4af3-818f-21e9c23d6ba5
@@ -147,6 +149,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -175,6 +178,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: f2b37efd-52ef-4c7a-8818-326abf2f39a6
@@ -190,6 +194,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 953f98fa-ea6a-41da-9dd3-b25b84886288
@@ -208,8 +213,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/645f23be-e262-4181-b932-cc79f853f513/921881B8-6CDE-4763-AE15-56F5E26FB295.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220307%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220307T011029Z&X-Amz-Expires=3600&X-Amz-Signature=76d032507084df9a7429ef7ac9c6cb5e53cb51f9e282332203e0285597ff9554&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-03-07T02:10:29.8520000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/645f23be-e262-4181-b932-cc79f853f513/921881B8-6CDE-4763-AE15-56F5E26FB295.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T010848Z&X-Amz-Expires=3600&X-Amz-Signature=f6dfbafa6aaf9d04ab75e47fe0e750c1447fa60d62379f2a3bc872b18f463612&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-03-08T02:08:48.2610000Z
 - object: block
   id: d1b0240b-e017-43f4-9989-20a677b58847
   created_time: 2021-07-30T18:52:00.0000000Z
@@ -224,6 +229,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: f43cdc46-5d09-47d1-ad0b-8e347d540f41
@@ -239,6 +245,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 2c9f51ec-698c-485d-a47e-38fa2aec4135

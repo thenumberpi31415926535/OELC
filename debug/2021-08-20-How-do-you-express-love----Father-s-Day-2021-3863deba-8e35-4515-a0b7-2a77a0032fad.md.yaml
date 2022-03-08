@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/24a6f588-c3ac-4891-96fa-21fc5b703f88/bao.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220307%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220307T011017Z&X-Amz-Expires=3600&X-Amz-Signature=e77fb5faf40cb598d720678d8927f0636b3bcf048157d7467f794e68e35b33b6&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-03-07T02:10:17.2990000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/24a6f588-c3ac-4891-96fa-21fc5b703f88/bao.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T010815Z&X-Amz-Expires=3600&X-Amz-Signature=2a5280115fca0c643e823d6ff91f2aab675a5f46b158d913668452739e9d8c44&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-03-08T02:08:15.5290000Z
 icon:
   type: emoji
   emoji: ❣️
@@ -98,6 +98,7 @@ results:
   archived: false
   type: bulleted_list_item
   bulleted_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -126,6 +127,7 @@ results:
   archived: false
   type: bulleted_list_item
   bulleted_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -154,6 +156,7 @@ results:
   archived: false
   type: bulleted_list_item
   bulleted_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -182,6 +185,7 @@ results:
   archived: false
   type: bulleted_list_item
   bulleted_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -210,6 +214,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: d87e007e-8d37-4a3c-90c9-4da268bcf51d
@@ -225,6 +230,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -253,6 +259,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -282,6 +289,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -311,6 +319,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -340,6 +349,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 50f2cd38-11cf-46bd-8e8e-9895c9800c94
@@ -372,6 +382,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 next_cursor: 
 has_more: false

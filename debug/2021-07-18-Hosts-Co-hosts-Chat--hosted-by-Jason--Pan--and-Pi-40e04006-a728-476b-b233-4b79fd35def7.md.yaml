@@ -123,6 +123,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: mention
       mention:
@@ -182,6 +183,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: e8dbe600-f494-4875-a94b-afc316092376
@@ -197,6 +199,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: f359a1a7-ab34-490c-8c92-5e013f7901b5
@@ -212,6 +215,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -240,6 +244,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 083fc6f0-3f8b-4b28-8eb4-b381be2e22e4
@@ -255,6 +260,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -283,6 +289,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: fd2078ed-3f3f-4101-9f10-5176fcbc16d3

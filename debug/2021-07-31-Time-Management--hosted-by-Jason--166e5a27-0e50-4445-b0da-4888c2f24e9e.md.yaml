@@ -105,6 +105,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: mention
       mention:
@@ -147,6 +148,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: mention
       mention:
@@ -189,6 +191,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 4eb247dc-6ebc-4f66-a999-f810a2803e02
@@ -204,6 +207,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -232,6 +236,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -260,6 +265,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -288,6 +294,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: a1b14f64-b180-44a5-8f5a-2be71c63b544
@@ -303,6 +310,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -331,6 +339,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -359,6 +368,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: af4f57ed-9b07-45e8-ad0a-24ff1a37115a
@@ -374,6 +384,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -402,6 +413,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -430,6 +442,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 9ae98d3f-144b-4e02-bbbc-558f3aa4ed23
@@ -445,6 +458,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text:
     - type: text
       text:
@@ -473,6 +487,7 @@ results:
   archived: false
   type: numbered_list_item
   numbered_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -502,6 +517,7 @@ results:
   archived: false
   type: numbered_list_item
   numbered_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -531,6 +547,7 @@ results:
   archived: false
   type: numbered_list_item
   numbered_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -560,6 +577,7 @@ results:
   archived: false
   type: numbered_list_item
   numbered_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -589,6 +607,7 @@ results:
   archived: false
   type: numbered_list_item
   numbered_list_item:
+    color: default
     text:
     - type: text
       text:
@@ -618,6 +637,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 202d77e3-8e64-4306-a98a-be30ad92f0df
@@ -633,6 +653,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 2863092c-4734-44f3-a51c-3d55a59ba737
@@ -648,6 +669,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 16187dc3-c7a3-4215-a806-8fa57718e43e
@@ -663,6 +685,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: cf5d037f-0549-42d2-ba32-b44dbc314c47
@@ -678,6 +701,7 @@ results:
   archived: false
   type: paragraph
   paragraph:
+    color: default
     text: []
 - object: block
   id: 4a489ac4-9f71-4fe5-be5c-96d0ae6cc720
