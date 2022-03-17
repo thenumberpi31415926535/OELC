@@ -1,30 +1,30 @@
 ---
-object: page
-meeting_link: https://demo.bigbluebutton.org/gl/jas-s1x-wi9-qzv
-sign_up_here: 
 hosts:
 - Jason
 - Teacher Pan
 - Riley
-talktime: 2021-06-20T20:00:00.0000000
+last_edited_time: 2021-06-20T19:48:00.0000000
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+object: page
+meeting_link: https://demo.bigbluebutton.org/gl/jas-s1x-wi9-qzv
+created_time: 2021-06-14T19:10:00.0000000
+archived: false
+notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-by-Jason-Pan-Riley-68390d4881f34cf08e12d7840a123c85
+parent_type: database_id
+sign_up_here: 
+indexDate: 2021-06-20
+name: Hosts/ Co-hosts Chat by Jason, Pan, Riley
 tags:
 - Talk
 - 2021-06-20
 - Jason
 - Teacher Pan
 - Riley
-archived: false
 software: BigBlueBotton
-notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-by-Jason-Pan-Riley-68390d4881f34cf08e12d7840a123c85
+talktime: 2021-06-20T20:00:00.0000000
 id: 68390d48-81f3-4cf0-8e12-d7840a123c85
-last_edited_time: 2021-06-20T19:48:00.0000000
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-title: Hosts/ Co-hosts Chat by Jason, Pan, Riley
-parent_type: database_id
-name: Hosts/ Co-hosts Chat by Jason, Pan, Riley
-indexDate: 2021-06-20
 language_level: No limit
-created_time: 2021-06-14T19:10:00.0000000
+title: Hosts/ Co-hosts Chat by Jason, Pan, Riley
 ---
 
 !!!This is a chat for hosts and co-hosts communication use. Everyone who is in the “English Speaking Hosts/ Co-Hosts” open chat can join us.
