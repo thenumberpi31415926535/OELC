@@ -1,31 +1,31 @@
 ---
-hosts:
-- Bones
-- Pi
-id: be2403c3-ee60-4ff1-801c-d1f56dfefb13
+title: Bones and Pi topic development session
+sign_up_here:
+- "Join Pi's "
+- '[Discord ](https://discord.gg/vE7QUXGDnS)'
+- 'server and sign up in #annoncements!'
+created_time: 2021-08-23T12:57:00.0000000
 tags:
 - Talk
 - 2021-08-23
 - Bones
 - Pi
-last_edited_time: 2021-08-23T13:02:00.0000000
-archived: false
-title: Bones and Pi topic development session
-created_time: 2021-08-23T12:57:00.0000000
-language_level: No limit
-talktime: 2021-08-23T14:00:00.0000000
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-parent_type: database_id
-object: page
-indexDate: 2021-08-23
-notion_url: https://www.notion.so/Bones-and-Pi-topic-development-session-be2403c3ee604ff1801cd1f56dfefb13
-meeting_link: https://discord.gg/vE7QUXGDnS
 software: Discord
-sign_up_here:
-- "Join Pi's "
-- '[Discord ](https://discord.gg/vE7QUXGDnS)'
-- 'server and sign up in #annoncements!'
+language_level: No limit
+parent_type: database_id
+talktime: 2021-08-23T14:00:00.0000000
+archived: false
+last_edited_time: 2021-08-23T13:02:00.0000000
+object: page
+notion_url: https://www.notion.so/Bones-and-Pi-topic-development-session-be2403c3ee604ff1801cd1f56dfefb13
+id: be2403c3-ee60-4ff1-801c-d1f56dfefb13
+meeting_link: https://discord.gg/vE7QUXGDnS
 name: Bones and Pi topic development session
+indexDate: 2021-08-23
+hosts:
+- Bones
+- Pi
 ---
 
 Bones and Pi gets together weekly to develop our next topic for discussion.
