@@ -1,28 +1,28 @@
 ---
+created_time: 2021-09-26T15:42:00.0000000
+parent_type: database_id
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+software: Jitsi Meet
+id: b3253b18-3d58-4507-b36d-7cebe29e2d7c
+indexDate: 2021-10-02
+sign_up_here: '[https://forms.gle/YjTFsNuSrD1tzZ7XA](https://forms.gle/YjTFsNuSrD1tzZ7XA)'
+language_level: No limit
+last_edited_time: 2021-10-01T05:51:00.0000000
+meeting_link: '[Jitsi Meet](https://meet.jit.si/moderated/d68d38ff65c2c8bfc93b2aac66e6fc040183b5474419b930922a614765e6e843)'
+title: Accents, hosted by Jason and Arviel
+hosts:
+- Jason
+- Avriel
 tags:
 - Talk
 - 2021-10-02
 - Jason
 - Avriel
-id: b3253b18-3d58-4507-b36d-7cebe29e2d7c
-parent_type: database_id
-indexDate: 2021-10-02
-created_time: 2021-09-26T15:42:00.0000000
 object: page
-name: Accents, hosted by Jason and Arviel
-language_level: No limit
-title: Accents, hosted by Jason and Arviel
 talktime: 2021-10-02T16:00:00.0000000
-archived: false
-software: Jitsi Meet
-meeting_link: '[Jitsi Meet](https://meet.jit.si/moderated/d68d38ff65c2c8bfc93b2aac66e6fc040183b5474419b930922a614765e6e843)'
-hosts:
-- Jason
-- Avriel
-sign_up_here: '[https://forms.gle/YjTFsNuSrD1tzZ7XA](https://forms.gle/YjTFsNuSrD1tzZ7XA)'
-last_edited_time: 2021-10-01T05:51:00.0000000
 notion_url: https://www.notion.so/Accents-hosted-by-Jason-and-Arviel-b3253b183d584507b36d7cebe29e2d7c
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+name: Accents, hosted by Jason and Arviel
 ---
 
 ###                                                                   Hosts
