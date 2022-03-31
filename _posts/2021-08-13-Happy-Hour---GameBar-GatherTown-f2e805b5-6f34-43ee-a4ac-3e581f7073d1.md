@@ -1,28 +1,28 @@
 ---
-id: f2e805b5-6f34-43ee-a4ac-3e581f7073d1
+meeting_link: https://meet.google.com/fcz-yhyp-szx
+created_time: 2021-07-20T20:14:00.0000000
 archived: false
 title: Happy Hour - GameBar@GatherTown
-parent_type: database_id
-software: Gather Town
-notion_url: https://www.notion.so/Happy-Hour-GameBar-GatherTown-f2e805b56f3443eea4ac3e581f7073d1
+sign_up_here: 
+id: f2e805b5-6f34-43ee-a4ac-3e581f7073d1
+name: Happy Hour - GameBar@GatherTown
+talktime: 2021-08-13T20:30:00.0000000
 last_edited_time: 2021-08-13T14:01:00.0000000
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-meeting_link: https://meet.google.com/fcz-yhyp-szx
+notion_url: https://www.notion.so/Happy-Hour-GameBar-GatherTown-f2e805b56f3443eea4ac3e581f7073d1
 tags:
 - Talk
 - 2021-08-13
 - Milo
 - Üya
+software: Gather Town
+indexDate: 2021-08-13
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+parent_type: database_id
 language_level: No limit
-sign_up_here: 
 hosts:
 - Milo
 - Üya
 object: page
-name: Happy Hour - GameBar@GatherTown
-indexDate: 2021-08-13
-talktime: 2021-08-13T20:30:00.0000000
-created_time: 2021-07-20T20:14:00.0000000
 ---
 
 !以下連結為Gather Town的操作參考說明，如果對此軟體不熟悉的朋友，歡迎參閱一下!!!
