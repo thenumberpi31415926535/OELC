@@ -1,16 +1,16 @@
 ---
-archived: false
-hosts:
-- Jason
-- Teacher Pan
-- Riley
-name: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
-talktime: 2021-07-04T20:00:00.0000000
-title: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+meeting_link: https://join.skype.com/wEhREpKESENC
+language_level: No limit
 id: 71110e2a-d4e5-4ef9-a554-0c744a59c377
+software: Skype
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 sign_up_here: 
+parent_type: database_id
+indexDate: 2021-07-04
+archived: false
 created_time: 2021-06-30T15:01:00.0000000
+title: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
+last_edited_time: 2021-07-05T23:05:00.0000000
 object: page
 tags:
 - Talk
@@ -18,13 +18,13 @@ tags:
 - Jason
 - Teacher Pan
 - Riley
-last_edited_time: 2021-07-05T23:05:00.0000000
-software: Skype
-indexDate: 2021-07-04
-language_level: No limit
-meeting_link: https://join.skype.com/wEhREpKESENC
+hosts:
+- Jason
+- Teacher Pan
+- Riley
 notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-by-Jason-Pan-and-Riley-71110e2ad4e54ef9a5540c744a59c377
-parent_type: database_id
+talktime: 2021-07-04T20:00:00.0000000
+name: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
 ---
 
 
