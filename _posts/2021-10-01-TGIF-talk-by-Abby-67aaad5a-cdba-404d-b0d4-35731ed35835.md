@@ -1,25 +1,25 @@
 ---
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+last_edited_time: 2021-12-17T23:54:00.0000000
 created_time: 2021-08-17T19:10:00.0000000
-archived: false
+title: TGIF talk by Abby
 name: TGIF talk by Abby
+language_level: intermediate to advanced
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 notion_url: https://www.notion.so/TGIF-talk-by-Abby-67aaad5acdba404db0d435731ed35835
-id: 67aaad5a-cdba-404d-b0d4-35731ed35835
-meeting_link: https://gather.town/invite?token=KuRprGXJkDBOnxbkSN2NWn2HuHjwl9GJ
+talktime: 2021-10-01T19:30:00.0000000
+hosts: Abby
 tags:
 - Talk
 - 2021-10-01
 - Abby
-last_edited_time: 2021-12-17T23:54:00.0000000
-talktime: 2021-10-01T19:30:00.0000000
-hosts: Abby
-language_level: intermediate to advanced
-indexDate: 2021-10-01
-sign_up_here: 
-parent_type: database_id
-software: Gather Town
+archived: false
 object: page
-title: TGIF talk by Abby
+meeting_link: https://gather.town/invite?token=KuRprGXJkDBOnxbkSN2NWn2HuHjwl9GJ
+indexDate: 2021-10-01
+software: Gather Town
+id: 67aaad5a-cdba-404d-b0d4-35731ed35835
+parent_type: database_id
+sign_up_here: 
 ---
 
 Thank God It's Friday! I just posted this before a day AGAIN!

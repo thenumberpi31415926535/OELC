@@ -1,25 +1,25 @@
 ---
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+last_edited_time: 2021-08-28T03:08:00.0000000
 created_time: 2021-08-17T19:09:00.0000000
-archived: false
+title: TGIF talk by Abby
 name: TGIF talk by Abby
+language_level: intermediate to advanced
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 notion_url: https://www.notion.so/TGIF-talk-by-Abby-1651c1ce150b493b8ebcea5cc32dc4d9
-id: 1651c1ce-150b-493b-8ebc-ea5cc32dc4d9
-meeting_link: meet.google.com/cmd-sxum-dwr
+talktime: 2021-08-27T22:00:00.0000000
+hosts: Abby
 tags:
 - Talk
 - 2021-08-27
 - Abby
-last_edited_time: 2021-08-28T03:08:00.0000000
-talktime: 2021-08-27T22:00:00.0000000
-hosts: Abby
-language_level: intermediate to advanced
-indexDate: 2021-08-27
-sign_up_here: "Just leave a comment below \U0001F642"
-parent_type: database_id
-software: Google Meet
+archived: false
 object: page
-title: TGIF talk by Abby
+meeting_link: meet.google.com/cmd-sxum-dwr
+indexDate: 2021-08-27
+software: Google Meet
+id: 1651c1ce-150b-493b-8ebc-ea5cc32dc4d9
+parent_type: database_id
+sign_up_here: "Just leave a comment below \U0001F642"
 ---
 
 
