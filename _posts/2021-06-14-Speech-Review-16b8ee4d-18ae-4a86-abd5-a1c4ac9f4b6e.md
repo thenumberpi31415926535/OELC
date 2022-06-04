@@ -1,25 +1,25 @@
 ---
-sign_up_here: 
-parent_type: database_id
-created_time: 2021-06-12T16:14:00.0000000
-name: Speech Review
-language_level: intermediate to advanced
-archived: false
-indexDate: 2021-06-14
-title: Speech Review
-last_edited_time: 2021-06-14T15:14:00.0000000
-meeting_link: https://meet.google.com/bce-znvw-icb
-software: Google Meet
-hosts: Abby
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-id: 16b8ee4d-18ae-4a86-abd5-a1c4ac9f4b6e
+object: page
 tags:
 - Talk
 - 2021-06-14
 - Abby
-talktime: 2021-06-14T21:00:00.0000000
-object: page
+last_edited_time: 2021-06-14T15:14:00.0000000
+parent_type: database_id
+created_time: 2021-06-12T16:14:00.0000000
+name: Speech Review
+sign_up_here: 
+meeting_link: https://meet.google.com/bce-znvw-icb
+language_level: intermediate to advanced
+title: Speech Review
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 notion_url: https://www.notion.so/Speech-Review-16b8ee4d18ae4a86abd5a1c4ac9f4b6e
+hosts: Abby
+talktime: 2021-06-14T21:00:00.0000000
+id: 16b8ee4d-18ae-4a86-abd5-a1c4ac9f4b6e
+software: Google Meet
+archived: false
+indexDate: 2021-06-14
 ---
 
 Abby will prepare an around five minutes speech and each participant need to be an evaluator for giving any feedback to the host. After that, we can have a discussion based on the host's presentation content or have a free talk. I won't let you know what is the topic of the speech for now because sometimes we need the surprise to abundant our life 🥰
