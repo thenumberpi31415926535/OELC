@@ -1,28 +1,28 @@
 ---
-language_level: No limit
-indexDate: 2021-10-06
-hosts:
-- Bones
-- Pi
-software: Discord
 object: page
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-name: What if you were to build your own Sudbury valley school? 瑟谷學校 (feat. 慶瑜, Angela)
-meeting_link: https://discord.gg/p8n3fAuW
+last_edited_time: 2021-10-06T11:48:00.0000000
 talktime: 2021-10-06T21:00:00.0000000
-notion_url: https://www.notion.so/What-if-you-were-to-build-your-own-Sudbury-valley-school-feat-Angela-345a4a9bda5443d285547270ab1260ba
-archived: false
-parent_type: database_id
-sign_up_here: "Join Pi's Discord server and sign up in #annoncements!"
-created_time: 2021-09-30T12:14:00.0000000
+software: Discord
 tags:
 - Talk
 - 2021-10-06
 - Bones
 - Pi
-last_edited_time: 2021-10-06T11:48:00.0000000
+name: What if you were to build your own Sudbury valley school? 瑟谷學校 (feat. 慶瑜, Angela)
+archived: false
+meeting_link: https://discord.gg/p8n3fAuW
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+sign_up_here: "Join Pi's Discord server and sign up in #annoncements!"
+notion_url: https://www.notion.so/What-if-you-were-to-build-your-own-Sudbury-valley-school-feat-Angela-345a4a9bda5443d285547270ab1260ba
 id: 345a4a9b-da54-43d2-8554-7270ab1260ba
+created_time: 2021-09-30T12:14:00.0000000
+language_level: No limit
+hosts:
+- Bones
+- Pi
 title: What if you were to build your own Sudbury valley school? 瑟谷學校 (feat. 慶瑜, Angela)
+parent_type: database_id
+indexDate: 2021-10-06
 ---
 
 
