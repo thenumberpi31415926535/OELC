@@ -90,9 +90,6 @@ object: list
 results:
 - object: block
   id: 6565c6a8-872a-4435-8c2a-c30631a2e324
-  parent:
-    type: page_id
-    page_id: 208c5944-43e2-48d7-bac8-b41cad3637c3
   created_time: 2021-07-31T13:02:00.0000000Z
   last_edited_time: 2021-07-31T13:02:00.0000000Z
   created_by:
@@ -110,9 +107,6 @@ results:
       block_id: ec87eee5-1e2a-4ac3-9bd1-ae97205ec8d1
 - object: block
   id: 8d989622-e9f2-4a3f-acf8-93a345b05bde
-  parent:
-    type: page_id
-    page_id: 208c5944-43e2-48d7-bac8-b41cad3637c3
   created_time: 2021-07-31T13:01:00.0000000Z
   last_edited_time: 2021-07-31T13:02:00.0000000Z
   created_by:
@@ -127,9 +121,6 @@ results:
   unsupported: {}
 - object: block
   id: 9e930a30-52ec-4c16-95c0-4f147100479e
-  parent:
-    type: page_id
-    page_id: 208c5944-43e2-48d7-bac8-b41cad3637c3
   created_time: 2021-07-31T13:02:00.0000000Z
   last_edited_time: 2021-07-31T13:02:00.0000000Z
   created_by:
@@ -146,9 +137,6 @@ results:
     text: []
 - object: block
   id: 105250ff-05a0-4e2c-bdba-958cb000a0c3
-  parent:
-    type: page_id
-    page_id: 208c5944-43e2-48d7-bac8-b41cad3637c3
   created_time: 2021-07-31T13:02:00.0000000Z
   last_edited_time: 2021-07-31T13:04:00.0000000Z
   created_by:
@@ -165,9 +153,6 @@ results:
     text: []
 - object: block
   id: 4e9bb930-4527-4909-b3f1-ced5b6c0f84e
-  parent:
-    type: page_id
-    page_id: 208c5944-43e2-48d7-bac8-b41cad3637c3
   created_time: 2021-07-31T13:02:00.0000000Z
   last_edited_time: 2021-07-31T13:09:00.0000000Z
   created_by:
@@ -197,9 +182,6 @@ results:
       href: 
 - object: block
   id: 7aa5bce4-026f-41de-b8bd-5d19f2504318
-  parent:
-    type: page_id
-    page_id: 208c5944-43e2-48d7-bac8-b41cad3637c3
   created_time: 2021-07-31T13:09:00.0000000Z
   last_edited_time: 2021-07-31T13:14:00.0000000Z
   created_by:
@@ -229,9 +211,6 @@ results:
       href: 
 - object: block
   id: c82d1ad1-df38-4910-b749-d24b722395fc
-  parent:
-    type: page_id
-    page_id: 208c5944-43e2-48d7-bac8-b41cad3637c3
   created_time: 2021-07-31T13:11:00.0000000Z
   last_edited_time: 2021-07-31T13:14:00.0000000Z
   created_by:
@@ -261,9 +240,6 @@ results:
       href: 
 - object: block
   id: 966d74db-d6e4-4028-be32-d2d97908a567
-  parent:
-    type: page_id
-    page_id: 208c5944-43e2-48d7-bac8-b41cad3637c3
   created_time: 2021-07-31T13:15:00.0000000Z
   last_edited_time: 2021-07-31T13:16:00.0000000Z
   created_by:
@@ -293,9 +269,6 @@ results:
       href: 
 - object: block
   id: 93a163e7-6516-4bb2-ba4f-324e2f17a9be
-  parent:
-    type: page_id
-    page_id: 208c5944-43e2-48d7-bac8-b41cad3637c3
   created_time: 2021-07-31T13:02:00.0000000Z
   last_edited_time: 2021-07-31T13:16:00.0000000Z
   created_by:
@@ -325,9 +298,6 @@ results:
       href: 
 - object: block
   id: 2475bd50-ba3c-4e6c-999b-f06be17bc35d
-  parent:
-    type: page_id
-    page_id: 208c5944-43e2-48d7-bac8-b41cad3637c3
   created_time: 2021-07-31T13:02:00.0000000Z
   last_edited_time: 2021-07-31T13:02:00.0000000Z
   created_by:
@@ -344,9 +314,6 @@ results:
     text: []
 - object: block
   id: 0fcc8173-ff81-4acf-97bd-56a43d6e0f54
-  parent:
-    type: page_id
-    page_id: 208c5944-43e2-48d7-bac8-b41cad3637c3
   created_time: 2021-07-31T13:02:00.0000000Z
   last_edited_time: 2021-07-31T13:02:00.0000000Z
   created_by:
@@ -376,9 +343,6 @@ results:
       href: 
 - object: block
   id: f4c4d372-eda6-4964-94b4-17c00ff4cc6f
-  parent:
-    type: page_id
-    page_id: 208c5944-43e2-48d7-bac8-b41cad3637c3
   created_time: 2021-07-31T13:02:00.0000000Z
   last_edited_time: 2021-07-31T13:02:00.0000000Z
   created_by:
@@ -408,9 +372,6 @@ results:
       href: 
 - object: block
   id: 00833daa-dbd0-416f-b083-b9a476bed19f
-  parent:
-    type: page_id
-    page_id: 208c5944-43e2-48d7-bac8-b41cad3637c3
   created_time: 2021-07-31T13:02:00.0000000Z
   last_edited_time: 2021-07-31T13:02:00.0000000Z
   created_by:
@@ -427,9 +388,6 @@ results:
     text: []
 - object: block
   id: 22d61db5-97a9-4164-ae86-74de08298b62
-  parent:
-    type: page_id
-    page_id: 208c5944-43e2-48d7-bac8-b41cad3637c3
   created_time: 2021-07-31T13:02:00.0000000Z
   last_edited_time: 2021-07-31T13:02:00.0000000Z
   created_by:
@@ -459,9 +417,6 @@ results:
       href: 
 - object: block
   id: 31acfebd-3805-4ae9-986a-d5e35d224685
-  parent:
-    type: page_id
-    page_id: 208c5944-43e2-48d7-bac8-b41cad3637c3
   created_time: 2021-07-31T13:02:00.0000000Z
   last_edited_time: 2021-07-31T13:19:00.0000000Z
   created_by:
@@ -491,9 +446,6 @@ results:
       href: 
 - object: block
   id: 319efd18-88d3-4275-bcae-d3c51bb0a896
-  parent:
-    type: page_id
-    page_id: 208c5944-43e2-48d7-bac8-b41cad3637c3
   created_time: 2021-07-31T13:04:00.0000000Z
   last_edited_time: 2021-07-31T13:04:00.0000000Z
   created_by:
@@ -510,9 +462,6 @@ results:
     text: []
 - object: block
   id: 712a55eb-b8f7-4df4-a043-ec7a6dc9a79e
-  parent:
-    type: page_id
-    page_id: 208c5944-43e2-48d7-bac8-b41cad3637c3
   created_time: 2021-07-31T13:04:00.0000000Z
   last_edited_time: 2021-07-31T13:04:00.0000000Z
   created_by:
@@ -529,9 +478,6 @@ results:
     text: []
 - object: block
   id: 5766704a-2d3d-43c8-b188-2f79429e96a2
-  parent:
-    type: page_id
-    page_id: 208c5944-43e2-48d7-bac8-b41cad3637c3
   created_time: 2021-07-31T13:04:00.0000000Z
   last_edited_time: 2021-07-31T13:04:00.0000000Z
   created_by:

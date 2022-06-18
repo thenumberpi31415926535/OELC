@@ -122,9 +122,6 @@ object: list
 results:
 - object: block
   id: 191886b5-83d1-48fd-82bb-9e8812305500
-  parent:
-    type: page_id
-    page_id: 80c33dcc-670f-4a26-8c70-f45dbb422951
   created_time: 2021-08-10T07:49:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   created_by:
@@ -154,9 +151,6 @@ results:
       href: 
 - object: block
   id: 169640a2-334d-4a8e-96cb-e4f286405332
-  parent:
-    type: page_id
-    page_id: 80c33dcc-670f-4a26-8c70-f45dbb422951
   created_time: 2021-08-10T07:49:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   created_by:
@@ -190,9 +184,6 @@ results:
       href: 
 - object: block
   id: 4cff80e8-f821-4b7a-a9f4-47636486e200
-  parent:
-    type: page_id
-    page_id: 80c33dcc-670f-4a26-8c70-f45dbb422951
   created_time: 2021-08-10T07:49:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   created_by:
@@ -222,9 +213,6 @@ results:
       href: 
 - object: block
   id: e3928a1c-36a9-453a-975d-b600620a25d4
-  parent:
-    type: page_id
-    page_id: 80c33dcc-670f-4a26-8c70-f45dbb422951
   created_time: 2021-08-10T07:49:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   created_by:
@@ -254,9 +242,6 @@ results:
       href: 
 - object: block
   id: f2e1b632-2f94-4146-a207-e9e95b78ed13
-  parent:
-    type: page_id
-    page_id: 80c33dcc-670f-4a26-8c70-f45dbb422951
   created_time: 2021-08-10T07:49:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   created_by:
@@ -286,9 +271,6 @@ results:
       href: 
 - object: block
   id: ad7bdb67-7480-478e-9181-42c74bc8c963
-  parent:
-    type: page_id
-    page_id: 80c33dcc-670f-4a26-8c70-f45dbb422951
   created_time: 2021-08-10T07:51:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   created_by:
@@ -318,9 +300,6 @@ results:
       href: 
 - object: block
   id: 034c0f14-1013-4c06-adcb-03b8dbd3ba7b
-  parent:
-    type: page_id
-    page_id: 80c33dcc-670f-4a26-8c70-f45dbb422951
   created_time: 2021-08-10T07:51:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   created_by:
@@ -337,9 +316,6 @@ results:
     text: []
 - object: block
   id: 5d73e721-be9d-49c4-a35f-b3dd9eef661a
-  parent:
-    type: page_id
-    page_id: 80c33dcc-670f-4a26-8c70-f45dbb422951
   created_time: 2021-08-10T07:49:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   created_by:
@@ -354,9 +330,6 @@ results:
   unsupported: {}
 - object: block
   id: 1556fe25-1bdb-479b-ba72-ba543d2feb4e
-  parent:
-    type: page_id
-    page_id: 80c33dcc-670f-4a26-8c70-f45dbb422951
   created_time: 2021-08-14T04:03:00.0000000Z
   last_edited_time: 2021-09-30T08:23:00.0000000Z
   created_by:
@@ -372,9 +345,6 @@ results:
     synced_from: 
 - object: block
   id: a41066ae-c1a1-4ded-abb9-1d19e2f520ff
-  parent:
-    type: page_id
-    page_id: 80c33dcc-670f-4a26-8c70-f45dbb422951
   created_time: 2021-08-14T04:03:00.0000000Z
   last_edited_time: 2021-10-15T04:44:00.0000000Z
   created_by:
@@ -390,9 +360,6 @@ results:
     synced_from: 
 - object: block
   id: 183820dc-7302-43c4-8ced-46d463c17c44
-  parent:
-    type: page_id
-    page_id: 80c33dcc-670f-4a26-8c70-f45dbb422951
   created_time: 2021-08-10T07:49:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   created_by:
@@ -409,9 +376,6 @@ results:
     text: []
 - object: block
   id: 8a48140b-3f7e-44c1-8763-e5b056e950c4
-  parent:
-    type: page_id
-    page_id: 80c33dcc-670f-4a26-8c70-f45dbb422951
   created_time: 2021-08-10T07:49:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   created_by:
@@ -428,9 +392,6 @@ results:
     text: []
 - object: block
   id: d5cda03b-9355-4ac4-a8ae-5732a7d65276
-  parent:
-    type: page_id
-    page_id: 80c33dcc-670f-4a26-8c70-f45dbb422951
   created_time: 2021-08-10T07:52:00.0000000Z
   last_edited_time: 2021-08-10T07:52:00.0000000Z
   created_by:
@@ -446,13 +407,10 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3e3d099f-ecf5-4272-858b-50b991c73022/Brainstorming_-_08_18_%E5%8F%B0%E7%81%A3%E7%9A%84%E4%BA%A4%E9%80%9A%E6%98%AF%E4%BA%82%E8%B1%A1%E9%82%84%E6%98%AF%E4%BA%82%E4%B8%AD%E6%9C%89%E5%BA%8F_.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220617%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220617T014631Z&X-Amz-Expires=3600&X-Amz-Signature=3c1d03ad26e0b47a4986d842298976c6ca5fb3df0687d5620d9bcee79711210b&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-06-17T02:46:31.8080000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3e3d099f-ecf5-4272-858b-50b991c73022/Brainstorming_-_08_18_%E5%8F%B0%E7%81%A3%E7%9A%84%E4%BA%A4%E9%80%9A%E6%98%AF%E4%BA%82%E8%B1%A1%E9%82%84%E6%98%AF%E4%BA%82%E4%B8%AD%E6%9C%89%E5%BA%8F_.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220618%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220618T014626Z&X-Amz-Expires=3600&X-Amz-Signature=db6e470cb27cee5dfa31e7e977821ea88d070b65ef9bfb556a62a54673928eff&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-06-18T02:46:26.6790000Z
 - object: block
   id: 574bd2a2-a2b5-41c0-9ad2-412edf527af7
-  parent:
-    type: page_id
-    page_id: 80c33dcc-670f-4a26-8c70-f45dbb422951
   created_time: 2021-08-10T07:49:00.0000000Z
   last_edited_time: 2021-08-10T07:49:00.0000000Z
   created_by:
@@ -469,9 +427,6 @@ results:
     text: []
 - object: block
   id: d35b7968-b262-49e4-818b-1afe5d8d99e6
-  parent:
-    type: page_id
-    page_id: 80c33dcc-670f-4a26-8c70-f45dbb422951
   created_time: 2021-08-10T07:49:00.0000000Z
   last_edited_time: 2021-08-10T07:49:00.0000000Z
   created_by:
@@ -489,9 +444,6 @@ results:
       block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
 - object: block
   id: 84edc9a4-eb23-459a-8967-5d24512e1828
-  parent:
-    type: page_id
-    page_id: 80c33dcc-670f-4a26-8c70-f45dbb422951
   created_time: 2021-08-10T07:49:00.0000000Z
   last_edited_time: 2021-08-10T07:49:00.0000000Z
   created_by:

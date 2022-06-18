@@ -88,9 +88,6 @@ object: list
 results:
 - object: block
   id: 8c47b677-2696-45c1-95a6-ab6f66961a66
-  parent:
-    type: page_id
-    page_id: e4333811-98a9-423b-ad32-8d05f83faa94
   created_time: 2021-07-02T13:33:00.0000000Z
   last_edited_time: 2021-07-02T13:33:00.0000000Z
   created_by:
@@ -108,9 +105,6 @@ results:
       block_id: ec87eee5-1e2a-4ac3-9bd1-ae97205ec8d1
 - object: block
   id: ceb7fec1-e932-4335-a717-80f2ffcceb57
-  parent:
-    type: page_id
-    page_id: e4333811-98a9-423b-ad32-8d05f83faa94
   created_time: 2021-07-02T13:33:00.0000000Z
   last_edited_time: 2021-07-02T13:33:00.0000000Z
   created_by:
@@ -127,9 +121,6 @@ results:
     text: []
 - object: block
   id: 555bd150-d6f2-41a5-89ca-3d981c2a0ac2
-  parent:
-    type: page_id
-    page_id: e4333811-98a9-423b-ad32-8d05f83faa94
   created_time: 2021-07-02T13:33:00.0000000Z
   last_edited_time: 2021-07-02T13:33:00.0000000Z
   created_by:
@@ -146,9 +137,6 @@ results:
     text: []
 - object: block
   id: fcc7ca46-b483-4a43-b690-040f7f7a0a31
-  parent:
-    type: page_id
-    page_id: e4333811-98a9-423b-ad32-8d05f83faa94
   created_time: 2021-07-02T13:33:00.0000000Z
   last_edited_time: 2021-07-02T13:33:00.0000000Z
   created_by:
@@ -178,9 +166,6 @@ results:
       href: 
 - object: block
   id: 8090dae2-5c8a-43f0-974d-1b0567389f5a
-  parent:
-    type: page_id
-    page_id: e4333811-98a9-423b-ad32-8d05f83faa94
   created_time: 2021-07-02T13:33:00.0000000Z
   last_edited_time: 2021-07-02T13:33:00.0000000Z
   created_by:
@@ -210,9 +195,6 @@ results:
       href: 
 - object: block
   id: f2109482-5906-4d3a-ab9b-15735e8ed0a9
-  parent:
-    type: page_id
-    page_id: e4333811-98a9-423b-ad32-8d05f83faa94
   created_time: 2021-07-02T13:33:00.0000000Z
   last_edited_time: 2021-07-02T13:33:00.0000000Z
   created_by:
@@ -229,9 +211,6 @@ results:
     text: []
 - object: block
   id: b20fc8d5-f0d6-472a-b81b-2973aee2f58a
-  parent:
-    type: page_id
-    page_id: e4333811-98a9-423b-ad32-8d05f83faa94
   created_time: 2021-07-02T13:33:00.0000000Z
   last_edited_time: 2021-07-02T13:33:00.0000000Z
   created_by:
@@ -261,9 +240,6 @@ results:
       href: 
 - object: block
   id: a4028ab3-6843-4b66-9528-1141d45c5c97
-  parent:
-    type: page_id
-    page_id: e4333811-98a9-423b-ad32-8d05f83faa94
   created_time: 2021-07-02T13:33:00.0000000Z
   last_edited_time: 2021-07-02T13:33:00.0000000Z
   created_by:

@@ -122,9 +122,6 @@ object: list
 results:
 - object: block
   id: e60a5cda-5078-4904-ae7f-536f6bd5194c
-  parent:
-    type: page_id
-    page_id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
   created_time: 2021-08-10T12:47:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   created_by:
@@ -154,9 +151,6 @@ results:
       href: 
 - object: block
   id: 4502d7ff-01a6-4074-9b05-12c7d0d7009e
-  parent:
-    type: page_id
-    page_id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
   created_time: 2021-08-10T07:48:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   created_by:
@@ -186,9 +180,6 @@ results:
       href: 
 - object: block
   id: 432b976d-b13a-48b0-a849-d8bb8516626e
-  parent:
-    type: page_id
-    page_id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
   created_time: 2021-08-10T07:48:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   created_by:
@@ -222,9 +213,6 @@ results:
       href: 
 - object: block
   id: 60d2aaf8-692a-406e-a998-af72ade26185
-  parent:
-    type: page_id
-    page_id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
   created_time: 2021-08-10T07:48:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   created_by:
@@ -254,9 +242,6 @@ results:
       href: 
 - object: block
   id: a98181ed-4b5a-4019-8e71-f98ffd41f7fd
-  parent:
-    type: page_id
-    page_id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
   created_time: 2021-08-10T07:49:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   created_by:
@@ -286,9 +271,6 @@ results:
       href: 
 - object: block
   id: 8ffc30cd-8907-4339-a85f-574b327774fe
-  parent:
-    type: page_id
-    page_id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
   created_time: 2021-08-10T07:49:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   created_by:
@@ -318,9 +300,6 @@ results:
       href: 
 - object: block
   id: b17de023-2dec-4fc5-b352-1a267790fd57
-  parent:
-    type: page_id
-    page_id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
   created_time: 2021-08-10T07:49:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   created_by:
@@ -337,9 +316,6 @@ results:
     text: []
 - object: block
   id: 9b193424-ad18-45fc-bc18-92f83828e9a2
-  parent:
-    type: page_id
-    page_id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   created_by:
@@ -354,9 +330,6 @@ results:
   unsupported: {}
 - object: block
   id: eab018a8-6415-4e66-89b0-866afbcef257
-  parent:
-    type: page_id
-    page_id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   created_by:
@@ -400,9 +373,6 @@ results:
       href: 
 - object: block
   id: 4fb5017a-b750-4563-afbd-badf38caed45
-  parent:
-    type: page_id
-    page_id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   created_by:
@@ -446,9 +416,6 @@ results:
       href: 
 - object: block
   id: 94f2e8a8-8ea6-4d27-8618-e475b5a3b11c
-  parent:
-    type: page_id
-    page_id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-15T17:25:00.0000000Z
   created_by:
@@ -465,9 +432,6 @@ results:
     text: []
 - object: block
   id: 6b43c597-2177-4545-bd00-19e237a5f321
-  parent:
-    type: page_id
-    page_id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
   created_time: 2021-08-10T07:51:00.0000000Z
   last_edited_time: 2021-08-10T07:51:00.0000000Z
   created_by:
@@ -483,13 +447,10 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8efcf85d-3ac6-4afa-9d37-14316279d529/Brainstorming_-_08_11_Supernatural_experiences.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220617%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220617T014651Z&X-Amz-Expires=3600&X-Amz-Signature=cba26a1375c8c052648ba0e446d4ca9ffe94a12da3addfa64d5f6cab2321828c&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-06-17T02:46:51.5420000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8efcf85d-3ac6-4afa-9d37-14316279d529/Brainstorming_-_08_11_Supernatural_experiences.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220618%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220618T014644Z&X-Amz-Expires=3600&X-Amz-Signature=f799a435b8185e312fe6107da6a0fba0e0ce44118917c9a333049d0b5a2d0759&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-06-18T02:46:44.0810000Z
 - object: block
   id: 648be114-bbe9-437c-b7d3-8313ecd0fa16
-  parent:
-    type: page_id
-    page_id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-10T07:46:00.0000000Z
   created_by:
@@ -506,9 +467,6 @@ results:
     text: []
 - object: block
   id: 4a1597cb-7192-43fc-8f80-0fc9a9fe824c
-  parent:
-    type: page_id
-    page_id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-10T07:46:00.0000000Z
   created_by:
@@ -525,9 +483,6 @@ results:
     text: []
 - object: block
   id: c89e4ca9-d1f9-49c9-ac64-a77f15570af6
-  parent:
-    type: page_id
-    page_id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-10T07:46:00.0000000Z
   created_by:
@@ -545,9 +500,6 @@ results:
       block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
 - object: block
   id: 9676506c-1322-489a-9ca2-65b1bf31c73b
-  parent:
-    type: page_id
-    page_id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
   created_time: 2021-08-10T07:46:00.0000000Z
   last_edited_time: 2021-08-10T07:46:00.0000000Z
   created_by:

@@ -77,9 +77,6 @@ object: list
 results:
 - object: block
   id: 737d750e-bbca-4775-8e6a-9ed0dde6d64a
-  parent:
-    type: page_id
-    page_id: fb63dbb2-c0eb-4582-ba72-a5fc5149cb01
   created_time: 2021-06-25T00:57:00.0000000Z
   last_edited_time: 2021-06-25T00:59:00.0000000Z
   created_by:

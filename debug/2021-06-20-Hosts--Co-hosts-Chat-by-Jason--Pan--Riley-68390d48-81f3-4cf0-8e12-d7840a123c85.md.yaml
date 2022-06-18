@@ -82,9 +82,6 @@ object: list
 results:
 - object: block
   id: 23aaad5e-4e94-4249-8215-721ccbc0dd9d
-  parent:
-    type: page_id
-    page_id: 68390d48-81f3-4cf0-8e12-d7840a123c85
   created_time: 2021-06-16T11:35:00.0000000Z
   last_edited_time: 2021-06-16T11:35:00.0000000Z
   created_by:
@@ -114,9 +111,6 @@ results:
       href: 
 - object: block
   id: 98bd51ad-0443-44f8-8087-5bb63204b11b
-  parent:
-    type: page_id
-    page_id: 68390d48-81f3-4cf0-8e12-d7840a123c85
   created_time: 2021-06-16T11:35:00.0000000Z
   last_edited_time: 2021-06-16T11:35:00.0000000Z
   created_by:
@@ -133,9 +127,6 @@ results:
     text: []
 - object: block
   id: 0d7ff514-d642-40b6-b90e-d3d7e341e9cc
-  parent:
-    type: page_id
-    page_id: 68390d48-81f3-4cf0-8e12-d7840a123c85
   created_time: 2021-06-14T11:14:00.0000000Z
   last_edited_time: 2021-06-16T11:36:00.0000000Z
   created_by:

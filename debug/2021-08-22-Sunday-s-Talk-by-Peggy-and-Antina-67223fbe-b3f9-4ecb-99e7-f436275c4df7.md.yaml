@@ -91,9 +91,6 @@ object: list
 results:
 - object: block
   id: 0388069b-cd72-439f-a165-a0372e203d8b
-  parent:
-    type: page_id
-    page_id: 67223fbe-b3f9-4ecb-99e7-f436275c4df7
   created_time: 2021-08-02T04:27:00.0000000Z
   last_edited_time: 2021-08-02T04:27:00.0000000Z
   created_by:
@@ -110,9 +107,6 @@ results:
     text: []
 - object: block
   id: 91315a51-5545-44f8-aaaa-885d400a1d14
-  parent:
-    type: page_id
-    page_id: 67223fbe-b3f9-4ecb-99e7-f436275c4df7
   created_time: 2021-08-02T04:27:00.0000000Z
   last_edited_time: 2021-08-02T04:27:00.0000000Z
   created_by:
@@ -129,9 +123,6 @@ results:
     text: []
 - object: block
   id: 19220cb5-6705-4d7e-99cd-07c6894dd26b
-  parent:
-    type: page_id
-    page_id: 67223fbe-b3f9-4ecb-99e7-f436275c4df7
   created_time: 2021-08-02T04:27:00.0000000Z
   last_edited_time: 2021-08-02T04:27:00.0000000Z
   created_by:
@@ -148,9 +139,6 @@ results:
     text: []
 - object: block
   id: b9479114-7a83-4c97-8140-7433e7fc0f4b
-  parent:
-    type: page_id
-    page_id: 67223fbe-b3f9-4ecb-99e7-f436275c4df7
   created_time: 2021-08-02T04:27:00.0000000Z
   last_edited_time: 2021-08-02T04:27:00.0000000Z
   created_by:

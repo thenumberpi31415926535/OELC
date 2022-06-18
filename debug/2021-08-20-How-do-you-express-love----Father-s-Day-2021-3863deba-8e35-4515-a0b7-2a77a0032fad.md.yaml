@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/24a6f588-c3ac-4891-96fa-21fc5b703f88/bao.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220617%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220617T014644Z&X-Amz-Expires=3600&X-Amz-Signature=40aaddff5542c4463e3a650cfdf9bed5696da9655045e8c4e606a4c6e8a7523d&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-06-17T02:46:44.6920000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/24a6f588-c3ac-4891-96fa-21fc5b703f88/bao.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220618%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220618T014638Z&X-Amz-Expires=3600&X-Amz-Signature=cf56edc09e2c93d0b8c67fa1a63c6b230bea5c601e3d63fdffb6df43b4ce585e&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-06-18T02:46:38.3530000Z
 icon:
   type: emoji
   emoji: ❣️
@@ -86,9 +86,6 @@ object: list
 results:
 - object: block
   id: d63a2f2d-839c-4a22-9f89-5a1be7c89c99
-  parent:
-    type: page_id
-    page_id: 3863deba-8e35-4515-a0b7-2a77a0032fad
   created_time: 2021-07-20T12:15:00.0000000Z
   last_edited_time: 2021-08-17T15:23:00.0000000Z
   created_by:
@@ -118,9 +115,6 @@ results:
       href: 
 - object: block
   id: be18931a-8e77-4fc5-ba52-7cb498b16ca5
-  parent:
-    type: page_id
-    page_id: 3863deba-8e35-4515-a0b7-2a77a0032fad
   created_time: 2021-08-17T15:23:00.0000000Z
   last_edited_time: 2021-08-17T15:23:00.0000000Z
   created_by:
@@ -150,9 +144,6 @@ results:
       href: 
 - object: block
   id: f1ebe026-1e0a-4bfb-863f-65805f096993
-  parent:
-    type: page_id
-    page_id: 3863deba-8e35-4515-a0b7-2a77a0032fad
   created_time: 2021-08-17T15:23:00.0000000Z
   last_edited_time: 2021-08-17T15:23:00.0000000Z
   created_by:
@@ -182,9 +173,6 @@ results:
       href: 
 - object: block
   id: 29102488-6e3e-4638-a4e6-4a56f1bb1ce9
-  parent:
-    type: page_id
-    page_id: 3863deba-8e35-4515-a0b7-2a77a0032fad
   created_time: 2021-08-17T15:23:00.0000000Z
   last_edited_time: 2021-08-17T15:23:00.0000000Z
   created_by:
@@ -214,9 +202,6 @@ results:
       href: 
 - object: block
   id: e1bc39ae-d027-4dfe-a2cc-39cca9645a3f
-  parent:
-    type: page_id
-    page_id: 3863deba-8e35-4515-a0b7-2a77a0032fad
   created_time: 2021-08-17T15:24:00.0000000Z
   last_edited_time: 2021-08-17T15:24:00.0000000Z
   created_by:
@@ -233,9 +218,6 @@ results:
     text: []
 - object: block
   id: d87e007e-8d37-4a3c-90c9-4da268bcf51d
-  parent:
-    type: page_id
-    page_id: 3863deba-8e35-4515-a0b7-2a77a0032fad
   created_time: 2021-08-17T15:24:00.0000000Z
   last_edited_time: 2021-08-17T15:26:00.0000000Z
   created_by:
@@ -265,9 +247,6 @@ results:
       href: 
 - object: block
   id: 5b2456bf-dc92-412b-b1de-0d06d09d5de4
-  parent:
-    type: page_id
-    page_id: 3863deba-8e35-4515-a0b7-2a77a0032fad
   created_time: 2021-08-17T15:24:00.0000000Z
   last_edited_time: 2021-08-17T15:25:00.0000000Z
   created_by:
@@ -298,9 +277,6 @@ results:
       href: /23f0f26c7f1547c0b08477c0c6f1f461
 - object: block
   id: 9c15649a-131a-4a2a-93bb-6a7d230d6bc8
-  parent:
-    type: page_id
-    page_id: 3863deba-8e35-4515-a0b7-2a77a0032fad
   created_time: 2021-08-17T15:25:00.0000000Z
   last_edited_time: 2021-08-17T15:26:00.0000000Z
   created_by:
@@ -331,9 +307,6 @@ results:
       href: /d7df8bdfae994fc1a37a32b73806247f
 - object: block
   id: ee3a41d0-21ed-48ea-9ed4-6fc220ea418d
-  parent:
-    type: page_id
-    page_id: 3863deba-8e35-4515-a0b7-2a77a0032fad
   created_time: 2021-08-17T15:26:00.0000000Z
   last_edited_time: 2021-08-17T15:26:00.0000000Z
   created_by:
@@ -364,9 +337,6 @@ results:
       href: /80871d292cbd411da0b1ab74bb5bccfd
 - object: block
   id: b395b9c6-f297-4f06-9d53-0873fe6afc28
-  parent:
-    type: page_id
-    page_id: 3863deba-8e35-4515-a0b7-2a77a0032fad
   created_time: 2021-08-17T15:23:00.0000000Z
   last_edited_time: 2021-08-17T15:24:00.0000000Z
   created_by:
@@ -383,9 +353,6 @@ results:
     text: []
 - object: block
   id: 50f2cd38-11cf-46bd-8e8e-9895c9800c94
-  parent:
-    type: page_id
-    page_id: 3863deba-8e35-4515-a0b7-2a77a0032fad
   created_time: 2021-07-20T12:15:00.0000000Z
   last_edited_time: 2021-07-20T12:15:00.0000000Z
   created_by:
@@ -403,9 +370,6 @@ results:
       block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
 - object: block
   id: 6c41cd1e-1dc8-4098-96a7-241dcd069abf
-  parent:
-    type: page_id
-    page_id: 3863deba-8e35-4515-a0b7-2a77a0032fad
   created_time: 2021-08-17T13:15:00.0000000Z
   last_edited_time: 2021-08-17T13:15:00.0000000Z
   created_by:
