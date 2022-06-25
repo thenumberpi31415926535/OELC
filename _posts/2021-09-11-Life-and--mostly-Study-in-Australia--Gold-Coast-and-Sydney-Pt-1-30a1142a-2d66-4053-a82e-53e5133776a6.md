@@ -1,25 +1,25 @@
 ---
-talktime: 2021-09-11T21:00:00.0000000
-name: Life and (mostly)Study in Australia, Gold Coast and Sydney Pt.1
-hosts: Duke
-software: Discord
-title: Life and (mostly)Study in Australia, Gold Coast and Sydney Pt.1
-notion_url: https://www.notion.so/Life-and-mostly-Study-in-Australia-Gold-Coast-and-Sydney-Pt-1-30a1142a2d664053a82e53e5133776a6
-sign_up_here: 
-indexDate: 2021-09-11
-last_edited_time: 2021-09-16T20:09:00.0000000
 created_time: 2021-07-20T20:15:00.0000000
+notion_url: https://www.notion.so/Life-and-mostly-Study-in-Australia-Gold-Coast-and-Sydney-Pt-1-30a1142a2d664053a82e53e5133776a6
+archived: false
+language_level: No limit
+id: 30a1142a-2d66-4053-a82e-53e5133776a6
+name: Life and (mostly)Study in Australia, Gold Coast and Sydney Pt.1
 tags:
 - Talk
 - 2021-09-11
 - Duke
 object: page
-archived: false
+sign_up_here: 
+talktime: 2021-09-11T21:00:00.0000000
+last_edited_time: 2021-09-16T20:09:00.0000000
+title: Life and (mostly)Study in Australia, Gold Coast and Sydney Pt.1
+software: Discord
+indexDate: 2021-09-11
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-language_level: No limit
 parent_type: database_id
-id: 30a1142a-2d66-4053-a82e-53e5133776a6
 meeting_link: https://discord.gg/9cV2yDcB
+hosts: Duke
 ---
 
 
