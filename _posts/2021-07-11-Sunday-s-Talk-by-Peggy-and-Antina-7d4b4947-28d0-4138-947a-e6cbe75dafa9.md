@@ -1,28 +1,28 @@
 ---
-title: Sunday's Talk by Peggy and Antina
-created_time: 2021-06-25T18:39:00.0000000
+talktime: 2021-07-11T09:30:00.0000000
+notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-7d4b494728d04138947ae6cbe75dafa9
 archived: false
-sign_up_here: Please comment below note in Line group
-meeting_link: https://meet.google.com/uor-traf-jyshttps://meet.google.com/uor-traf-jys
-software: Google Meet
-name: Sunday's Talk by Peggy and Antina
-indexDate: 2021-07-11
-last_edited_time: 2021-07-20T20:14:00.0000000
-object: page
-parent_type: database_id
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+hosts:
+- Peggy@李明霈
+- Antina@張庭瑄
+language_level: No limit
 tags:
 - Talk
 - 2021-07-11
 - Peggy@李明霈
 - Antina@張庭瑄
-language_level: No limit
+indexDate: 2021-07-11
+meeting_link: https://meet.google.com/uor-traf-jyshttps://meet.google.com/uor-traf-jys
+title: Sunday's Talk by Peggy and Antina
+created_time: 2021-06-25T18:39:00.0000000
+object: page
+software: Google Meet
+parent_type: database_id
+name: Sunday's Talk by Peggy and Antina
 id: 7d4b4947-28d0-4138-947a-e6cbe75dafa9
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-7d4b494728d04138947ae6cbe75dafa9
-talktime: 2021-07-11T09:30:00.0000000
-hosts:
-- Peggy@李明霈
-- Antina@張庭瑄
+last_edited_time: 2021-07-20T20:14:00.0000000
+sign_up_here: Please comment below note in Line group
 ---
 
 

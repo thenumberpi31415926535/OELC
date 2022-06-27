@@ -1,31 +1,31 @@
 ---
-title: Ask Bones and Pi, it's free talk time!
-created_time: 2021-08-02T12:38:00.0000000
+talktime: 2021-08-04T21:00:00.0000000
+notion_url: https://www.notion.so/Ask-Bones-and-Pi-it-s-free-talk-time-f8ed1ea162ac43369f56450d7b8d9e0a
 archived: false
-sign_up_here:
-- "Join Pi's "
-- '[Discord ](https://discord.gg/vE7QUXGDnS)'
-- 'server and sign up in #annoncements!'
-meeting_link: https://discord.gg/vE7QUXGDnS
-software: Discord
-name: Ask Bones and Pi, it's free talk time!
-indexDate: 2021-08-04
-last_edited_time: 2021-08-16T01:26:00.0000000
-object: page
-parent_type: database_id
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+hosts:
+- Bones
+- Pi
+language_level: No limit
 tags:
 - Talk
 - 2021-08-04
 - Bones
 - Pi
-language_level: No limit
+indexDate: 2021-08-04
+meeting_link: https://discord.gg/vE7QUXGDnS
+title: Ask Bones and Pi, it's free talk time!
+created_time: 2021-08-02T12:38:00.0000000
+object: page
+software: Discord
+parent_type: database_id
+name: Ask Bones and Pi, it's free talk time!
 id: f8ed1ea1-62ac-4336-9f56-450d7b8d9e0a
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-notion_url: https://www.notion.so/Ask-Bones-and-Pi-it-s-free-talk-time-f8ed1ea162ac43369f56450d7b8d9e0a
-talktime: 2021-08-04T21:00:00.0000000
-hosts:
-- Bones
-- Pi
+last_edited_time: 2021-08-16T01:26:00.0000000
+sign_up_here:
+- "Join Pi's "
+- '[Discord ](https://discord.gg/vE7QUXGDnS)'
+- 'server and sign up in #annoncements!'
 ---
 
 Bring a drink or two, make yourself comfortable, come and hang out with us!
