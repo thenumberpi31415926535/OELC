@@ -128,6 +128,9 @@ object: list
 results:
 - object: block
   id: 1d7ec487-64f2-4586-a320-66035c725c8d
+  parent:
+    type: page_id
+    page_id: 19ccc81a-1824-440c-a670-5132bb1831bf
   created_time: 2021-07-18T14:12:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   created_by:
@@ -144,6 +147,9 @@ results:
     text: []
 - object: block
   id: 3aee81d5-c1cf-485f-b6d4-ab63fdad99b4
+  parent:
+    type: page_id
+    page_id: 19ccc81a-1824-440c-a670-5132bb1831bf
   created_time: 2021-07-18T12:52:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   created_by:
@@ -187,6 +193,9 @@ results:
       href: 
 - object: block
   id: c1e98534-0277-4813-8930-966f3da93979
+  parent:
+    type: page_id
+    page_id: 19ccc81a-1824-440c-a670-5132bb1831bf
   created_time: 2021-07-18T14:01:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   created_by:
@@ -230,6 +239,9 @@ results:
       href: 
 - object: block
   id: 29247e12-2100-4214-b55a-b0a0a8d3d17c
+  parent:
+    type: page_id
+    page_id: 19ccc81a-1824-440c-a670-5132bb1831bf
   created_time: 2021-07-21T04:08:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   created_by:
@@ -244,6 +256,9 @@ results:
   unsupported: {}
 - object: block
   id: 2e1035dc-fe0f-4a57-982f-4ca2c90f6e81
+  parent:
+    type: page_id
+    page_id: 19ccc81a-1824-440c-a670-5132bb1831bf
   created_time: 2021-07-21T04:08:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   created_by:
@@ -287,6 +302,9 @@ results:
       href: 
 - object: block
   id: 52589a32-3111-4dd7-9937-0310a5fa9f41
+  parent:
+    type: page_id
+    page_id: 19ccc81a-1824-440c-a670-5132bb1831bf
   created_time: 2021-07-02T09:55:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   created_by:
@@ -330,6 +348,9 @@ results:
       href: 
 - object: block
   id: ba01e15e-1d49-4595-9b34-f7eeba75dec5
+  parent:
+    type: page_id
+    page_id: 19ccc81a-1824-440c-a670-5132bb1831bf
   created_time: 2021-07-02T09:55:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   created_by:
@@ -373,6 +394,9 @@ results:
       href: 
 - object: block
   id: 796c79b5-2752-43ed-9f05-7b832ab7dd4f
+  parent:
+    type: page_id
+    page_id: 19ccc81a-1824-440c-a670-5132bb1831bf
   created_time: 2021-07-02T09:56:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   created_by:
@@ -389,6 +413,9 @@ results:
     text: []
 - object: block
   id: 34601e27-b477-462e-a46a-f3cf2eee848e
+  parent:
+    type: page_id
+    page_id: 19ccc81a-1824-440c-a670-5132bb1831bf
   created_time: 2021-07-02T09:56:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   created_by:
@@ -405,6 +432,9 @@ results:
     text: []
 - object: block
   id: 3a897bcc-d367-4a97-9c90-39a0a66f0a74
+  parent:
+    type: page_id
+    page_id: 19ccc81a-1824-440c-a670-5132bb1831bf
   created_time: 2021-07-18T14:11:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   created_by:
@@ -434,6 +464,9 @@ results:
       href: 
 - object: block
   id: 6160aab2-ce37-41e2-b2f1-094ffa8ae7d6
+  parent:
+    type: page_id
+    page_id: 19ccc81a-1824-440c-a670-5132bb1831bf
   created_time: 2021-07-18T14:11:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   created_by:
@@ -463,6 +496,9 @@ results:
       href: 
 - object: block
   id: 9d18d007-1307-47bf-8f31-5a310cb21c8f
+  parent:
+    type: page_id
+    page_id: 19ccc81a-1824-440c-a670-5132bb1831bf
   created_time: 2021-07-18T14:11:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   created_by:
@@ -492,6 +528,9 @@ results:
       href: 
 - object: block
   id: 77bdfe2c-6995-4c55-b80f-5ab2f30ade76
+  parent:
+    type: page_id
+    page_id: 19ccc81a-1824-440c-a670-5132bb1831bf
   created_time: 2021-07-18T14:11:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   created_by:
@@ -521,6 +560,9 @@ results:
       href: 
 - object: block
   id: e26c573d-3360-4c2b-9e58-7639ec8fc95a
+  parent:
+    type: page_id
+    page_id: 19ccc81a-1824-440c-a670-5132bb1831bf
   created_time: 2021-07-18T14:11:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   created_by:
@@ -550,6 +592,9 @@ results:
       href: 
 - object: block
   id: b35c6771-5bf1-4bfc-935d-cda353b3bbda
+  parent:
+    type: page_id
+    page_id: 19ccc81a-1824-440c-a670-5132bb1831bf
   created_time: 2021-07-18T14:11:00.0000000Z
   last_edited_time: 2021-08-15T17:26:00.0000000Z
   created_by:
@@ -579,6 +624,9 @@ results:
       href: 
 - object: block
   id: 0a0b863d-1f51-4fbf-bc33-4e1038c111e3
+  parent:
+    type: page_id
+    page_id: 19ccc81a-1824-440c-a670-5132bb1831bf
   created_time: 2021-07-21T09:30:00.0000000Z
   last_edited_time: 2021-07-21T09:30:00.0000000Z
   created_by:
@@ -594,10 +642,13 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/98ae05d8-4fc5-492b-8970-5668dcb48be6/Brainstorming_-_Social_media.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220627%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220627T015542Z&X-Amz-Expires=3600&X-Amz-Signature=ec7f843d168cdce9d81f23691839a4b6434c5df1816da6d715ba56f2b34d2169&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-06-27T02:55:42.5610000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/98ae05d8-4fc5-492b-8970-5668dcb48be6/Brainstorming_-_Social_media.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220628%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220628T015222Z&X-Amz-Expires=3600&X-Amz-Signature=1230456d5a072e62976ab32759edadb1a3178654821afa823802548ee3097b4c&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-06-28T02:52:22.1780000Z
 - object: block
   id: 490b1b26-1c21-447c-9758-fc3d15817de3
+  parent:
+    type: page_id
+    page_id: 19ccc81a-1824-440c-a670-5132bb1831bf
   created_time: 2021-07-20T12:10:00.0000000Z
   last_edited_time: 2021-07-20T12:10:00.0000000Z
   created_by:
@@ -615,6 +666,9 @@ results:
       block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
 - object: block
   id: e48aa3ce-725d-407a-9575-f12e528fdcac
+  parent:
+    type: page_id
+    page_id: 19ccc81a-1824-440c-a670-5132bb1831bf
   created_time: 2021-07-21T09:29:00.0000000Z
   last_edited_time: 2021-07-21T09:29:00.0000000Z
   created_by:
