@@ -1,30 +1,30 @@
 ---
+talktime: 2021-08-25T21:00:00.0000000
+software: Discord
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-meeting_link: https://discord.gg/vE7QUXGDnS
-notion_url: https://www.notion.so/Hanging-on-and-letting-go-cfadc7752baa49a894b22c1b340abac0
-parent_type: database_id
 created_time: 2021-08-20T14:14:00.0000000
-id: cfadc775-2baa-49a8-94b2-2c1b340abac0
+archived: false
+last_edited_time: 2021-08-25T20:20:00.0000000
+meeting_link: https://discord.gg/vE7QUXGDnS
 tags:
 - Talk
 - 2021-08-25
 - Bones
 - Pi
-name: Hanging on and letting go
-software: Discord
-last_edited_time: 2021-08-25T20:20:00.0000000
-object: page
-indexDate: 2021-08-25
-talktime: 2021-08-25T21:00:00.0000000
+id: cfadc775-2baa-49a8-94b2-2c1b340abac0
+title: Hanging on and letting go
+notion_url: https://www.notion.so/Hanging-on-and-letting-go-cfadc7752baa49a894b22c1b340abac0
 hosts:
 - Bones
 - Pi
+indexDate: 2021-08-25
 sign_up_here:
 - "Join Pi's "
 - '[Discord ](https://discord.gg/vE7QUXGDnS)'
 - 'server and sign up in #annoncements!'
-archived: false
-title: Hanging on and letting go
+object: page
+parent_type: database_id
+name: Hanging on and letting go
 language_level: No limit
 ---
 
