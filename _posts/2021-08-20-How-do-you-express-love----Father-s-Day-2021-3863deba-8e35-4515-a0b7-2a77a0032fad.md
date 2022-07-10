@@ -1,20 +1,11 @@
 ---
-indexDate: 2021-08-20
-sign_up_here: 
-software: Discord
-parent_type: database_id
-last_edited_time: 2021-08-17T23:26:00.0000000
-title: How do you express love? - Father's Day 2021
-name: How do you express love? - Father's Day 2021
-created_time: 2021-07-20T20:15:00.0000000
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-id: 3863deba-8e35-4515-a0b7-2a77a0032fad
-hosts:
-- Momo
-- Ives
-- Judy
+last_edited_time: 2021-08-17T23:26:00.0000000
+talktime: 2021-08-20T20:30:00.0000000
+parent_type: database_id
+name: How do you express love? - Father's Day 2021
+title: How do you express love? - Father's Day 2021
 notion_url: https://www.notion.so/How-do-you-express-love-Father-s-Day-2021-3863deba8e354515a0b72a77a0032fad
-language_level: No limit
 archived: false
 tags:
 - Talk
@@ -22,9 +13,18 @@ tags:
 - Momo
 - Ives
 - Judy
-talktime: 2021-08-20T20:30:00.0000000
-meeting_link: https://discord.gg/vE7QUXGDnS
+created_time: 2021-07-20T20:15:00.0000000
+language_level: No limit
+sign_up_here: 
 object: page
+hosts:
+- Momo
+- Ives
+- Judy
+indexDate: 2021-08-20
+software: Discord
+meeting_link: https://discord.gg/vE7QUXGDnS
+id: 3863deba-8e35-4515-a0b7-2a77a0032fad
 ---
 
    - How did you spend Father’s Day this year?
