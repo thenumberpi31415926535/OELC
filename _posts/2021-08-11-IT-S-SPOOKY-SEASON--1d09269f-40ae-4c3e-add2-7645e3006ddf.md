@@ -1,31 +1,31 @@
 ---
-software: Discord
-name: IT'S SPOOKY SEASON!
-parent_type: database_id
-sign_up_here:
-- "Join Pi's "
-- '[Discord ](https://discord.gg/vE7QUXGDnS)'
-- 'server and sign up in #annoncements!'
-id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
 talktime: 2021-08-11T21:00:00.0000000
-object: page
+software: Discord
 meeting_link: https://discord.gg/vE7QUXGDnS
-last_edited_time: 2021-08-16T01:25:00.0000000
-created_time: 2021-08-10T15:46:00.0000000
+parent_type: database_id
+object: page
+name: IT'S SPOOKY SEASON!
+language_level: No limit
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 tags:
 - Talk
 - 2021-08-11
 - Bones
 - Pi
-language_level: No limit
-archived: false
-title: IT'S SPOOKY SEASON!
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+notion_url: https://www.notion.so/IT-S-SPOOKY-SEASON-1d09269f40ae4c3eadd27645e3006ddf
+indexDate: 2021-08-11
+id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
 hosts:
 - Bones
 - Pi
-notion_url: https://www.notion.so/IT-S-SPOOKY-SEASON-1d09269f40ae4c3eadd27645e3006ddf
-indexDate: 2021-08-11
+title: IT'S SPOOKY SEASON!
+sign_up_here:
+- "Join Pi's "
+- '[Discord ](https://discord.gg/vE7QUXGDnS)'
+- 'server and sign up in #annoncements!'
+last_edited_time: 2021-08-16T01:25:00.0000000
+archived: false
+created_time: 2021-08-10T15:46:00.0000000
 ---
 
 It's that time of the year again! Share your spooky experiences with us!
