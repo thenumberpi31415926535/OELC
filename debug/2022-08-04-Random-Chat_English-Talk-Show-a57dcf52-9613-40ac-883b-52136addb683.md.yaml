@@ -1,0 +1,452 @@
+object: page
+id: a57dcf52-9613-40ac-883b-52136addb683
+created_time: 2022-08-04T07:50:00.0000000Z
+last_edited_time: 2022-08-04T09:43:00.0000000Z
+created_by:
+  object: user
+  id: 5f118345-72dd-478d-b052-bc7798916619
+last_edited_by:
+  object: user
+  id: 5f118345-72dd-478d-b052-bc7798916619
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?ixlib=rb-1.2.1&q=80&cs=tinysrgb&fm=jpg&crop=entropy
+icon:
+  type: emoji
+  emoji: "\U0001F4AC"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: 3775b82a-0108-475c-ae48-b2c8e248dcef
+      name: Google Meet
+      color: pink
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: d447c3aa-2c07-4612-a18d-0b37adfe1911
+      name: Jason
+      color: red
+    - id: c7215c01-4a35-40f8-a287-520fdea09b5f
+      name: Avriel
+      color: gray
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: 'English Talk Show_Random Chat  Thursday, 4 August · 8:00 – 9:00pm Google Meet joining info Video call link: https://meet.google.com/dco-pbjv-pbt'
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2022-08-04T12:00:00.0000000+00:00
+      end: 2022-08-04T13:00:00.0000000+00:00
+      time_zone: 
+  Give us some feedback!!!:
+    id: ~>~=
+    type: url
+    url: https://forms.gle/fNuUs4Y7nZwb9WzL7
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: Random Chat_English Talk Show
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Random Chat_English Talk Show
+      href: 
+url: https://www.notion.so/Random-Chat_English-Talk-Show-a57dcf52961340ac883b52136addb683
+
+object: list
+results:
+- object: block
+  id: fd3ee7b6-8fe3-4e46-b1ca-e9a3df997835
+  parent:
+    type: page_id
+    page_id: a57dcf52-9613-40ac-883b-52136addb683
+  created_time: 2022-08-04T07:58:00.0000000Z
+  last_edited_time: 2022-08-04T07:58:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: mention
+      mention:
+        type: page
+        page:
+          id: cb083fc4-f0b7-459a-a5af-e1900ef25a1f
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Untitled
+      href: https://www.notion.so/cb083fc4f0b7459aa5afe1900ef25a1f
+    - type: text
+      text:
+        content: ' '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: ' '
+      href: 
+- object: block
+  id: 2c0a4b42-591f-48a5-b63a-768a8ac704a7
+  parent:
+    type: page_id
+    page_id: a57dcf52-9613-40ac-883b-52136addb683
+  created_time: 2022-08-04T07:58:00.0000000Z
+  last_edited_time: 2022-08-04T07:58:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: mention
+      mention:
+        type: page
+        page:
+          id: 06eedd6e-889c-4336-9b68-aa6f0742675b
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Untitled
+      href: https://www.notion.so/06eedd6e889c43369b68aa6f0742675b
+    - type: text
+      text:
+        content: ' '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: ' '
+      href: 
+- object: block
+  id: c37cac31-ba7e-4567-a195-a2987a8be32e
+  parent:
+    type: page_id
+    page_id: a57dcf52-9613-40ac-883b-52136addb683
+  created_time: 2022-08-04T07:58:00.0000000Z
+  last_edited_time: 2022-08-04T07:58:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: divider
+  divider: {}
+- object: block
+  id: d6e91434-5efd-480e-b0f4-49631338736f
+  parent:
+    type: page_id
+    page_id: a57dcf52-9613-40ac-883b-52136addb683
+  created_time: 2022-08-04T07:58:00.0000000Z
+  last_edited_time: 2022-08-04T07:58:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: Hello guys, it’s been a really long time since we last talked!!! My partner and I have been extremely these weeks, and couldn’t squeeze some time to host shows. But now we’re back!!!
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Hello guys, it’s been a really long time since we last talked!!! My partner and I have been extremely these weeks, and couldn’t squeeze some time to host shows. But now we’re back!!!
+      href: 
+- object: block
+  id: e1933057-6ef2-4aa4-9a52-91382d6df8ee
+  parent:
+    type: page_id
+    page_id: a57dcf52-9613-40ac-883b-52136addb683
+  created_time: 2022-08-04T07:58:00.0000000Z
+  last_edited_time: 2022-08-04T07:58:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: d58e0b8e-6cb0-4385-ae9e-c5d0309c18fa
+  parent:
+    type: page_id
+    page_id: a57dcf52-9613-40ac-883b-52136addb683
+  created_time: 2022-08-04T07:58:00.0000000Z
+  last_edited_time: 2022-08-04T08:19:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: Tonight we may talk a bit about different parties’ perspectives towards the interpreter’s performance, as well as Nancy Pelosi’s visiting to Taiwan!!! If you have any thought, welcome to join us. It may also be a free talk session if no one’s interested in talking about such serious topics. Just come in and see how it goes!!
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Tonight we may talk a bit about different parties’ perspectives towards the interpreter’s performance, as well as Nancy Pelosi’s visiting to Taiwan!!! If you have any thought, welcome to join us. It may also be a free talk session if no one’s interested in talking about such serious topics. Just come in and see how it goes!!
+      href: 
+- object: block
+  id: 0b347fbe-052e-4cd5-8926-ba35d42893d7
+  parent:
+    type: page_id
+    page_id: a57dcf52-9613-40ac-883b-52136addb683
+  created_time: 2022-08-04T07:58:00.0000000Z
+  last_edited_time: 2022-08-04T07:58:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: divider
+  divider: {}
+- object: block
+  id: 95670c22-83cf-4880-92de-da8ffcf3fbe1
+  parent:
+    type: page_id
+    page_id: a57dcf52-9613-40ac-883b-52136addb683
+  created_time: 2022-08-04T07:58:00.0000000Z
+  last_edited_time: 2022-08-04T07:58:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: If you have any other questions, please contact the hosts. Or fill in the feedback form we provide at the end of each show. In either way, we’ll be able to know your demands and contact you individually.
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: If you have any other questions, please contact the hosts. Or fill in the feedback form we provide at the end of each show. In either way, we’ll be able to know your demands and contact you individually.
+      href: 
+- object: block
+  id: 1177224e-a751-4d43-97bc-0fd9f945805b
+  parent:
+    type: page_id
+    page_id: a57dcf52-9613-40ac-883b-52136addb683
+  created_time: 2022-08-04T09:03:00.0000000Z
+  last_edited_time: 2022-08-04T09:03:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: b34c00a8-220e-4985-8ba0-39473fab65ca
+  parent:
+    type: page_id
+    page_id: a57dcf52-9613-40ac-883b-52136addb683
+  created_time: 2022-08-04T07:58:00.0000000Z
+  last_edited_time: 2022-08-04T09:43:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: If you want to get the latest information of our events, welcome to subscribe to our official LINE account!
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: If you want to get the latest information of our events, welcome to subscribe to our official LINE account!
+      href: 
+- object: block
+  id: 7857f69a-36d6-413f-8d2b-2d08280d86bc
+  parent:
+    type: page_id
+    page_id: a57dcf52-9613-40ac-883b-52136addb683
+  created_time: 2022-08-04T09:43:00.0000000Z
+  last_edited_time: 2022-08-04T09:43:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: bookmark
+  bookmark:
+    caption: []
+    url: https://lin.ee/nMTsaEC
+- object: block
+  id: 7432a8b3-90fa-477d-b229-ed2a7f6fbdb3
+  parent:
+    type: page_id
+    page_id: a57dcf52-9613-40ac-883b-52136addb683
+  created_time: 2022-08-04T07:50:00.0000000Z
+  last_edited_time: 2022-08-04T08:20:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: bce05cf1-7f57-403e-9004-1e3cd3cb8cb3
+  parent:
+    type: page_id
+    page_id: a57dcf52-9613-40ac-883b-52136addb683
+  created_time: 2022-08-04T07:50:00.0000000Z
+  last_edited_time: 2022-08-04T07:50:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: true
+  archived: false
+  type: column_list
+  column_list: {}
+- object: block
+  id: 29555297-3aaa-4a7b-92be-6d860a9bbcf0
+  parent:
+    type: page_id
+    page_id: a57dcf52-9613-40ac-883b-52136addb683
+  created_time: 2022-08-04T07:50:00.0000000Z
+  last_edited_time: 2022-08-04T07:50:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
+next_cursor: 
+has_more: false
+

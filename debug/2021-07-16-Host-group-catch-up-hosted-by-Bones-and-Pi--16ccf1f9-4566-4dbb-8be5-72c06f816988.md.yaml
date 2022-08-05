@@ -36,22 +36,8 @@ properties:
       color: purple
   Sign up here:
     id: ']hGQ'
-    type: rich_text
-    rich_text:
-    - type: text
-      text:
-        content: https://discordapp.com/channels/830770544253206538/856580095464046620/863309109738078228
-        link:
-          url: https://discordapp.com/channels/830770544253206538/856580095464046620/863309109738078228
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: https://discordapp.com/channels/830770544253206538/856580095464046620/863309109738078228
-      href: https://discordapp.com/channels/830770544253206538/856580095464046620/863309109738078228
+    type: url
+    url: https://discordapp.com/channels/830770544253206538/856580095464046620/863309109738078228
   Hosts:
     id: cdbz
     type: multi_select

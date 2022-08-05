@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf70b2a4-7f85-4d4c-917d-e247d2151fa5/ocivd.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220804T015145Z&X-Amz-Expires=3600&X-Amz-Signature=8866ab390750052072560337c6f4a4baac2e244bfb520cf5c366906fb18753d8&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-08-04T02:51:45.1330000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf70b2a4-7f85-4d4c-917d-e247d2151fa5/ocivd.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220805%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220805T015429Z&X-Amz-Expires=3600&X-Amz-Signature=ea2888b7a0e0fc821f7459861f5da6110efb91673e40ad4d79442328d3d2123f&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-08-05T02:54:29.7630000Z
 icon:
   type: emoji
   emoji: "\U0001F9A0"
@@ -37,48 +37,8 @@ properties:
       color: purple
   Sign up here:
     id: ']hGQ'
-    type: rich_text
-    rich_text:
-    - type: text
-      text:
-        content: "Join Pi's "
-        link: 
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: "Join Pi's "
-      href: 
-    - type: text
-      text:
-        content: Discord
-        link:
-          url: https://discord.com/invite/vE7QUXGDnS
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: Discord
-      href: https://discord.com/invite/vE7QUXGDnS
-    - type: text
-      text:
-        content: ' server '
-        link: 
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: ' server '
-      href: 
+    type: url
+    url: "Join Pi's Discord server "
   Hosts:
     id: cdbz
     type: multi_select

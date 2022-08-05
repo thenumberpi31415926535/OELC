@@ -34,10 +34,6 @@ properties:
       id: 4cc93307-5fe5-4626-91c3-5ed284b7ca4d
       name: Discord
       color: purple
-  Sign up here:
-    id: ']hGQ'
-    type: rich_text
-    rich_text: []
   Hosts:
     id: cdbz
     type: multi_select
@@ -1696,8 +1692,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2d7b0398-970a-4600-892f-3e64795c0b0b/90664EFA-2327-4C46-9698-0F743B6485B9.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220804T015204Z&X-Amz-Expires=3600&X-Amz-Signature=f821dac8559108a15bc5d686efc446d29668aa6534d227843584d8cf6adb5e38&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-08-04T02:52:04.0170000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2d7b0398-970a-4600-892f-3e64795c0b0b/90664EFA-2327-4C46-9698-0F743B6485B9.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220805%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220805T015446Z&X-Amz-Expires=3600&X-Amz-Signature=ef3b1824c8ad1158824e192c9bd08a449cd56591ed13fd9025547d7ba7582927&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-08-05T02:54:46.4250000Z
 - object: block
   id: a72e0696-be2a-41e4-9102-742053977f80
   parent:

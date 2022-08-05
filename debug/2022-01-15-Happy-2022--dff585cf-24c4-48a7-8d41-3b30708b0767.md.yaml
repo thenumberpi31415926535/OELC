@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fb8672ab-8a15-4584-b0f2-4120bf6f5648/Welcome_to_Abbys_Online_Talk_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220804T015100Z&X-Amz-Expires=3600&X-Amz-Signature=40e508c72330b5dfb11e95099d958ebcc2223c08d97c40dac936ddb8a3d381b8&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-08-04T02:51:00.6930000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fb8672ab-8a15-4584-b0f2-4120bf6f5648/Welcome_to_Abbys_Online_Talk_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220805%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220805T015353Z&X-Amz-Expires=3600&X-Amz-Signature=40e5cf12f2560c41fbf7d1d14580366d3def86aa0abfa7c6c9881a19e97b89a8&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-08-05T02:53:53.0660000Z
 icon:
   type: emoji
   emoji: "\U0001F389"
@@ -37,21 +37,8 @@ properties:
       color: pink
   Sign up here:
     id: ']hGQ'
-    type: rich_text
-    rich_text:
-    - type: text
-      text:
-        content: "Just come \U0001F642"
-        link: 
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: "Just come \U0001F642"
-      href: 
+    type: url
+    url: "Just come \U0001F642"
   Hosts:
     id: cdbz
     type: multi_select
@@ -143,8 +130,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/be4db792-0d9a-402f-85da-e706fdbf37c6/Pattern_Illustration_New_Year_Card.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220804T015101Z&X-Amz-Expires=3600&X-Amz-Signature=8bf65fa1eb6c2de2d2cc063bc4eaa534af55f5172cc4372a188f65afe4b7b470&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-08-04T02:51:01.1780000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/be4db792-0d9a-402f-85da-e706fdbf37c6/Pattern_Illustration_New_Year_Card.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220805%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220805T015353Z&X-Amz-Expires=3600&X-Amz-Signature=acc36d5df5073df35d3c27d3b309bfd14889067193dafac95392f1883fae6688&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-08-05T02:53:53.3910000Z
 - object: block
   id: 73a27c72-e9e2-4eea-bfa4-f683f9fc725b
   parent:

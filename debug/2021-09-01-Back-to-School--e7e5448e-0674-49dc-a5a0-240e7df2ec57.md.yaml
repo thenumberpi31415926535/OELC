@@ -36,48 +36,8 @@ properties:
       color: purple
   Sign up here:
     id: ']hGQ'
-    type: rich_text
-    rich_text:
-    - type: text
-      text:
-        content: "Join Pi's "
-        link: 
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: "Join Pi's "
-      href: 
-    - type: text
-      text:
-        content: 'Discord '
-        link:
-          url: https://discord.gg/vE7QUXGDnS
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: 'Discord '
-      href: https://discord.gg/vE7QUXGDnS
-    - type: text
-      text:
-        content: 'server and sign up in #annoncements!'
-        link: 
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: 'server and sign up in #annoncements!'
-      href: 
+    type: url
+    url: "Join Pi's Discord server and sign up in #annoncements!"
   Hosts:
     id: cdbz
     type: multi_select
@@ -408,8 +368,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/47602354-5513-4a91-b05c-90aade891bc7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220804T015132Z&X-Amz-Expires=3600&X-Amz-Signature=665754c4c09a7fcb409a3f57ff58e88cf3148762c23561075f13a9e59fe9cee4&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-08-04T02:51:32.6500000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/47602354-5513-4a91-b05c-90aade891bc7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220805%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220805T015415Z&X-Amz-Expires=3600&X-Amz-Signature=83b603822e8275ea207ef921c2ada4ddf4b7d0de25b46277db18c7e7696ecaee&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-08-05T02:54:15.2970000Z
 - object: block
   id: fc35e0dc-2e2b-4275-ba2b-ea71aa117613
   parent:

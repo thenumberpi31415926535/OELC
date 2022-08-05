@@ -11,13 +11,13 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8dfc8af9-27f0-41cd-becd-f6dddeb360f5/83A23BB8-E2A5-4CDC-A22C-90643D782C44.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220804T015118Z&X-Amz-Expires=3600&X-Amz-Signature=32b7ee239d6132d974bef1d7d88191e4024bc64c2caedec72b9b41fe23b0e78c&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-08-04T02:51:18.1500000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8dfc8af9-27f0-41cd-becd-f6dddeb360f5/83A23BB8-E2A5-4CDC-A22C-90643D782C44.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220805%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220805T015400Z&X-Amz-Expires=3600&X-Amz-Signature=26ccf80ddbc6d10e3c250a5513b649ae88aeb1174508fdabfd2c057c4befedc1&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-08-05T02:54:00.6060000Z
 icon:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/627c6e2e-feb0-44b5-b62e-f035f0dbb58c/C5F0CF0F-CC6E-4270-B8AE-69E806A09DE6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220804T015118Z&X-Amz-Expires=3600&X-Amz-Signature=e38569ab64bcc561d7b9fc4fddb9d9f93b978deb8d58b5231058266a09702e8e&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-08-04T02:51:18.1530000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/627c6e2e-feb0-44b5-b62e-f035f0dbb58c/C5F0CF0F-CC6E-4270-B8AE-69E806A09DE6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220805%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220805T015400Z&X-Amz-Expires=3600&X-Amz-Signature=5a164da2e34793295fdfd7ef258fb88a42f739087f80337bf0b864d4abdd49ca&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-08-05T02:54:00.6080000Z
 parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
@@ -39,22 +39,8 @@ properties:
       color: green
   Sign up here:
     id: ']hGQ'
-    type: rich_text
-    rich_text:
-    - type: text
-      text:
-        content: https://forms.gle/jJb9fACAvsc66ixF9
-        link:
-          url: https://forms.gle/jJb9fACAvsc66ixF9
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: https://forms.gle/jJb9fACAvsc66ixF9
-      href: https://forms.gle/jJb9fACAvsc66ixF9
+    type: url
+    url: https://forms.gle/jJb9fACAvsc66ixF9
   Hosts:
     id: cdbz
     type: multi_select

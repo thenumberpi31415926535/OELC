@@ -36,22 +36,8 @@ properties:
       color: pink
   Sign up here:
     id: ']hGQ'
-    type: rich_text
-    rich_text:
-    - type: text
-      text:
-        content: https://forms.gle/vmXfsSQC92B1aoh49
-        link:
-          url: https://forms.gle/vmXfsSQC92B1aoh49
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: https://forms.gle/vmXfsSQC92B1aoh49
-      href: https://forms.gle/vmXfsSQC92B1aoh49
+    type: url
+    url: https://forms.gle/vmXfsSQC92B1aoh49
   Hosts:
     id: cdbz
     type: multi_select
@@ -554,8 +540,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5e66a8cb-cc55-4354-abd7-0efc4deccbac/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220804T015213Z&X-Amz-Expires=3600&X-Amz-Signature=752a43b8faf11fd6256bc674fa619314677e1d11b881f2a255b8d1a7a5a2ecda&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-08-04T02:52:13.0580000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5e66a8cb-cc55-4354-abd7-0efc4deccbac/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220805%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220805T015454Z&X-Amz-Expires=3600&X-Amz-Signature=1c0684d771e2b8f1a3d480e98b742f0bfd4d2e507e203d239cebfe7a6f6a91dc&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-08-05T02:54:54.9440000Z
 next_cursor: 
 has_more: false
 

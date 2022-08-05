@@ -33,21 +33,8 @@ properties:
       color: gray
   Sign up here:
     id: ']hGQ'
-    type: rich_text
-    rich_text:
-    - type: text
-      text:
-        content: Rex
-        link: 
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: Rex
-      href: 
+    type: url
+    url: Rex
   Hosts:
     id: cdbz
     type: multi_select
@@ -110,8 +97,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/52cd2634-8d3c-42a9-9385-422594172de3/Maintence.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220804T015122Z&X-Amz-Expires=3600&X-Amz-Signature=4e3dda732d2aaa7ec324b935600f00e1a19b81d548ddfbb3c54524260d247a10&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-08-04T02:51:22.3890000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/52cd2634-8d3c-42a9-9385-422594172de3/Maintence.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220805%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220805T015404Z&X-Amz-Expires=3600&X-Amz-Signature=00fccbd250a09eb4ac95543e0576a2f0b1de34edfa7723fbda59cefa47e798f4&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-08-05T02:54:04.2930000Z
 - object: block
   id: 2b24731b-3e11-4291-a684-65ba1cf38c5c
   parent:
@@ -453,8 +440,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8d68e8f8-b1d4-498b-bc03-738f8acf3c78/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220804T015122Z&X-Amz-Expires=3600&X-Amz-Signature=f39a54370c8f401e31ea3eb9ecf6434f29f43de2497b8ca8eaf96dd37cf6c1a4&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-08-04T02:51:22.3890000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8d68e8f8-b1d4-498b-bc03-738f8acf3c78/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220805%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220805T015404Z&X-Amz-Expires=3600&X-Amz-Signature=3e45ff5f3b40cb5de2e021198996d25d734b7342c18c6eeb13019871d38170fa&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-08-05T02:54:04.2930000Z
 - object: block
   id: b567a48d-53a1-4625-a90b-0f315de6b612
   parent:

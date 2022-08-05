@@ -36,22 +36,8 @@ properties:
       color: pink
   Sign up here:
     id: ']hGQ'
-    type: rich_text
-    rich_text:
-    - type: text
-      text:
-        content: https://forms.gle/LEKBWqkAqZmDjc1s7
-        link:
-          url: https://forms.gle/LEKBWqkAqZmDjc1s7
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: https://forms.gle/LEKBWqkAqZmDjc1s7
-      href: https://forms.gle/LEKBWqkAqZmDjc1s7
+    type: url
+    url: https://forms.gle/LEKBWqkAqZmDjc1s7
   Hosts:
     id: cdbz
     type: multi_select

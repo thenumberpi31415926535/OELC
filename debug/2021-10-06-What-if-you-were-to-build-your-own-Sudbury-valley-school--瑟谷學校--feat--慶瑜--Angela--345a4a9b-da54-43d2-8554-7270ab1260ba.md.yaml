@@ -36,21 +36,8 @@ properties:
       color: purple
   Sign up here:
     id: ']hGQ'
-    type: rich_text
-    rich_text:
-    - type: text
-      text:
-        content: "Join Pi's Discord server and sign up in #annoncements!"
-        link: 
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: "Join Pi's Discord server and sign up in #annoncements!"
-      href: 
+    type: url
+    url: "Join Pi's Discord server and sign up in #annoncements!"
   Hosts:
     id: cdbz
     type: multi_select

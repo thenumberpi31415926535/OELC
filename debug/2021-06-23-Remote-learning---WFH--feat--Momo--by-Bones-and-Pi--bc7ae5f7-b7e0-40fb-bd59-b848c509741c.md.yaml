@@ -36,22 +36,8 @@ properties:
       color: purple
   Sign up here:
     id: ']hGQ'
-    type: rich_text
-    rich_text:
-    - type: text
-      text:
-        content: https://forms.gle/7sZsAQq5BPwcjaDX9
-        link:
-          url: https://forms.gle/7sZsAQq5BPwcjaDX9
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: https://forms.gle/7sZsAQq5BPwcjaDX9
-      href: https://forms.gle/7sZsAQq5BPwcjaDX9
+    type: url
+    url: https://forms.gle/7sZsAQq5BPwcjaDX9
   Hosts:
     id: cdbz
     type: multi_select
@@ -449,8 +435,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4fa5f828-7834-4130-a4c5-aa696870a0da/Brainstorming_ideas_18.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220804T015209Z&X-Amz-Expires=3600&X-Amz-Signature=d3c84f070701d06479ab78ff3ba868f89c20fb94fd279d2e1dc0fb0920dce9a5&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-08-04T02:52:09.4890000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4fa5f828-7834-4130-a4c5-aa696870a0da/Brainstorming_ideas_18.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220805%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220805T015450Z&X-Amz-Expires=3600&X-Amz-Signature=bcc5c66e6bb9d0b99e59d9ea35057b9f52c6f38e31b10db2b1b3bb14d808aad0&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-08-05T02:54:50.8320000Z
 - object: block
   id: 7d0a02f7-e55d-4a54-8f38-c35604c1144c
   parent:

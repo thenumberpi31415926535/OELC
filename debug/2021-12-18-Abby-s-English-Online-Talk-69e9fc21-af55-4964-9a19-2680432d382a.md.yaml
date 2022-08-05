@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/25949ee0-b4e4-4e71-b501-8cb6936552d9/eNGLISH_%283%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220804T015101Z&X-Amz-Expires=3600&X-Amz-Signature=319cbfb2d0f471d9b9fc436ad178861e7215c6f827206e90ccba01bb628ceeda&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-08-04T02:51:01.4540000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/25949ee0-b4e4-4e71-b501-8cb6936552d9/eNGLISH_%283%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220805%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220805T015353Z&X-Amz-Expires=3600&X-Amz-Signature=584ddeb24249985472a5b14b93d5dd46b963436c51f1203df4665492168239c3&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-08-05T02:53:53.6860000Z
 icon:
   type: emoji
   emoji: "\U0001F970"
@@ -37,21 +37,8 @@ properties:
       color: pink
   Sign up here:
     id: ']hGQ'
-    type: rich_text
-    rich_text:
-    - type: text
-      text:
-        content: "Just come whenever is good for you \U0001F642"
-        link: 
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: "Just come whenever is good for you \U0001F642"
-      href: 
+    type: url
+    url: "Just come whenever is good for you \U0001F642"
   Hosts:
     id: cdbz
     type: multi_select
@@ -162,8 +149,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7373e0fd-47f9-4d05-9ea0-0e063df404f3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220804T015102Z&X-Amz-Expires=3600&X-Amz-Signature=7bd596ce96c32bfbffb8500c54e86ad0c71da036ea485bfc091f6ac607dcfbfd&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-08-04T02:51:02.4760000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7373e0fd-47f9-4d05-9ea0-0e063df404f3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220805%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220805T015354Z&X-Amz-Expires=3600&X-Amz-Signature=98d45c425041eff586a27ae1c4be20080f58a1cbd6e3a14b8b911815735310e6&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-08-05T02:53:54.1720000Z
 - object: block
   id: 1b37bf8c-a789-40e0-92c7-a511b90f89f2
   parent:

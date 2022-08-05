@@ -36,21 +36,8 @@ properties:
       color: purple
   Sign up here:
     id: ']hGQ'
-    type: rich_text
-    rich_text:
-    - type: text
-      text:
-        content: Issue pi#helpsignup in Pi's discord to find out.
-        link: 
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: Issue pi#helpsignup in Pi's discord to find out.
-      href: 
+    type: url
+    url: Issue pi#helpsignup in Pi's discord to find out.
   Hosts:
     id: cdbz
     type: multi_select

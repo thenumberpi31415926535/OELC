@@ -36,48 +36,8 @@ properties:
       color: purple
   Sign up here:
     id: ']hGQ'
-    type: rich_text
-    rich_text:
-    - type: text
-      text:
-        content: "Join Pi's "
-        link: 
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: "Join Pi's "
-      href: 
-    - type: text
-      text:
-        content: 'Discord '
-        link:
-          url: https://discord.gg/vE7QUXGDnS
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: 'Discord '
-      href: https://discord.gg/vE7QUXGDnS
-    - type: text
-      text:
-        content: 'server and sign up in #annoncements!'
-        link: 
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: 'server and sign up in #annoncements!'
-      href: 
+    type: url
+    url: "Join Pi's Discord server and sign up in #annoncements!"
   Hosts:
     id: cdbz
     type: multi_select
@@ -483,8 +443,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8efcf85d-3ac6-4afa-9d37-14316279d529/Brainstorming_-_08_11_Supernatural_experiences.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220804T015139Z&X-Amz-Expires=3600&X-Amz-Signature=b41683d2c233ce43ea01a8b934174388af21b7e7b81563830e89e04179c7ac4a&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-08-04T02:51:39.5840000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8efcf85d-3ac6-4afa-9d37-14316279d529/Brainstorming_-_08_11_Supernatural_experiences.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220805%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220805T015423Z&X-Amz-Expires=3600&X-Amz-Signature=696282971965a75d7d1f2d5c2c97c7dcd4bcbf984e8b485634923129c56b1a98&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-08-05T02:54:23.9830000Z
 - object: block
   id: 648be114-bbe9-437c-b7d3-8313ecd0fa16
   parent:

@@ -36,21 +36,8 @@ properties:
       color: pink
   Sign up here:
     id: ']hGQ'
-    type: rich_text
-    rich_text:
-    - type: text
-      text:
-        content: Please comment below note in Line group
-        link: 
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: Please comment below note in Line group
-      href: 
+    type: url
+    url: Please comment below note in Line group
   Hosts:
     id: cdbz
     type: multi_select

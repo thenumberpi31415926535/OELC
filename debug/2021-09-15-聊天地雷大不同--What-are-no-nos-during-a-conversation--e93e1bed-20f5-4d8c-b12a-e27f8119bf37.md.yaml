@@ -36,21 +36,8 @@ properties:
       color: purple
   Sign up here:
     id: ']hGQ'
-    type: rich_text
-    rich_text:
-    - type: text
-      text:
-        content: "Join Pi's Discord server and sign up in #annoncements!"
-        link: 
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: "Join Pi's Discord server and sign up in #annoncements!"
-      href: 
+    type: url
+    url: "Join Pi's Discord server and sign up in #annoncements!"
   Hosts:
     id: cdbz
     type: multi_select
@@ -592,8 +579,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0ebfbef1-f23e-42c7-a76b-05dd4814410c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220804T015127Z&X-Amz-Expires=3600&X-Amz-Signature=0222ce59ad4ba6cea6d53fdc168afb41998a92768d18f443603dcfb33e085a21&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-08-04T02:51:27.0620000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0ebfbef1-f23e-42c7-a76b-05dd4814410c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220805%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220805T015408Z&X-Amz-Expires=3600&X-Amz-Signature=124f06b61351b673dd1b63d554a45a92258c6931da701af54584e0b3b53816a4&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-08-05T02:54:08.8130000Z
 - object: block
   id: d8cbee6e-e977-4912-b82f-a43720b41111
   parent:

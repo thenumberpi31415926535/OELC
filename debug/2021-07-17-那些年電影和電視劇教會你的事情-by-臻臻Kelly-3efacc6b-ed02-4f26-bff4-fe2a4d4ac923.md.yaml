@@ -31,21 +31,8 @@ properties:
       color: pink
   Sign up here:
     id: ']hGQ'
-    type: rich_text
-    rich_text:
-    - type: text
-      text:
-        content: leave a comment below and let us know your going to be a speaker or a listener, we accept 6 speakers tops but no limit for audience
-        link: 
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: leave a comment below and let us know your going to be a speaker or a listener, we accept 6 speakers tops but no limit for audience
-      href: 
+    type: url
+    url: leave a comment below and let us know your going to be a speaker or a listener, we accept 6 speakers tops but no limit for audience
   Hosts:
     id: cdbz
     type: multi_select

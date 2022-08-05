@@ -36,22 +36,8 @@ properties:
       color: brown
   Sign up here:
     id: ']hGQ'
-    type: rich_text
-    rich_text:
-    - type: text
-      text:
-        content: https://forms.gle/bFBEeUc2AeCVpGzb9
-        link:
-          url: https://forms.gle/bFBEeUc2AeCVpGzb9
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: https://forms.gle/bFBEeUc2AeCVpGzb9
-      href: https://forms.gle/bFBEeUc2AeCVpGzb9
+    type: url
+    url: https://forms.gle/bFBEeUc2AeCVpGzb9
   Hosts:
     id: cdbz
     type: multi_select

@@ -36,22 +36,8 @@ properties:
       color: purple
   Sign up here:
     id: ']hGQ'
-    type: rich_text
-    rich_text:
-    - type: text
-      text:
-        content: https://forms.gle/jDnGW7G6WJp1q1Hf9
-        link:
-          url: https://forms.gle/jDnGW7G6WJp1q1Hf9
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: https://forms.gle/jDnGW7G6WJp1q1Hf9
-      href: https://forms.gle/jDnGW7G6WJp1q1Hf9
+    type: url
+    url: https://forms.gle/jDnGW7G6WJp1q1Hf9
   Hosts:
     id: cdbz
     type: multi_select

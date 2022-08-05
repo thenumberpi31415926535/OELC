@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7a0acff8-e1f0-4c42-9d0e-8905c80d8a83/eNGLISH_%283%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220804T015104Z&X-Amz-Expires=3600&X-Amz-Signature=62f334856d4f47981e8af5481fd0468c7061cef24812faf244e7d3648fea3b44&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-08-04T02:51:04.2410000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7a0acff8-e1f0-4c42-9d0e-8905c80d8a83/eNGLISH_%283%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220805%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220805T015356Z&X-Amz-Expires=3600&X-Amz-Signature=5566d739ef8acc9acb5625bac296c7fea6739b4fe295d556960a6b4ecad73983&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-08-05T02:53:56.0250000Z
 icon:
   type: emoji
   emoji: "\U0001F389"
@@ -35,10 +35,6 @@ properties:
       id: f63c09ba-7d60-47fb-b786-228752a3d619
       name: Gather Town
       color: gray
-  Sign up here:
-    id: ']hGQ'
-    type: rich_text
-    rich_text: []
   Hosts:
     id: cdbz
     type: multi_select
@@ -245,8 +241,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/67b5788e-0d97-4ba7-bb74-cca0f66fe44f/7A1E97AD-EE00-4993-A874-04E5C8B13482_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220804T015104Z&X-Amz-Expires=3600&X-Amz-Signature=c38c46c8102304f44b35a59e0c4888b6ffe2006a60e3815bb54071a288a7b7e0&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-08-04T02:51:04.4630000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/67b5788e-0d97-4ba7-bb74-cca0f66fe44f/7A1E97AD-EE00-4993-A874-04E5C8B13482_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220805%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220805T015356Z&X-Amz-Expires=3600&X-Amz-Signature=32c513a6ad18e6d935c8737919e245c7591f8a82c3d25aa001a36c183bb6c506&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-08-05T02:53:56.3390000Z
 - object: block
   id: 64dcead6-c148-41e3-8736-20a8bf66603b
   parent:

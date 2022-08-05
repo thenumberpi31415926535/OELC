@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/37599b5e-9c8f-461f-b8ea-9d5d06bf21dc/eNGLISH_%283%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220804T015128Z&X-Amz-Expires=3600&X-Amz-Signature=083015230c56f98c878d7dad6bf7432ea33934f31da26a58506817f9d3a3a9ec&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-08-04T02:51:28.6500000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/37599b5e-9c8f-461f-b8ea-9d5d06bf21dc/eNGLISH_%283%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220805%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220805T015410Z&X-Amz-Expires=3600&X-Amz-Signature=5336cbac3c020d3e2ac826e694d3169602e29f72bce12d4ea6cd623dbfc49487&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-08-05T02:54:10.5690000Z
 icon:
   type: emoji
   emoji: "\U0001F60D"
@@ -37,21 +37,8 @@ properties:
       color: pink
   Sign up here:
     id: ']hGQ'
-    type: rich_text
-    rich_text:
-    - type: text
-      text:
-        content: "Just leave a comment below \U0001F642"
-        link: 
-      annotations:
-        bold: false
-        italic: false
-        strikethrough: false
-        underline: false
-        code: false
-        color: default
-      plain_text: "Just leave a comment below \U0001F642"
-      href: 
+    type: url
+    url: "Just leave a comment below \U0001F642"
   Hosts:
     id: cdbz
     type: multi_select
@@ -296,8 +283,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/610a00a6-a635-4184-9162-471717ddeb46/5E8D65AD-B290-4AAD-B0EB-BDF4CD0FD2F1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220804T015128Z&X-Amz-Expires=3600&X-Amz-Signature=f1ff3cb56b4238da36dc63c114f7f530d52dca7f325193b0aabbca5168ec85fe&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-08-04T02:51:28.8710000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/610a00a6-a635-4184-9162-471717ddeb46/5E8D65AD-B290-4AAD-B0EB-BDF4CD0FD2F1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220805%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220805T015410Z&X-Amz-Expires=3600&X-Amz-Signature=22f975ece9a06727302c37f622bd6ea0437170595d3d3a0395d8461bfb32c6de&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-08-05T02:54:10.8480000Z
 - object: block
   id: 573c7ca8-679d-47a6-8c31-8a65a855e2a2
   parent:
