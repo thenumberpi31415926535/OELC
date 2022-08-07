@@ -1,28 +1,28 @@
 ---
-meeting_link: https://meet.google.com/uor-traf-jys
-software: Google Meet
-id: 7f376600-8e8d-4d90-b9ee-394c618f0ae1
 notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-7f3766008e8d4d90b9ee394c618f0ae1
-indexDate: 2021-07-25
-title: Sunday's Talk by Peggy and Antina
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+sign_up_here: Please comment below note in Line group
+last_edited_time: 2021-07-22T17:27:00.0000000
+id: 7f376600-8e8d-4d90-b9ee-394c618f0ae1
+object: page
 tags:
 - Talk
 - 2021-07-25
 - Peggy@李明霈
 - Antina@張庭瑄
+created_time: 2021-07-20T20:10:00.0000000
+parent_type: database_id
+indexDate: 2021-07-25
 archived: false
-object: page
 hosts:
 - Peggy@李明霈
 - Antina@張庭瑄
-last_edited_time: 2021-07-22T17:27:00.0000000
-created_time: 2021-07-20T20:10:00.0000000
-language_level: No limit
+meeting_link: https://meet.google.com/uor-traf-jys
 talktime: 2021-07-25T09:30:00.0000000
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+software: Google Meet
 name: Sunday's Talk by Peggy and Antina
-sign_up_here: Please comment below note in Line group
-parent_type: database_id
+title: Sunday's Talk by Peggy and Antina
+language_level: No limit
 ---
 
 # Habits in life
