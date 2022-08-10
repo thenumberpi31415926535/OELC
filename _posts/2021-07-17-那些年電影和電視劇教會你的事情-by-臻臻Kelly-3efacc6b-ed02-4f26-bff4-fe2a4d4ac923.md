@@ -1,25 +1,25 @@
 ---
-id: 3efacc6b-ed02-4f26-bff4-fe2a4d4ac923
-object: page
-parent_type: database_id
-hosts: 臻臻Kelly
-software: Google Meet
 title: 那些年電影和電視劇教會你的事情 by 臻臻Kelly
-notion_url: https://www.notion.so/by-Kelly-3efacc6bed024f26bff4fe2a4d4ac923
-created_time: 2021-07-11T09:43:00.0000000
+last_edited_time: 2021-07-20T20:11:00.0000000
 indexDate: 2021-07-17
+talktime: 2021-07-17T22:00:00.0000000
+name: 那些年電影和電視劇教會你的事情 by 臻臻Kelly
+notion_url: https://www.notion.so/by-Kelly-3efacc6bed024f26bff4fe2a4d4ac923
+software: Google Meet
+parent_type: database_id
+sign_up_here: leave a comment below and let us know your going to be a speaker or a listener, we accept 6 speakers tops but no limit for audience
+object: page
+hosts: 臻臻Kelly
+language_level: No limit
+archived: false
 tags:
 - Talk
 - 2021-07-17
 - 臻臻Kelly
-last_edited_time: 2021-07-20T20:11:00.0000000
-talktime: 2021-07-17T22:00:00.0000000
-name: 那些年電影和電視劇教會你的事情 by 臻臻Kelly
-sign_up_here: leave a comment below and let us know your going to be a speaker or a listener, we accept 6 speakers tops but no limit for audience
+created_time: 2021-07-11T09:43:00.0000000
 meeting_link: https://meet.google.com/nep-pjzs-nsp
+id: 3efacc6b-ed02-4f26-bff4-fe2a4d4ac923
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-archived: false
-language_level: No limit
 ---
 
 Extended Questions:
