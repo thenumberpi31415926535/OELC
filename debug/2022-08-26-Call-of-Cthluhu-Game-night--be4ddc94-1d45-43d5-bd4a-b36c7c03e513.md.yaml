@@ -1,0 +1,469 @@
+object: page
+id: be4ddc94-1d45-43d5-bd4a-b36c7c03e513
+created_time: 2022-08-10T15:37:00.0000000Z
+last_edited_time: 2022-08-10T15:48:00.0000000Z
+created_by:
+  object: user
+  id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+last_edited_by:
+  object: user
+  id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1534193708707-6be94c4f67d3?ixlib=rb-1.2.1&q=80&cs=tinysrgb&fm=jpg&crop=entropy
+icon:
+  type: emoji
+  emoji: "\U0001F480"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: f7d2cf99-bbb7-474f-863c-e691575a7ba2
+      name: intermediate to advanced
+      color: gray
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: 4cc93307-5fe5-4626-91c3-5ed284b7ca4d
+      name: Discord
+      color: purple
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: b5fd044f-4265-4924-b11a-3435f6d8deb8
+      name: Bones
+      color: yellow
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: at discord game channel
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2022-08-26T12:00:00.0000000+00:00
+      end: 
+      time_zone: 
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: Call of Cthluhu Game night!
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Call of Cthluhu Game night!
+      href: 
+url: https://www.notion.so/Call-of-Cthluhu-Game-night-be4ddc941d4543d5bd4ab36c7c03e513
+
+object: list
+results:
+- object: block
+  id: 3707f574-3c8d-46ce-8232-380137cf2f55
+  parent:
+    type: page_id
+    page_id: be4ddc94-1d45-43d5-bd4a-b36c7c03e513
+  created_time: 2022-08-10T15:37:00.0000000Z
+  last_edited_time: 2022-08-10T15:42:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: 'You have been invited to join the adventure of 4 investigators. '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'You have been invited to join the adventure of 4 investigators. '
+      href: 
+- object: block
+  id: 02328d5f-b147-4207-9e07-d97518ec87bf
+  parent:
+    type: page_id
+    page_id: be4ddc94-1d45-43d5-bd4a-b36c7c03e513
+  created_time: 2022-08-10T15:43:00.0000000Z
+  last_edited_time: 2022-08-10T15:44:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: You are welcome to listen in on the adventure. But please do not interfere with gameplay! Thanks!
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: You are welcome to listen in on the adventure. But please do not interfere with gameplay! Thanks!
+      href: 
+- object: block
+  id: 9141cae3-e8a2-42ba-afe4-b3433c9dc6c7
+  parent:
+    type: page_id
+    page_id: be4ddc94-1d45-43d5-bd4a-b36c7c03e513
+  created_time: 2022-08-10T15:37:00.0000000Z
+  last_edited_time: 2022-08-10T15:37:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 437a5fd3-1308-4a1f-8799-f19505914d90
+  parent:
+    type: page_id
+    page_id: be4ddc94-1d45-43d5-bd4a-b36c7c03e513
+  created_time: 2022-08-10T15:39:00.0000000Z
+  last_edited_time: 2022-08-10T15:39:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  has_children: false
+  archived: false
+  type: image
+  image:
+    caption: []
+    type: file
+    file:
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4976356c-c2c3-4a73-9bba-b89e07ea7702/TheHaunting1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220811%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220811T014603Z&X-Amz-Expires=3600&X-Amz-Signature=75ad522a00940ce14316b9dbcce0a3187313d8848f0ddf31dad7718ed178038b&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-08-11T02:46:03.7790000Z
+- object: block
+  id: e62b4c71-f56a-41c2-908d-68764ed0be8e
+  parent:
+    type: page_id
+    page_id: be4ddc94-1d45-43d5-bd4a-b36c7c03e513
+  created_time: 2022-08-10T15:37:00.0000000Z
+  last_edited_time: 2022-08-10T15:37:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 9cd948f7-60b1-445b-b319-beacb4fadc1b
+  parent:
+    type: page_id
+    page_id: be4ddc94-1d45-43d5-bd4a-b36c7c03e513
+  created_time: 2022-08-10T15:37:00.0000000Z
+  last_edited_time: 2022-08-10T15:48:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: 'Character sheets: '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'Character sheets: '
+      href: 
+- object: block
+  id: 654669d7-9fcf-43f3-b34a-cea01b10857b
+  parent:
+    type: page_id
+    page_id: be4ddc94-1d45-43d5-bd4a-b36c7c03e513
+  created_time: 2022-08-10T15:37:00.0000000Z
+  last_edited_time: 2022-08-10T15:47:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: https://docs.google.com/spreadsheets/d/1tcdDgBORAca9wu-TN8DuN2JUVTok43aEh_y0sJowWnE/edit?usp=drivesdk
+        link:
+          url: https://docs.google.com/spreadsheets/d/1tcdDgBORAca9wu-TN8DuN2JUVTok43aEh_y0sJowWnE/edit?usp=drivesdk
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: https://docs.google.com/spreadsheets/d/1tcdDgBORAca9wu-TN8DuN2JUVTok43aEh_y0sJowWnE/edit?usp=drivesdk
+      href: https://docs.google.com/spreadsheets/d/1tcdDgBORAca9wu-TN8DuN2JUVTok43aEh_y0sJowWnE/edit?usp=drivesdk
+    - type: text
+      text:
+        content: ' '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: ' '
+      href: 
+- object: block
+  id: 6e245cb5-18ad-49e6-9d22-ce6c554d7058
+  parent:
+    type: page_id
+    page_id: be4ddc94-1d45-43d5-bd4a-b36c7c03e513
+  created_time: 2022-08-10T15:37:00.0000000Z
+  last_edited_time: 2022-08-10T15:37:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: fc8ea780-4712-4c97-8371-e46d47d39282
+  parent:
+    type: page_id
+    page_id: be4ddc94-1d45-43d5-bd4a-b36c7c03e513
+  created_time: 2022-08-10T15:37:00.0000000Z
+  last_edited_time: 2022-08-10T15:37:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: c12ab9e7-6d11-426c-9315-3567fb9c66e4
+  parent:
+    type: page_id
+    page_id: be4ddc94-1d45-43d5-bd4a-b36c7c03e513
+  created_time: 2022-08-10T15:37:00.0000000Z
+  last_edited_time: 2022-08-10T15:37:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: b8655413-cec0-4e2e-b366-589817331c6e
+  parent:
+    type: page_id
+    page_id: be4ddc94-1d45-43d5-bd4a-b36c7c03e513
+  created_time: 2022-08-10T15:37:00.0000000Z
+  last_edited_time: 2022-08-10T15:37:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: f7a13a07-cd88-4e29-ae3b-18c33b98b4fb
+  parent:
+    type: page_id
+    page_id: be4ddc94-1d45-43d5-bd4a-b36c7c03e513
+  created_time: 2022-08-10T15:37:00.0000000Z
+  last_edited_time: 2022-08-10T15:37:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 2f461de9-6cd7-4850-8dcb-9ea3d1c88f00
+  parent:
+    type: page_id
+    page_id: be4ddc94-1d45-43d5-bd4a-b36c7c03e513
+  created_time: 2022-08-10T15:37:00.0000000Z
+  last_edited_time: 2022-08-10T15:37:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: a2f64c36-dcc9-4575-93ac-57b7cd8685be
+  parent:
+    type: page_id
+    page_id: be4ddc94-1d45-43d5-bd4a-b36c7c03e513
+  created_time: 2022-08-10T15:37:00.0000000Z
+  last_edited_time: 2022-08-10T15:37:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 767230f4-17b6-4044-b7ff-e9337027e831
+  parent:
+    type: page_id
+    page_id: be4ddc94-1d45-43d5-bd4a-b36c7c03e513
+  created_time: 2022-08-10T15:37:00.0000000Z
+  last_edited_time: 2022-08-10T15:37:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 0504ad77-75d9-4e18-9683-77f36e4f9920
+  parent:
+    type: page_id
+    page_id: be4ddc94-1d45-43d5-bd4a-b36c7c03e513
+  created_time: 2022-08-10T15:37:00.0000000Z
+  last_edited_time: 2022-08-10T15:37:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  has_children: true
+  archived: false
+  type: column_list
+  column_list: {}
+- object: block
+  id: c2885d7c-e207-42b2-88e7-efd9ad4fa83f
+  parent:
+    type: page_id
+    page_id: be4ddc94-1d45-43d5-bd4a-b36c7c03e513
+  created_time: 2022-08-10T15:37:00.0000000Z
+  last_edited_time: 2022-08-10T15:37:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  has_children: false
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
+next_cursor: 
+has_more: false
+
