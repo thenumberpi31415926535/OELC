@@ -116,6 +116,7 @@ results:
   archived: false
   type: heading_1
   heading_1:
+    is_toggleable: false
     color: default
     text:
     - type: text

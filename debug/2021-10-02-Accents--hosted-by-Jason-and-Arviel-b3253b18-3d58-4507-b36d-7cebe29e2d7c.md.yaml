@@ -97,6 +97,7 @@ results:
   archived: false
   type: heading_3
   heading_3:
+    is_toggleable: false
     color: default
     text:
     - type: text
@@ -251,6 +252,7 @@ results:
   archived: false
   type: heading_3
   heading_3:
+    is_toggleable: false
     color: default
     text:
     - type: text
@@ -469,6 +471,7 @@ results:
   archived: false
   type: heading_2
   heading_2:
+    is_toggleable: false
     color: default
     text:
     - type: text

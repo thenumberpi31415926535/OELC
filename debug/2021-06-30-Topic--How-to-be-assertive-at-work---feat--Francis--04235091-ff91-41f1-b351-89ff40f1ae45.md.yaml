@@ -93,6 +93,7 @@ results:
   archived: false
   type: heading_1
   heading_1:
+    is_toggleable: false
     color: default
     text:
     - type: mention
@@ -216,6 +217,7 @@ results:
   archived: false
   type: heading_1
   heading_1:
+    is_toggleable: false
     color: default
     text:
     - type: text
@@ -431,6 +433,7 @@ results:
   archived: false
   type: heading_1
   heading_1:
+    is_toggleable: false
     color: default
     text:
     - type: text
@@ -463,6 +466,7 @@ results:
   archived: false
   type: heading_2
   heading_2:
+    is_toggleable: false
     color: default
     text:
     - type: text
@@ -527,6 +531,7 @@ results:
   archived: false
   type: heading_2
   heading_2:
+    is_toggleable: false
     color: default
     text:
     - type: text
@@ -591,6 +596,7 @@ results:
   archived: false
   type: heading_2
   heading_2:
+    is_toggleable: false
     color: default
     text:
     - type: text
@@ -655,6 +661,7 @@ results:
   archived: false
   type: heading_2
   heading_2:
+    is_toggleable: false
     color: default
     text:
     - type: text
@@ -719,6 +726,7 @@ results:
   archived: false
   type: heading_2
   heading_2:
+    is_toggleable: false
     color: default
     text:
     - type: text
@@ -783,6 +791,7 @@ results:
   archived: false
   type: heading_1
   heading_1:
+    is_toggleable: false
     color: default
     text:
     - type: text
@@ -847,6 +856,7 @@ results:
   archived: false
   type: heading_1
   heading_1:
+    is_toggleable: false
     color: default
     text:
     - type: text
@@ -911,6 +921,7 @@ results:
   archived: false
   type: heading_1
   heading_1:
+    is_toggleable: false
     color: default
     text:
     - type: text
@@ -1007,6 +1018,7 @@ results:
   archived: false
   type: heading_1
   heading_1:
+    is_toggleable: false
     color: default
     text:
     - type: text
@@ -1152,6 +1164,7 @@ results:
   archived: false
   type: heading_3
   heading_3:
+    is_toggleable: false
     color: default
     text:
     - type: text
@@ -1547,6 +1560,7 @@ results:
   archived: false
   type: heading_3
   heading_3:
+    is_toggleable: false
     color: default
     text:
     - type: text
@@ -1692,8 +1706,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2d7b0398-970a-4600-892f-3e64795c0b0b/90664EFA-2327-4C46-9698-0F743B6485B9.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220819%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220819T015933Z&X-Amz-Expires=3600&X-Amz-Signature=fe0577eb2d1a6171d3959a4791e73bb52fab66a6b9eadda836f2ae9b154109c7&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-08-19T02:59:33.3400000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2d7b0398-970a-4600-892f-3e64795c0b0b/90664EFA-2327-4C46-9698-0F743B6485B9.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220820%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220820T015930Z&X-Amz-Expires=3600&X-Amz-Signature=6f1a793164931f7ce7cec215a6d880c1a872e982909f31e1578655d110184518&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-08-20T02:59:30.4740000Z
 - object: block
   id: a72e0696-be2a-41e4-9102-742053977f80
   parent:
@@ -1757,6 +1771,7 @@ results:
   archived: false
   type: heading_3
   heading_3:
+    is_toggleable: false
     color: default
     text:
     - type: text

@@ -290,6 +290,7 @@ results:
   archived: false
   type: heading_2
   heading_2:
+    is_toggleable: false
     color: default
     text:
     - type: text
@@ -540,8 +541,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5e66a8cb-cc55-4354-abd7-0efc4deccbac/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220819%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220819T015940Z&X-Amz-Expires=3600&X-Amz-Signature=383412d6430578d63db545e78ad49a19f2b1a47477566f33c381cadcbc34a75f&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-08-19T02:59:40.8720000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5e66a8cb-cc55-4354-abd7-0efc4deccbac/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220820%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220820T015936Z&X-Amz-Expires=3600&X-Amz-Signature=d2221d93b7a968a52b90402c9d59405e77d78665740b97003ecc9e2d4377f690&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-08-20T02:59:36.9690000Z
 next_cursor: 
 has_more: false
 

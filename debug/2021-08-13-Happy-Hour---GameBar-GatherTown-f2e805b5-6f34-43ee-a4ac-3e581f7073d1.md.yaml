@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b237fb23-4898-4701-9f36-f2b07cda4029/Screen_Shot_2021-08-05_at_6.25.11_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220819%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220819T015912Z&X-Amz-Expires=3600&X-Amz-Signature=20a2adedf5800cb41df702f8666b279151b6ba587b847a2ffd4156b419b952ba&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-08-19T02:59:12.3090000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b237fb23-4898-4701-9f36-f2b07cda4029/Screen_Shot_2021-08-05_at_6.25.11_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220820%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220820T015916Z&X-Amz-Expires=3600&X-Amz-Signature=da03371a88a589a33bf993adac853684a8b93abb78c4ea24d078a0b3fdba0cb4&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-08-20T02:59:16.5440000Z
 icon:
   type: emoji
   emoji: "\U0001F37B"
@@ -159,6 +159,7 @@ results:
   archived: false
   type: heading_1
   heading_1:
+    is_toggleable: false
     color: default
     text:
     - type: text
@@ -287,6 +288,7 @@ results:
   archived: false
   type: heading_2
   heading_2:
+    is_toggleable: false
     color: default
     text:
     - type: text
@@ -493,6 +495,7 @@ results:
   archived: false
   type: heading_1
   heading_1:
+    is_toggleable: false
     color: default
     text:
     - type: text
@@ -525,6 +528,7 @@ results:
   archived: false
   type: heading_2
   heading_2:
+    is_toggleable: false
     color: default
     text:
     - type: text
@@ -672,6 +676,7 @@ results:
   archived: false
   type: heading_1
   heading_1:
+    is_toggleable: false
     color: default
     text:
     - type: text
