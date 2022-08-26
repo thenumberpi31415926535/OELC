@@ -1,28 +1,28 @@
 ---
-software: Google Meet
-id: 34d872b9-fe6b-4d97-bb61-3b419dcd0678
-name: Impulse purchase by Bones and Pi
-title: Impulse purchase by Bones and Pi
-last_edited_time: 2021-06-16T20:39:00.0000000
-language_level: No limit
-created_time: 2021-06-14T02:34:00.0000000
-hosts:
-- Pi
-- Bones
-parent_type: database_id
-indexDate: 2021-06-16
 tags:
 - Talk
 - 2021-06-16
 - Pi
 - Bones
-archived: false
-sign_up_here: https://forms.gle/vmXfsSQC92B1aoh49
-talktime: 2021-06-16T21:00:00.0000000
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-object: page
+language_level: No limit
+id: 34d872b9-fe6b-4d97-bb61-3b419dcd0678
 meeting_link: https://meet.google.com/oxj-bvov-jua
+object: page
+indexDate: 2021-06-16
+talktime: 2021-06-16T21:00:00.0000000
+name: Impulse purchase by Bones and Pi
+parent_type: database_id
+hosts:
+- Pi
+- Bones
+archived: false
+title: Impulse purchase by Bones and Pi
+sign_up_here: https://forms.gle/vmXfsSQC92B1aoh49
+last_edited_time: 2021-06-16T20:39:00.0000000
 notion_url: https://www.notion.so/Impulse-purchase-by-Bones-and-Pi-34d872b9fe6b4d97bb613b419dcd0678
+created_time: 2021-06-14T02:34:00.0000000
+software: Google Meet
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 ---
 
 [Untitled](https://www.notion.so/cd877e06ad7149f69157f2c71bad5cca)   
