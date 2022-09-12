@@ -1,27 +1,27 @@
 ---
-talktime: 2021-06-18T20:00:00.0000000
-parent_type: database_id
-archived: false
-meeting_link: https://meet.google.com/fmt-ksxu-uuv
-software: Google Meet
-name: Hosts hangout by Bones and Pi
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-last_edited_time: 2021-06-16T23:54:00.0000000
-indexDate: 2021-06-18
-notion_url: https://www.notion.so/Hosts-hangout-by-Bones-and-Pi-c5c51f47bb17444ca802688e5847a127
-title: Hosts hangout by Bones and Pi
-created_time: 2021-06-14T19:01:00.0000000
 hosts:
 - Pi
 - Bones
-language_level: No limit
+id: c5c51f47-bb17-444c-a802-688e5847a127
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+parent_type: database_id
+indexDate: 2021-06-18
+title: Hosts hangout by Bones and Pi
+name: Hosts hangout by Bones and Pi
+notion_url: https://www.notion.so/Hosts-hangout-by-Bones-and-Pi-c5c51f47bb17444ca802688e5847a127
 object: page
+created_time: 2021-06-14T19:01:00.0000000
+talktime: 2021-06-18T20:00:00.0000000
 tags:
 - Talk
 - 2021-06-18
 - Pi
 - Bones
-id: c5c51f47-bb17-444c-a802-688e5847a127
+last_edited_time: 2021-06-16T23:54:00.0000000
+language_level: No limit
+software: Google Meet
+meeting_link: https://meet.google.com/fmt-ksxu-uuv
+archived: false
 ---
 
 A regular catch up between hosts.
