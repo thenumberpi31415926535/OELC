@@ -1,23 +1,23 @@
 ---
-meeting_link: at discord game channel
-name: Call of Cthluhu Game night!
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-parent_type: database_id
 indexDate: 2022-08-26
-talktime: 2022-08-26T20:00:00.0000000
-language_level: intermediate to advanced
-notion_url: https://www.notion.so/Call-of-Cthluhu-Game-night-be4ddc941d4543d5bd4ab36c7c03e513
-software: Discord
-hosts: Bones
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 id: be4ddc94-1d45-43d5-bd4a-b36c7c03e513
-archived: false
-last_edited_time: 2022-08-10T23:48:00.0000000
-object: page
+talktime: 2022-08-26T20:00:00.0000000
 tags:
 - Talk
 - 2022-08-26
 - Bones
+name: Call of Cthluhu Game night!
+software: Discord
+notion_url: https://www.notion.so/Call-of-Cthluhu-Game-night-be4ddc941d4543d5bd4ab36c7c03e513
+meeting_link: at discord game channel
+hosts: Bones
+language_level: intermediate to advanced
+archived: false
+object: page
+last_edited_time: 2022-08-10T23:48:00.0000000
 title: Call of Cthluhu Game night!
+parent_type: database_id
 created_time: 2022-08-10T23:37:00.0000000
 ---
 
