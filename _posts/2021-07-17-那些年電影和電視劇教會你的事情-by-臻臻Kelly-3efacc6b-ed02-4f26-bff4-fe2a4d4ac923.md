@@ -1,24 +1,24 @@
 ---
-archived: false
-meeting_link: https://meet.google.com/nep-pjzs-nsp
-notion_url: https://www.notion.so/by-Kelly-3efacc6bed024f26bff4fe2a4d4ac923
-object: page
 id: 3efacc6b-ed02-4f26-bff4-fe2a4d4ac923
-language_level: No limit
+indexDate: 2021-07-17
+meeting_link: https://meet.google.com/nep-pjzs-nsp
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 title: 那些年電影和電視劇教會你的事情 by 臻臻Kelly
-parent_type: database_id
+last_edited_time: 2021-07-20T20:11:00.0000000
+software: Google Meet
+notion_url: https://www.notion.so/by-Kelly-3efacc6bed024f26bff4fe2a4d4ac923
 tags:
 - Talk
 - 2021-07-17
 - 臻臻Kelly
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-last_edited_time: 2021-07-20T20:11:00.0000000
-name: 那些年電影和電視劇教會你的事情 by 臻臻Kelly
-created_time: 2021-07-11T09:43:00.0000000
-indexDate: 2021-07-17
+parent_type: database_id
+language_level: No limit
 talktime: 2021-07-17T22:00:00.0000000
+archived: false
+name: 那些年電影和電視劇教會你的事情 by 臻臻Kelly
+object: page
 hosts: 臻臻Kelly
-software: Google Meet
+created_time: 2021-07-11T09:43:00.0000000
 sign_up_here: leave a comment below and let us know your going to be a speaker or a listener, we accept 6 speakers tops but no limit for audience
 ---
 
