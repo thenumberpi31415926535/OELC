@@ -1,28 +1,28 @@
 ---
+notion_url: https://www.notion.so/What-are-no-nos-during-a-conversation-e93e1bed20f54d8cb12ae27f8119bf37
+language_level: No limit
 tags:
 - Talk
 - 2021-09-15
 - Bones
 - Pi
-sign_up_here: "Join Pi's Discord server and sign up in #annoncements!"
-notion_url: https://www.notion.so/What-are-no-nos-during-a-conversation-e93e1bed20f54d8cb12ae27f8119bf37
-talktime: 2021-09-15T21:00:00.0000000
+software: Discord
+id: e93e1bed-20f5-4d8c-b12a-e27f8119bf37
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 name: 聊天地雷大不同? What are no-nos during a conversation?
 created_time: 2021-09-14T21:58:00.0000000
-id: e93e1bed-20f5-4d8c-b12a-e27f8119bf37
-archived: false
-title: 聊天地雷大不同? What are no-nos during a conversation?
-object: page
-last_edited_time: 2021-09-14T22:06:00.0000000
-software: Discord
-language_level: No limit
-indexDate: 2021-09-15
-parent_type: database_id
-meeting_link: https://discord.gg/vE7QUXGDnS
 hosts:
 - Bones
 - Pi
+indexDate: 2021-09-15
+sign_up_here: "Join Pi's Discord server and sign up in #annoncements!"
+archived: false
+parent_type: database_id
+talktime: 2021-09-15T21:00:00.0000000
+meeting_link: https://discord.gg/vE7QUXGDnS
+last_edited_time: 2021-09-14T22:06:00.0000000
+object: page
+title: 聊天地雷大不同? What are no-nos during a conversation?
 ---
 
 
