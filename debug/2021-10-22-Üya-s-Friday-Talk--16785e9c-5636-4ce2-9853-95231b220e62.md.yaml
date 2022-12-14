@@ -11,13 +11,13 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8dfc8af9-27f0-41cd-becd-f6dddeb360f5/83A23BB8-E2A5-4CDC-A22C-90643D782C44.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221213T012602Z&X-Amz-Expires=3600&X-Amz-Signature=5c8a52df98361cae62ba835e4bb67e6c78bafe49d180a38ac456e0448cedd2f0&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-12-13T02:26:02.4070000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8dfc8af9-27f0-41cd-becd-f6dddeb360f5/83A23BB8-E2A5-4CDC-A22C-90643D782C44.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221214T012205Z&X-Amz-Expires=3600&X-Amz-Signature=8c5a9872dd24ee61f2a30ccd0f82aafa51400cf9fdc832e6629ac007dd0d0171&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-12-14T02:22:05.9600000Z
 icon:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/627c6e2e-feb0-44b5-b62e-f035f0dbb58c/C5F0CF0F-CC6E-4270-B8AE-69E806A09DE6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221213T012602Z&X-Amz-Expires=3600&X-Amz-Signature=414243634708da3792b997c6f6379807ad054a07b6a49835068cf4c78808ee7e&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-12-13T02:26:02.4110000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/627c6e2e-feb0-44b5-b62e-f035f0dbb58c/C5F0CF0F-CC6E-4270-B8AE-69E806A09DE6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221214T012205Z&X-Amz-Expires=3600&X-Amz-Signature=7fbececa4dbfee8bb0e5da82cb27ab85feec4aacc52a6a723d0b4d72715b09d0&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-12-14T02:22:05.9710000Z
 parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
@@ -37,10 +37,6 @@ properties:
       id: ebcf81e4-1144-4c40-b74e-756d9c2b2506
       name: Skype
       color: green
-  Sign up here:
-    id: ']hGQ'
-    type: url
-    url: https://forms.gle/jJb9fACAvsc66ixF9
   Hosts:
     id: cdbz
     type: multi_select

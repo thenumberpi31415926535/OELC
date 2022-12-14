@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/285f20f1-da99-4bfa-8db7-fc7ebb642af4/Welcome_to_Abbys_Online_Talk_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221213T012623Z&X-Amz-Expires=3600&X-Amz-Signature=41afc5d640c052b25caf902d7330d8dffcd03ec38ee93ea99a58489013ad51e2&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-12-13T02:26:23.2830000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/285f20f1-da99-4bfa-8db7-fc7ebb642af4/Welcome_to_Abbys_Online_Talk_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221214T012226Z&X-Amz-Expires=3600&X-Amz-Signature=2e3e51529aaac3fa6548065f62c966c0fd40ee804966b805093076ee8d238cad&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-12-14T02:22:26.0230000Z
 icon:
   type: emoji
   emoji: "\U0001F60D"
@@ -35,10 +35,6 @@ properties:
       id: 3775b82a-0108-475c-ae48-b2c8e248dcef
       name: Google Meet
       color: pink
-  Sign up here:
-    id: ']hGQ'
-    type: url
-    url: "Just leave a comment below \U0001F642"
   Hosts:
     id: cdbz
     type: multi_select
@@ -249,8 +245,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1199ff4e-a554-4720-b286-b946524133c9/7A1E97AD-EE00-4993-A874-04E5C8B13482.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221213T012623Z&X-Amz-Expires=3600&X-Amz-Signature=3e365fe7421def0380ae3584bc1c7ffaf8adb834a811fe4e19e747e9197e7d4f&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-12-13T02:26:23.4460000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1199ff4e-a554-4720-b286-b946524133c9/7A1E97AD-EE00-4993-A874-04E5C8B13482.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221214T012226Z&X-Amz-Expires=3600&X-Amz-Signature=131d5dae498e0b9a811a6e77bcf6c5d25e6ed7d083677e48e2bdee38d7f9c098&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-12-14T02:22:26.5530000Z
 - object: block
   id: f965c706-f7ab-4d2e-bc8c-bf35d5e899fd
   parent:

@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/25949ee0-b4e4-4e71-b501-8cb6936552d9/eNGLISH_%283%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221213T012557Z&X-Amz-Expires=3600&X-Amz-Signature=d454f707768d1db468494afd2b4e06337610e4a6663a26e936d08305d2e69a84&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-12-13T02:25:57.0940000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/25949ee0-b4e4-4e71-b501-8cb6936552d9/eNGLISH_%283%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221214T012157Z&X-Amz-Expires=3600&X-Amz-Signature=c267c60ec1990827f2cac49baff97c3a4870173ce24e1a368a89a0910dd760d9&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-12-14T02:21:57.8860000Z
 icon:
   type: emoji
   emoji: "\U0001F970"
@@ -35,10 +35,6 @@ properties:
       id: 3775b82a-0108-475c-ae48-b2c8e248dcef
       name: Google Meet
       color: pink
-  Sign up here:
-    id: ']hGQ'
-    type: url
-    url: "Just come whenever is good for you \U0001F642"
   Hosts:
     id: cdbz
     type: multi_select
@@ -149,8 +145,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7373e0fd-47f9-4d05-9ea0-0e063df404f3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221213T012557Z&X-Amz-Expires=3600&X-Amz-Signature=aa4a2c7e610bf5c18a13a927bf9f0c16dad0540a830c1c96143e7cf134cdb0c8&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-12-13T02:25:57.2800000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7373e0fd-47f9-4d05-9ea0-0e063df404f3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221214T012158Z&X-Amz-Expires=3600&X-Amz-Signature=7372adad97a750a60c410a252fef219f95d7881871f3c487993518aaab29ce52&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-12-14T02:21:58.3300000Z
 - object: block
   id: 1b37bf8c-a789-40e0-92c7-a511b90f89f2
   parent:

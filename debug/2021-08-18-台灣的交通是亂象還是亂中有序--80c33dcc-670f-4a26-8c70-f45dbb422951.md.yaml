@@ -34,10 +34,6 @@ properties:
       id: 4cc93307-5fe5-4626-91c3-5ed284b7ca4d
       name: Discord
       color: purple
-  Sign up here:
-    id: ']hGQ'
-    type: url
-    url: "Join Pi's Discord server and sign up in #annoncements!"
   Hosts:
     id: cdbz
     type: multi_select
@@ -406,8 +402,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3e3d099f-ecf5-4272-858b-50b991c73022/Brainstorming_-_08_18_%E5%8F%B0%E7%81%A3%E7%9A%84%E4%BA%A4%E9%80%9A%E6%98%AF%E4%BA%82%E8%B1%A1%E9%82%84%E6%98%AF%E4%BA%82%E4%B8%AD%E6%9C%89%E5%BA%8F_.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221213T012605Z&X-Amz-Expires=3600&X-Amz-Signature=54fe7c637b93ab8562c7ff011dbe378e927680c631998eb28008777363693209&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-12-13T02:26:05.0600000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3e3d099f-ecf5-4272-858b-50b991c73022/Brainstorming_-_08_18_%E5%8F%B0%E7%81%A3%E7%9A%84%E4%BA%A4%E9%80%9A%E6%98%AF%E4%BA%82%E8%B1%A1%E9%82%84%E6%98%AF%E4%BA%82%E4%B8%AD%E6%9C%89%E5%BA%8F_.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221214T012214Z&X-Amz-Expires=3600&X-Amz-Signature=4dcb2fc4f05fe05139d0b756636b185b097f3518aba187e38660aec64b42d7b6&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-12-14T02:22:14.3870000Z
 - object: block
   id: 574bd2a2-a2b5-41c0-9ad2-412edf527af7
   parent:

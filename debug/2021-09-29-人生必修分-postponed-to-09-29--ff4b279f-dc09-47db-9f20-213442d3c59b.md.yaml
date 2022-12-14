@@ -34,10 +34,6 @@ properties:
       id: 4cc93307-5fe5-4626-91c3-5ed284b7ca4d
       name: Discord
       color: purple
-  Sign up here:
-    id: ']hGQ'
-    type: url
-    url: "Join Pi's Discord server and sign up in #annoncements!"
   Hosts:
     id: cdbz
     type: multi_select
@@ -1256,8 +1252,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4878e899-11ff-4da7-88eb-7b11e3d1329d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221213T012617Z&X-Amz-Expires=3600&X-Amz-Signature=ce0beaee2e175de288dafecbcf4fef93f9d3fbac9364dc5b7354aeb12ade1efe&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-12-13T02:26:17.5710000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4878e899-11ff-4da7-88eb-7b11e3d1329d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221214T012217Z&X-Amz-Expires=3600&X-Amz-Signature=6f90e421fac58e816569ec48c7e35ec490a3b64134ab502ea43c82eeafd84f52&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-12-14T02:22:17.3370000Z
 - object: block
   id: 346f3be8-50d0-4f1b-9343-2e18ae9b9eb5
   parent:

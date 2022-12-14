@@ -31,10 +31,6 @@ properties:
       id: f63c09ba-7d60-47fb-b786-228752a3d619
       name: Gather Town
       color: gray
-  Sign up here:
-    id: ']hGQ'
-    type: url
-    url: Rex
   Hosts:
     id: cdbz
     type: multi_select
@@ -97,8 +93,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/52cd2634-8d3c-42a9-9385-422594172de3/Maintence.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221213T012606Z&X-Amz-Expires=3600&X-Amz-Signature=d88ae07f5f222db782326aee897554b2a184376c4fb203efe6de4cf442d3a2e8&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-12-13T02:26:06.2380000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/52cd2634-8d3c-42a9-9385-422594172de3/Maintence.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221214T012215Z&X-Amz-Expires=3600&X-Amz-Signature=3cd5993cc250e02829cf88dcd9be6fe0d4cf7880ea861c4cd5c91bec65b1ae41&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-12-14T02:22:15.5170000Z
 - object: block
   id: 2b24731b-3e11-4291-a684-65ba1cf38c5c
   parent:
@@ -444,8 +440,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8d68e8f8-b1d4-498b-bc03-738f8acf3c78/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221213T012606Z&X-Amz-Expires=3600&X-Amz-Signature=8a9851481cb97eb5fab83d2a9ac0b7496beb67646897d7c9281de29ac469656a&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-12-13T02:26:06.2410000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8d68e8f8-b1d4-498b-bc03-738f8acf3c78/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221214T012215Z&X-Amz-Expires=3600&X-Amz-Signature=81191d057e285bf96d3e7864241a8910b0d9be50dc8e79115ae97c835a5ed879&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-12-14T02:22:15.5480000Z
 - object: block
   id: b567a48d-53a1-4625-a90b-0f315de6b612
   parent:

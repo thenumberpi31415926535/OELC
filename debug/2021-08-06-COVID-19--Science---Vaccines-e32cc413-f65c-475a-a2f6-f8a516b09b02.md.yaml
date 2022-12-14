@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf70b2a4-7f85-4d4c-917d-e247d2151fa5/ocivd.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221213T012639Z&X-Amz-Expires=3600&X-Amz-Signature=afbda7da3a133194a0bfc317f8d989cc0939e674512202091e2f847534ca7519&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-12-13T02:26:39.8650000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf70b2a4-7f85-4d4c-917d-e247d2151fa5/ocivd.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221214T012243Z&X-Amz-Expires=3600&X-Amz-Signature=eeca2a6cf01d129c4f8e2dd914c0f6184f5e79352ea725c1cc1db19d8f5be13a&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-12-14T02:22:43.1510000Z
 icon:
   type: emoji
   emoji: "\U0001F9A0"
@@ -35,10 +35,6 @@ properties:
       id: 4cc93307-5fe5-4626-91c3-5ed284b7ca4d
       name: Discord
       color: purple
-  Sign up here:
-    id: ']hGQ'
-    type: url
-    url: "Join Pi's Discord server "
   Hosts:
     id: cdbz
     type: multi_select

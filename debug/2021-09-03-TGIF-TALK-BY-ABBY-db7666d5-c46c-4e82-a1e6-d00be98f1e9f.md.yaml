@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/37599b5e-9c8f-461f-b8ea-9d5d06bf21dc/eNGLISH_%283%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221213T012621Z&X-Amz-Expires=3600&X-Amz-Signature=e281722ffd090f8dc99d61ca162885f8dcf78b222ab27bef1d63233c344efec7&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-12-13T02:26:21.1960000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/37599b5e-9c8f-461f-b8ea-9d5d06bf21dc/eNGLISH_%283%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221214T012223Z&X-Amz-Expires=3600&X-Amz-Signature=75248e05ed8c26552d44f25b2faae3edb55034728ef35cb9ddd53bb9749ba66a&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-12-14T02:22:23.7960000Z
 icon:
   type: emoji
   emoji: "\U0001F60D"
@@ -35,10 +35,6 @@ properties:
       id: 3775b82a-0108-475c-ae48-b2c8e248dcef
       name: Google Meet
       color: pink
-  Sign up here:
-    id: ']hGQ'
-    type: url
-    url: "Just leave a comment below \U0001F642"
   Hosts:
     id: cdbz
     type: multi_select
@@ -283,8 +279,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/610a00a6-a635-4184-9162-471717ddeb46/5E8D65AD-B290-4AAD-B0EB-BDF4CD0FD2F1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221213T012621Z&X-Amz-Expires=3600&X-Amz-Signature=e87244774bb4c7934d7269409133b01aac606b7df8a3f0a0dd7ca4682acbd83f&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-12-13T02:26:21.8320000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/610a00a6-a635-4184-9162-471717ddeb46/5E8D65AD-B290-4AAD-B0EB-BDF4CD0FD2F1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221214T012223Z&X-Amz-Expires=3600&X-Amz-Signature=ec7077757007cfa1f2716e3e73f1f5e352a6c8f69c04461b1129c06b8f779c78&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-12-14T02:22:23.9560000Z
 - object: block
   id: 573c7ca8-679d-47a6-8c31-8a65a855e2a2
   parent:

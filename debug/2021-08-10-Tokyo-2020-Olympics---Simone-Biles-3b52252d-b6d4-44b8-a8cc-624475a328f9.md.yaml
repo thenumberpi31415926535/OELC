@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/129035db-1894-4d48-bcb5-9ccd151a13b8/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221213T012638Z&X-Amz-Expires=3600&X-Amz-Signature=befba8477bbd5b61368cc0ae1260fc120b036537e71a3e2efa840f169b6c78ef&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-12-13T02:26:38.2830000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/129035db-1894-4d48-bcb5-9ccd151a13b8/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221214T012239Z&X-Amz-Expires=3600&X-Amz-Signature=f54fcc4fca6ad8843b98ba9637df6b785eccd90f75c9785c5bcf445b18ed9289&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-12-14T02:22:39.7240000Z
 icon:
   type: emoji
   emoji: "\U0001F3C5"
@@ -35,10 +35,6 @@ properties:
       id: 4cc93307-5fe5-4626-91c3-5ed284b7ca4d
       name: Discord
       color: purple
-  Sign up here:
-    id: ']hGQ'
-    type: url
-    url: "Join Pi's Discord server "
   Hosts:
     id: cdbz
     type: multi_select
@@ -101,8 +97,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4eaaa657-e71a-410d-ae75-cee82da5a402/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221213T012638Z&X-Amz-Expires=3600&X-Amz-Signature=6e280a9677178d3e174d7ba4de3e9d4592103de8cf56cf77c267076e830a9a37&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-12-13T02:26:38.4500000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4eaaa657-e71a-410d-ae75-cee82da5a402/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221214T012239Z&X-Amz-Expires=3600&X-Amz-Signature=ab21a70cf475d01aeeb8e295917cbca8b115c61720d1aff1eacda398e4e83b0b&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-12-14T02:22:39.8550000Z
 - object: block
   id: af90d0eb-4f45-4ff7-9997-786406d7a673
   parent:

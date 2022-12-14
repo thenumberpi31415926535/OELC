@@ -34,10 +34,6 @@ properties:
       id: 4cc93307-5fe5-4626-91c3-5ed284b7ca4d
       name: Discord
       color: purple
-  Sign up here:
-    id: ']hGQ'
-    type: url
-    url: "Join Pi's Discord server and sign up in #annoncements!"
   Hosts:
     id: cdbz
     type: multi_select
@@ -419,8 +415,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/eaa5a51f-c5da-4ae0-81e3-18679f6a288c/Brainstorming_-_09_8_Relationship-Free_talk.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221213T012622Z&X-Amz-Expires=3600&X-Amz-Signature=cff998169011d854251414c17eb57b75b28e7dc991592d164b521dfcd8771a27&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-12-13T02:26:22.4380000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/eaa5a51f-c5da-4ae0-81e3-18679f6a288c/Brainstorming_-_09_8_Relationship-Free_talk.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221214T012225Z&X-Amz-Expires=3600&X-Amz-Signature=cb617685d7b7a7d3e3bc3dc5ecb397c8957feb2f70c69994699984321261bb2d&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-12-14T02:22:25.1380000Z
 - object: block
   id: ac54503f-3fb5-4db5-8abd-5dee2ffdd26e
   parent:

@@ -34,10 +34,6 @@ properties:
       id: 3775b82a-0108-475c-ae48-b2c8e248dcef
       name: Google Meet
       color: pink
-  Sign up here:
-    id: ']hGQ'
-    type: url
-    url: Just leave a comment below :)
   Hosts:
     id: cdbz
     type: multi_select
@@ -218,8 +214,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/645f23be-e262-4181-b932-cc79f853f513/921881B8-6CDE-4763-AE15-56F5E26FB295.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221213T012638Z&X-Amz-Expires=3600&X-Amz-Signature=2154dd730180f39a93abac6ebc59372f538a4a00f08794e920d3883b24dbf13b&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-12-13T02:26:38.8720000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/645f23be-e262-4181-b932-cc79f853f513/921881B8-6CDE-4763-AE15-56F5E26FB295.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221214T012241Z&X-Amz-Expires=3600&X-Amz-Signature=d0ddc3d01bb4a2294098f48600a4b8ac57d43c0ddc960fb86de564705512c0c6&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-12-14T02:22:41.9250000Z
 - object: block
   id: d1b0240b-e017-43f4-9989-20a677b58847
   parent:
