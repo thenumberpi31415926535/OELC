@@ -1,27 +1,27 @@
 ---
-name: Happy Hour with Üya and Milo.$
+id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+title: Happy Hour with Üya and Milo.$
+archived: false
+talktime: 2021-07-30T20:30:00.0000000
+object: page
+last_edited_time: 2021-08-02T23:25:00.0000000
+language_level: No limit
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+hosts:
+- Üya
+- Milo
+created_time: 2021-07-20T20:14:00.0000000
 tags:
 - Talk
 - 2021-07-30
 - Üya
 - Milo
-parent_type: database_id
-archived: false
-id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
-software: Skype
-talktime: 2021-07-30T20:30:00.0000000
-last_edited_time: 2021-08-02T23:25:00.0000000
-language_level: No limit
-title: Happy Hour with Üya and Milo.$
-hosts:
-- Üya
-- Milo
-created_time: 2021-07-20T20:14:00.0000000
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-notion_url: https://www.notion.so/Happy-Hour-with-ya-and-Milo-9021fe8b2654402f8c7163aaea6fde0d
-object: page
 meeting_link: join.skype.com/u6uJW0aiuHv6
+parent_type: database_id
+software: Skype
 indexDate: 2021-07-30
+name: Happy Hour with Üya and Milo.$
+notion_url: https://www.notion.so/Happy-Hour-with-ya-and-Milo-9021fe8b2654402f8c7163aaea6fde0d
 ---
 
 We love Friday Happy Hour sessions! With the world's rapid changes, we now work with much faster pace than we used to. Motivation then became an important element in our lives to keep us going.  In today's happy hour, we want to talk about motivation and how you keep yourself motivated.
