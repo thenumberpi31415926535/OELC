@@ -1,27 +1,27 @@
 ---
-id: 406547c9-9ea2-4a4f-af6a-33b97eca7f60
-title: Sunday's Talk by Peggy and Antina
-archived: false
-talktime: 2021-07-18T09:30:00.0000000
-object: page
-last_edited_time: 2021-07-22T14:58:00.0000000
-language_level: No limit
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 hosts:
 - Peggy@李明霈
 - Antina@張庭瑄
+object: page
+parent_type: database_id
+name: Sunday's Talk by Peggy and Antina
+archived: false
+talktime: 2021-07-18T09:30:00.0000000
+id: 406547c9-9ea2-4a4f-af6a-33b97eca7f60
+software: Google Meet
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+meeting_link: https://meet.google.com/uor-traf-jys
+last_edited_time: 2021-07-22T14:58:00.0000000
+title: Sunday's Talk by Peggy and Antina
+indexDate: 2021-07-18
 created_time: 2021-06-25T18:39:00.0000000
+notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-406547c99ea24a4faf6a33b97eca7f60
 tags:
 - Talk
 - 2021-07-18
 - Peggy@李明霈
 - Antina@張庭瑄
-meeting_link: https://meet.google.com/uor-traf-jys
-parent_type: database_id
-software: Google Meet
-indexDate: 2021-07-18
-name: Sunday's Talk by Peggy and Antina
-notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-406547c99ea24a4faf6a33b97eca7f60
+language_level: No limit
 ---
 
 # Art Salon
