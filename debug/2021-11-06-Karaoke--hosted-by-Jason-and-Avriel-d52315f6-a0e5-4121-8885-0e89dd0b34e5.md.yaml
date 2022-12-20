@@ -1,0 +1,381 @@
+object: page
+id: d52315f6-a0e5-4121-8885-0e89dd0b34e5
+created_time: 2021-11-05T09:42:00.0000000Z
+last_edited_time: 2021-11-12T14:59:00.0000000Z
+created_by:
+  object: user
+  id: 5f118345-72dd-478d-b052-bc7798916619
+last_edited_by:
+  object: user
+  id: 5f118345-72dd-478d-b052-bc7798916619
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1606595888909-dbbdc1f51a71?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
+icon:
+  type: emoji
+  emoji: "\U0001F389"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: 4cc93307-5fe5-4626-91c3-5ed284b7ca4d
+      name: Discord
+      color: purple
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: d447c3aa-2c07-4612-a18d-0b37adfe1911
+      name: Jason
+      color: red
+    - id: c7215c01-4a35-40f8-a287-520fdea09b5f
+      name: Avriel
+      color: gray
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: ' https://discord.gg/aV5yGtTW'
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-11-06T13:00:00.0000000+00:00
+      end: 2021-11-06T14:30:00.0000000+00:00
+      time_zone: 
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: Karaoke, hosted by Jason and Avriel
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Karaoke, hosted by Jason and Avriel
+      href: 
+url: https://www.notion.so/Karaoke-hosted-by-Jason-and-Avriel-d52315f6a0e5412188850e89dd0b34e5
+
+object: list
+results:
+- object: block
+  id: 5c32a858-6171-46b3-bdec-b404af55a7fc
+  parent:
+    type: page_id
+    page_id: d52315f6-a0e5-4121-8885-0e89dd0b34e5
+  created_time: 2021-11-12T14:59:00.0000000Z
+  last_edited_time: 2021-11-12T14:59:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: true
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from: 
+- object: block
+  id: d0fa64ba-5815-4146-8397-b1cdc6682867
+  parent:
+    type: page_id
+    page_id: d52315f6-a0e5-4121-8885-0e89dd0b34e5
+  created_time: 2021-11-12T14:59:00.0000000Z
+  last_edited_time: 2021-11-12T14:59:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: true
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from: 
+- object: block
+  id: b776899d-937c-448d-9308-e6f4c427a14f
+  parent:
+    type: page_id
+    page_id: d52315f6-a0e5-4121-8885-0e89dd0b34e5
+  created_time: 2021-11-05T09:42:00.0000000Z
+  last_edited_time: 2021-11-05T09:43:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: divider
+  divider: {}
+- object: block
+  id: bc61e8b4-65de-434d-807e-1cd47bfabded
+  parent:
+    type: page_id
+    page_id: d52315f6-a0e5-4121-8885-0e89dd0b34e5
+  created_time: 2021-11-05T09:43:00.0000000Z
+  last_edited_time: 2021-11-06T07:34:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: '各位, 這週讓我們一起來唱幾首歌放鬆一下吧! 不管是國語歌, 台語歌, 英文歌, 日語歌, etc. 只要你想唱都很歡迎! 也可以先看大家表演喔! Lol. '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '各位, 這週讓我們一起來唱幾首歌放鬆一下吧! 不管是國語歌, 台語歌, 英文歌, 日語歌, etc. 只要你想唱都很歡迎! 也可以先看大家表演喔! Lol. '
+      href: 
+- object: block
+  id: b2af22ac-b4a2-49ca-9e28-3bfd03fcd616
+  parent:
+    type: page_id
+    page_id: d52315f6-a0e5-4121-8885-0e89dd0b34e5
+  created_time: 2021-11-06T07:40:00.0000000Z
+  last_edited_time: 2021-11-06T07:41:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: Remember to bring your drinks and favourite songs and let's sing!!!
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Remember to bring your drinks and favourite songs and let's sing!!!
+      href: 
+- object: block
+  id: e98fe55f-b003-4ea2-941c-b9199e5dc671
+  parent:
+    type: page_id
+    page_id: d52315f6-a0e5-4121-8885-0e89dd0b34e5
+  created_time: 2021-11-06T07:34:00.0000000Z
+  last_edited_time: 2021-11-06T07:34:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: Just join us and have fun together! Looking forward to seeing you.
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Just join us and have fun together! Looking forward to seeing you.
+      href: 
+- object: block
+  id: e1b4e36c-c67b-46b8-9843-5d3b39fb7d7d
+  parent:
+    type: page_id
+    page_id: d52315f6-a0e5-4121-8885-0e89dd0b34e5
+  created_time: 2021-11-06T07:40:00.0000000Z
+  last_edited_time: 2021-11-06T07:40:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 6f4ad626-21a0-45ce-81c6-677c24310a40
+  parent:
+    type: page_id
+    page_id: d52315f6-a0e5-4121-8885-0e89dd0b34e5
+  created_time: 2021-11-05T09:42:00.0000000Z
+  last_edited_time: 2021-11-05T09:42:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 21ae3a4f-10ed-4336-a31c-f2ad31226378
+  parent:
+    type: page_id
+    page_id: d52315f6-a0e5-4121-8885-0e89dd0b34e5
+  created_time: 2021-11-05T09:42:00.0000000Z
+  last_edited_time: 2021-11-05T09:42:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: edf5856b-6251-4167-b139-3194f2906332
+  parent:
+    type: page_id
+    page_id: d52315f6-a0e5-4121-8885-0e89dd0b34e5
+  created_time: 2021-11-05T09:42:00.0000000Z
+  last_edited_time: 2021-11-05T09:42:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 7d2da0ce-a084-4319-a490-3eb945205454
+  parent:
+    type: page_id
+    page_id: d52315f6-a0e5-4121-8885-0e89dd0b34e5
+  created_time: 2021-11-05T09:42:00.0000000Z
+  last_edited_time: 2021-11-05T09:42:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: a4c5decf-de05-4cfd-a066-130b67f66366
+  parent:
+    type: page_id
+    page_id: d52315f6-a0e5-4121-8885-0e89dd0b34e5
+  created_time: 2021-11-05T09:42:00.0000000Z
+  last_edited_time: 2021-11-05T09:46:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: f223988b-d2d8-4a32-9a4c-9b7896e813c2
+  parent:
+    type: page_id
+    page_id: d52315f6-a0e5-4121-8885-0e89dd0b34e5
+  created_time: 2021-11-05T09:42:00.0000000Z
+  last_edited_time: 2021-11-05T09:42:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: true
+  archived: false
+  type: column_list
+  column_list: {}
+- object: block
+  id: ed203561-6cdc-4d24-a2bb-6ac60a28d17a
+  parent:
+    type: page_id
+    page_id: d52315f6-a0e5-4121-8885-0e89dd0b34e5
+  created_time: 2021-11-05T09:42:00.0000000Z
+  last_edited_time: 2021-11-05T09:42:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
+next_cursor: 
+has_more: false
+

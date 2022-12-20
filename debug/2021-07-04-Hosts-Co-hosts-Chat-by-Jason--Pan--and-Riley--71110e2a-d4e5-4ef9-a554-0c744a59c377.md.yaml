@@ -1,0 +1,230 @@
+object: page
+id: 71110e2a-d4e5-4ef9-a554-0c744a59c377
+created_time: 2021-06-30T07:01:00.0000000Z
+last_edited_time: 2021-07-05T15:05:00.0000000Z
+created_by:
+  object: user
+  id: 5f118345-72dd-478d-b052-bc7798916619
+last_edited_by:
+  object: user
+  id: 5f118345-72dd-478d-b052-bc7798916619
+cover: 
+icon:
+  type: emoji
+  emoji: "\U0001F37B"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: ebcf81e4-1144-4c40-b74e-756d9c2b2506
+      name: Skype
+      color: green
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: d447c3aa-2c07-4612-a18d-0b37adfe1911
+      name: Jason
+      color: red
+    - id: 4018fd2a-bdab-4383-a03d-0f634c4e0459
+      name: Riley
+      color: default
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://join.skype.com/wEhREpKESENC
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-07-04T12:00:00.0000000+00:00
+      end: 2021-07-04T14:00:00.0000000+00:00
+      time_zone: 
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
+      href: 
+url: https://www.notion.so/Hosts-Co-hosts-Chat-by-Jason-Pan-and-Riley-71110e2ad4e54ef9a5540c744a59c377
+
+object: list
+results:
+- object: block
+  id: 77b8a27c-c175-4713-8592-2cc4fb7f1b9b
+  parent:
+    type: page_id
+    page_id: 71110e2a-d4e5-4ef9-a554-0c744a59c377
+  created_time: 2021-07-05T15:05:00.0000000Z
+  last_edited_time: 2021-07-05T15:05:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: true
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from: 
+- object: block
+  id: fe14e349-fe23-44ec-829b-9e1f58aebfda
+  parent:
+    type: page_id
+    page_id: 71110e2a-d4e5-4ef9-a554-0c744a59c377
+  created_time: 2021-07-05T15:05:00.0000000Z
+  last_edited_time: 2021-07-05T15:05:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: true
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from: 
+- object: block
+  id: 11e2a891-7bee-4302-ba49-d5f1004eaa09
+  parent:
+    type: page_id
+    page_id: 71110e2a-d4e5-4ef9-a554-0c744a59c377
+  created_time: 2021-07-21T06:12:00.0000000Z
+  last_edited_time: 2021-07-21T06:12:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: mention
+      mention:
+        type: page
+        page:
+          id: d637a27e-b33f-44cb-b92a-56c3359cc567
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Untitled
+      href: https://www.notion.so/d637a27eb33f44cbb92a56c3359cc567
+    - type: text
+      text:
+        content: ' '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: ' '
+      href: 
+- object: block
+  id: 2ee3b59a-fd17-4db3-97e8-b2fc6403bc17
+  parent:
+    type: page_id
+    page_id: 71110e2a-d4e5-4ef9-a554-0c744a59c377
+  created_time: 2021-06-30T07:05:00.0000000Z
+  last_edited_time: 2021-06-30T07:07:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 688e5c47-aa57-44d1-8fba-4a06508699dc
+  parent:
+    type: page_id
+    page_id: 71110e2a-d4e5-4ef9-a554-0c744a59c377
+  created_time: 2021-06-30T07:04:00.0000000Z
+  last_edited_time: 2021-06-30T07:05:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: This a regular chat for hosts/co-hosts, and also those who are willing to contribute to our learning community, we talk about nearly everything here. Welcome to bring your questions to the meeting, we're looking forward to seeing you.
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: This a regular chat for hosts/co-hosts, and also those who are willing to contribute to our learning community, we talk about nearly everything here. Welcome to bring your questions to the meeting, we're looking forward to seeing you.
+      href: 
+- object: block
+  id: 5ea5ecca-07d4-4014-8d17-6f02265f167a
+  parent:
+    type: page_id
+    page_id: 71110e2a-d4e5-4ef9-a554-0c744a59c377
+  created_time: 2021-06-30T07:05:00.0000000Z
+  last_edited_time: 2021-06-30T07:05:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+next_cursor: 
+has_more: false
+

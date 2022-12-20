@@ -1,0 +1,192 @@
+object: page
+id: 529d6452-a052-4c07-b4cd-b7f5f89585d0
+created_time: 2021-08-02T04:25:00.0000000Z
+last_edited_time: 2021-08-13T10:46:00.0000000Z
+created_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+last_edited_by:
+  object: user
+  id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1606595888909-dbbdc1f51a71?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
+icon:
+  type: emoji
+  emoji: "\U0001F389"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: 3775b82a-0108-475c-ae48-b2c8e248dcef
+      name: Google Meet
+      color: pink
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: 4e7e24cd-3a2f-4b40-b974-c99e650ab7ed
+      name: Peggy@李明霈
+      color: blue
+    - id: 874eb39a-aabb-4dc9-bb98-dd38fac710d2
+      name: Antina@張庭瑄
+      color: purple
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://meet.google.com/uor-traf-jys
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-08-15T01:30:00.0000000+00:00
+      end: 2021-08-15T02:30:00.0000000+00:00
+      time_zone: 
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: Sunday's Talk by Peggy and Antina
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Sunday's Talk by Peggy and Antina
+      href: 
+url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-529d6452a0524c07b4cdb7f5f89585d0
+
+object: list
+results:
+- object: block
+  id: 6a8b6f31-bfad-49af-8932-4abc0578e960
+  parent:
+    type: page_id
+    page_id: 529d6452-a052-4c07-b4cd-b7f5f89585d0
+  created_time: 2021-08-13T10:45:00.0000000Z
+  last_edited_time: 2021-08-13T10:45:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: |-
+          Topic: Alfred Adler: The Courage to Be Disliked
+          How to Free Yourself, Change Your Life and Achieve Real Happiness
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: |-
+        Topic: Alfred Adler: The Courage to Be Disliked
+        How to Free Yourself, Change Your Life and Achieve Real Happiness
+      href: 
+- object: block
+  id: 67367688-f430-4620-bda3-2110e28ec4ac
+  parent:
+    type: page_id
+    page_id: 529d6452-a052-4c07-b4cd-b7f5f89585d0
+  created_time: 2021-08-02T04:25:00.0000000Z
+  last_edited_time: 2021-08-02T04:25:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 5b620fbf-de6b-4f4e-976b-4142c78d2f59
+  parent:
+    type: page_id
+    page_id: 529d6452-a052-4c07-b4cd-b7f5f89585d0
+  created_time: 2021-08-13T10:46:00.0000000Z
+  last_edited_time: 2021-08-13T10:46:00.0000000Z
+  created_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  last_edited_by:
+    object: user
+    id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: |-
+          9:30～9:40 self-introduction
+          9:40～10:30 discussing
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: |-
+        9:30～9:40 self-introduction
+        9:40～10:30 discussing
+      href: 
+- object: block
+  id: bae0ae31-828b-4d2e-bc41-1455be7b8dc5
+  parent:
+    type: page_id
+    page_id: 529d6452-a052-4c07-b4cd-b7f5f89585d0
+  created_time: 2021-08-02T04:25:00.0000000Z
+  last_edited_time: 2021-08-02T04:25:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
+next_cursor: 
+has_more: false
+

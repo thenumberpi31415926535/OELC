@@ -1,0 +1,152 @@
+object: page
+id: f5dfedb7-beb8-4e33-9539-144a1dbaa264
+created_time: 2021-06-28T12:56:00.0000000Z
+last_edited_time: 2021-07-02T10:57:00.0000000Z
+created_by:
+  object: user
+  id: 5f118345-72dd-478d-b052-bc7798916619
+last_edited_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+cover: 
+icon:
+  type: emoji
+  emoji: "\U0001F399️"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: ebcf81e4-1144-4c40-b74e-756d9c2b2506
+      name: Skype
+      color: green
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: d447c3aa-2c07-4612-a18d-0b37adfe1911
+      name: Jason
+      color: red
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://join.skype.com/xMKyV4Fx3KXT
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-07-01T13:00:00.0000000+00:00
+      end: 2021-07-01T14:30:00.0000000+00:00
+      time_zone: 
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: Self-introduction Practice by Jason
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Self-introduction Practice by Jason
+      href: 
+url: https://www.notion.so/Self-introduction-Practice-by-Jason-f5dfedb7beb84e339539144a1dbaa264
+
+object: list
+results:
+- object: block
+  id: 3ed87897-be2c-4cb8-9c6f-b559735127ae
+  parent:
+    type: page_id
+    page_id: f5dfedb7-beb8-4e33-9539-144a1dbaa264
+  created_time: 2021-06-28T12:58:00.0000000Z
+  last_edited_time: 2021-06-28T12:58:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: ec87eee5-1e2a-4ac3-9bd1-ae97205ec8d1
+- object: block
+  id: 9cc4be52-5577-4941-bc9f-c01515a6eac2
+  parent:
+    type: page_id
+    page_id: f5dfedb7-beb8-4e33-9539-144a1dbaa264
+  created_time: 2021-06-28T12:59:00.0000000Z
+  last_edited_time: 2021-06-28T12:59:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 242bec8b-d1b0-4306-80fe-ff2f43fabde8
+  parent:
+    type: page_id
+    page_id: f5dfedb7-beb8-4e33-9539-144a1dbaa264
+  created_time: 2021-06-28T12:59:00.0000000Z
+  last_edited_time: 2021-06-28T13:05:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: true
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: b1f5d0a0-7aa7-4da1-aabe-8d8359848dd0
+  parent:
+    type: page_id
+    page_id: f5dfedb7-beb8-4e33-9539-144a1dbaa264
+  created_time: 2021-06-28T13:05:00.0000000Z
+  last_edited_time: 2021-06-28T13:05:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+next_cursor: 
+has_more: false
+

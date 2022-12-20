@@ -1,0 +1,373 @@
+object: page
+id: 4429ce7b-b44d-40db-8bed-cbba2c405cac
+created_time: 2021-06-12T08:36:00.0000000Z
+last_edited_time: 2021-06-14T13:57:00.0000000Z
+created_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+last_edited_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
+icon:
+  type: emoji
+  emoji: "\U0001F637"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: 3775b82a-0108-475c-ae48-b2c8e248dcef
+      name: Google Meet
+      color: pink
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: 4e7e24cd-3a2f-4b40-b974-c99e650ab7ed
+      name: Peggy@李明霈
+      color: blue
+    - id: 874eb39a-aabb-4dc9-bb98-dd38fac710d2
+      name: Antina@張庭瑄
+      color: purple
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://meet.google.com/uor-traf-jys
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-06-13T01:00:00.0000000+00:00
+      end: 2021-06-13T02:30:00.0000000+00:00
+      time_zone: 
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: Covid-19
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Covid-19
+      href: 
+url: https://www.notion.so/Covid-19-4429ce7bb44d40db8bedcbba2c405cac
+
+object: list
+results:
+- object: block
+  id: 0eb0c724-8e8d-4645-881b-f986640c679f
+  parent:
+    type: page_id
+    page_id: 4429ce7b-b44d-40db-8bed-cbba2c405cac
+  created_time: 2021-06-12T08:36:00.0000000Z
+  last_edited_time: 2021-06-12T08:37:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: heading_3
+  heading_3:
+    is_toggleable: false
+    color: default
+    text:
+    - type: text
+      text:
+        content: 'Question:'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'Question:'
+      href: 
+- object: block
+  id: 210ed3eb-06d8-4766-9596-5fe516ac9d8d
+  parent:
+    type: page_id
+    page_id: 4429ce7b-b44d-40db-8bed-cbba2c405cac
+  created_time: 2021-06-12T08:37:00.0000000Z
+  last_edited_time: 2021-06-12T08:37:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: divider
+  divider: {}
+- object: block
+  id: ac743a84-190f-4681-bfbe-2d589bd82edc
+  parent:
+    type: page_id
+    page_id: 4429ce7b-b44d-40db-8bed-cbba2c405cac
+  created_time: 2021-06-12T08:37:00.0000000Z
+  last_edited_time: 2021-06-12T08:37:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 3c02e313-766d-44b3-a6de-1dcdc5173a85
+  parent:
+    type: page_id
+    page_id: 4429ce7b-b44d-40db-8bed-cbba2c405cac
+  created_time: 2021-06-12T08:36:00.0000000Z
+  last_edited_time: 2021-06-12T08:37:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: numbered_list_item
+  numbered_list_item:
+    color: default
+    text:
+    - type: text
+      text:
+        content: How have Covid-19 affected your life?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: How have Covid-19 affected your life?
+      href: 
+- object: block
+  id: d2865325-e904-4d6e-9a42-f678c9887255
+  parent:
+    type: page_id
+    page_id: 4429ce7b-b44d-40db-8bed-cbba2c405cac
+  created_time: 2021-06-12T08:36:00.0000000Z
+  last_edited_time: 2021-06-12T08:36:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: numbered_list_item
+  numbered_list_item:
+    color: default
+    text:
+    - type: text
+      text:
+        content: What did you think is the most inconvinent during this time?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What did you think is the most inconvinent during this time?
+      href: 
+- object: block
+  id: 376224fa-871f-47a9-8aab-e349a0dbd715
+  parent:
+    type: page_id
+    page_id: 4429ce7b-b44d-40db-8bed-cbba2c405cac
+  created_time: 2021-06-12T08:36:00.0000000Z
+  last_edited_time: 2021-06-12T08:36:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: numbered_list_item
+  numbered_list_item:
+    color: default
+    text:
+    - type: text
+      text:
+        content: Are you planning to get vaccination?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Are you planning to get vaccination?
+      href: 
+- object: block
+  id: 4337d666-3ff2-4aca-9adb-a91d1bb9570c
+  parent:
+    type: page_id
+    page_id: 4429ce7b-b44d-40db-8bed-cbba2c405cac
+  created_time: 2021-06-12T08:36:00.0000000Z
+  last_edited_time: 2021-06-12T08:36:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: numbered_list_item
+  numbered_list_item:
+    color: default
+    text:
+    - type: text
+      text:
+        content: What do you think the pros amd cons of distance teaching or working?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What do you think the pros amd cons of distance teaching or working?
+      href: 
+- object: block
+  id: 1f475ab6-d2f4-482e-8d53-b034b324e8ac
+  parent:
+    type: page_id
+    page_id: 4429ce7b-b44d-40db-8bed-cbba2c405cac
+  created_time: 2021-06-12T08:36:00.0000000Z
+  last_edited_time: 2021-06-12T08:36:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: numbered_list_item
+  numbered_list_item:
+    color: default
+    text:
+    - type: text
+      text:
+        content: What is the first thing you are going to do after this period?
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: What is the first thing you are going to do after this period?
+      href: 
+- object: block
+  id: e1a4d100-ad0f-4b6c-a700-37d132345611
+  parent:
+    type: page_id
+    page_id: 4429ce7b-b44d-40db-8bed-cbba2c405cac
+  created_time: 2021-06-12T08:36:00.0000000Z
+  last_edited_time: 2021-06-12T08:36:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: "\U0001F4C5\n9:30～9:40 self-introduction\n9:40～10:30 discusstions"
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "\U0001F4C5\n9:30～9:40 self-introduction\n9:40～10:30 discusstions"
+      href: 
+- object: block
+  id: be3292ae-e599-450e-a36b-9cc486f00101
+  parent:
+    type: page_id
+    page_id: 4429ce7b-b44d-40db-8bed-cbba2c405cac
+  created_time: 2021-06-12T08:36:00.0000000Z
+  last_edited_time: 2021-06-12T08:36:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: |-
+          ✨
+          How to join?
+          We provide the link in post, feel free to come in before the meeting to test if your microphone works. Log in to your Google account and click the link, then you are all set!
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: |-
+        ✨
+        How to join?
+        We provide the link in post, feel free to come in before the meeting to test if your microphone works. Log in to your Google account and click the link, then you are all set!
+      href: 
+next_cursor: 
+has_more: false
+

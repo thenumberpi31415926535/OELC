@@ -1,0 +1,164 @@
+object: page
+id: 68390d48-81f3-4cf0-8e12-d7840a123c85
+created_time: 2021-06-14T11:10:00.0000000Z
+last_edited_time: 2021-06-20T11:48:00.0000000Z
+created_by:
+  object: user
+  id: 5f118345-72dd-478d-b052-bc7798916619
+last_edited_by:
+  object: user
+  id: 5f118345-72dd-478d-b052-bc7798916619
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1599619351208-3e6c839d6828?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb
+icon:
+  type: emoji
+  emoji: "\U0001F37B"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: a6f1c29a-12bb-4d51-8025-34da1b54ccae
+      name: BigBlueBotton
+      color: blue
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: d447c3aa-2c07-4612-a18d-0b37adfe1911
+      name: Jason
+      color: red
+    - id: 4018fd2a-bdab-4383-a03d-0f634c4e0459
+      name: Riley
+      color: default
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://demo.bigbluebutton.org/gl/jas-s1x-wi9-qzv
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-06-20T12:00:00.0000000+00:00
+      end: 2021-06-20T14:00:00.0000000+00:00
+      time_zone: 
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: Hosts/ Co-hosts Chat by Jason, Pan, Riley
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Hosts/ Co-hosts Chat by Jason, Pan, Riley
+      href: 
+url: https://www.notion.so/Hosts-Co-hosts-Chat-by-Jason-Pan-Riley-68390d4881f34cf08e12d7840a123c85
+
+object: list
+results:
+- object: block
+  id: 23aaad5e-4e94-4249-8215-721ccbc0dd9d
+  parent:
+    type: page_id
+    page_id: 68390d48-81f3-4cf0-8e12-d7840a123c85
+  created_time: 2021-06-16T11:35:00.0000000Z
+  last_edited_time: 2021-06-16T11:35:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: '!!!This is a chat for hosts and co-hosts communication use. Everyone who is in the “English Speaking Hosts/ Co-Hosts” open chat can join us.'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '!!!This is a chat for hosts and co-hosts communication use. Everyone who is in the “English Speaking Hosts/ Co-Hosts” open chat can join us.'
+      href: 
+- object: block
+  id: 98bd51ad-0443-44f8-8087-5bb63204b11b
+  parent:
+    type: page_id
+    page_id: 68390d48-81f3-4cf0-8e12-d7840a123c85
+  created_time: 2021-06-16T11:35:00.0000000Z
+  last_edited_time: 2021-06-16T11:35:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 0d7ff514-d642-40b6-b90e-d3d7e341e9cc
+  parent:
+    type: page_id
+    page_id: 68390d48-81f3-4cf0-8e12-d7840a123c85
+  created_time: 2021-06-14T11:14:00.0000000Z
+  last_edited_time: 2021-06-16T11:36:00.0000000Z
+  created_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: If there’s anything wrong or you have any questions, please contact Jason in private. Cheers
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: If there’s anything wrong or you have any questions, please contact Jason in private. Cheers
+      href: 
+next_cursor: 
+has_more: false
+

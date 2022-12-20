@@ -1,0 +1,999 @@
+object: page
+id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+created_time: 2021-07-20T12:14:00.0000000Z
+last_edited_time: 2021-08-02T15:25:00.0000000Z
+created_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+last_edited_by:
+  object: user
+  id: e73ff846-1756-4623-9b0f-de4a1e6d191b
+cover:
+  type: external
+  external:
+    url: https://www.notion.so/images/page-cover/met_jean_beraud.jpg
+icon:
+  type: emoji
+  emoji: "\U0001F37B"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Software:
+    id: Lov[
+    type: select
+    select:
+      id: ebcf81e4-1144-4c40-b74e-756d9c2b2506
+      name: Skype
+      color: green
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: 90954489-1a43-40bf-9867-af7ca6ae7391
+      name: Üya
+      color: brown
+    - id: fa4fc61a-c0ec-4fc4-b915-e1dcad3a3a87
+      name: Milo
+      color: default
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: join.skype.com/u6uJW0aiuHv6
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2021-07-30T12:30:00.0000000+00:00
+      end: 2021-07-30T14:30:00.0000000+00:00
+      time_zone: 
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: Happy Hour with Üya and Milo.$
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Happy Hour with Üya and Milo.$
+      href: 
+url: https://www.notion.so/Happy-Hour-with-ya-and-Milo-9021fe8b2654402f8c7163aaea6fde0d
+
+object: list
+results:
+- object: block
+  id: f5028bfb-e2a7-48e4-a08a-655fbe0b6e6d
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-30T13:21:00.0000000Z
+  last_edited_time: 2021-07-30T13:21:00.0000000Z
+  created_by:
+    object: user
+    id: 2a2309df-a0f9-47e6-93c1-b6d8b36b4067
+  last_edited_by:
+    object: user
+    id: 2a2309df-a0f9-47e6-93c1-b6d8b36b4067
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: We love Friday Happy Hour sessions! With the world's rapid changes, we now work with much faster pace than we used to. Motivation then became an important element in our lives to keep us going.  In today's happy hour, we want to talk about motivation and how you keep yourself motivated.
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: We love Friday Happy Hour sessions! With the world's rapid changes, we now work with much faster pace than we used to. Motivation then became an important element in our lives to keep us going.  In today's happy hour, we want to talk about motivation and how you keep yourself motivated.
+      href: 
+- object: block
+  id: 5d243c3c-db21-468a-a12d-25ff40facf11
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:54:00.0000000Z
+  last_edited_time: 2021-07-25T04:54:00.0000000Z
+  created_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: unsupported
+  unsupported: {}
+- object: block
+  id: 34958fb7-2668-4ab9-b231-dfb0b8b5750d
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:54:00.0000000Z
+  last_edited_time: 2021-07-25T04:54:00.0000000Z
+  created_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: mention
+      mention:
+        type: page
+        page:
+          id: 1f18645d-09e6-466b-b3d9-314ef0e10d24
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Untitled
+      href: https://www.notion.so/1f18645d09e6466bb3d9314ef0e10d24
+    - type: text
+      text:
+        content: ' '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: ' '
+      href: 
+- object: block
+  id: 8ddfd8f6-5397-4143-bdd7-7d81c89659bc
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:31:00.0000000Z
+  last_edited_time: 2021-07-25T04:50:00.0000000Z
+  created_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: heading_1
+  heading_1:
+    is_toggleable: false
+    color: default
+    text:
+    - type: text
+      text:
+        content: "Let's chitchat in English. "
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "Let's chitchat in English. "
+      href: 
+- object: block
+  id: f906641d-1b4a-4fcc-adc9-5f5c729c5140
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:31:00.0000000Z
+  last_edited_time: 2021-07-25T04:32:00.0000000Z
+  created_by:
+    object: user
+    id: 5f62a33c-1c81-46b8-94fa-40dd09c2ccf0
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    color: default
+    text:
+    - type: text
+      text:
+        content: 時段： PM 08:30 ~ PM 10:30
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 時段： PM 08:30 ~ PM 10:30
+      href: 
+- object: block
+  id: e739212b-6056-4909-90dd-cad16ece87c9
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:31:00.0000000Z
+  last_edited_time: 2021-07-25T04:31:00.0000000Z
+  created_by:
+    object: user
+    id: 5f62a33c-1c81-46b8-94fa-40dd09c2ccf0
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    color: default
+    text:
+    - type: text
+      text:
+        content: 條件：需要至少有一杯水、飲料或是酒，願意嘗試開口講英文的心
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 條件：需要至少有一杯水、飲料或是酒，願意嘗試開口講英文的心
+      href: 
+- object: block
+  id: 60e06bdc-2806-4908-81f0-59d6e0805624
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:31:00.0000000Z
+  last_edited_time: 2021-07-25T04:41:00.0000000Z
+  created_by:
+    object: user
+    id: 5f62a33c-1c81-46b8-94fa-40dd09c2ccf0
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    color: default
+    text:
+    - type: text
+      text:
+        content: 優點：不會酒駕、英文進步、交新朋友
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 優點：不會酒駕、英文進步、交新朋友
+      href: 
+- object: block
+  id: ab8758f9-e674-407f-8a4a-b6f466d23b12
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:34:00.0000000Z
+  last_edited_time: 2021-07-25T04:37:00.0000000Z
+  created_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: heading_1
+  heading_1:
+    is_toggleable: false
+    color: default
+    text:
+    - type: text
+      text:
+        content: 主題： 你都怎麼維持動力的？
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 主題： 你都怎麼維持動力的？
+      href: 
+- object: block
+  id: a094105d-2441-4dad-9d8a-d8ff15f92ab2
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:38:00.0000000Z
+  last_edited_time: 2021-07-25T04:38:00.0000000Z
+  created_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: a1203503-2371-4b34-b8e4-de6a3c6f8274
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:38:00.0000000Z
+  last_edited_time: 2021-07-25T04:41:00.0000000Z
+  created_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: 隨著世界的快速變化，生活上種種的動力成為我們生活中讓我們繼續前進的重要一環。 在今天的Happy Hour，我們想聊聊大家都是如何讓自己維持動力的。
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 隨著世界的快速變化，生活上種種的動力成為我們生活中讓我們繼續前進的重要一環。 在今天的Happy Hour，我們想聊聊大家都是如何讓自己維持動力的。
+      href: 
+- object: block
+  id: 190b2249-a0e8-4771-adc8-32138c3e0d80
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:40:00.0000000Z
+  last_edited_time: 2021-07-25T04:40:00.0000000Z
+  created_by:
+    object: user
+    id: 5f62a33c-1c81-46b8-94fa-40dd09c2ccf0
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: 大家請
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 大家請
+      href: 
+    - type: text
+      text:
+        content: 自備任何飲品
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: true
+        code: false
+        color: default
+      plain_text: 自備任何飲品
+      href: 
+    - type: text
+      text:
+        content: 、宵夜或晚餐，線上歡飲+開心聊天+邊吃邊聊
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 、宵夜或晚餐，線上歡飲+開心聊天+邊吃邊聊
+      href: 
+- object: block
+  id: e26f8e65-6b14-4bc9-ae9d-d55d094b4b91
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:40:00.0000000Z
+  last_edited_time: 2021-07-25T04:40:00.0000000Z
+  created_by:
+    object: user
+    id: 5f62a33c-1c81-46b8-94fa-40dd09c2ccf0
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: 請準備好您的飲料，到時候，時不時會線上一同喊 Cheers。
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 請準備好您的飲料，到時候，時不時會線上一同喊 Cheers。
+      href: 
+- object: block
+  id: b3eb0338-2b71-4ca4-b86f-52958819fc0a
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:40:00.0000000Z
+  last_edited_time: 2021-07-25T04:40:00.0000000Z
+  created_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 2271a806-3422-493b-9f29-fcc77595c1fe
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:34:00.0000000Z
+  last_edited_time: 2021-07-25T04:34:00.0000000Z
+  created_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: "We love Friday Happy Hour sessions! With the world's rapid changes, we now work with much faster pace than we used to. Motivation then became an important element in our lives to keep us going.  In today's happy hour, we want to talk about motivation and how you keep yourself motivated. "
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "We love Friday Happy Hour sessions! With the world's rapid changes, we now work with much faster pace than we used to. Motivation then became an important element in our lives to keep us going.  In today's happy hour, we want to talk about motivation and how you keep yourself motivated. "
+      href: 
+- object: block
+  id: e74819e2-3054-40f3-9e11-3e20823e42c7
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:31:00.0000000Z
+  last_edited_time: 2021-07-25T04:34:00.0000000Z
+  created_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: c3908b06-9df1-4c02-8247-24502a72204f
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:14:00.0000000Z
+  last_edited_time: 2021-07-25T04:31:00.0000000Z
+  created_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: Why is motivation important?
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Why is motivation important?
+      href: 
+- object: block
+  id: b5fe7113-202c-45ea-bc97-9cbca25472b8
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:14:00.0000000Z
+  last_edited_time: 2021-07-25T07:08:00.0000000Z
+  created_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  last_edited_by:
+    object: user
+    id: 5f118345-72dd-478d-b052-bc7798916619
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: It has been proven by scientists that having a high level of motivation can improve our lives. Motivation is created as we set goals, strive for achievements and power. Motivation also reflects something unique about each one of us. It allows us to gain valued outcomes like improved performance, enhanced well-being, personal growth or a sense of purpose. If we use motivation appropriately, it can change our way of thinking, feeling and behaving.
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: It has been proven by scientists that having a high level of motivation can improve our lives. Motivation is created as we set goals, strive for achievements and power. Motivation also reflects something unique about each one of us. It allows us to gain valued outcomes like improved performance, enhanced well-being, personal growth or a sense of purpose. If we use motivation appropriately, it can change our way of thinking, feeling and behaving.
+      href: 
+- object: block
+  id: 76709a28-6013-4848-b290-18856ed5d527
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:14:00.0000000Z
+  last_edited_time: 2021-07-25T04:40:00.0000000Z
+  created_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: Grab a drink of your choice, come and join and share how you keep yourselves motivated!
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Grab a drink of your choice, come and join and share how you keep yourselves motivated!
+      href: 
+- object: block
+  id: 90119e56-2d9b-49d6-a6af-de36b5a89ffe
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:36:00.0000000Z
+  last_edited_time: 2021-07-25T04:36:00.0000000Z
+  created_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: heading_1
+  heading_1:
+    is_toggleable: false
+    color: default
+    text:
+    - type: text
+      text:
+        content: "\U0001F923 \U0001F37B \U0001F37B \U0001F923 \U0001F37B \U0001F37B \U0001F923 \U0001F37B \U0001F37B \U0001F923 "
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: "\U0001F923 \U0001F37B \U0001F37B \U0001F923 \U0001F37B \U0001F37B \U0001F923 \U0001F37B \U0001F37B \U0001F923 "
+      href: 
+- object: block
+  id: 9b158d62-867c-41b6-88d7-71d5335cdf74
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:34:00.0000000Z
+  last_edited_time: 2021-07-25T04:34:00.0000000Z
+  created_by:
+    object: user
+    id: 5f62a33c-1c81-46b8-94fa-40dd09c2ccf0
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: heading_2
+  heading_2:
+    is_toggleable: false
+    color: default
+    text:
+    - type: text
+      text:
+        content: 預計最適合本活動的有以下三種
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 預計最適合本活動的有以下三種
+      href: 
+- object: block
+  id: bc904236-4917-4d02-88a5-2c1f185ef38c
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:34:00.0000000Z
+  last_edited_time: 2021-07-25T04:34:00.0000000Z
+  created_by:
+    object: user
+    id: 5f62a33c-1c81-46b8-94fa-40dd09c2ccf0
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    color: default
+    text:
+    - type: text
+      text:
+        content: '對象1：活潑外向喜歡用聊天交朋友的人 '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '對象1：活潑外向喜歡用聊天交朋友的人 '
+      href: 
+- object: block
+  id: 03e215d5-8fb6-439d-8221-4bc1270dd975
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:34:00.0000000Z
+  last_edited_time: 2021-07-25T04:34:00.0000000Z
+  created_by:
+    object: user
+    id: 5f62a33c-1c81-46b8-94fa-40dd09c2ccf0
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    color: default
+    text:
+    - type: text
+      text:
+        content: 對象2：覺得英文不太會講、怕生、容易緊張、或是平常放不太開的人
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 對象2：覺得英文不太會講、怕生、容易緊張、或是平常放不太開的人
+      href: 
+- object: block
+  id: 33ec5731-fcf1-4157-9952-c7a93ac4661f
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:34:00.0000000Z
+  last_edited_time: 2021-07-25T04:34:00.0000000Z
+  created_by:
+    object: user
+    id: 5f62a33c-1c81-46b8-94fa-40dd09c2ccf0
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    color: default
+    text:
+    - type: text
+      text:
+        content: '對象3：我就是愛喝咖餐系  '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: '對象3：我就是愛喝咖餐系  '
+      href: 
+- object: block
+  id: 985c6ccb-0496-4181-8e8c-3c49539d9ca5
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:34:00.0000000Z
+  last_edited_time: 2021-07-25T04:36:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: heading_1
+  heading_1:
+    is_toggleable: false
+    color: default
+    text: []
+- object: block
+  id: 95a2f0ef-3628-4b2b-bf4d-5ee3bff9aa84
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:13:00.0000000Z
+  last_edited_time: 2021-07-25T04:13:00.0000000Z
+  created_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 1882cc26-4d45-472a-b0b7-3f73f84ab208
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:17:00.0000000Z
+  last_edited_time: 2021-07-25T04:17:00.0000000Z
+  created_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: e542d7c3-624d-4460-b5d3-5fbe745a4d1f
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:17:00.0000000Z
+  last_edited_time: 2021-07-25T04:17:00.0000000Z
+  created_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 2dfc3010-a626-4014-8b33-4869db4447bf
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:17:00.0000000Z
+  last_edited_time: 2021-07-25T04:17:00.0000000Z
+  created_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 1951feda-4af5-4f66-9b7c-81d804b6e7d8
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:17:00.0000000Z
+  last_edited_time: 2021-07-25T04:17:00.0000000Z
+  created_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: b1038e67-70b2-4364-bc50-6ce9eda05aac
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:17:00.0000000Z
+  last_edited_time: 2021-07-25T04:17:00.0000000Z
+  created_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: a0f9b89f-f940-42e6-9a9d-198358c613ae
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-25T04:13:00.0000000Z
+  last_edited_time: 2021-07-25T04:17:00.0000000Z
+  created_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: d93c1464-8059-4927-a3eb-1bd6a91402a9
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-20T12:14:00.0000000Z
+  last_edited_time: 2021-07-25T04:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: d1a111eb-91be-4c06-bdfc-f40620feaa94
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 2567eda5-3a87-4bfa-bf1b-93b7310f3895
+  parent:
+    type: page_id
+    page_id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+  created_time: 2021-07-20T12:14:00.0000000Z
+  last_edited_time: 2021-07-20T12:14:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
+next_cursor: 
+has_more: false
+
