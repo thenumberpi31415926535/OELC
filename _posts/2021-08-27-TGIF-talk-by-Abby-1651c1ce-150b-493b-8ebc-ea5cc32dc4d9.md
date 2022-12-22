@@ -1,23 +1,23 @@
 ---
+language_level: intermediate to advanced
 created_time: 2021-08-17T19:09:00.0000000
-object: page
+software: Google Meet
 notion_url: https://www.notion.so/TGIF-talk-by-Abby-1651c1ce150b493b8ebcea5cc32dc4d9
+parent_type: database_id
 meeting_link: meet.google.com/cmd-sxum-dwr
-last_edited_time: 2021-08-28T03:08:00.0000000
 archived: false
 indexDate: 2021-08-27
-title: TGIF talk by Abby
 id: 1651c1ce-150b-493b-8ebc-ea5cc32dc4d9
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 tags:
 - Talk
 - 2021-08-27
 - Abby
-parent_type: database_id
-software: Google Meet
 talktime: 2021-08-27T22:00:00.0000000
-language_level: intermediate to advanced
 hosts: Abby
+object: page
+title: TGIF talk by Abby
+last_edited_time: 2021-08-28T03:08:00.0000000
 name: TGIF talk by Abby
 ---
 

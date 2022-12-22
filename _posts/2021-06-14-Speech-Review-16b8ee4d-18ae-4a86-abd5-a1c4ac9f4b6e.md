@@ -1,23 +1,23 @@
 ---
+language_level: intermediate to advanced
 created_time: 2021-06-12T16:14:00.0000000
-object: page
+software: Google Meet
 notion_url: https://www.notion.so/Speech-Review-16b8ee4d18ae4a86abd5a1c4ac9f4b6e
+parent_type: database_id
 meeting_link: https://meet.google.com/bce-znvw-icb
-last_edited_time: 2021-06-14T15:14:00.0000000
 archived: false
 indexDate: 2021-06-14
-title: Speech Review
 id: 16b8ee4d-18ae-4a86-abd5-a1c4ac9f4b6e
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 tags:
 - Talk
 - 2021-06-14
 - Abby
-parent_type: database_id
-software: Google Meet
 talktime: 2021-06-14T21:00:00.0000000
-language_level: intermediate to advanced
 hosts: Abby
+object: page
+title: Speech Review
+last_edited_time: 2021-06-14T15:14:00.0000000
 name: Speech Review
 ---
 

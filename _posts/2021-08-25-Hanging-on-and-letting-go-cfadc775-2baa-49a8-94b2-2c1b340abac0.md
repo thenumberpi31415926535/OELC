@@ -1,12 +1,12 @@
 ---
+language_level: No limit
 created_time: 2021-08-20T14:14:00.0000000
-object: page
+software: Discord
 notion_url: https://www.notion.so/Hanging-on-and-letting-go-cfadc7752baa49a894b22c1b340abac0
+parent_type: database_id
 meeting_link: https://discord.gg/vE7QUXGDnS
-last_edited_time: 2021-08-25T20:20:00.0000000
 archived: false
 indexDate: 2021-08-25
-title: Hanging on and letting go
 id: cfadc775-2baa-49a8-94b2-2c1b340abac0
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 tags:
@@ -14,13 +14,13 @@ tags:
 - 2021-08-25
 - Bones
 - Pi
-parent_type: database_id
-software: Discord
 talktime: 2021-08-25T21:00:00.0000000
-language_level: No limit
 hosts:
 - Bones
 - Pi
+object: page
+title: Hanging on and letting go
+last_edited_time: 2021-08-25T20:20:00.0000000
 name: Hanging on and letting go
 ---
 
