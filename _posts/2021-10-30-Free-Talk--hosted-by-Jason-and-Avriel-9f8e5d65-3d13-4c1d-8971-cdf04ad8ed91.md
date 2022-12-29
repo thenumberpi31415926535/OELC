@@ -1,27 +1,27 @@
 ---
-last_edited_time: 2021-10-30T18:22:00.0000000
-object: page
+platform: Google Meet
 title: Free Talk, hosted by Jason and Avriel
-hosts:
-- Jason
-- Avriel
-talktime: 2021-10-30T21:00:00.0000000
 id: 9f8e5d65-3d13-4c1d-8971-cdf04ad8ed91
-software: Google Meet
-parent_type: database_id
 indexDate: 2021-10-30
-meeting_link: https://meet.google.com/xrp-hzvg-tzd
 archived: false
+created_time: 2021-10-29T21:58:00.0000000
+talktime: 2021-10-30T21:00:00.0000000
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+parent_type: database_id
 name: Free Talk, hosted by Jason and Avriel
 tags:
 - Talk
 - 2021-10-30
 - Jason
 - Avriel
-created_time: 2021-10-29T21:58:00.0000000
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 notion_url: https://www.notion.so/Free-Talk-hosted-by-Jason-and-Avriel-9f8e5d653d134c1d8971cdf04ad8ed91
 language_level: No limit
+last_edited_time: 2021-10-30T18:22:00.0000000
+object: page
+meeting_link: https://meet.google.com/xrp-hzvg-tzd
+hosts:
+- Jason
+- Avriel
 ---
 
 [Untitled](https://www.notion.so/cb083fc4f0b7459aa5afe1900ef25a1f)   

@@ -27,7 +27,7 @@ properties:
       id: 9f580841-a15a-4b6e-a028-4382b9771e15
       name: No limit
       color: orange
-  Software:
+  Platform:
     id: Lov[
     type: select
     select:
@@ -439,8 +439,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8efcf85d-3ac6-4afa-9d37-14316279d529/Brainstorming_-_08_11_Supernatural_experiences.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221228%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221228T011837Z&X-Amz-Expires=3600&X-Amz-Signature=33fde9bf3b87a93cbee9b8b74b807b56d6274cca732839dc7b708710a4c896ba&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-12-28T02:18:37.8720000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8efcf85d-3ac6-4afa-9d37-14316279d529/Brainstorming_-_08_11_Supernatural_experiences.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221229%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221229T012007Z&X-Amz-Expires=3600&X-Amz-Signature=e0e75fa377a8af63a31a554954461f5ca2ad369f677297abeaba3a223ca17c1d&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-12-29T02:20:07.7450000Z
 - object: block
   id: 648be114-bbe9-437c-b7d3-8313ecd0fa16
   parent:

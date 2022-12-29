@@ -24,7 +24,7 @@ properties:
       id: f7d2cf99-bbb7-474f-863c-e691575a7ba2
       name: intermediate to advanced
       color: gray
-  Software:
+  Platform:
     id: Lov[
     type: select
     select:
@@ -93,8 +93,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/52cd2634-8d3c-42a9-9385-422594172de3/Maintence.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221228%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221228T011735Z&X-Amz-Expires=3600&X-Amz-Signature=bb41c3879832a410fda8a894fd1d3a2d24a08316ff69021b37f0ce7ad0ffc2b1&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-12-28T02:17:35.5000000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/52cd2634-8d3c-42a9-9385-422594172de3/Maintence.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221229%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221229T011934Z&X-Amz-Expires=3600&X-Amz-Signature=188ea5a70a4cd0c53687c926b9533b7c61b51da045bfb741754a6dcce7429a7a&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-12-29T02:19:34.7640000Z
 - object: block
   id: 2b24731b-3e11-4291-a684-65ba1cf38c5c
   parent:
@@ -440,8 +440,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8d68e8f8-b1d4-498b-bc03-738f8acf3c78/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221228%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221228T011735Z&X-Amz-Expires=3600&X-Amz-Signature=113e1b4fab8bf8a217e14b288c099abf505625d055663d34b94e1dad731a88fd&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-12-28T02:17:35.4980000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8d68e8f8-b1d4-498b-bc03-738f8acf3c78/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221229%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221229T011934Z&X-Amz-Expires=3600&X-Amz-Signature=057dec1c7176e3c947b21a5bae0d39288df73313ea67027c2f6b62c0b1522dac&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-12-29T02:19:34.7960000Z
 - object: block
   id: b567a48d-53a1-4625-a90b-0f315de6b612
   parent:

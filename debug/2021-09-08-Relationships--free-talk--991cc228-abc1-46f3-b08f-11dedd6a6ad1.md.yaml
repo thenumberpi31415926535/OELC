@@ -27,7 +27,7 @@ properties:
       id: 9f580841-a15a-4b6e-a028-4382b9771e15
       name: No limit
       color: orange
-  Software:
+  Platform:
     id: Lov[
     type: select
     select:
@@ -415,8 +415,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/eaa5a51f-c5da-4ae0-81e3-18679f6a288c/Brainstorming_-_09_8_Relationship-Free_talk.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221228%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221228T011751Z&X-Amz-Expires=3600&X-Amz-Signature=b62b2551af478a24f3af00a2a77c739aa5364317dca85e447f1db183dd310715&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-12-28T02:17:51.1320000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/eaa5a51f-c5da-4ae0-81e3-18679f6a288c/Brainstorming_-_09_8_Relationship-Free_talk.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221229%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221229T011954Z&X-Amz-Expires=3600&X-Amz-Signature=19eb6c0f8cf157c763e0b3dcdee4af33b47a58e03766acc7d544b6e77fb6ff77&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-12-29T02:19:54.4600000Z
 - object: block
   id: ac54503f-3fb5-4db5-8abd-5dee2ffdd26e
   parent:

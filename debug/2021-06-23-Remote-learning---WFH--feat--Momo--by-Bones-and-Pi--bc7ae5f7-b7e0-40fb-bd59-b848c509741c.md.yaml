@@ -27,7 +27,7 @@ properties:
       id: f7d2cf99-bbb7-474f-863c-e691575a7ba2
       name: intermediate to advanced
       color: gray
-  Software:
+  Platform:
     id: Lov[
     type: select
     select:
@@ -432,8 +432,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4fa5f828-7834-4130-a4c5-aa696870a0da/Brainstorming_ideas_18.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221228%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221228T011937Z&X-Amz-Expires=3600&X-Amz-Signature=83739a34525c91af677c7cea74e2972a95651efbd1293b16fedaa0e2330a7688&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-12-28T02:19:37.8910000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4fa5f828-7834-4130-a4c5-aa696870a0da/Brainstorming_ideas_18.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221229%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221229T012039Z&X-Amz-Expires=3600&X-Amz-Signature=fc566d7ecad963d38af076cf5940b6281fa447de3207aaca8eb6472ca25e37e1&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-12-29T02:20:39.2700000Z
 - object: block
   id: 7d0a02f7-e55d-4a54-8f38-c35604c1144c
   parent:

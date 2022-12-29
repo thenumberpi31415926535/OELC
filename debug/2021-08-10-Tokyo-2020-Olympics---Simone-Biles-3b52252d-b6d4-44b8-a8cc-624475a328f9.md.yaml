@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/129035db-1894-4d48-bcb5-9ccd151a13b8/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221228%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221228T011853Z&X-Amz-Expires=3600&X-Amz-Signature=e805ee205d5de8df482166aa31613bf2f849495a6d23da89b7b0ed8db924a6ad&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-12-28T02:18:53.5130000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/129035db-1894-4d48-bcb5-9ccd151a13b8/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221229%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221229T012015Z&X-Amz-Expires=3600&X-Amz-Signature=6a945482e1609e06e9d9c2168bbfd61be09faa8836ce14b2c2038c4c418615ff&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-12-29T02:20:15.7780000Z
 icon:
   type: emoji
   emoji: "\U0001F3C5"
@@ -28,7 +28,7 @@ properties:
       id: 9f580841-a15a-4b6e-a028-4382b9771e15
       name: No limit
       color: orange
-  Software:
+  Platform:
     id: Lov[
     type: select
     select:
@@ -97,8 +97,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4eaaa657-e71a-410d-ae75-cee82da5a402/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221228%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221228T011853Z&X-Amz-Expires=3600&X-Amz-Signature=21ccd7289a79ecafb17e501f47d066ac9aade0adf303ca19d2aed106ebb5f487&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-12-28T02:18:53.7240000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4eaaa657-e71a-410d-ae75-cee82da5a402/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221229%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221229T012016Z&X-Amz-Expires=3600&X-Amz-Signature=a121c6e05fd5e3db668cda4388656b213a09a425b1a18edd58e1ff7ec94b55ca&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-12-29T02:20:16.0200000Z
 - object: block
   id: af90d0eb-4f45-4ff7-9997-786406d7a673
   parent:

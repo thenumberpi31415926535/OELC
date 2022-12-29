@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/24a6f588-c3ac-4891-96fa-21fc5b703f88/bao.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221228%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221228T011815Z&X-Amz-Expires=3600&X-Amz-Signature=bf82c8e507288a826f4c3024196d7e46ae27ac66fc7c2ae33148e3e89dc0580f&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2022-12-28T02:18:15.5350000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/24a6f588-c3ac-4891-96fa-21fc5b703f88/bao.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221229%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221229T011959Z&X-Amz-Expires=3600&X-Amz-Signature=b5d121d5a7213138f49f038c80c996e8a512bf8bfcd0d1bc481c498700a2201c&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2022-12-29T02:19:59.6920000Z
 icon:
   type: emoji
   emoji: ❣️
@@ -28,7 +28,7 @@ properties:
       id: 9f580841-a15a-4b6e-a028-4382b9771e15
       name: No limit
       color: orange
-  Software:
+  Platform:
     id: Lov[
     type: select
     select:

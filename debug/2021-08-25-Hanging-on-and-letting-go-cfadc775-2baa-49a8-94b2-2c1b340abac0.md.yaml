@@ -27,7 +27,7 @@ properties:
       id: 9f580841-a15a-4b6e-a028-4382b9771e15
       name: No limit
       color: orange
-  Software:
+  Platform:
     id: Lov[
     type: select
     select:
@@ -389,8 +389,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7d10797a-fea8-4a8e-81be-bbcfc0fd7ee1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221228%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221228T011813Z&X-Amz-Expires=3600&X-Amz-Signature=f6758909b618f7baccdcac8265325783c787da4141bcd7581e47dbbeded0cfbe&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2022-12-28T02:18:13.8550000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7d10797a-fea8-4a8e-81be-bbcfc0fd7ee1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221229%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221229T011958Z&X-Amz-Expires=3600&X-Amz-Signature=823002bf77d8e4816f9d47511bb15316b7e4ec4427cb66725e77456917bfb1ae&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2022-12-29T02:19:58.4490000Z
 - object: block
   id: da44830e-dd55-499b-9d8d-afde6b81d837
   parent:
