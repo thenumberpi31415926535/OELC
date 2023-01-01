@@ -1,0 +1,557 @@
+object: page
+id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+created_time: 2022-12-28T11:03:00.0000000Z
+last_edited_time: 2022-12-31T10:13:00.0000000Z
+created_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+last_edited_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1523875194681-bedd468c58bf?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb
+icon:
+  type: emoji
+  emoji: ☑️
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: 9f580841-a15a-4b6e-a028-4382b9771e15
+      name: No limit
+      color: orange
+  Platform:
+    id: Lov[
+    type: select
+    select:
+      id: 3775b82a-0108-475c-ae48-b2c8e248dcef
+      name: Google Meet
+      color: pink
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: e1aee371-4e12-4665-b1de-84a9d9dcd910
+      name: Christopher
+      color: blue
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://meet.google.com/ueq-ausp-wpb
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2022-12-31T08:00:00.0000000+00:00
+      end: 
+      time_zone: 
+  Topic guide:
+    id: '}{d?'
+    type: url
+    url: https://oelc.notion.site/Confidence-d3893dbd03764799b02482c0b3783b08
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: 'Christopher’s free talk: Confidence'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'Christopher’s free talk: Confidence'
+      href: 
+url: https://www.notion.so/Christopher-s-free-talk-Confidence-6390f23baf9e4068830b6a8b96a480fd
+
+object: list
+results:
+- object: block
+  id: 113a16e4-c6fd-4233-b48a-5b7f6310cada
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 294472b3-b860-4ff9-81b8-52a145132687
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 1f2e0d92-31d3-4fe5-aa68-d63f278df89b
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 28eb2754-05b6-445f-80a1-9ef165f2303a
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: c09aa05d-06c2-453e-a4e8-748da492c48f
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: e4b65ef7-22ab-4781-96e5-5dfa3dd162c3
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: true
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: 10ca28a9-fcd2-4026-a306-7862a0f0dd48
+- object: block
+  id: 6cf63987-4b3f-4d2d-b94b-52527a1c5acc
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: true
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: d1621a4a-6dcd-49b1-95f1-2ae67a718d44
+- object: block
+  id: b2431831-0117-495c-92c3-7cd1403c08e5
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: bdaad2a4-7c2c-4e0d-aa04-753d23ccf20b
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 8c59b1cf-0c68-4163-aaa6-a04a98618e05
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: b0ca6777-37cb-4726-9da6-f8ae797c7b39
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 67ea53a3-9542-4bd2-825b-442f202f034f
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: fa092374-bc17-443f-a0de-e50a6c662181
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 1e0d6d21-7ee6-41f2-9531-e7e9e5593090
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: ec65eb63-6d64-4ccc-9217-322a48152e95
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 7d84ef01-e387-49af-8288-19158815b015
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 76f4f1a5-aad2-42b2-9cda-b1d9c4cc2f4c
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: b15ce49f-5604-4eba-ab9c-84ba446e109b
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: fe9e0ee1-08c3-4983-8ae7-4c07b16d28a1
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: ede95309-e8f7-4b31-bc59-51ff4ef9ab51
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: abb80ed0-916f-4685-8f4b-68756d8d75d5
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 9255d26b-c1db-4a49-b813-e2486ff6eb5f
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 08ef0d3a-738b-4045-9204-be93e2fff3fe
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 4e73b148-381b-4add-a059-509a50fa1353
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 757eae82-a7e2-4f69-b284-7f97dba61a36
+  parent:
+    type: page_id
+    page_id: 6390f23b-af9e-4068-830b-6a8b96a480fd
+  created_time: 2022-12-28T11:03:00.0000000Z
+  last_edited_time: 2022-12-28T11:03:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: true
+  archived: false
+  type: column_list
+  column_list: {}
+next_cursor: 
+has_more: false
+
