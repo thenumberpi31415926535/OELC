@@ -1,27 +1,27 @@
 ---
+talktime: 2021-11-06T21:00:00.0000000
+name: Karaoke, hosted by Jason and Avriel
+meeting_link: ' https://discord.gg/aV5yGtTW'
 notion_url: https://www.notion.so/Karaoke-hosted-by-Jason-and-Avriel-d52315f6a0e5412188850e89dd0b34e5
-archived: false
+title: Karaoke, hosted by Jason and Avriel
+parent_type: database_id
+created_time: 2021-11-05T17:42:00.0000000
+platform: Discord
 hosts:
 - Jason
 - Avriel
-talktime: 2021-11-06T21:00:00.0000000
-last_edited_time: 2021-11-12T22:59:00.0000000
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-language_level: No limit
-name: Karaoke, hosted by Jason and Avriel
-indexDate: 2021-11-06
-meeting_link: ' https://discord.gg/aV5yGtTW'
-title: Karaoke, hosted by Jason and Avriel
 tags:
 - Talk
 - 2021-11-06
 - Jason
 - Avriel
-platform: Discord
-object: page
-created_time: 2021-11-05T17:42:00.0000000
-parent_type: database_id
+archived: false
+indexDate: 2021-11-06
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 id: d52315f6-a0e5-4121-8885-0e89dd0b34e5
+last_edited_time: 2021-11-12T22:59:00.0000000
+object: page
+language_level: No limit
 ---
 
 
