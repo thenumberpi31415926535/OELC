@@ -1,24 +1,24 @@
 ---
-hosts: Abby
 title: TGIF TALK BY ABBY
-archived: false
 language_level: intermediate to advanced
-notion_url: https://www.notion.so/TGIF-TALK-BY-ABBY-db7666d5c46c4e82a1e6d00be98f1e9f
+meeting_link: meet.google.com/qpr-dbsi-puu
+talktime: 2021-09-03T22:00:00.0000000
+archived: false
+last_edited_time: 2021-09-03T00:50:00.0000000
 parent_type: database_id
+hosts: Abby
+object: page
+created_time: 2021-08-17T19:09:00.0000000
 platform: Google Meet
 name: TGIF TALK BY ABBY
-talktime: 2021-09-03T22:00:00.0000000
+notion_url: https://www.notion.so/TGIF-TALK-BY-ABBY-db7666d5c46c4e82a1e6d00be98f1e9f
 id: db7666d5-c46c-4e82-a1e6-d00be98f1e9f
 indexDate: 2021-09-03
-object: page
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-created_time: 2021-08-17T19:09:00.0000000
-last_edited_time: 2021-09-03T00:50:00.0000000
 tags:
 - Talk
 - 2021-09-03
 - Abby
-meeting_link: meet.google.com/qpr-dbsi-puu
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 ---
 
 Thank God It's Friday! I just posted this before a day AGAIN so let's do a FREE TALK!
