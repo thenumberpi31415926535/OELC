@@ -1,0 +1,642 @@
+object: page
+id: bf42fa19-d33e-4396-98f6-d996e273cf59
+created_time: 2023-01-10T09:13:00.0000000Z
+last_edited_time: 2023-01-19T00:44:00.0000000Z
+created_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+last_edited_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+cover:
+  type: external
+  external:
+    url: https://images.unsplash.com/photo-1524414139215-35c99f80112d?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb
+icon:
+  type: emoji
+  emoji: "\U0001F389"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Language Level:
+    id: Aa_=
+    type: select
+    select:
+      id: f7d2cf99-bbb7-474f-863c-e691575a7ba2
+      name: intermediate to advanced
+      color: gray
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: b5fd044f-4265-4924-b11a-3435f6d8deb8
+      name: Bones
+      color: yellow
+    - id: 5fd12e96-75db-41b9-b28e-3f854c2cf009
+      name: Pi
+      color: brown
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2023-01-28T12:00:00.0000000+00:00
+      end: 
+      time_zone: 
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: Working culture & benefits working in local & international companies
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Working culture & benefits working in local & international companies
+      href: 
+url: https://www.notion.so/Working-culture-benefits-working-in-local-international-companies-bf42fa19d33e439698f6d996e273cf59
+
+object: list
+results:
+- object: block
+  id: 92a0e457-ea4a-4a66-a3c1-e5c594a54bf4
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:14:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: true
+  archived: false
+  type: bulleted_list_item
+  bulleted_list_item:
+    color: default
+    text:
+    - type: text
+      text:
+        content: Looking for people with experience working in local and/or international companies to share they experience and insights on
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Looking for people with experience working in local and/or international companies to share they experience and insights on
+      href: 
+- object: block
+  id: 32d8ab17-7e8c-4d3d-89f6-79f298dfd31e
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T11:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 5d1d5138-6d3c-4d69-b9e8-30a4cee91a66
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T11:16:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: 'more detail updates at:'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'more detail updates at:'
+      href: 
+- object: block
+  id: 5e0a2196-4b76-4c1d-ab65-c6a9da16c8de
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T11:16:00.0000000Z
+  last_edited_time: 2023-01-10T11:16:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: https://roamresearch.com/#/app/CKLPi/page/1vqkoPHmj
+        link:
+          url: https://roamresearch.com/#/app/CKLPi/page/1vqkoPHmj
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: https://roamresearch.com/#/app/CKLPi/page/1vqkoPHmj
+      href: https://roamresearch.com/#/app/CKLPi/page/1vqkoPHmj
+- object: block
+  id: f7897a49-dd2c-4cb0-93ac-8e7230c35c3c
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T11:16:00.0000000Z
+  last_edited_time: 2023-01-10T11:16:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 56c15265-db78-4bea-bcd2-057e3f0dbc85
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 94b036e1-70a0-4fff-8673-3d4123600e08
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 0717dc68-65bc-460b-ac20-618208ca3c89
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: true
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: 10ca28a9-fcd2-4026-a306-7862a0f0dd48
+- object: block
+  id: d8a7c6bc-ca16-47b6-ac98-09b1a0dd72f9
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: true
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: d1621a4a-6dcd-49b1-95f1-2ae67a718d44
+- object: block
+  id: 9ad109b5-1f0f-4bb1-b098-63a2cf0f2573
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 2ebcedc0-8dd9-4742-a68c-fac7372c2e05
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 127a9644-db99-4987-b49d-95e9012b11e5
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: a5f01666-0bf1-40e1-af68-295e2e641a04
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 6e5ec8a5-a5f5-4ba3-8f12-158fcc8959d1
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 79cbb911-bf87-45d2-adca-3daf7e73f90a
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: a9286b94-7048-412c-87a4-2b0fd0ab28d9
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 4744d3c8-2f72-4beb-88ea-e37184492206
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: fccc02b9-125a-4639-9b53-31368383d4b2
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 9d11f520-979c-41bf-8dd3-3b8323af88be
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: c58763ff-3d8b-4fe9-911a-b9ce29fa4a87
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: fdbcf394-388b-4a95-addb-09a7fec39fff
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 15b1b16d-6a85-4ce1-98a2-d4c4ddb6c50e
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 1e455b65-7d57-4d9c-83c7-499e953a524f
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: bc90d591-6672-45f0-918c-727a5ffe124b
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: d36296fe-f2c5-4bd9-809d-9421be016d1d
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 83d1cfbf-210a-4ca9-aaf4-cf272db36ddf
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 3a795a9b-1a44-4093-82a2-fcfadfd125fa
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: true
+  archived: false
+  type: column_list
+  column_list: {}
+- object: block
+  id: b2934cee-76b7-4f3c-ab6f-c15b465f1a54
+  parent:
+    type: page_id
+    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
+  created_time: 2023-01-10T09:13:00.0000000Z
+  last_edited_time: 2023-01-10T09:13:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+next_cursor: 
+has_more: false
+
