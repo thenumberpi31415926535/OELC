@@ -1,27 +1,27 @@
 ---
-talktime: 2021-08-23T14:00:00.0000000
-parent_type: database_id
-archived: false
-object: page
-last_edited_time: 2022-06-12T12:37:00.0000000
-indexDate: 2021-08-23
-platform: Discord
-created_time: 2021-08-23T12:57:00.0000000
-name: Bones and Pi topic development session
-meeting_link: https://discord.gg/vE7QUXGDnS
 notion_url: https://www.notion.so/Bones-and-Pi-topic-development-session-be2403c3ee604ff1801cd1f56dfefb13
 hosts:
 - Bones
 - Pi
+platform: Discord
+last_edited_time: 2022-06-12T12:37:00.0000000
+name: Bones and Pi topic development session
+language_level: No limit
+title: Bones and Pi topic development session
+object: page
+created_time: 2021-08-23T12:57:00.0000000
+id: be2403c3-ee60-4ff1-801c-d1f56dfefb13
+parent_type: database_id
+meeting_link: https://discord.gg/vE7QUXGDnS
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+indexDate: 2021-08-23
+archived: false
+talktime: 2021-08-23T14:00:00.0000000
 tags:
 - Talk
 - 2021-08-23
 - Bones
 - Pi
-language_level: No limit
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-title: Bones and Pi topic development session
-id: be2403c3-ee60-4ff1-801c-d1f56dfefb13
 ---
 
 Bones and Pi gets together weekly to develop our next topic for discussion.
