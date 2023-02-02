@@ -1,27 +1,27 @@
 ---
+parent_type: database_id
+last_edited_time: 2021-08-01T09:33:00.0000000
+archived: false
+id: 64c75db2-c8c8-4a85-b48f-8755eac37007
+language_level: No limit
+talktime: 2021-08-01T09:30:00.0000000
 object: page
+indexDate: 2021-08-01
+meeting_link: https://meet.googley.com/tud-hdfb-tua
+name: Sunday's Talk by Peggy and Antina
 hosts:
 - Peggy@李明霈
 - Antina@張庭瑄
-talktime: 2021-08-01T09:30:00.0000000
-parent_type: database_id
-id: 64c75db2-c8c8-4a85-b48f-8755eac37007
-meeting_link: https://meet.googley.com/tud-hdfb-tua
-name: Sunday's Talk by Peggy and Antina
-last_edited_time: 2021-08-01T09:33:00.0000000
-title: Sunday's Talk by Peggy and Antina
-indexDate: 2021-08-01
-language_level: No limit
-archived: false
 platform: Google Meet
 tags:
 - Talk
 - 2021-08-01
 - Peggy@李明霈
 - Antina@張庭瑄
-notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-64c75db2c8c84a85b48f8755eac37007
-created_time: 2021-06-25T18:35:00.0000000
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+title: Sunday's Talk by Peggy and Antina
+created_time: 2021-06-25T18:35:00.0000000
+notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-64c75db2c8c84a85b48f8755eac37007
 ---
 
 # Free Talk 
