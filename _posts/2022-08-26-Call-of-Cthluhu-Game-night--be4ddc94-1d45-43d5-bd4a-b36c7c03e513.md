@@ -1,24 +1,24 @@
 ---
-language_level: intermediate to advanced
-hosts: Bones
-name: Call of Cthluhu Game night!
-id: be4ddc94-1d45-43d5-bd4a-b36c7c03e513
-talktime: 2022-08-26T20:00:00.0000000
-platform: Discord
 archived: false
-meeting_link: at discord game channel
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-created_time: 2022-08-10T23:37:00.0000000
-title: Call of Cthluhu Game night!
-parent_type: database_id
-indexDate: 2022-08-26
+name: Call of Cthluhu Game night!
 last_edited_time: 2022-08-10T23:48:00.0000000
+talktime: 2022-08-26T20:00:00.0000000
+created_time: 2022-08-10T23:37:00.0000000
+object: page
 tags:
 - Talk
 - 2022-08-26
 - Bones
-object: page
+platform: Discord
+id: be4ddc94-1d45-43d5-bd4a-b36c7c03e513
+language_level: intermediate to advanced
+title: Call of Cthluhu Game night!
 notion_url: https://www.notion.so/Call-of-Cthluhu-Game-night-be4ddc941d4543d5bd4ab36c7c03e513
+meeting_link: at discord game channel
+indexDate: 2022-08-26
+parent_type: database_id
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+hosts: Bones
 ---
 
 You have been invited to join the adventure of 4 investigators. 
