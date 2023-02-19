@@ -1,26 +1,26 @@
 ---
-title: Host group catch up hosted by Bones and Pi!
-archived: false
-parent_type: database_id
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 hosts:
 - Pi
 - Bones
+parent_type: database_id
 platform: Discord
-meeting_link: https://discord.gg/vE7QUXGDnS
-language_level: No limit
-talktime: 2021-07-16T20:30:00.0000000
+last_edited_time: 2021-07-26T18:45:00.0000000
+notion_url: https://www.notion.so/Host-group-catch-up-hosted-by-Bones-and-Pi-16ccf1f945664dbb8be572c06f816988
 id: 16ccf1f9-4566-4dbb-8be5-72c06f816988
+indexDate: 2021-07-16
+talktime: 2021-07-16T20:30:00.0000000
+archived: false
 tags:
 - Talk
 - 2021-07-16
 - Pi
 - Bones
-last_edited_time: 2021-07-26T18:45:00.0000000
 name: Host group catch up hosted by Bones and Pi!
+meeting_link: https://discord.gg/vE7QUXGDnS
+language_level: No limit
 object: page
-notion_url: https://www.notion.so/Host-group-catch-up-hosted-by-Bones-and-Pi-16ccf1f945664dbb8be572c06f816988
-indexDate: 2021-07-16
+title: Host group catch up hosted by Bones and Pi!
 created_time: 2021-07-10T14:50:00.0000000
 ---
 

@@ -1,26 +1,26 @@
 ---
-title: Happy Hour - GameBar@GatherTown
-archived: false
-parent_type: database_id
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 hosts:
 - Milo
 - Üya
+parent_type: database_id
 platform: Gather Town
-meeting_link: https://meet.google.com/fcz-yhyp-szx
-language_level: No limit
-talktime: 2021-08-13T20:30:00.0000000
+last_edited_time: 2021-08-13T14:01:00.0000000
+notion_url: https://www.notion.so/Happy-Hour-GameBar-GatherTown-f2e805b56f3443eea4ac3e581f7073d1
 id: f2e805b5-6f34-43ee-a4ac-3e581f7073d1
+indexDate: 2021-08-13
+talktime: 2021-08-13T20:30:00.0000000
+archived: false
 tags:
 - Talk
 - 2021-08-13
 - Milo
 - Üya
-last_edited_time: 2021-08-13T14:01:00.0000000
 name: Happy Hour - GameBar@GatherTown
+meeting_link: https://meet.google.com/fcz-yhyp-szx
+language_level: No limit
 object: page
-notion_url: https://www.notion.so/Happy-Hour-GameBar-GatherTown-f2e805b56f3443eea4ac3e581f7073d1
-indexDate: 2021-08-13
+title: Happy Hour - GameBar@GatherTown
 created_time: 2021-07-20T20:14:00.0000000
 ---
 
