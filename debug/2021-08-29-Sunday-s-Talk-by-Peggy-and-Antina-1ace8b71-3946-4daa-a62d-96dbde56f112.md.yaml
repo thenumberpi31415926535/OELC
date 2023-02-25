@@ -193,7 +193,9 @@ results:
     text:
     - type: text
       text:
-        content: "\n\U0001F4C59: 30 - 9:40 self-introduction 9:40 - 10:30 discussion"
+        content: |2-
+
+          📅9: 30 - 9:40 self-introduction 9:40 - 10:30 discussion
         link: 
       annotations:
         bold: false
@@ -202,7 +204,9 @@ results:
         underline: false
         code: false
         color: default
-      plain_text: "\n\U0001F4C59: 30 - 9:40 self-introduction 9:40 - 10:30 discussion"
+      plain_text: |2-
+
+        📅9: 30 - 9:40 self-introduction 9:40 - 10:30 discussion
       href: 
 - object: block
   id: 1a6aed80-e27f-4798-9e35-320495a0c2d0

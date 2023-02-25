@@ -155,7 +155,9 @@ results:
       href: https://meet.google.com/bce-znvw-icb
     - type: text
       text:
-        content: "\nFeel free to come in before the meeting to test your sound and microphone. You just need to log in to your Google and click the link, then you are all set!\U0001F973"
+        content: |2-
+
+          Feel free to come in before the meeting to test your sound and microphone. You just need to log in to your Google and click the link, then you are all set!🥳
         link: 
       annotations:
         bold: false
@@ -164,7 +166,9 @@ results:
         underline: false
         code: false
         color: default
-      plain_text: "\nFeel free to come in before the meeting to test your sound and microphone. You just need to log in to your Google and click the link, then you are all set!\U0001F973"
+      plain_text: |2-
+
+        Feel free to come in before the meeting to test your sound and microphone. You just need to log in to your Google and click the link, then you are all set!🥳
       href: 
 - object: block
   id: b348bc23-1f82-4b85-b3f4-992bb7b9a549
@@ -187,7 +191,9 @@ results:
     text:
     - type: text
       text:
-        content: "✨Wanna join?\nComment below to let me know if you are going to be a speaker or listener \U0001F609"
+        content: |-
+          ✨Wanna join?
+          Comment below to let me know if you are going to be a speaker or listener 😉
         link: 
       annotations:
         bold: false
@@ -196,7 +202,9 @@ results:
         underline: false
         code: false
         color: default
-      plain_text: "✨Wanna join?\nComment below to let me know if you are going to be a speaker or listener \U0001F609"
+      plain_text: |-
+        ✨Wanna join?
+        Comment below to let me know if you are going to be a speaker or listener 😉
       href: 
 next_cursor: 
 has_more: false

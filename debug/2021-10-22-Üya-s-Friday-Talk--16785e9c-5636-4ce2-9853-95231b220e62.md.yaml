@@ -11,13 +11,13 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8dfc8af9-27f0-41cd-becd-f6dddeb360f5/83A23BB8-E2A5-4CDC-A22C-90643D782C44.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230224T012317Z&X-Amz-Expires=3600&X-Amz-Signature=e81e1a327a392385064100a686db93afab9a2b80d7e12c5b76ed7af69cf7d636&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2023-02-24T02:23:17.2790000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8dfc8af9-27f0-41cd-becd-f6dddeb360f5/83A23BB8-E2A5-4CDC-A22C-90643D782C44.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230225%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230225T012307Z&X-Amz-Expires=3600&X-Amz-Signature=7625948767f9c47fd72d3320c47e9e210e4cc20300bf988167c98ba7e44259f4&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2023-02-25T02:23:07.7190000Z
 icon:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/627c6e2e-feb0-44b5-b62e-f035f0dbb58c/C5F0CF0F-CC6E-4270-B8AE-69E806A09DE6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230224T012317Z&X-Amz-Expires=3600&X-Amz-Signature=ddf9a6962fe6b5b6ba107962853f3a8d52716c67af35185272c94781e0fa63d5&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2023-02-24T02:23:17.2830000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/627c6e2e-feb0-44b5-b62e-f035f0dbb58c/C5F0CF0F-CC6E-4270-B8AE-69E806A09DE6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230225%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230225T012307Z&X-Amz-Expires=3600&X-Amz-Signature=c68df772d07ccb77e65825879c80769d20470129add420eb9b028a8b302436cb&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2023-02-25T02:23:07.7210000Z
 parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
@@ -455,7 +455,9 @@ results:
     text:
     - type: text
       text:
-        content: "Jiaqi is a CELTA qualified English teacher who has taught in both China and England. Her teaching style is known to be super fun and interactive, specialising in phonetics and RP pronunciation. She is also a strong believer of task-based learning. \nDuring the years of teaching, she has helped hundreds of students improve their English."
+        content: |-
+          Jiaqi is a CELTA qualified English teacher who has taught in both China and England. Her teaching style is known to be super fun and interactive, specialising in phonetics and RP pronunciation. She is also a strong believer of task-based learning. 
+          During the years of teaching, she has helped hundreds of students improve their English.
         link: 
       annotations:
         bold: false
@@ -464,7 +466,9 @@ results:
         underline: false
         code: false
         color: default
-      plain_text: "Jiaqi is a CELTA qualified English teacher who has taught in both China and England. Her teaching style is known to be super fun and interactive, specialising in phonetics and RP pronunciation. She is also a strong believer of task-based learning. \nDuring the years of teaching, she has helped hundreds of students improve their English."
+      plain_text: |-
+        Jiaqi is a CELTA qualified English teacher who has taught in both China and England. Her teaching style is known to be super fun and interactive, specialising in phonetics and RP pronunciation. She is also a strong believer of task-based learning. 
+        During the years of teaching, she has helped hundreds of students improve their English.
       href: 
 - object: block
   id: b8d06a48-c9fd-46c4-ba87-f6623c0a277d

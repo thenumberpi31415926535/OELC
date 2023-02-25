@@ -293,7 +293,9 @@ results:
     text:
     - type: text
       text:
-        content: "\n\U0001F4C59:30～9:40 self-introduction 9:40～10:30 discussion\n"
+        content: |2
+
+          📅9:30～9:40 self-introduction 9:40～10:30 discussion
         link: 
       annotations:
         bold: false
@@ -302,7 +304,9 @@ results:
         underline: false
         code: false
         color: default
-      plain_text: "\n\U0001F4C59:30～9:40 self-introduction 9:40～10:30 discussion\n"
+      plain_text: |2
+
+        📅9:30～9:40 self-introduction 9:40～10:30 discussion
       href: 
 - object: block
   id: 8c09e637-73b4-4c26-b5f7-0b3642f43b4b
