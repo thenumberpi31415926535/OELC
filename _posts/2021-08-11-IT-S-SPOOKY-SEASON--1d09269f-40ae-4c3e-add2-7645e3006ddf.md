@@ -1,27 +1,27 @@
 ---
+name: IT'S SPOOKY SEASON!
+meeting_link: https://discord.gg/vE7QUXGDnS
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+created_time: 2021-08-10T15:46:00.0000000
+indexDate: 2021-08-11
+parent_type: database_id
 last_edited_time: 2021-08-16T01:25:00.0000000
-talktime: 2021-08-11T21:00:00.0000000
 hosts:
 - Bones
 - Pi
-notion_url: https://www.notion.so/IT-S-SPOOKY-SEASON-1d09269f40ae4c3eadd27645e3006ddf
-indexDate: 2021-08-11
+archived: false
 object: page
+talktime: 2021-08-11T21:00:00.0000000
+language_level: No limit
+id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
+platform: Discord
 tags:
 - Talk
 - 2021-08-11
 - Bones
 - Pi
-platform: Discord
-id: 1d09269f-40ae-4c3e-add2-7645e3006ddf
-language_level: No limit
-meeting_link: https://discord.gg/vE7QUXGDnS
-archived: false
-created_time: 2021-08-10T15:46:00.0000000
-name: IT'S SPOOKY SEASON!
-parent_type: database_id
+notion_url: https://www.notion.so/IT-S-SPOOKY-SEASON-1d09269f40ae4c3eadd27645e3006ddf
 title: IT'S SPOOKY SEASON!
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 ---
 
 It's that time of the year again! Share your spooky experiences with us!
