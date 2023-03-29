@@ -1,24 +1,24 @@
 ---
-last_edited_time: 2023-01-17T14:26:00.0000000
-title: "Catch up for chat! \U0001F389woohoo!"
-created_time: 2021-09-03T00:07:00.0000000
-hosts: Bones
-indexDate: 2023-01-18
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-object: page
 meeting_link: https://meet.google.com/jii-vdfc-nre
-id: ae7dba47-e245-460c-af47-54bc7a886eaf
-parent_type: database_id
-notion_url: https://www.notion.so/Catch-up-for-chat-woohoo-ae7dba47e245460caf4754bc7a886eaf
-archived: false
 name: "Catch up for chat! \U0001F389woohoo!"
+id: ae7dba47-e245-460c-af47-54bc7a886eaf
+notion_url: https://www.notion.so/Catch-up-for-chat-woohoo-ae7dba47e245460caf4754bc7a886eaf
+title: "Catch up for chat! \U0001F389woohoo!"
+hosts: Bones
 tags:
 - Talk
 - 2023-01-18
 - Bones
-talktime: 2023-01-18T21:10:00.0000000
+last_edited_time: 2023-01-17T14:26:00.0000000
 language_level: No limit
+talktime: 2023-01-18T21:10:00.0000000
 platform: Google Meet
+created_time: 2021-09-03T00:07:00.0000000
+parent_type: database_id
+object: page
+indexDate: 2023-01-18
+archived: false
 ---
 
 Keeping you all in loop! And let’s chat your expectation of the chat and talks!
