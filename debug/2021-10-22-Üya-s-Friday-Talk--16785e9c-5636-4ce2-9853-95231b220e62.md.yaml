@@ -11,13 +11,13 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8dfc8af9-27f0-41cd-becd-f6dddeb360f5/83A23BB8-E2A5-4CDC-A22C-90643D782C44.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230607%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230607T013955Z&X-Amz-Expires=3600&X-Amz-Signature=e83894d107b7a4e1d4af9691a034a1968167facf564b7def6cade2009fb69e0c&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2023-06-07T02:39:55.7150000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8dfc8af9-27f0-41cd-becd-f6dddeb360f5/83A23BB8-E2A5-4CDC-A22C-90643D782C44.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230608%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230608T013121Z&X-Amz-Expires=3600&X-Amz-Signature=c24613ca3a69a8ee9ffdf91007c94535f516c34607ea77a24a69ac452112d082&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2023-06-08T02:31:21.5800000Z
 icon:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/627c6e2e-feb0-44b5-b62e-f035f0dbb58c/C5F0CF0F-CC6E-4270-B8AE-69E806A09DE6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230607%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230607T013955Z&X-Amz-Expires=3600&X-Amz-Signature=3cb7dd8c06e88af60a001e5eac60e84069153e171df185ce61425f3aaa872624&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2023-06-07T02:39:55.7530000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/627c6e2e-feb0-44b5-b62e-f035f0dbb58c/C5F0CF0F-CC6E-4270-B8AE-69E806A09DE6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230608%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230608T013121Z&X-Amz-Expires=3600&X-Amz-Signature=a86cde545cf1ef3385a323cf8286a3681699488f59b244406451eb43ab926359&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2023-06-08T02:31:21.5860000Z
 parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
@@ -73,6 +73,7 @@ properties:
       plain_text: Üya's Friday Talk!
       href: 
 url: https://www.notion.so/ya-s-Friday-Talk-16785e9c56364ce2985395231b220e62
+public_url: https://hissing-panama-209.notion.site/ya-s-Friday-Talk-16785e9c56364ce2985395231b220e62
 
 object: list
 results:

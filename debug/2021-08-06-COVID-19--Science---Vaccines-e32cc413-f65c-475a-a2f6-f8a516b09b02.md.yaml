@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf70b2a4-7f85-4d4c-917d-e247d2151fa5/ocivd.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230607%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230607T014102Z&X-Amz-Expires=3600&X-Amz-Signature=32076f8977d58060de756f5aae5a6ec153e8895f066f35f1f963a4d6063d6612&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2023-06-07T02:41:02.9360000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf70b2a4-7f85-4d4c-917d-e247d2151fa5/ocivd.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230608%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230608T013240Z&X-Amz-Expires=3600&X-Amz-Signature=307dbdd8b01915a56fb7d048a61c1a80fbbf8b21353d64f21a601957b7bce78b&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2023-06-08T02:32:40.5630000Z
 icon:
   type: emoji
   emoji: "\U0001F9A0"
@@ -77,6 +77,7 @@ properties:
       plain_text: 'COVID-19: Science & Vaccines'
       href: 
 url: https://www.notion.so/COVID-19-Science-Vaccines-e32cc413f65c475aa2f6f8a516b09b02
+public_url: https://hissing-panama-209.notion.site/COVID-19-Science-Vaccines-e32cc413f65c475aa2f6f8a516b09b02
 
 object: list
 results:
