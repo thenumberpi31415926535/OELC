@@ -1,24 +1,24 @@
 ---
-created_time: 2021-07-21T21:02:00.0000000
-archived: false
-language_level: 'CEFR: B1 and ups'
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+meeting_link: https://discord.gg/pUgB4XEQrH
 id: fc113489-4124-49e8-b847-7c8dcbdf4d0d
+archived: false
+platform: Discord
+language_level: 'CEFR: B1 and ups'
 last_edited_time: 2021-07-23T18:39:00.0000000
-notion_url: https://www.notion.so/English-Learning-Myths-Issues-in-Taiwan-hosted-by-Jason-fc113489412449e8b8477c8dcbdf4d0d
+name: English Learning Myths/Issues in Taiwan, hosted by Jason
 hosts: Jason
 title: English Learning Myths/Issues in Taiwan, hosted by Jason
-parent_type: database_id
-indexDate: 2021-07-24
-talktime: 2021-07-24T15:30:00.0000000
 object: page
-platform: Discord
+talktime: 2021-07-24T15:30:00.0000000
 tags:
 - Talk
 - 2021-07-24
 - Jason
-meeting_link: https://discord.gg/pUgB4XEQrH
-name: English Learning Myths/Issues in Taiwan, hosted by Jason
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+notion_url: https://www.notion.so/English-Learning-Myths-Issues-in-Taiwan-hosted-by-Jason-fc113489412449e8b8477c8dcbdf4d0d
+indexDate: 2021-07-24
+created_time: 2021-07-21T21:02:00.0000000
+parent_type: database_id
 ---
 
 
