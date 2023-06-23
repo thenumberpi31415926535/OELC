@@ -1,31 +1,31 @@
 ---
+language_level: No limit
+archived: false
+indexDate: 2021-08-13
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+object: page
+meeting_link: https://meet.google.com/fcz-yhyp-szx
 tags:
 - Talk
 - 2021-08-13
 - Milo
 - Üya
-talktime: 2021-08-13T20:30:00.0000000
-platform: Gather Town
-last_edited_time: 2021-08-13T14:01:00.0000000
+parent_type: database_id
 name: Happy Hour - GameBar@GatherTown
+last_edited_time: 2021-08-13T14:01:00.0000000
+title: Happy Hour - GameBar@GatherTown
+id: f2e805b5-6f34-43ee-a4ac-3e581f7073d1
+platform: Gather Town
+talktime: 2021-08-13T20:30:00.0000000
+created_time: 2021-07-20T20:14:00.0000000
+notion_url: https://www.notion.so/Happy-Hour-GameBar-GatherTown-f2e805b56f3443eea4ac3e581f7073d1
 hosts:
 - Milo
 - Üya
-title: Happy Hour - GameBar@GatherTown
-notion_url: https://www.notion.so/Happy-Hour-GameBar-GatherTown-f2e805b56f3443eea4ac3e581f7073d1
-created_time: 2021-07-20T20:14:00.0000000
-id: f2e805b5-6f34-43ee-a4ac-3e581f7073d1
-language_level: No limit
-archived: false
-object: page
-indexDate: 2021-08-13
-meeting_link: https://meet.google.com/fcz-yhyp-szx
-parent_type: database_id
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 ---
 
 !以下連結為Gather Town的操作參考說明，如果對此軟體不熟悉的朋友，歡迎參閱一下!!!
-[https://hackmd.io/5oBCH7IrTVuL-tm2rofrHw?view](https://hackmd.io/5oBCH7IrTVuL-tm2rofrHw?view)
+[https://hackmd.io/5oBCH7IrTVuL-tm2rofrHw?view](https://hackmd.io/5oBCH7IrTVuL-tm2rofrHw?view=)
 # Let's chitchat in English. 
    - 時段： PM 08:30 ~ PM 10:30 
    - 條件：需要至少有一杯水、飲料或是酒，願意嘗試開口講英文的心
@@ -53,7 +53,7 @@ Gather Town 有個連結，請到上面網址中的 Google Meet 內取得。
 請不要使用它，如此能確保活動順暢也不造成他人麻須。
 
 !!!以下連結為Gather Town的操作參考說明，如果對此軟體不熟悉的朋友，歡迎參閱一下!!!
-[https://hackmd.io/5oBCH7IrTVuL-tm2rofrHw?view](https://hackmd.io/5oBCH7IrTVuL-tm2rofrHw?view)
+[https://hackmd.io/5oBCH7IrTVuL-tm2rofrHw?view](https://hackmd.io/5oBCH7IrTVuL-tm2rofrHw?view=)
 
 進入之後，會有左區與右區的特別規定
 場地內左邊區域，禁止「開鏡頭」，所以進入此區之時，請關鏡頭。
