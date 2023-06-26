@@ -1,27 +1,27 @@
 ---
+language_level: No limit
+talktime: 2021-11-20T21:00:00.0000000
+object: page
+title: 'Free Talk, hosted by Jason and Avriel '
+name: 'Free Talk, hosted by Jason and Avriel '
+created_time: 2021-11-18T20:32:00.0000000
+hosts:
+- Jason
+- Avriel
+last_edited_time: 2021-11-20T20:42:00.0000000
+meeting_link: https://meet.google.com/seq-hiss-xnp
+notion_url: https://www.notion.so/Free-Talk-hosted-by-Jason-and-Avriel-5f6dbe4ba1ab4b3798870d7fd73c332b
 tags:
 - Talk
 - 2021-11-20
 - Jason
 - Avriel
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-talktime: 2021-11-20T21:00:00.0000000
-indexDate: 2021-11-20
-platform: Google Meet
-meeting_link: https://meet.google.com/seq-hiss-xnp
-archived: false
-name: 'Free Talk, hosted by Jason and Avriel '
-title: 'Free Talk, hosted by Jason and Avriel '
-last_edited_time: 2021-11-20T20:42:00.0000000
-object: page
-created_time: 2021-11-18T20:32:00.0000000
-id: 5f6dbe4b-a1ab-4b37-9887-0d7fd73c332b
 parent_type: database_id
-notion_url: https://www.notion.so/Free-Talk-hosted-by-Jason-and-Avriel-5f6dbe4ba1ab4b3798870d7fd73c332b
-hosts:
-- Jason
-- Avriel
-language_level: No limit
+platform: Google Meet
+indexDate: 2021-11-20
+archived: false
+id: 5f6dbe4b-a1ab-4b37-9887-0d7fd73c332b
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 ---
 
 
