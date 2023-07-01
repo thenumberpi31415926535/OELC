@@ -1,26 +1,26 @@
 ---
-archived: false
-title: Ask Bones and Pi, it's free talk time!
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-indexDate: 2021-08-04
-platform: Discord
-meeting_link: https://discord.gg/vE7QUXGDnS
-id: f8ed1ea1-62ac-4336-9f56-450d7b8d9e0a
-language_level: No limit
-parent_type: database_id
-name: Ask Bones and Pi, it's free talk time!
 last_edited_time: 2021-08-16T01:26:00.0000000
-notion_url: https://www.notion.so/Ask-Bones-and-Pi-it-s-free-talk-time-f8ed1ea162ac43369f56450d7b8d9e0a
-hosts:
-- Bones
-- Pi
+parent_type: database_id
+title: Ask Bones and Pi, it's free talk time!
 created_time: 2021-08-02T12:38:00.0000000
-talktime: 2021-08-04T21:00:00.0000000
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+notion_url: https://www.notion.so/Ask-Bones-and-Pi-it-s-free-talk-time-f8ed1ea162ac43369f56450d7b8d9e0a
 tags:
 - Talk
 - 2021-08-04
 - Bones
 - Pi
+name: Ask Bones and Pi, it's free talk time!
+platform: Discord
+indexDate: 2021-08-04
+hosts:
+- Bones
+- Pi
+talktime: 2021-08-04T21:00:00.0000000
+id: f8ed1ea1-62ac-4336-9f56-450d7b8d9e0a
+meeting_link: https://discord.gg/vE7QUXGDnS
+language_level: No limit
+archived: false
 object: page
 ---
 
