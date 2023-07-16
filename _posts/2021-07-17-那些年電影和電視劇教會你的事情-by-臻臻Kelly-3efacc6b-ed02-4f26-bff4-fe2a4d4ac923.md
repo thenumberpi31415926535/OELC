@@ -1,24 +1,24 @@
 ---
-meeting_link: https://meet.google.com/nep-pjzs-nsp
-last_edited_time: 2021-07-20T20:11:00.0000000
+name: 那些年電影和電視劇教會你的事情 by 臻臻Kelly
 created_time: 2021-07-11T09:43:00.0000000
-title: 那些年電影和電視劇教會你的事情 by 臻臻Kelly
-notion_url: https://www.notion.so/by-Kelly-3efacc6bed024f26bff4fe2a4d4ac923
+language_level: No limit
+archived: false
 tags:
 - Talk
 - 2021-07-17
 - 臻臻Kelly
-talktime: 2021-07-17T22:00:00.0000000
 platform: Google Meet
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-indexDate: 2021-07-17
-language_level: No limit
+title: 那些年電影和電視劇教會你的事情 by 臻臻Kelly
 hosts: 臻臻Kelly
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+notion_url: https://www.notion.so/by-Kelly-3efacc6bed024f26bff4fe2a4d4ac923
+indexDate: 2021-07-17
+talktime: 2021-07-17T22:00:00.0000000
+meeting_link: https://meet.google.com/nep-pjzs-nsp
+last_edited_time: 2021-07-20T20:11:00.0000000
+object: page
 id: 3efacc6b-ed02-4f26-bff4-fe2a4d4ac923
 parent_type: database_id
-name: 那些年電影和電視劇教會你的事情 by 臻臻Kelly
-object: page
-archived: false
 ---
 
 Extended Questions:
