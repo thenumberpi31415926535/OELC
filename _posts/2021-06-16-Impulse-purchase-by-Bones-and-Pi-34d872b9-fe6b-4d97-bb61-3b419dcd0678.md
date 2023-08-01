@@ -1,27 +1,27 @@
 ---
+created_time: 2021-06-14T02:34:00.0000000
 indexDate: 2021-06-16
-meeting_link: https://meet.google.com/oxj-bvov-jua
+last_edited_time: 2021-06-16T20:39:00.0000000
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+language_level: No limit
 hosts:
 - Pi
 - Bones
-title: Impulse purchase by Bones and Pi
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-archived: false
-last_edited_time: 2021-06-16T20:39:00.0000000
-talktime: 2021-06-16T21:00:00.0000000
-created_time: 2021-06-14T02:34:00.0000000
 parent_type: database_id
-id: 34d872b9-fe6b-4d97-bb61-3b419dcd0678
-object: page
 tags:
 - Talk
 - 2021-06-16
 - Pi
 - Bones
+object: page
+talktime: 2021-06-16T21:00:00.0000000
+archived: false
 name: Impulse purchase by Bones and Pi
-language_level: No limit
 notion_url: https://www.notion.so/Impulse-purchase-by-Bones-and-Pi-34d872b9fe6b4d97bb613b419dcd0678
+meeting_link: https://meet.google.com/oxj-bvov-jua
+title: Impulse purchase by Bones and Pi
 platform: Google Meet
+id: 34d872b9-fe6b-4d97-bb61-3b419dcd0678
 ---
 
 [Untitled](https://www.notion.so/cd877e06ad7149f69157f2c71bad5cca)   
