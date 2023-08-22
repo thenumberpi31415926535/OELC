@@ -1,27 +1,27 @@
 ---
+meeting_link: https://discord.gg/vE7QUXGDnS
+hosts:
+- Bones
+- Pi
+id: 991cc228-abc1-46f3-b08f-11dedd6a6ad1
+name: Relationships (free talk)
 tags:
 - Talk
 - 2021-09-08
 - Bones
 - Pi
-meeting_link: https://discord.gg/vE7QUXGDnS
-hosts:
-- Bones
-- Pi
-archived: false
 indexDate: 2021-09-08
-language_level: No limit
-id: 991cc228-abc1-46f3-b08f-11dedd6a6ad1
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-created_time: 2021-09-02T13:54:00.0000000
-name: Relationships (free talk)
-title: Relationships (free talk)
 object: page
 platform: Discord
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+last_edited_time: 2021-09-02T13:58:00.0000000
+created_time: 2021-09-02T13:54:00.0000000
+language_level: No limit
+notion_url: https://www.notion.so/Relationships-free-talk-991cc228abc146f3b08f11dedd6a6ad1
+title: Relationships (free talk)
 talktime: 2021-09-08T21:00:00.0000000
 parent_type: database_id
-notion_url: https://www.notion.so/Relationships-free-talk-991cc228abc146f3b08f11dedd6a6ad1
-last_edited_time: 2021-09-02T13:58:00.0000000
+archived: false
 ---
 
 
