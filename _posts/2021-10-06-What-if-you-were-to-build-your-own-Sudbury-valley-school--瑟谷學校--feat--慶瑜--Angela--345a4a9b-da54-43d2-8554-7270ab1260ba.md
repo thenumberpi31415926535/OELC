@@ -1,27 +1,27 @@
 ---
-archived: false
-name: What if you were to build your own Sudbury valley school? 瑟谷學校 (feat. 慶瑜, Angela)
-platform: Discord
-title: What if you were to build your own Sudbury valley school? 瑟谷學校 (feat. 慶瑜, Angela)
+id: 345a4a9b-da54-43d2-8554-7270ab1260ba
 last_edited_time: 2021-10-06T11:48:00.0000000
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-talktime: 2021-10-06T21:00:00.0000000
-object: page
+parent_type: database_id
+archived: false
 meeting_link: https://discord.gg/p8n3fAuW
-hosts:
-- Bones
-- Pi
-indexDate: 2021-10-06
+name: What if you were to build your own Sudbury valley school? 瑟谷學校 (feat. 慶瑜, Angela)
+talktime: 2021-10-06T21:00:00.0000000
+title: What if you were to build your own Sudbury valley school? 瑟谷學校 (feat. 慶瑜, Angela)
+language_level: No limit
 notion_url: https://www.notion.so/What-if-you-were-to-build-your-own-Sudbury-valley-school-feat-Angela-345a4a9bda5443d285547270ab1260ba
 created_time: 2021-09-30T12:14:00.0000000
-parent_type: database_id
+indexDate: 2021-10-06
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+object: page
 tags:
 - Talk
 - 2021-10-06
 - Bones
 - Pi
-id: 345a4a9b-da54-43d2-8554-7270ab1260ba
-language_level: No limit
+platform: Discord
+hosts:
+- Bones
+- Pi
 ---
 
 
