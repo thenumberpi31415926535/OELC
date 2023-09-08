@@ -1,27 +1,27 @@
 ---
-name: Ask Bones and Pi, it's free talk time!
-created_time: 2021-08-02T12:38:00.0000000
-platform: Discord
-archived: false
+language_level: No limit
+last_edited_time: 2021-08-16T01:26:00.0000000
+indexDate: 2021-08-04
 tags:
 - Talk
 - 2021-08-04
 - Bones
 - Pi
-last_edited_time: 2021-08-16T01:26:00.0000000
-talktime: 2021-08-04T21:00:00.0000000
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-id: f8ed1ea1-62ac-4336-9f56-450d7b8d9e0a
-indexDate: 2021-08-04
-title: Ask Bones and Pi, it's free talk time!
-meeting_link: https://discord.gg/vE7QUXGDnS
-language_level: No limit
+name: Ask Bones and Pi, it's free talk time!
 parent_type: database_id
 notion_url: https://www.notion.so/Ask-Bones-and-Pi-it-s-free-talk-time-f8ed1ea162ac43369f56450d7b8d9e0a
-object: page
+talktime: 2021-08-04T21:00:00.0000000
+platform: Discord
 hosts:
 - Bones
 - Pi
+meeting_link: https://discord.gg/vE7QUXGDnS
+archived: false
+title: Ask Bones and Pi, it's free talk time!
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+object: page
+id: f8ed1ea1-62ac-4336-9f56-450d7b8d9e0a
+created_time: 2021-08-02T12:38:00.0000000
 ---
 
 Bring a drink or two, make yourself comfortable, come and hang out with us!
