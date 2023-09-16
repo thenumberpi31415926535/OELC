@@ -1,0 +1,620 @@
+object: page
+id: dc0fc524-1975-414f-abab-1612e5dbee69
+created_time: 2023-09-15T12:15:00.0000000Z
+last_edited_time: 2023-09-15T12:19:00.0000000Z
+created_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+last_edited_by:
+  object: user
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+cover:
+  type: file
+  file:
+    url: https://prod-files-secure.s3.us-west-2.amazonaws.com/fd2f02b6-f00e-468d-882c-73d5cfbbaabc/c24340cd-c75f-49df-a7d6-c3ddd89b44c8/hq720.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230916%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230916T010114Z&X-Amz-Expires=3600&X-Amz-Signature=4b8a86aae1a1bcf83565271889a65d348643c750a9f6173170e1f3a96fd2ae91&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2023-09-16T02:01:14.6630000Z
+icon:
+  type: emoji
+  emoji: "\U0001F916"
+parent:
+  type: database_id
+  database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
+properties:
+  Hosts:
+    id: cdbz
+    type: multi_select
+    multi_select:
+    - id: 5fd12e96-75db-41b9-b28e-3f854c2cf009
+      name: Pi
+      color: brown
+  Date:
+    id: '|tal'
+    type: date
+    date:
+      start: 2023-09-22T12:30:00.0000000+00:00
+      end: 
+      time_zone: 
+  Topic guide:
+    id: '}{d?'
+    type: url
+    url: https://www.youtube.com/watch?v=5q87K1WaoFI
+  Name:
+    id: title
+    type: title
+    title:
+    - type: text
+      text:
+        content: 'Watch along: '
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'Watch along: '
+      href: 
+    - type: text
+      text:
+        content: Computer Scientist Explains Machine Learning in 5 Levels of Difficulty | WIRED
+        link: 
+      annotations:
+        bold: true
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Computer Scientist Explains Machine Learning in 5 Levels of Difficulty | WIRED
+      href: 
+url: https://www.notion.so/Watch-along-Computer-Scientist-Explains-Machine-Learning-in-5-Levels-of-Difficulty-WIRED-dc0fc5241975414fabab1612e5dbee69
+public_url: https://hissing-panama-209.notion.site/Watch-along-Computer-Scientist-Explains-Machine-Learning-in-5-Levels-of-Difficulty-WIRED-dc0fc5241975414fabab1612e5dbee69
+
+object: list
+results:
+- object: block
+  id: ac8a6774-0b1d-4374-bd95-590307bc10ec
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:18:00.0000000Z
+  last_edited_time: 2023-09-15T12:18:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: video
+  video:
+    caption: []
+    type: external
+    external:
+      url: https://www.youtube.com/watch?v=5q87K1WaoFI
+- object: block
+  id: 2b056009-9085-485e-b00e-b7927bc73d74
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:19:00.0000000Z
+  last_edited_time: 2023-09-15T12:19:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: Watch-along session for this video where a computer scientist breaks down machine learning into five levels of difficulty.
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Watch-along session for this video where a computer scientist breaks down machine learning into five levels of difficulty.
+      href: 
+- object: block
+  id: ccf3488b-15c3-44e7-a48d-cc619c7f60f9
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:19:00.0000000Z
+  last_edited_time: 2023-09-15T12:19:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: Begin with the kid-friendly explanation, pausing to field questions and engage in discussions. After that, the group can decide by vote whether to progress to the subsequent, more detailed level of explanation.
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: Begin with the kid-friendly explanation, pausing to field questions and engage in discussions. After that, the group can decide by vote whether to progress to the subsequent, more detailed level of explanation.
+      href: 
+- object: block
+  id: e3055415-ed13-47b6-bb07-fbb174c18bb6
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 89621690-a063-4fcb-bc6e-8e808088267f
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 281f473b-5f5b-4f5e-9e9a-d65358f28dea
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 3a95e0ec-82e9-48ba-b30d-9d2ff0382ccf
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 92c94fc8-0a83-4d95-bfea-9c068779f2e2
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: true
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: 10ca28a9-fcd2-4026-a306-7862a0f0dd48
+- object: block
+  id: 7e2d39aa-b2ce-4762-a2a0-b80ca1009ff2
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: synced_block
+  synced_block:
+    synced_from:
+      type: block_id
+      block_id: d1621a4a-6dcd-49b1-95f1-2ae67a718d44
+- object: block
+  id: a7585e3c-a590-4078-adad-dc272ecd5ef5
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: dd12d5b9-a40a-48f4-9b34-6655048585c6
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 42f5095b-86f9-42c5-b213-6b02597e65ec
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 9e0978ee-7fb9-413d-8c61-edeb41ec8b50
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 9bc78811-dd42-4b95-9307-08563628f4cf
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 3f2cfb49-bb37-4a79-9b4b-11d9c8f8e03f
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: f38d9d1a-ee2f-469c-925e-2a9fa656b280
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 864bca64-b3a8-4bdf-804b-0b3a054c3d82
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 7d0c5620-81d7-48e0-b965-c74becb46912
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 2dda7e4a-35a3-42b7-af91-1cc9a6c59061
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 127755f3-dd57-46f2-b174-cc74a944bcbc
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 44fbc8e0-c9fc-40a2-bf3a-7a518a3ed94a
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: eabfb03d-f9a7-4941-9ad3-71ec341e39d1
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: c9b7e886-e518-4bef-862f-e9da74faf02e
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: ec08c394-ae8b-4cca-86cc-bd4405a53948
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 476f4d00-19c4-4dc5-a77a-bb0c4bea4fc0
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: def12592-f1b8-4f32-b58f-41fe49ce3347
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 0f452fd1-17ee-4ab1-a113-1b02378d2309
+  parent:
+    type: page_id
+    page_id: dc0fc524-1975-414f-abab-1612e5dbee69
+  created_time: 2023-09-15T12:15:00.0000000Z
+  last_edited_time: 2023-09-15T12:15:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: true
+  archived: false
+  type: column_list
+  column_list: {}
+next_cursor: 
+has_more: false
+

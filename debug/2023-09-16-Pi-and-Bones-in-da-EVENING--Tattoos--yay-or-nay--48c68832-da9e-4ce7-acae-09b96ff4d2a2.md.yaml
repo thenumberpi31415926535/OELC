@@ -1,7 +1,7 @@
 object: page
 id: 48c68832-da9e-4ce7-acae-09b96ff4d2a2
 created_time: 2022-12-28T11:03:00.0000000Z
-last_edited_time: 2023-08-27T11:51:00.0000000Z
+last_edited_time: 2023-09-15T12:43:00.0000000Z
 created_by:
   object: user
   id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -11,10 +11,10 @@ last_edited_by:
 cover:
   type: external
   external:
-    url: https://images.unsplash.com/photo-1586196679164-075960831580?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb
+    url: https://images.unsplash.com/photo-1568515045052-f9a854d70bfd?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb
 icon:
   type: emoji
-  emoji: "\U0001F52E"
+  emoji: "\U0001FAA1"
 parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
@@ -43,7 +43,7 @@ properties:
     title:
     - type: text
       text:
-        content: Pi and Bones in da EVENING!
+        content: Pi and Bones in da EVENING! Tattoos, yay or nay?
         link: 
       annotations:
         bold: false
@@ -52,10 +52,10 @@ properties:
         underline: false
         code: false
         color: default
-      plain_text: Pi and Bones in da EVENING!
+      plain_text: Pi and Bones in da EVENING! Tattoos, yay or nay?
       href: 
-url: https://www.notion.so/Pi-and-Bones-in-da-EVENING-48c68832da9e4ce7acae09b96ff4d2a2
-public_url: https://hissing-panama-209.notion.site/Pi-and-Bones-in-da-EVENING-48c68832da9e4ce7acae09b96ff4d2a2
+url: https://www.notion.so/Pi-and-Bones-in-da-EVENING-Tattoos-yay-or-nay-48c68832da9e4ce7acae09b96ff4d2a2
+public_url: https://hissing-panama-209.notion.site/Pi-and-Bones-in-da-EVENING-Tattoos-yay-or-nay-48c68832da9e4ce7acae09b96ff4d2a2
 
 object: list
 results:
@@ -65,7 +65,7 @@ results:
     type: page_id
     page_id: 48c68832-da9e-4ce7-acae-09b96ff4d2a2
   created_time: 2022-12-28T11:03:00.0000000Z
-  last_edited_time: 2023-08-19T16:28:00.0000000Z
+  last_edited_time: 2023-09-15T12:43:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -130,8 +130,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c8c59303-36fb-4e62-8867-acfd21185d90/myevents.ics?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230915%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230915T010329Z&X-Amz-Expires=3600&X-Amz-Signature=a05ff835f3d560c49110f058513886972f7ee59b247598f9fa200fb97fb00045&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2023-09-15T02:03:29.9500000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c8c59303-36fb-4e62-8867-acfd21185d90/myevents.ics?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230916%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230916T010114Z&X-Amz-Expires=3600&X-Amz-Signature=76d73921a8946adf4101bf994a736a99f98733d86976c6d92f73f5b79cfbf546&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2023-09-16T02:01:14.2160000Z
 - object: block
   id: 6f1d034c-28c9-4416-96a3-70fc2bb66c62
   parent:
