@@ -1,7 +1,7 @@
 object: page
 id: 6d079554-50aa-4684-af80-084950c4cdd1
 created_time: 2021-07-01T11:39:00.0000000Z
-last_edited_time: 2021-08-15T17:26:00.0000000Z
+last_edited_time: 2023-09-18T02:49:00.0000000Z
 created_by:
   object: user
   id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -42,7 +42,7 @@ properties:
       name: Bones
       color: yellow
     - id: 5fd12e96-75db-41b9-b28e-3f854c2cf009
-      name: Pi
+      name: π
       color: brown
     - id: d447c3aa-2c07-4612-a18d-0b37adfe1911
       name: Jason
@@ -610,8 +610,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9d053b3d-690b-4c6a-9de1-b41b043e6824/Brainstorming.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230918%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230918T010438Z&X-Amz-Expires=3600&X-Amz-Signature=274c758986db41463d3b285292d0a3f93cbb29326060ac10c91336b3ef0097ad&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2023-09-18T02:04:38.5250000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9d053b3d-690b-4c6a-9de1-b41b043e6824/Brainstorming.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230919%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230919T010404Z&X-Amz-Expires=3600&X-Amz-Signature=018e815af777a2052205d0bebb1a896c459ff7c2deedc14a24c43b2d22cf63f3&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2023-09-19T02:04:04.8350000Z
 next_cursor: 
 has_more: false
 

@@ -1,7 +1,7 @@
 object: page
-id: bf42fa19-d33e-4396-98f6-d996e273cf59
-created_time: 2023-01-10T09:13:00.0000000Z
-last_edited_time: 2023-09-18T02:49:00.0000000Z
+id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+created_time: 2023-09-18T02:47:00.0000000Z
+last_edited_time: 2023-09-18T02:54:00.0000000Z
 created_by:
   object: user
   id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -11,41 +11,37 @@ last_edited_by:
 cover:
   type: external
   external:
-    url: https://images.unsplash.com/photo-1524414139215-35c99f80112d?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb
+    url: https://images.unsplash.com/photo-1512149177596-f817c7ef5d4c?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb
 icon:
   type: emoji
-  emoji: "\U0001F389"
+  emoji: "\U0001F37F"
 parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 archived: false
 properties:
-  Language Level:
-    id: Aa_=
+  Platform:
+    id: Lov[
     type: select
     select:
-      id: f7d2cf99-bbb7-474f-863c-e691575a7ba2
-      name: intermediate to advanced
-      color: gray
+      id: 67a555c4-0fa1-45d6-8714-202fd3ab0d4b
+      name: Line Live Talk
+      color: yellow
   Hosts:
     id: cdbz
     type: multi_select
     multi_select:
-    - id: b5fd044f-4265-4924-b11a-3435f6d8deb8
-      name: Bones
-      color: yellow
     - id: 5fd12e96-75db-41b9-b28e-3f854c2cf009
       name: π
       color: brown
-  Meeting Link:
-    id: w~\Q
-    type: url
-    url: https://discord.gg/ekWnDKJn
+    - id: b5fd044f-4265-4924-b11a-3435f6d8deb8
+      name: Bones
+      color: yellow
   Date:
     id: '|tal'
     type: date
     date:
-      start: 2023-01-28T12:00:00.0000000+00:00
+      start: 2023-10-14T12:30:00.0000000+00:00
       end: 
       time_zone: 
   Name:
@@ -54,7 +50,7 @@ properties:
     title:
     - type: text
       text:
-        content: Work culture & benefits working in local & international companies
+        content: π and Bones in da EVENING!
         link: 
       annotations:
         bold: false
@@ -63,20 +59,52 @@ properties:
         underline: false
         code: false
         color: default
-      plain_text: Work culture & benefits working in local & international companies
+      plain_text: π and Bones in da EVENING!
       href: 
-url: https://www.notion.so/Work-culture-benefits-working-in-local-international-companies-bf42fa19d33e439698f6d996e273cf59
-public_url: https://hissing-panama-209.notion.site/Work-culture-benefits-working-in-local-international-companies-bf42fa19d33e439698f6d996e273cf59
+url: https://www.notion.so/and-Bones-in-da-EVENING-2b58f455134b455cb6c0532ae5edf2e5
+public_url: https://hissing-panama-209.notion.site/and-Bones-in-da-EVENING-2b58f455134b455cb6c0532ae5edf2e5
 
 object: list
 results:
 - object: block
-  id: 92a0e457-ea4a-4a66-a3c1-e5c594a54bf4
+  id: b5baef22-36d7-48d5-9fd7-436627309119
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:14:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:49:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text:
+    - type: text
+      text:
+        content: 'Topic for the talk:'
+        link: 
+      annotations:
+        bold: false
+        italic: false
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: 'Topic for the talk:'
+      href: 
+- object: block
+  id: 2400f97d-fd32-4461-b9b1-d1137176df57
+  parent:
+    type: page_id
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:51:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -85,13 +113,13 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: true
   archived: false
-  type: bulleted_list_item
-  bulleted_list_item:
+  type: paragraph
+  paragraph:
     color: default
     text:
     - type: text
       text:
-        content: Looking for people with experience working in local and/or international companies to share they experience and insights on
+        content: '1. Explain movie plots '
         link: 
       annotations:
         bold: false
@@ -100,34 +128,28 @@ results:
         underline: false
         code: false
         color: default
-      plain_text: Looking for people with experience working in local and/or international companies to share they experience and insights on
+      plain_text: '1. Explain movie plots '
+      href: 
+    - type: text
+      text:
+        content: badly
+        link: 
+      annotations:
+        bold: false
+        italic: true
+        strikethrough: false
+        underline: false
+        code: false
+        color: default
+      plain_text: badly
       href: 
 - object: block
-  id: 32d8ab17-7e8c-4d3d-89f6-79f298dfd31e
+  id: 29618407-674d-4ad0-8dab-3ce010289cbe
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T11:15:00.0000000Z
-  created_by:
-    object: user
-    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
-  last_edited_by:
-    object: user
-    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
-  has_children: false
-  archived: false
-  type: paragraph
-  paragraph:
-    color: default
-    text: []
-- object: block
-  id: 5d1d5138-6d3c-4d69-b9e8-30a4cee91a66
-  parent:
-    type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T11:16:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -142,7 +164,7 @@ results:
     text:
     - type: text
       text:
-        content: 'more detail updates at:'
+        content: 2. Travel and culture (eotik)
         link: 
       annotations:
         bold: false
@@ -151,15 +173,15 @@ results:
         underline: false
         code: false
         color: default
-      plain_text: 'more detail updates at:'
+      plain_text: 2. Travel and culture (eotik)
       href: 
 - object: block
-  id: 5e0a2196-4b76-4c1d-ab65-c6a9da16c8de
+  id: 27ea8f6b-7ab6-4716-9dd2-1ebad2f8ef63
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T11:16:00.0000000Z
-  last_edited_time: 2023-01-10T11:16:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -174,9 +196,8 @@ results:
     text:
     - type: text
       text:
-        content: https://roamresearch.com/#/app/CKLPi/page/1vqkoPHmj
-        link:
-          url: https://roamresearch.com/#/app/CKLPi/page/1vqkoPHmj
+        content: 3. Arts and crafts (laser)
+        link: 
       annotations:
         bold: false
         italic: false
@@ -184,15 +205,15 @@ results:
         underline: false
         code: false
         color: default
-      plain_text: https://roamresearch.com/#/app/CKLPi/page/1vqkoPHmj
-      href: https://roamresearch.com/#/app/CKLPi/page/1vqkoPHmj
+      plain_text: 3. Arts and crafts (laser)
+      href: 
 - object: block
-  id: f7897a49-dd2c-4cb0-93ac-8e7230c35c3c
+  id: ee615828-5276-4652-a03a-beb94cf9b02a
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T11:16:00.0000000Z
-  last_edited_time: 2023-01-10T11:16:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -206,12 +227,12 @@ results:
     color: default
     text: []
 - object: block
-  id: 56c15265-db78-4bea-bcd2-057e3f0dbc85
+  id: 19a7bbfc-3977-4dc9-99d5-719e338e7f4f
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -225,12 +246,12 @@ results:
     color: default
     text: []
 - object: block
-  id: 94b036e1-70a0-4fff-8673-3d4123600e08
+  id: 8b20a511-8879-4e76-8af2-f525577764a5
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -244,12 +265,31 @@ results:
     color: default
     text: []
 - object: block
-  id: 0717dc68-65bc-460b-ac20-618208ca3c89
+  id: 2170d795-a26d-4ede-a1fc-a5ae616f3dfd
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
+  created_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  last_edited_by:
+    object: user
+    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
+  has_children: false
+  archived: false
+  type: paragraph
+  paragraph:
+    color: default
+    text: []
+- object: block
+  id: 380f350a-a547-4bd2-967b-eaba84c5591e
+  parent:
+    type: page_id
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -264,12 +304,12 @@ results:
       type: block_id
       block_id: 10ca28a9-fcd2-4026-a306-7862a0f0dd48
 - object: block
-  id: d8a7c6bc-ca16-47b6-ac98-09b1a0dd72f9
+  id: 9030e346-91f4-47ac-b322-87cd18610a49
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -284,12 +324,12 @@ results:
       type: block_id
       block_id: d1621a4a-6dcd-49b1-95f1-2ae67a718d44
 - object: block
-  id: 9ad109b5-1f0f-4bb1-b098-63a2cf0f2573
+  id: 653d45e5-44db-4054-a9de-85d2a1a32649
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -303,12 +343,12 @@ results:
     color: default
     text: []
 - object: block
-  id: 2ebcedc0-8dd9-4742-a68c-fac7372c2e05
+  id: 87e5a1a6-537c-4a96-bb42-63339c392fd6
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -322,12 +362,12 @@ results:
     color: default
     text: []
 - object: block
-  id: 127a9644-db99-4987-b49d-95e9012b11e5
+  id: 3c110712-96ad-4808-9cd0-1763eeaafe03
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -341,12 +381,12 @@ results:
     color: default
     text: []
 - object: block
-  id: a5f01666-0bf1-40e1-af68-295e2e641a04
+  id: 643c8d80-9124-4e3f-b5b9-7559904a7e22
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -360,12 +400,12 @@ results:
     color: default
     text: []
 - object: block
-  id: 6e5ec8a5-a5f5-4ba3-8f12-158fcc8959d1
+  id: 1d0d1f93-0015-42f6-89ec-a0013976fc6c
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -379,12 +419,12 @@ results:
     color: default
     text: []
 - object: block
-  id: 79cbb911-bf87-45d2-adca-3daf7e73f90a
+  id: 8745fa3e-6305-4d34-b498-804dd733ea0e
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -398,12 +438,12 @@ results:
     color: default
     text: []
 - object: block
-  id: a9286b94-7048-412c-87a4-2b0fd0ab28d9
+  id: 9e286ca4-cc9e-4cf3-9b45-f228734b1da8
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -417,12 +457,12 @@ results:
     color: default
     text: []
 - object: block
-  id: 4744d3c8-2f72-4beb-88ea-e37184492206
+  id: e05fe410-bc5c-4cd5-bdb3-1545c3028d9b
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -436,12 +476,12 @@ results:
     color: default
     text: []
 - object: block
-  id: fccc02b9-125a-4639-9b53-31368383d4b2
+  id: ffebe874-b871-4fe2-80a8-8c4070324e00
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -455,12 +495,12 @@ results:
     color: default
     text: []
 - object: block
-  id: 9d11f520-979c-41bf-8dd3-3b8323af88be
+  id: d336f57c-d97c-4d19-b07b-b6d0b20162af
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -474,12 +514,12 @@ results:
     color: default
     text: []
 - object: block
-  id: c58763ff-3d8b-4fe9-911a-b9ce29fa4a87
+  id: 69892138-2fcf-4744-86c5-fbc628762cbd
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -493,12 +533,12 @@ results:
     color: default
     text: []
 - object: block
-  id: fdbcf394-388b-4a95-addb-09a7fec39fff
+  id: cd6ecacf-7d13-4e0f-99f3-bcc8215acd01
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -512,12 +552,12 @@ results:
     color: default
     text: []
 - object: block
-  id: 15b1b16d-6a85-4ce1-98a2-d4c4ddb6c50e
+  id: 37a2293c-6c92-4f99-9370-3c4bb6675b5e
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -531,12 +571,12 @@ results:
     color: default
     text: []
 - object: block
-  id: 1e455b65-7d57-4d9c-83c7-499e953a524f
+  id: 5a59614d-9b06-4fe6-b67b-559bad2af665
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -550,12 +590,12 @@ results:
     color: default
     text: []
 - object: block
-  id: bc90d591-6672-45f0-918c-727a5ffe124b
+  id: 0ee84bb5-d998-4d1e-a4e8-6f5cae216447
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -569,12 +609,12 @@ results:
     color: default
     text: []
 - object: block
-  id: d36296fe-f2c5-4bd9-809d-9421be016d1d
+  id: d21c772c-10bf-4bb6-b53b-5c14db914a10
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -588,12 +628,12 @@ results:
     color: default
     text: []
 - object: block
-  id: 83d1cfbf-210a-4ca9-aaf4-cf272db36ddf
+  id: a1219623-f819-48ce-9f02-d04bf575c28c
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -607,12 +647,12 @@ results:
     color: default
     text: []
 - object: block
-  id: 3a795a9b-1a44-4093-82a2-fcfadfd125fa
+  id: e49a6b1f-0e6e-4632-ac3b-026c0dee821e
   parent:
     type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
+    page_id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+  created_time: 2023-09-18T02:47:00.0000000Z
+  last_edited_time: 2023-09-18T02:47:00.0000000Z
   created_by:
     object: user
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -623,25 +663,6 @@ results:
   archived: false
   type: column_list
   column_list: {}
-- object: block
-  id: b2934cee-76b7-4f3c-ab6f-c15b465f1a54
-  parent:
-    type: page_id
-    page_id: bf42fa19-d33e-4396-98f6-d996e273cf59
-  created_time: 2023-01-10T09:13:00.0000000Z
-  last_edited_time: 2023-01-10T09:13:00.0000000Z
-  created_by:
-    object: user
-    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
-  last_edited_by:
-    object: user
-    id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
-  has_children: false
-  archived: false
-  type: paragraph
-  paragraph:
-    color: default
-    text: []
 next_cursor: 
 has_more: false
 

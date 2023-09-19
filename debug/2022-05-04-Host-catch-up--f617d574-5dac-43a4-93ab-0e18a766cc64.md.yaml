@@ -1,7 +1,7 @@
 object: page
 id: f617d574-5dac-43a4-93ab-0e18a766cc64
 created_time: 2022-05-02T11:41:00.0000000Z
-last_edited_time: 2022-05-02T11:56:00.0000000Z
+last_edited_time: 2023-09-18T02:49:00.0000000Z
 created_by:
   object: user
   id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9c87b060-ce72-4704-83ec-f562b1cb387b/des-recits-3oMObVzLIC8-unsplash_%282%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230918%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230918T010333Z&X-Amz-Expires=3600&X-Amz-Signature=c7207ee67b84b65c05cd7b1c10b41e857f2acbbe996b3811afc6e21f0bc06670&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2023-09-18T02:03:33.4310000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9c87b060-ce72-4704-83ec-f562b1cb387b/des-recits-3oMObVzLIC8-unsplash_%282%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230919%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230919T010429Z&X-Amz-Expires=3600&X-Amz-Signature=a5590ea510c43ae775e8af4b4dd04b12b08db5146a670401d6b0f23d051bd2e4&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2023-09-19T02:04:29.3640000Z
 icon:
   type: emoji
   emoji: "\U0001F389"
@@ -46,7 +46,7 @@ properties:
       name: Bones
       color: yellow
     - id: 5fd12e96-75db-41b9-b28e-3f854c2cf009
-      name: Pi
+      name: π
       color: brown
     - id: d447c3aa-2c07-4612-a18d-0b37adfe1911
       name: Jason

@@ -1,13 +1,13 @@
 object: page
 id: e7e5448e-0674-49dc-a5a0-240e7df2ec57
 created_time: 2021-08-23T07:44:00.0000000Z
-last_edited_time: 2021-08-23T07:47:00.0000000Z
+last_edited_time: 2023-09-18T02:49:00.0000000Z
 created_by:
   object: user
   id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
 last_edited_by:
   object: user
-  id: cbd10eba-b06e-43a2-9ae0-9f5fa01df18c
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
 cover:
   type: external
   external:
@@ -42,7 +42,7 @@ properties:
       name: Bones
       color: yellow
     - id: 5fd12e96-75db-41b9-b28e-3f854c2cf009
-      name: Pi
+      name: π
       color: brown
   Meeting Link:
     id: w~\Q
@@ -365,8 +365,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/47602354-5513-4a91-b05c-90aade891bc7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230918%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230918T010430Z&X-Amz-Expires=3600&X-Amz-Signature=370d11e4b4f1777eb046145abad76c17ffd407413549d4c190069d155d968b48&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2023-09-18T02:04:30.5390000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/47602354-5513-4a91-b05c-90aade891bc7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230919%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230919T010419Z&X-Amz-Expires=3600&X-Amz-Signature=cd75f623e79398c9c5fc8a759b34dd097c1441fc7a3ce00c9e77c5a33613f0ef&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2023-09-19T02:04:19.8470000Z
 - object: block
   id: fc35e0dc-2e2b-4275-ba2b-ea71aa117613
   parent:

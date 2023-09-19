@@ -1,13 +1,13 @@
 object: page
 id: ee9077b9-26db-4639-a7dc-4434880c8a52
 created_time: 2021-08-14T03:59:00.0000000Z
-last_edited_time: 2021-08-14T04:26:00.0000000Z
+last_edited_time: 2023-09-18T02:49:00.0000000Z
 created_by:
   object: user
   id: 5f118345-72dd-478d-b052-bc7798916619
 last_edited_by:
   object: user
-  id: 5f118345-72dd-478d-b052-bc7798916619
+  id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
 cover:
   type: external
   external:
@@ -42,7 +42,7 @@ properties:
       name: Bones
       color: yellow
     - id: 5fd12e96-75db-41b9-b28e-3f854c2cf009
-      name: Pi
+      name: π
       color: brown
   Meeting Link:
     id: w~\Q

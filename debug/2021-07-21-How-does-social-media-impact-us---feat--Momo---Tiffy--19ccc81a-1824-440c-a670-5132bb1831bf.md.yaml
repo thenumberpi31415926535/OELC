@@ -1,7 +1,7 @@
 object: page
 id: 19ccc81a-1824-440c-a670-5132bb1831bf
 created_time: 2021-07-02T09:55:00.0000000Z
-last_edited_time: 2021-08-15T17:26:00.0000000Z
+last_edited_time: 2023-09-18T02:49:00.0000000Z
 created_by:
   object: user
   id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -42,7 +42,7 @@ properties:
       name: Bones
       color: yellow
     - id: 5fd12e96-75db-41b9-b28e-3f854c2cf009
-      name: Pi
+      name: π
       color: brown
     - id: bb83511e-859b-4434-84e1-9c3576cb23e1
       name: Momo
@@ -599,8 +599,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/98ae05d8-4fc5-492b-8970-5668dcb48be6/Brainstorming_-_Social_media.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230918%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230918T010436Z&X-Amz-Expires=3600&X-Amz-Signature=8701a99762ea5b9d428d74fb354e6ac046f3922bf8365d5915e87cf16149e5b0&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2023-09-18T02:04:36.8900000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/98ae05d8-4fc5-492b-8970-5668dcb48be6/Brainstorming_-_Social_media.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230919%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230919T010333Z&X-Amz-Expires=3600&X-Amz-Signature=d0d797fd444a0d631b1bac086d955f9db4ba5090030031e2c326025daaa6eb3c&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2023-09-19T02:03:33.6960000Z
 - object: block
   id: 490b1b26-1c21-447c-9758-fc3d15817de3
   parent:
