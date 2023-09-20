@@ -1,7 +1,7 @@
 object: page
 id: dc0fc524-1975-414f-abab-1612e5dbee69
 created_time: 2023-09-15T12:15:00.0000000Z
-last_edited_time: 2023-09-18T02:49:00.0000000Z
+last_edited_time: 2023-09-19T04:27:00.0000000Z
 created_by:
   object: user
   id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://prod-files-secure.s3.us-west-2.amazonaws.com/fd2f02b6-f00e-468d-882c-73d5cfbbaabc/c24340cd-c75f-49df-a7d6-c3ddd89b44c8/hq720.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230919%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230919T010412Z&X-Amz-Expires=3600&X-Amz-Signature=89f1ab7314e5c571fc9b334bd4c9116e4cb837284572856b9938d3de563c8da7&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2023-09-19T02:04:12.9210000Z
+    url: https://prod-files-secure.s3.us-west-2.amazonaws.com/fd2f02b6-f00e-468d-882c-73d5cfbbaabc/c24340cd-c75f-49df-a7d6-c3ddd89b44c8/hq720.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230920%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230920T010258Z&X-Amz-Expires=3600&X-Amz-Signature=2dbb34fb7560c6aeb011b088534fedaf1658a6e3dca5e90b56c8fefa313273fd&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2023-09-20T02:02:58.0800000Z
 icon:
   type: emoji
   emoji: "\U0001F916"
@@ -28,6 +28,10 @@ properties:
     - id: 5fd12e96-75db-41b9-b28e-3f854c2cf009
       name: π
       color: brown
+  Meeting Link:
+    id: w~\Q
+    type: url
+    url: https://discord.gg/CC6CZfHe?event=1153547827054641262
   Date:
     id: '|tal'
     type: date
