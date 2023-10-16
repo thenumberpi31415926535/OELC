@@ -1,8 +1,6 @@
 ---
-meeting_link: https://demo.bigbluebutton.org/gl/jas-s1x-wi9-qzv
-notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-by-Jason-Pan-Riley-68390d4881f34cf08e12d7840a123c85
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-indexDate: 2021-06-20
+title: Hosts/ Co-hosts Chat by Jason, Pan, Riley
+platform: BigBlueBotton
 tags:
 - Talk
 - 2021-06-20
@@ -11,16 +9,18 @@ tags:
 hosts:
 - Jason
 - Riley
-id: 68390d48-81f3-4cf0-8e12-d7840a123c85
-created_time: 2021-06-14T19:10:00.0000000
-platform: BigBlueBotton
-object: page
-talktime: 2021-06-20T20:00:00.0000000
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 language_level: No limit
-parent_type: database_id
-last_edited_time: 2021-06-20T19:48:00.0000000
-title: Hosts/ Co-hosts Chat by Jason, Pan, Riley
+object: page
 name: Hosts/ Co-hosts Chat by Jason, Pan, Riley
+created_time: 2021-06-14T19:10:00.0000000
+parent_type: database_id
+notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-by-Jason-Pan-Riley-68390d4881f34cf08e12d7840a123c85
+talktime: 2021-06-20T20:00:00.0000000
+meeting_link: https://demo.bigbluebutton.org/gl/jas-s1x-wi9-qzv
+id: 68390d48-81f3-4cf0-8e12-d7840a123c85
+indexDate: 2021-06-20
+last_edited_time: 2021-06-20T19:48:00.0000000
 archived: false
 ---
 
