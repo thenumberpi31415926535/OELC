@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/285f20f1-da99-4bfa-8db7-fc7ebb642af4/Welcome_to_Abbys_Online_Talk_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231021%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231021T010313Z&X-Amz-Expires=3600&X-Amz-Signature=9812c25c3d48c1b699917be4340992b941307bc38eb8e4559640553767fd4fe5&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2023-10-21T02:03:13.4770000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/285f20f1-da99-4bfa-8db7-fc7ebb642af4/Welcome_to_Abbys_Online_Talk_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231022%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231022T010906Z&X-Amz-Expires=3600&X-Amz-Signature=01092556d443730324bab203bd65ce6e928e2b84c7e01c0cc8b1c677b70d4c5c&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2023-10-22T02:09:06.8300000Z
 icon:
   type: emoji
   emoji: "\U0001F60D"
@@ -246,8 +246,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1199ff4e-a554-4720-b286-b946524133c9/7A1E97AD-EE00-4993-A874-04E5C8B13482.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231021%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231021T010313Z&X-Amz-Expires=3600&X-Amz-Signature=c6a1098810e17163671bdc02c84b1533e159bd4c7263dabc3afadb4ca016563c&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2023-10-21T02:03:13.7110000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1199ff4e-a554-4720-b286-b946524133c9/7A1E97AD-EE00-4993-A874-04E5C8B13482.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231022%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231022T010907Z&X-Amz-Expires=3600&X-Amz-Signature=a6f73f38194eb0ac6f332e8af4d6db4bdcee36f15be748feadb1291b10d8cee1&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2023-10-22T02:09:07.0280000Z
 - object: block
   id: f965c706-f7ab-4d2e-bc8c-bf35d5e899fd
   parent:
@@ -497,5 +497,5 @@ results:
     text: []
 next_cursor: 
 has_more: false
-request_id: de40dfdf-5b65-40ce-a7ac-bf45ba4466b5
+request_id: 8a606e26-e169-47d6-969f-daa53ef64797
 
