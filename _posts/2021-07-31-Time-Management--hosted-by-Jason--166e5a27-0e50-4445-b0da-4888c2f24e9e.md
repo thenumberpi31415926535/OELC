@@ -1,24 +1,24 @@
 ---
-name: 'Time Management, hosted by Jason '
-platform: Discord
-parent_type: database_id
-talktime: 2021-07-31T19:00:00.0000000
-hosts: Jason
-id: 166e5a27-0e50-4445-b0da-4888c2f24e9e
-archived: false
-title: 'Time Management, hosted by Jason '
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-last_edited_time: 2021-07-29T12:05:00.0000000
+object: page
 meeting_link: https://discord.gg/pUgB4XEQrH
-language_level: No limit
-created_time: 2021-07-24T23:06:00.0000000
-notion_url: https://www.notion.so/Time-Management-hosted-by-Jason-166e5a270e504445b0da4888c2f24e9e
-indexDate: 2021-07-31
 tags:
 - Talk
 - 2021-07-31
 - Jason
-object: page
+indexDate: 2021-07-31
+notion_url: https://www.notion.so/Time-Management-hosted-by-Jason-166e5a270e504445b0da4888c2f24e9e
+parent_type: database_id
+last_edited_time: 2021-07-29T12:05:00.0000000
+language_level: No limit
+id: 166e5a27-0e50-4445-b0da-4888c2f24e9e
+name: 'Time Management, hosted by Jason '
+created_time: 2021-07-24T23:06:00.0000000
+platform: Discord
+title: 'Time Management, hosted by Jason '
+archived: false
+talktime: 2021-07-31T19:00:00.0000000
+hosts: Jason
 ---
 
 [Untitled](https://www.notion.so/60226399bd024bf4bf588586f8013a21)   
