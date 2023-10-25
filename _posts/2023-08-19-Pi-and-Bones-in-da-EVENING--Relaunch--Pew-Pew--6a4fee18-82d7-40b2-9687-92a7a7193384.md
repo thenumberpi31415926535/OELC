@@ -1,27 +1,27 @@
 ---
-id: 6a4fee18-82d7-40b2-9687-92a7a7193384
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-title: Pi and Bones in da EVENING! Relaunch! Pew Pew!
-archived: false
 talktime: 2023-08-19T20:30:00.0000000
-created_time: 2022-12-28T19:03:00.0000000
-hosts:
-- π
-- Bones
-object: page
-name: Pi and Bones in da EVENING! Relaunch! Pew Pew!
-meeting_link: https://app.gather.town/app/IyTfjPqUCPJK2SvH/KPbar
-last_edited_time: 2023-09-18T10:49:00.0000000
-platform: Gather Town
-parent_type: database_id
-language_level: No limit
 tags:
 - Talk
 - 2023-08-19
 - π
 - Bones
-indexDate: 2023-08-19
+hosts:
+- π
+- Bones
+title: Pi and Bones in da EVENING! Relaunch! Pew Pew!
+created_time: 2022-12-28T19:03:00.0000000
+last_edited_time: 2023-09-18T10:49:00.0000000
+id: 6a4fee18-82d7-40b2-9687-92a7a7193384
+language_level: No limit
+object: page
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 notion_url: https://www.notion.so/Pi-and-Bones-in-da-EVENING-Relaunch-Pew-Pew-6a4fee1882d740b2968792a7a7193384
+indexDate: 2023-08-19
+archived: false
+meeting_link: https://app.gather.town/app/IyTfjPqUCPJK2SvH/KPbar
+name: Pi and Bones in da EVENING! Relaunch! Pew Pew!
+platform: Gather Town
+parent_type: database_id
 ---
 
 Welcome welcome! Pi and Bones in da EVENING is coming back! 
