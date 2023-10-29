@@ -1,27 +1,27 @@
 ---
-parent_type: database_id
-object: page
-archived: false
-language_level: No limit
-id: 7d4b4947-28d0-4138-947a-e6cbe75dafa9
 meeting_link: https://meet.google.com/uor-traf-jyshttps://meet.google.com/uor-traf-jys
-created_time: 2021-06-25T18:39:00.0000000
-last_edited_time: 2021-07-20T20:14:00.0000000
-title: Sunday's Talk by Peggy and Antina
-hosts:
-- Peggy@李明霈
-- Antina@張庭瑄
+parent_type: database_id
+archived: false
 platform: Google Meet
-notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-7d4b494728d04138947ae6cbe75dafa9
-talktime: 2021-07-11T09:30:00.0000000
+object: page
+created_time: 2021-06-25T18:39:00.0000000
+id: 7d4b4947-28d0-4138-947a-e6cbe75dafa9
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+last_edited_time: 2021-07-20T20:14:00.0000000
+notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-7d4b494728d04138947ae6cbe75dafa9
+title: Sunday's Talk by Peggy and Antina
+indexDate: 2021-07-11
+language_level: No limit
+talktime: 2021-07-11T09:30:00.0000000
+name: Sunday's Talk by Peggy and Antina
 tags:
 - Talk
 - 2021-07-11
 - Peggy@李明霈
 - Antina@張庭瑄
-indexDate: 2021-07-11
-name: Sunday's Talk by Peggy and Antina
+hosts:
+- Peggy@李明霈
+- Antina@張庭瑄
 ---
 
 

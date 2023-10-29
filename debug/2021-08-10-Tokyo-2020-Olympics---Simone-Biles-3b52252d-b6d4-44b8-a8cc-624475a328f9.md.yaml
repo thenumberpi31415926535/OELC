@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/129035db-1894-4d48-bcb5-9ccd151a13b8/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231028%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231028T010232Z&X-Amz-Expires=3600&X-Amz-Signature=05326dac694871d6d43b00607a3b478bd6328ee99643af501bc7623f133d5b12&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2023-10-28T02:02:32.7260000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/129035db-1894-4d48-bcb5-9ccd151a13b8/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231029%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231029T010839Z&X-Amz-Expires=3600&X-Amz-Signature=57db36ff4fe9089f53855205cf847a8239209a53f2d8bffe8f0d02a535790092&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2023-10-29T02:08:39.4880000Z
 icon:
   type: emoji
   emoji: "\U0001F3C5"
@@ -98,8 +98,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4eaaa657-e71a-410d-ae75-cee82da5a402/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231028%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231028T010232Z&X-Amz-Expires=3600&X-Amz-Signature=1134247c5d400a63025867cc9c1317d8b4a96c59570b5ad6516b30985134771f&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2023-10-28T02:02:32.9750000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4eaaa657-e71a-410d-ae75-cee82da5a402/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231029%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231029T010840Z&X-Amz-Expires=3600&X-Amz-Signature=299d54c281399f92c1fc58a88c59ea0b30ea3014fae87aee3c8516e1b4ab7c9d&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2023-10-29T02:08:40.5120000Z
 - object: block
   id: af90d0eb-4f45-4ff7-9997-786406d7a673
   parent:
@@ -509,5 +509,5 @@ results:
       block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
 next_cursor: 
 has_more: false
-request_id: 4464445d-c149-4569-abf4-d132d290dbda
+request_id: 1732642a-3ce9-4f3c-8632-d33b948d5567
 
