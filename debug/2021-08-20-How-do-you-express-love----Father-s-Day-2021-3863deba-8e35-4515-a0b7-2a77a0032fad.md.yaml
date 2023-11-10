@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/24a6f588-c3ac-4891-96fa-21fc5b703f88/bao.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231109%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231109T010632Z&X-Amz-Expires=3600&X-Amz-Signature=1d6f04baa7c6155152e9e091006111a54e0a02be30055638fdecdd6c4acb4175&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2023-11-09T02:06:32.9520000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/24a6f588-c3ac-4891-96fa-21fc5b703f88/bao.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231110T010600Z&X-Amz-Expires=3600&X-Amz-Signature=43913769a61e92860b0bc21c5e9facb5d29e82db5b0eea119eb1144e003fb899&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2023-11-10T02:06:00.2480000Z
 icon:
   type: emoji
   emoji: ❣️
@@ -419,5 +419,5 @@ results:
     text: []
 next_cursor: 
 has_more: false
-request_id: 15f3876b-9e85-4b85-b686-fb69ac67572c
+request_id: 3795238d-da9a-417f-bc27-42281cb9afb6
 

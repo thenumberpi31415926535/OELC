@@ -1,27 +1,27 @@
 ---
-talktime: 2021-10-02T21:00:00.0000000
-language_level: intermediate to advanced
-platform: Gather Town
-name: True love needs to be managed... or?
-notion_url: https://www.notion.so/True-love-needs-to-be-managed-or-91d4405b70cf48ee841c79830e11e104
-parent_type: database_id
 last_edited_time: 2021-10-02T22:52:00.0000000
-archived: false
-object: page
-title: True love needs to be managed... or?
-created_time: 2021-09-21T20:39:00.0000000
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+indexDate: 2021-10-02
 tags:
 - Talk
 - 2021-10-02
 - Abby
 - Duke
-indexDate: 2021-10-02
+meeting_link: https://gather.town/invite?token=KuRprGXJkDBOnxbkSN2NWn2HuHjwl9GJ
+title: True love needs to be managed... or?
+platform: Gather Town
+archived: false
+created_time: 2021-09-21T20:39:00.0000000
+talktime: 2021-10-02T21:00:00.0000000
+name: True love needs to be managed... or?
+object: page
+id: 91d4405b-70cf-48ee-841c-79830e11e104
+language_level: intermediate to advanced
+notion_url: https://www.notion.so/True-love-needs-to-be-managed-or-91d4405b70cf48ee841c79830e11e104
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+parent_type: database_id
 hosts:
 - Abby
 - Duke
-meeting_link: https://gather.town/invite?token=KuRprGXJkDBOnxbkSN2NWn2HuHjwl9GJ
-id: 91d4405b-70cf-48ee-841c-79830e11e104
 ---
 
 

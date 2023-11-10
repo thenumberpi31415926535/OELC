@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf70b2a4-7f85-4d4c-917d-e247d2151fa5/ocivd.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231109%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231109T010642Z&X-Amz-Expires=3600&X-Amz-Signature=1b8be8a9a2a4232811d41662c4e0ccc92d012d4fb09e92ad2d4d9c843acb9b14&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2023-11-09T02:06:42.7820000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf70b2a4-7f85-4d4c-917d-e247d2151fa5/ocivd.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231110T010608Z&X-Amz-Expires=3600&X-Amz-Signature=2586c2bfeab2177f3febcc718436fd3f406b2952023ad22a3806c630cd875976&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2023-11-10T02:06:08.3840000Z
 icon:
   type: emoji
   emoji: "\U0001F9A0"
@@ -416,5 +416,5 @@ results:
     text: []
 next_cursor: 
 has_more: false
-request_id: da0c0362-579f-4aca-bae9-1129ccf9b728
+request_id: d824c436-b38b-4722-9d5d-ad5c2a6af8cb
 
