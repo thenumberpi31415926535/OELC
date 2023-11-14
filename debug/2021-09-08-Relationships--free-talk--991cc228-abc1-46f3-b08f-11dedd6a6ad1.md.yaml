@@ -416,8 +416,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/eaa5a51f-c5da-4ae0-81e3-18679f6a288c/Brainstorming_-_09_8_Relationship-Free_talk.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231113T010721Z&X-Amz-Expires=3600&X-Amz-Signature=f752d3376b78e9aae7e429dfa5fd2e384816301e138413eb18a9a9d9e886dfbc&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2023-11-13T02:07:21.8210000Z
+      url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/eaa5a51f-c5da-4ae0-81e3-18679f6a288c/Brainstorming_-_09_8_Relationship-Free_talk.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231114%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231114T010538Z&X-Amz-Expires=3600&X-Amz-Signature=83d29c610247ada32a6c9a4ffba246480d189701e4c972e666591e3abb60f16e&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2023-11-14T02:05:38.7780000Z
 - object: block
   id: ac54503f-3fb5-4db5-8abd-5dee2ffdd26e
   parent:
@@ -497,5 +497,5 @@ results:
     text: []
 next_cursor: 
 has_more: false
-request_id: 38bc87ab-231a-406f-97ea-34be5a5954d4
+request_id: e3e8e564-ff6c-41a1-a664-a4c580f60f9c
 

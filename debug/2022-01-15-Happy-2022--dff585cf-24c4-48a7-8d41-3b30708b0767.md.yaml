@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fb8672ab-8a15-4584-b0f2-4120bf6f5648/Welcome_to_Abbys_Online_Talk_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231113T010738Z&X-Amz-Expires=3600&X-Amz-Signature=41f8dcf3cf9b8aba07464fdbafc026a1a385d446145a43e2860d59c0bbf7a692&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2023-11-13T02:07:38.8090000Z
+    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fb8672ab-8a15-4584-b0f2-4120bf6f5648/Welcome_to_Abbys_Online_Talk_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231114%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231114T010605Z&X-Amz-Expires=3600&X-Amz-Signature=2f593af75ac8b95c7286bd2bc2614d31004ce60db6c85352d763b0c40b8f119a&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2023-11-14T02:06:05.0890000Z
 icon:
   type: emoji
   emoji: "\U0001F389"
@@ -127,8 +127,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://prod-files-secure.s3.us-west-2.amazonaws.com/fd2f02b6-f00e-468d-882c-73d5cfbbaabc/be4db792-0d9a-402f-85da-e706fdbf37c6/Pattern_Illustration_New_Year_Card.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231113T010747Z&X-Amz-Expires=3600&X-Amz-Signature=ff5f3a54a169d25df48b76889f8f30db874e6808e8828419ae10ff382a021e4c&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2023-11-13T02:07:47.6060000Z
+      url: https://prod-files-secure.s3.us-west-2.amazonaws.com/fd2f02b6-f00e-468d-882c-73d5cfbbaabc/be4db792-0d9a-402f-85da-e706fdbf37c6/Pattern_Illustration_New_Year_Card.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231114%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231114T010605Z&X-Amz-Expires=3600&X-Amz-Signature=f912181cbcb4b6cc419db4bc25022420359996243b54163124daec8417a4eeab&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2023-11-14T02:06:05.3240000Z
 - object: block
   id: 73a27c72-e9e2-4eea-bfa4-f683f9fc725b
   parent:
@@ -189,5 +189,5 @@ results:
       block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
 next_cursor: 
 has_more: false
-request_id: 4165af58-65bc-433f-9f6e-6111d1b95c1d
+request_id: 58be5aaa-179e-4d98-9e14-8ab817753960
 
