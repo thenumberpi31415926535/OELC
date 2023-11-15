@@ -11,8 +11,8 @@ last_edited_by:
 cover:
   type: file
   file:
-    url: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/129035db-1894-4d48-bcb5-9ccd151a13b8/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231114%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231114T010626Z&X-Amz-Expires=3600&X-Amz-Signature=3df8afc1c750e36774874a5c5ac6806d0f93dee60e81af8e3499bddd8dd27605&X-Amz-SignedHeaders=host&x-id=GetObject
-    expiry_time: 2023-11-14T02:06:26.0800000Z
+    url: https://prod-files-secure.s3.us-west-2.amazonaws.com/fd2f02b6-f00e-468d-882c-73d5cfbbaabc/129035db-1894-4d48-bcb5-9ccd151a13b8/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231115%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231115T010726Z&X-Amz-Expires=3600&X-Amz-Signature=9ccc41ff8d8e795eaf00b839131684b7471170585b9e09c2e13562eec71daaea&X-Amz-SignedHeaders=host&x-id=GetObject
+    expiry_time: 2023-11-15T02:07:26.0870000Z
 icon:
   type: emoji
   emoji: "\U0001F3C5"
@@ -98,8 +98,8 @@ results:
     caption: []
     type: file
     file:
-      url: https://prod-files-secure.s3.us-west-2.amazonaws.com/fd2f02b6-f00e-468d-882c-73d5cfbbaabc/4eaaa657-e71a-410d-ae75-cee82da5a402/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231114%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231114T010626Z&X-Amz-Expires=3600&X-Amz-Signature=a3e2ad28536d7bbc6f8ec7f754aceaa3a2fb4c620e467f1ba4f67bd14bfc564b&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2023-11-14T02:06:26.2850000Z
+      url: https://prod-files-secure.s3.us-west-2.amazonaws.com/fd2f02b6-f00e-468d-882c-73d5cfbbaabc/4eaaa657-e71a-410d-ae75-cee82da5a402/Screen_Shot_2021-08-02_at_11.13.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231115%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231115T010726Z&X-Amz-Expires=3600&X-Amz-Signature=7094af872b0405b70e259e26929018493383d0c4e32cb9fd391a9803b4e333cc&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2023-11-15T02:07:26.3040000Z
 - object: block
   id: af90d0eb-4f45-4ff7-9997-786406d7a673
   parent:
@@ -509,5 +509,5 @@ results:
       block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
 next_cursor: 
 has_more: false
-request_id: 0cb69541-087f-48ac-89e9-2d5776a445b0
+request_id: f1cee449-33d6-4497-9b4c-40d76c6f3fcb
 
