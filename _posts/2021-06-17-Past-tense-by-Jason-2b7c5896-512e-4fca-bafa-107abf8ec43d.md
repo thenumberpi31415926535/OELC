@@ -1,24 +1,24 @@
 ---
-platform: Google Meet
 last_edited_time: 2021-06-23T15:13:00.0000000
-id: 2b7c5896-512e-4fca-bafa-107abf8ec43d
-notion_url: https://www.notion.so/Past-tense-by-Jason-2b7c5896512e4fcabafa107abf8ec43d
 archived: false
+platform: Google Meet
+id: 2b7c5896-512e-4fca-bafa-107abf8ec43d
+hosts: Jason
+parent_type: database_id
+indexDate: 2021-06-17
+notion_url: https://www.notion.so/Past-tense-by-Jason-2b7c5896512e4fcabafa107abf8ec43d
+language_level: 'CEFR: A1-C2'
+talktime: 2021-06-17T21:00:00.0000000
 object: page
+meeting_link: ' https://meet.google.com/jax-dwfo-uez'
 tags:
 - Talk
 - 2021-06-17
 - Jason
-talktime: 2021-06-17T21:00:00.0000000
-name: Past tense by Jason
-parent_type: database_id
-hosts: Jason
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-meeting_link: ' https://meet.google.com/jax-dwfo-uez'
-language_level: 'CEFR: A1-C2'
-created_time: 2021-06-14T00:56:00.0000000
-indexDate: 2021-06-17
 title: Past tense by Jason
+created_time: 2021-06-14T00:56:00.0000000
+name: Past tense by Jason
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 ---
 
 ⚠️For successfully registering for the show, please fill in the Google Form below.
