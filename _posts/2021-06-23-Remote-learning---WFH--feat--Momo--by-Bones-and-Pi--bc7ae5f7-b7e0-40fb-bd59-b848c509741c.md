@@ -1,29 +1,29 @@
 ---
 language_level: intermediate to advanced
-talktime: 2021-06-23T21:00:00.0000000
-last_edited_time: 2023-09-18T10:49:00.0000000
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+meeting_link: https://discord.gg/vE7QUXGDnS
+parent_type: database_id
+notion_url: https://www.notion.so/Remote-learning-WFH-feat-Momo-by-Bones-and-Pi-bc7ae5f7b7e040fbbd59b848c509741c
 tags:
 - Talk
 - 2021-06-23
 - Bones
 - π
 - Momo
-parent_type: database_id
-title: 'Remote learning / WFH (feat. Momo) by Bones and Pi '
-object: page
-id: bc7ae5f7-b7e0-40fb-bd59-b848c509741c
+created_time: 2021-06-15T20:16:00.0000000
 indexDate: 2021-06-23
-name: 'Remote learning / WFH (feat. Momo) by Bones and Pi '
-meeting_link: https://discord.gg/vE7QUXGDnS
-archived: false
+last_edited_time: 2023-09-18T10:49:00.0000000
+platform: Discord
+object: page
+title: 'Remote learning / WFH (feat. Momo) by Bones and Pi '
 hosts:
 - Bones
 - π
 - Momo
-created_time: 2021-06-15T20:16:00.0000000
-platform: Discord
-notion_url: https://www.notion.so/Remote-learning-WFH-feat-Momo-by-Bones-and-Pi-bc7ae5f7b7e040fbbd59b848c509741c
+name: 'Remote learning / WFH (feat. Momo) by Bones and Pi '
+id: bc7ae5f7-b7e0-40fb-bd59-b848c509741c
+talktime: 2021-06-23T21:00:00.0000000
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+archived: false
 ---
 
 [Untitled](https://www.notion.so/23f0f26c7f1547c0b08477c0c6f1f461)   
