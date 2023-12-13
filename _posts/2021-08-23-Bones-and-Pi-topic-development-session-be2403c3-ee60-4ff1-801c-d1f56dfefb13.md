@@ -1,26 +1,26 @@
 ---
-archived: false
-platform: Discord
-name: Bones and Pi topic development session
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-indexDate: 2021-08-23
+meeting_link: https://discord.gg/vE7QUXGDnS
+talktime: 2021-08-23T14:00:00.0000000
+notion_url: https://www.notion.so/Bones-and-Pi-topic-development-session-be2403c3ee604ff1801cd1f56dfefb13
+parent_type: database_id
+last_edited_time: 2023-09-18T10:49:00.0000000
 hosts:
 - Bones
 - π
-talktime: 2021-08-23T14:00:00.0000000
-meeting_link: https://discord.gg/vE7QUXGDnS
+indexDate: 2021-08-23
+archived: false
 language_level: No limit
-last_edited_time: 2023-09-18T10:49:00.0000000
-parent_type: database_id
-notion_url: https://www.notion.so/Bones-and-Pi-topic-development-session-be2403c3ee604ff1801cd1f56dfefb13
+platform: Discord
 id: be2403c3-ee60-4ff1-801c-d1f56dfefb13
 title: Bones and Pi topic development session
+name: Bones and Pi topic development session
+object: page
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 tags:
 - Talk
 - 2021-08-23
 - Bones
 - π
-object: page
 created_time: 2021-08-23T12:57:00.0000000
 ---
 
