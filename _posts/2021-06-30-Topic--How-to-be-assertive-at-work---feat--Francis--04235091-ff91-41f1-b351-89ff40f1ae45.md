@@ -1,27 +1,27 @@
 ---
-parent_type: database_id
-title: 'Topic: How to be assertive at work? (feat. Francis)'
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-name: 'Topic: How to be assertive at work? (feat. Francis)'
 language_level: intermediate to advanced
+name: 'Topic: How to be assertive at work? (feat. Francis)'
+title: 'Topic: How to be assertive at work? (feat. Francis)'
+talktime: 2021-06-30T21:00:00.0000000
+id: 04235091-ff91-41f1-b351-89ff40f1ae45
+indexDate: 2021-06-30
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+last_edited_time: 2023-09-18T10:49:00.0000000
+object: page
 hosts:
 - Bones
 - π
-id: 04235091-ff91-41f1-b351-89ff40f1ae45
-platform: Discord
+archived: false
+notion_url: https://www.notion.so/Topic-How-to-be-assertive-at-work-feat-Francis-04235091ff9141f1b35189ff40f1ae45
 meeting_link: https://discord.gg/vE7QUXGDnS
+created_time: 2021-06-13T21:45:00.0000000
+platform: Discord
+parent_type: database_id
 tags:
 - Talk
 - 2021-06-30
 - Bones
 - π
-archived: false
-indexDate: 2021-06-30
-notion_url: https://www.notion.so/Topic-How-to-be-assertive-at-work-feat-Francis-04235091ff9141f1b35189ff40f1ae45
-object: page
-created_time: 2021-06-13T21:45:00.0000000
-talktime: 2021-06-30T21:00:00.0000000
-last_edited_time: 2023-09-18T10:49:00.0000000
 ---
 
 # Untitled  
