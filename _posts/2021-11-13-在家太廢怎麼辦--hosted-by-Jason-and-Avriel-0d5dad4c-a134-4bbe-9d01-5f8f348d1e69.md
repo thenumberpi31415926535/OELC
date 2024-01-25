@@ -1,27 +1,27 @@
 ---
-notion_url: https://www.notion.so/hosted-by-Jason-and-Avriel-0d5dad4ca1344bbe9d015f8f348d1e69
-archived: false
-meeting_link: https://meet.google.com/uxd-dkgw-tca
-id: 0d5dad4c-a134-4bbe-9d01-5f8f348d1e69
-hosts:
-- Jason
-- Avriel
-name: 在家太廢怎麼辦, hosted by Jason and Avriel
-title: 在家太廢怎麼辦, hosted by Jason and Avriel
 created_time: 2021-11-12T22:58:00.0000000
 parent_type: database_id
-last_edited_time: 2021-11-13T14:31:00.0000000
-indexDate: 2021-11-13
+object: page
 tags:
 - Talk
 - 2021-11-13
 - Jason
 - Avriel
-language_level: No limit
-object: page
-talktime: 2021-11-13T21:00:00.0000000
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+id: 0d5dad4c-a134-4bbe-9d01-5f8f348d1e69
+notion_url: https://www.notion.so/hosted-by-Jason-and-Avriel-0d5dad4ca1344bbe9d015f8f348d1e69
 platform: Google Meet
+language_level: No limit
+last_edited_time: 2021-11-13T14:31:00.0000000
+name: 在家太廢怎麼辦, hosted by Jason and Avriel
+indexDate: 2021-11-13
+talktime: 2021-11-13T21:00:00.0000000
+meeting_link: https://meet.google.com/uxd-dkgw-tca
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+hosts:
+- Jason
+- Avriel
+title: 在家太廢怎麼辦, hosted by Jason and Avriel
+archived: false
 ---
 
 
