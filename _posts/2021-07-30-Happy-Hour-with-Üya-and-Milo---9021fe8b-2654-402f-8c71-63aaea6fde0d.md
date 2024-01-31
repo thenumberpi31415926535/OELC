@@ -1,26 +1,26 @@
 ---
-last_edited_time: 2021-08-02T23:25:00.0000000
 created_time: 2021-07-20T20:14:00.0000000
-name: Happy Hour with Üya and Milo.$
-meeting_link: join.skype.com/u6uJW0aiuHv6
-language_level: No limit
-hosts:
-- Üya
-- Milo
-notion_url: https://www.notion.so/Happy-Hour-with-ya-and-Milo-9021fe8b2654402f8c7163aaea6fde0d
-object: page
-indexDate: 2021-07-30
-id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
-parent_type: database_id
-archived: false
 tags:
 - Talk
 - 2021-07-30
 - Üya
 - Milo
-title: Happy Hour with Üya and Milo.$
+language_level: No limit
+name: Happy Hour with Üya and Milo.$
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+notion_url: https://www.notion.so/Happy-Hour-with-ya-and-Milo-9021fe8b2654402f8c7163aaea6fde0d
+hosts:
+- Üya
+- Milo
+parent_type: database_id
+last_edited_time: 2021-08-02T23:25:00.0000000
 talktime: 2021-07-30T20:30:00.0000000
+id: 9021fe8b-2654-402f-8c71-63aaea6fde0d
+title: Happy Hour with Üya and Milo.$
+indexDate: 2021-07-30
+object: page
+archived: false
+meeting_link: join.skype.com/u6uJW0aiuHv6
 platform: Skype
 ---
 
