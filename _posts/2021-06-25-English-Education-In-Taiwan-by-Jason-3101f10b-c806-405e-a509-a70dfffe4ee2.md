@@ -1,23 +1,23 @@
 ---
 hosts: Jason
-name: English Education In Taiwan by Jason
+archived: false
+object: page
 meeting_link: https://join.skype.com/v06ubCvQXA0W
+platform: Skype
 tags:
 - Talk
 - 2021-06-25
 - Jason
-platform: Skype
-parent_type: database_id
-notion_url: https://www.notion.so/English-Education-In-Taiwan-by-Jason-3101f10bc806405ea509a70dfffe4ee2
-title: English Education In Taiwan by Jason
-last_edited_time: 2021-06-24T14:34:00.0000000
-indexDate: 2021-06-25
-talktime: 2021-06-25T21:00:00.0000000
-id: 3101f10b-c806-405e-a509-a70dfffe4ee2
-object: page
-archived: false
 created_time: 2021-06-23T15:11:00.0000000
+id: 3101f10b-c806-405e-a509-a70dfffe4ee2
+last_edited_time: 2021-06-24T14:34:00.0000000
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+parent_type: database_id
+talktime: 2021-06-25T21:00:00.0000000
+indexDate: 2021-06-25
+notion_url: https://www.notion.so/English-Education-In-Taiwan-by-Jason-3101f10bc806405ea509a70dfffe4ee2
+name: English Education In Taiwan by Jason
+title: English Education In Taiwan by Jason
 ---
 
 
