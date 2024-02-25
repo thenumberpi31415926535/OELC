@@ -1,24 +1,24 @@
 ---
-object: page
-indexDate: 2021-08-14
-name: Success And Failure, hosted by Jason
-hosts: Jason
 id: 2afb4a35-7580-4aba-96a6-ebb3e5495aba
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-last_edited_time: 2021-08-11T16:04:00.0000000
-language_level: No limit
-talktime: 2021-08-14T20:00:00.0000000
+parent_type: database_id
+name: Success And Failure, hosted by Jason
+archived: false
+platform: Zoom
 title: Success And Failure, hosted by Jason
-meeting_link: "Jason Chang is inviting you to a scheduled Zoom meeting.  Topic: Jason Chang's English Late Show Time: Aug 14, 2021 08:00 PM Taipei  Join Zoom Meeting https://us05web.zoom.us/j/4112744776?pwd=ajBGU3ljSmZUTW84MFhXajRuMmxMQT09  Meeting ID: 411 274 4776 Passcode: 6WWyCq"
 tags:
 - Talk
 - 2021-08-14
 - Jason
-platform: Zoom
-parent_type: database_id
-notion_url: https://www.notion.so/Success-And-Failure-hosted-by-Jason-2afb4a3575804aba96a6ebb3e5495aba
-archived: false
+object: page
+talktime: 2021-08-14T20:00:00.0000000
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+meeting_link: "Jason Chang is inviting you to a scheduled Zoom meeting.  Topic: Jason Chang's English Late Show Time: Aug 14, 2021 08:00 PM Taipei  Join Zoom Meeting https://us05web.zoom.us/j/4112744776?pwd=ajBGU3ljSmZUTW84MFhXajRuMmxMQT09  Meeting ID: 411 274 4776 Passcode: 6WWyCq"
+language_level: No limit
+indexDate: 2021-08-14
+last_edited_time: 2021-08-11T16:04:00.0000000
 created_time: 2021-08-10T11:53:00.0000000
+notion_url: https://www.notion.so/Success-And-Failure-hosted-by-Jason-2afb4a3575804aba96a6ebb3e5495aba
+hosts: Jason
 ---
 
 
