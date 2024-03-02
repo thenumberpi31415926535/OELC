@@ -1,27 +1,27 @@
 ---
+meeting_link: 'English Talk Show_Random Chat  Thursday, 4 August · 8:00 – 9:00pm Google Meet joining info Video call link: https://meet.google.com/dco-pbjv-pbt'
 name: Random Chat_English Talk Show
+id: a57dcf52-9613-40ac-883b-52136addb683
 title: Random Chat_English Talk Show
-language_level: No limit
-platform: Google Meet
+last_edited_time: 2022-08-04T17:43:00.0000000
+created_time: 2022-08-04T15:50:00.0000000
 indexDate: 2022-08-04
-archived: false
-object: page
 parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-hosts:
-- Jason
-- Avriel
-talktime: 2022-08-04T20:00:00.0000000
-notion_url: https://www.notion.so/Random-Chat_English-Talk-Show-a57dcf52961340ac883b52136addb683
+archived: false
+language_level: No limit
 parent_type: database_id
+notion_url: https://www.notion.so/Random-Chat_English-Talk-Show-a57dcf52961340ac883b52136addb683
+talktime: 2022-08-04T20:00:00.0000000
+object: page
+platform: Google Meet
 tags:
 - Talk
 - 2022-08-04
 - Jason
 - Avriel
-id: a57dcf52-9613-40ac-883b-52136addb683
-meeting_link: 'English Talk Show_Random Chat  Thursday, 4 August · 8:00 – 9:00pm Google Meet joining info Video call link: https://meet.google.com/dco-pbjv-pbt'
-created_time: 2022-08-04T15:50:00.0000000
-last_edited_time: 2022-08-04T17:43:00.0000000
+hosts:
+- Jason
+- Avriel
 ---
 
 [Untitled](https://www.notion.so/cb083fc4f0b7459aa5afe1900ef25a1f)   
