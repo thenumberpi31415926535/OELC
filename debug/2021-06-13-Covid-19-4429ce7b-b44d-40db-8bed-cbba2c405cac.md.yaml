@@ -19,6 +19,7 @@ parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 archived: false
+in_trash: false
 properties:
   Platform:
     id: Lov[
@@ -85,6 +86,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: heading_3
   heading_3:
     is_toggleable: false
@@ -118,6 +120,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: divider
   divider: {}
 - object: block
@@ -135,6 +138,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -154,6 +158,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: numbered_list_item
   numbered_list_item:
     color: default
@@ -186,6 +191,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: numbered_list_item
   numbered_list_item:
     color: default
@@ -218,6 +224,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: numbered_list_item
   numbered_list_item:
     color: default
@@ -250,6 +257,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: numbered_list_item
   numbered_list_item:
     color: default
@@ -282,6 +290,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: numbered_list_item
   numbered_list_item:
     color: default
@@ -314,6 +323,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -352,6 +362,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -377,5 +388,5 @@ results:
       href: 
 next_cursor: 
 has_more: false
-request_id: 34a28c0e-b564-489f-a831-7978cdf71d49
+request_id: 8c80d4cc-cf19-495a-99f7-a5a9ffec5f82
 

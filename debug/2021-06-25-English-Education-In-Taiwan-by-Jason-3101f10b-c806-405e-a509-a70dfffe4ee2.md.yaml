@@ -19,6 +19,7 @@ parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 archived: false
+in_trash: false
 properties:
   Platform:
     id: Lov[
@@ -82,6 +83,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: synced_block
   synced_block:
     synced_from:
@@ -102,6 +104,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -121,6 +124,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -153,6 +157,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -172,6 +177,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -204,6 +210,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -223,5 +230,5 @@ results:
       href: 
 next_cursor: 
 has_more: false
-request_id: 8e3d02e4-5919-4e38-9bb8-b944ed3bb519
+request_id: 8e1d3695-ca4f-4987-bf02-c5762a0c6787
 

@@ -16,6 +16,7 @@ parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 archived: false
+in_trash: false
 properties:
   Language Level:
     id: Aa_=
@@ -89,6 +90,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: unsupported
   unsupported: {}
 - object: block
@@ -106,6 +108,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: true
   archived: false
+  in_trash: false
   type: synced_block
   synced_block:
     synced_from:
@@ -126,6 +129,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: synced_block
   synced_block:
     synced_from:
@@ -146,6 +150,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -165,6 +170,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -184,6 +190,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -216,6 +223,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -248,6 +256,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -267,6 +276,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -286,6 +296,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: synced_block
   synced_block:
     synced_from:
@@ -293,5 +304,5 @@ results:
       block_id: de4aa03f-e3ef-44ee-aa43-62a70ce4ba0e
 next_cursor: 
 has_more: false
-request_id: 4a054673-5924-4003-81cb-be60d44582c6
+request_id: 03bc033c-5241-43cf-b73c-7f53dbfda091
 

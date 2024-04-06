@@ -19,6 +19,7 @@ parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 archived: false
+in_trash: false
 properties:
   Language Level:
     id: Aa_=
@@ -92,6 +93,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -111,6 +113,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: unsupported
   unsupported: {}
 - object: block
@@ -128,6 +131,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -174,6 +178,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -220,6 +225,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -239,6 +245,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -258,6 +265,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -290,6 +298,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: bulleted_list_item
   bulleted_list_item:
     color: default
@@ -322,6 +331,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: bulleted_list_item
   bulleted_list_item:
     color: default
@@ -354,6 +364,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: bulleted_list_item
   bulleted_list_item:
     color: default
@@ -386,6 +397,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: bulleted_list_item
   bulleted_list_item:
     color: default
@@ -418,6 +430,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: bulleted_list_item
   bulleted_list_item:
     color: default
@@ -450,6 +463,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -469,13 +483,14 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: image
   image:
     caption: []
     type: file
     file:
-      url: https://prod-files-secure.s3.us-west-2.amazonaws.com/fd2f02b6-f00e-468d-882c-73d5cfbbaabc/50e8ccec-a7b7-4726-8fd5-074b79fc888e/Brainstorming_-_07_28_What_do_i_do_when_i39m_lost_in_convos.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240405%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240405T010443Z&X-Amz-Expires=3600&X-Amz-Signature=0199795d5721be10cbb63c498f59400a304899d1a294cab316b18f4e2e69cd92&X-Amz-SignedHeaders=host&x-id=GetObject
-      expiry_time: 2024-04-05T02:04:43.8150000Z
+      url: https://prod-files-secure.s3.us-west-2.amazonaws.com/fd2f02b6-f00e-468d-882c-73d5cfbbaabc/50e8ccec-a7b7-4726-8fd5-074b79fc888e/Brainstorming_-_07_28_What_do_i_do_when_i39m_lost_in_convos.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240406%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240406T010334Z&X-Amz-Expires=3600&X-Amz-Signature=cfeb8db058438afbecc1887292552613992fa0b8aaab64ce09f85c7c3846319e&X-Amz-SignedHeaders=host&x-id=GetObject
+      expiry_time: 2024-04-06T02:03:34.4800000Z
 - object: block
   id: cce64d5d-ade8-4245-b075-c719ec8ed744
   parent:
@@ -491,6 +506,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -510,6 +526,7 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: synced_block
   synced_block:
     synced_from:
@@ -530,11 +547,12 @@ results:
     id: 391cd5ef-eccd-4ca8-9c73-c09f16ed4d8f
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
     text: []
 next_cursor: 
 has_more: false
-request_id: 275ba42f-2534-4c36-8b37-50df0e1f3ec7
+request_id: d8092338-422f-491c-9b4b-fab13f257a95
 

@@ -19,6 +19,7 @@ parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 archived: false
+in_trash: false
 properties:
   Language Level:
     id: Aa_=
@@ -89,6 +90,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: synced_block
   synced_block:
     synced_from:
@@ -109,6 +111,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -128,6 +131,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -160,6 +164,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -192,6 +197,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -211,6 +217,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -243,6 +250,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -275,6 +283,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -294,11 +303,12 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
     text: []
 next_cursor: 
 has_more: false
-request_id: 0cf7dc52-8b3b-4148-a79a-e3006b43575f
+request_id: 330f2598-6edf-4216-8014-efc7b0de9e63
 

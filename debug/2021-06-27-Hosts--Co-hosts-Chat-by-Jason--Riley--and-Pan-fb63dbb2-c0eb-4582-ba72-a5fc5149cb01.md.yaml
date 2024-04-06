@@ -14,6 +14,7 @@ parent:
   type: database_id
   database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 archived: false
+in_trash: false
 properties:
   Language Level:
     id: Aa_=
@@ -87,6 +88,7 @@ results:
     id: 5f118345-72dd-478d-b052-bc7798916619
   has_children: false
   archived: false
+  in_trash: false
   type: paragraph
   paragraph:
     color: default
@@ -106,5 +108,5 @@ results:
       href: 
 next_cursor: 
 has_more: false
-request_id: ec3ba5f0-fee2-407a-b173-ebfdf8ea0823
+request_id: 2fe586f8-7734-4fc5-b182-668672451148
 
