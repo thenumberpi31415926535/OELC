@@ -1,27 +1,27 @@
 ---
-hosts:
-- Peggy@李明霈
-- Antina@張庭瑄
-language_level: No limit
-indexDate: 2021-08-15
-platform: Google Meet
-meeting_link: https://meet.google.com/uor-traf-jys
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-created_time: 2021-08-02T12:25:00.0000000
-id: 529d6452-a052-4c07-b4cd-b7f5f89585d0
 object: page
+parent_type: database_id
+last_edited_time: 2021-08-13T18:46:00.0000000
+indexDate: 2021-08-15
 talktime: 2021-08-15T09:30:00.0000000
-archived: false
+meeting_link: https://meet.google.com/uor-traf-jys
 tags:
 - Talk
 - 2021-08-15
 - Peggy@李明霈
 - Antina@張庭瑄
-name: Sunday's Talk by Peggy and Antina
 title: Sunday's Talk by Peggy and Antina
-last_edited_time: 2021-08-13T18:46:00.0000000
-parent_type: database_id
+archived: false
 notion_url: https://www.notion.so/Sunday-s-Talk-by-Peggy-and-Antina-529d6452a0524c07b4cdb7f5f89585d0
+created_time: 2021-08-02T12:25:00.0000000
+language_level: No limit
+id: 529d6452-a052-4c07-b4cd-b7f5f89585d0
+name: Sunday's Talk by Peggy and Antina
+hosts:
+- Peggy@李明霈
+- Antina@張庭瑄
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+platform: Google Meet
 ---
 
 Topic: Alfred Adler: The Courage to Be Disliked
