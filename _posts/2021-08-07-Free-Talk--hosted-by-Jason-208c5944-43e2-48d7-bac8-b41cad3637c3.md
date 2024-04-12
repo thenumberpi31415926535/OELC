@@ -1,23 +1,23 @@
 ---
-hosts: Jason
-last_edited_time: 2021-08-01T07:05:00.0000000
-title: Free Talk, hosted by Jason
-meeting_link: https://discord.gg/pUgB4XEQrH
-language_level: No limit
-platform: Discord
-indexDate: 2021-08-07
 parent_type: database_id
-id: 208c5944-43e2-48d7-bac8-b41cad3637c3
 archived: false
+hosts: Jason
+id: 208c5944-43e2-48d7-bac8-b41cad3637c3
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+platform: Discord
+title: Free Talk, hosted by Jason
+object: page
+meeting_link: https://discord.gg/pUgB4XEQrH
+last_edited_time: 2021-08-01T07:05:00.0000000
+notion_url: https://www.notion.so/Free-Talk-hosted-by-Jason-208c594443e248d7bac8b41cad3637c3
+created_time: 2021-07-31T20:59:00.0000000
 name: Free Talk, hosted by Jason
+language_level: No limit
+indexDate: 2021-08-07
 tags:
 - Talk
 - 2021-08-07
 - Jason
-object: page
-notion_url: https://www.notion.so/Free-Talk-hosted-by-Jason-208c594443e248d7bac8b41cad3637c3
-created_time: 2021-07-31T20:59:00.0000000
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 talktime: 2021-08-07T20:00:00.0000000
 ---
 
