@@ -1,27 +1,27 @@
 ---
-object: page
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-name: Accents, hosted by Jason and Arviel
-archived: false
+hosts:
+- Jason
+- Avriel
+language_level: No limit
+title: Accents, hosted by Jason and Arviel
+platform: Jitsi Meet
 indexDate: 2021-10-02
+name: Accents, hosted by Jason and Arviel
+created_time: 2021-09-26T15:42:00.0000000
+archived: false
+id: b3253b18-3d58-4507-b36d-7cebe29e2d7c
 tags:
 - Talk
 - 2021-10-02
 - Jason
 - Avriel
-id: b3253b18-3d58-4507-b36d-7cebe29e2d7c
-created_time: 2021-09-26T15:42:00.0000000
-title: Accents, hosted by Jason and Arviel
-hosts:
-- Jason
-- Avriel
-notion_url: https://www.notion.so/Accents-hosted-by-Jason-and-Arviel-b3253b183d584507b36d7cebe29e2d7c
-parent_type: database_id
-language_level: No limit
 meeting_link: '[Jitsi Meet](https://meet.jit.si/moderated/d68d38ff65c2c8bfc93b2aac66e6fc040183b5474419b930922a614765e6e843)'
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 last_edited_time: 2021-10-01T05:51:00.0000000
+parent_type: database_id
 talktime: 2021-10-02T16:00:00.0000000
-platform: Jitsi Meet
+object: page
+notion_url: https://www.notion.so/Accents-hosted-by-Jason-and-Arviel-b3253b183d584507b36d7cebe29e2d7c
 ---
 
 ###                                                                   Hosts
