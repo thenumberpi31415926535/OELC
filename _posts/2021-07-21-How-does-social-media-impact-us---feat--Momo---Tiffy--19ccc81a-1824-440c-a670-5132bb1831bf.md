@@ -1,6 +1,5 @@
 ---
-title: How does social media impact us? (feat. Momo & Tiffy)
-platform: Discord
+indexDate: 2021-07-21
 tags:
 - Talk
 - 2021-07-21
@@ -8,24 +7,25 @@ tags:
 - π
 - Momo
 - Tiffy
-created_time: 2021-07-02T17:55:00.0000000
-archived: false
-object: page
-indexDate: 2021-07-21
 id: 19ccc81a-1824-440c-a670-5132bb1831bf
+talktime: 2021-07-21T20:30:00.0000000
+language_level: No limit
+name: How does social media impact us? (feat. Momo & Tiffy)
+title: How does social media impact us? (feat. Momo & Tiffy)
 hosts:
 - Bones
 - π
 - Momo
 - Tiffy
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-meeting_link: https://discord.gg/vE7QUXGDnS
 last_edited_time: 2023-09-18T10:49:00.0000000
+object: page
+created_time: 2021-07-02T17:55:00.0000000
+meeting_link: https://discord.gg/vE7QUXGDnS
 parent_type: database_id
-name: How does social media impact us? (feat. Momo & Tiffy)
-language_level: No limit
-talktime: 2021-07-21T20:30:00.0000000
+platform: Discord
 notion_url: https://www.notion.so/How-does-social-media-impact-us-feat-Momo-Tiffy-19ccc81a1824440ca6705132bb1831bf
+archived: false
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 ---
 
 
