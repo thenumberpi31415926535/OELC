@@ -1,27 +1,27 @@
 ---
-created_time: 2023-12-15T20:52:00.0000000
-id: e90b9188-fc6e-4d24-89f9-5d3656ed52d2
-meeting_link: Line group call
-name: Pi and Bones in da eveeeeening!
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-language_level: No limit
-hosts:
-- π
-- Bones
-indexDate: 2023-12-16
 archived: false
-title: Pi and Bones in da eveeeeening!
-notion_url: https://www.notion.so/Pi-and-Bones-in-da-eveeeeening-e90b9188fc6e4d2489f95d3656ed52d2
 parent_type: database_id
-last_edited_time: 2023-12-15T21:21:00.0000000
-object: page
-platform: Line Live Talk
 tags:
 - Talk
 - 2023-12-16
 - π
 - Bones
+platform: Line Live Talk
+notion_url: https://www.notion.so/Pi-and-Bones-in-da-eveeeeening-e90b9188fc6e4d2489f95d3656ed52d2
+name: Pi and Bones in da eveeeeening!
+object: page
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+indexDate: 2023-12-16
+hosts:
+- π
+- Bones
+created_time: 2023-12-15T20:52:00.0000000
+language_level: No limit
+last_edited_time: 2023-12-15T21:21:00.0000000
+title: Pi and Bones in da eveeeeening!
+id: e90b9188-fc6e-4d24-89f9-5d3656ed52d2
 talktime: 2023-12-16T20:30:00.0000000
+meeting_link: Line group call
 ---
 
 
