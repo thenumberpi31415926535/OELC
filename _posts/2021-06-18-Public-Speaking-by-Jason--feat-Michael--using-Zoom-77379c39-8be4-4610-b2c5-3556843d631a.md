@@ -1,23 +1,23 @@
 ---
-indexDate: 2021-06-18
+meeting_link: https://purdue-edu.zoom.us/j/94053692745
 title: Public Speaking by Jason (feat Michael) using Zoom
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-archived: false
-parent_type: database_id
-talktime: 2021-06-18T21:00:00.0000000
+id: 77379c39-8be4-4610-b2c5-3556843d631a
+last_edited_time: 2021-06-23T15:13:00.0000000
 platform: Zoom
-created_time: 2021-06-14T01:22:00.0000000
 hosts: Jason
-object: page
 notion_url: https://www.notion.so/Public-Speaking-by-Jason-feat-Michael-using-Zoom-77379c398be44610b2c53556843d631a
 name: Public Speaking by Jason (feat Michael) using Zoom
-last_edited_time: 2021-06-23T15:13:00.0000000
 tags:
 - Talk
 - 2021-06-18
 - Jason
-meeting_link: https://purdue-edu.zoom.us/j/94053692745
-id: 77379c39-8be4-4610-b2c5-3556843d631a
+parent_type: database_id
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+talktime: 2021-06-18T21:00:00.0000000
+created_time: 2021-06-14T01:22:00.0000000
+archived: false
+object: page
+indexDate: 2021-06-18
 ---
 
 ⚠️
