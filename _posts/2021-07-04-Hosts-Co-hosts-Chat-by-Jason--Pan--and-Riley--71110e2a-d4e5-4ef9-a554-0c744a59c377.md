@@ -1,27 +1,27 @@
 ---
-last_edited_time: 2021-07-05T23:05:00.0000000
-talktime: 2021-07-04T20:00:00.0000000
-notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-by-Jason-Pan-and-Riley-71110e2ad4e54ef9a5540c744a59c377
+created_time: 2021-06-30T15:01:00.0000000
+language_level: No limit
+id: 71110e2a-d4e5-4ef9-a554-0c744a59c377
 platform: Skype
-object: page
+name: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
 hosts:
 - Jason
 - Riley
-created_time: 2021-06-30T15:01:00.0000000
-id: 71110e2a-d4e5-4ef9-a554-0c744a59c377
-indexDate: 2021-07-04
-language_level: No limit
+object: page
 parent_type: database_id
-title: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
+indexDate: 2021-07-04
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 meeting_link: https://join.skype.com/wEhREpKESENC
+talktime: 2021-07-04T20:00:00.0000000
+last_edited_time: 2021-07-05T23:05:00.0000000
 archived: false
-name: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
 tags:
 - Talk
 - 2021-07-04
 - Jason
 - Riley
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+title: 'Hosts/Co-hosts Chat by Jason, Pan, and Riley '
+notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-by-Jason-Pan-and-Riley-71110e2ad4e54ef9a5540c744a59c377
 ---
 
 
