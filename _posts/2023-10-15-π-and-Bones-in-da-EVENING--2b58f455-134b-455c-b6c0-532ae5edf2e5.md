@@ -1,25 +1,25 @@
 ---
 created_time: 2023-09-18T10:47:00.0000000
-parent_type: database_id
-id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+notion_url: https://www.notion.so/and-Bones-in-da-EVENING-2b58f455134b455cb6c0532ae5edf2e5
 last_edited_time: 2023-10-12T13:53:00.0000000
-hosts:
-- π
-- Bones
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-talktime: 2023-10-15T20:30:00.0000000
-indexDate: 2023-10-15
-object: page
 tags:
 - Talk
 - 2023-10-15
 - π
 - Bones
-platform: Line Live Talk
-name: π and Bones in da EVENING!
-notion_url: https://www.notion.so/and-Bones-in-da-EVENING-2b58f455134b455cb6c0532ae5edf2e5
-title: π and Bones in da EVENING!
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 archived: false
+id: 2b58f455-134b-455c-b6c0-532ae5edf2e5
+hosts:
+- π
+- Bones
+title: π and Bones in da EVENING!
+object: page
+indexDate: 2023-10-15
+platform: Line Live Talk
+parent_type: database_id
+talktime: 2023-10-15T20:30:00.0000000
+name: π and Bones in da EVENING!
 ---
 
 Topic for the talk:
