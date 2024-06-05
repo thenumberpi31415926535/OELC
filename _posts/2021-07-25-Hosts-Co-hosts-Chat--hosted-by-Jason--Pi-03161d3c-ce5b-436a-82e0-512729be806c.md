@@ -1,27 +1,27 @@
 ---
-last_edited_time: 2023-09-18T10:49:00.0000000
-object: page
-platform: Discord
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 indexDate: 2021-07-25
-created_time: 2021-07-05T23:05:00.0000000
-meeting_link: https://discord.gg/bBuv3mCQQe
-title: Hosts/Co-hosts Chat, hosted by Jason, Pi
-parent_type: database_id
-archived: false
-notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-hosted-by-Jason-Pi-03161d3cce5b436a82e0512729be806c
-name: Hosts/Co-hosts Chat, hosted by Jason, Pi
 talktime: 2021-07-25T20:00:00.0000000
+object: page
+meeting_link: https://discord.gg/bBuv3mCQQe
+archived: false
+last_edited_time: 2023-09-18T10:49:00.0000000
+name: Hosts/Co-hosts Chat, hosted by Jason, Pi
+notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-hosted-by-Jason-Pi-03161d3cce5b436a82e0512729be806c
+title: Hosts/Co-hosts Chat, hosted by Jason, Pi
+hosts:
+- Jason
+- π
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+parent_type: database_id
+created_time: 2021-07-05T23:05:00.0000000
 language_level: No limit
+id: 03161d3c-ce5b-436a-82e0-512729be806c
 tags:
 - Talk
 - 2021-07-25
 - Jason
 - π
-hosts:
-- Jason
-- π
-id: 03161d3c-ce5b-436a-82e0-512729be806c
+platform: Discord
 ---
 
 
