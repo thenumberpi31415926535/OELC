@@ -1,26 +1,26 @@
 ---
-talktime: 2021-08-25T21:00:00.0000000
-name: Hanging on and letting go
-parent_type: database_id
 meeting_link: https://discord.gg/vE7QUXGDnS
-indexDate: 2021-08-25
-last_edited_time: 2023-09-18T10:49:00.0000000
+name: Hanging on and letting go
 id: cfadc775-2baa-49a8-94b2-2c1b340abac0
-title: Hanging on and letting go
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 object: page
-created_time: 2021-08-20T14:14:00.0000000
+hosts:
+- Bones
+- π
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+indexDate: 2021-08-25
+language_level: No limit
+notion_url: https://www.notion.so/Hanging-on-and-letting-go-cfadc7752baa49a894b22c1b340abac0
+parent_type: database_id
+last_edited_time: 2023-09-18T10:49:00.0000000
+title: Hanging on and letting go
+platform: Discord
+talktime: 2021-08-25T21:00:00.0000000
 tags:
 - Talk
 - 2021-08-25
 - Bones
 - π
-platform: Discord
-notion_url: https://www.notion.so/Hanging-on-and-letting-go-cfadc7752baa49a894b22c1b340abac0
-hosts:
-- Bones
-- π
-language_level: No limit
+created_time: 2021-08-20T14:14:00.0000000
 archived: false
 ---
 
