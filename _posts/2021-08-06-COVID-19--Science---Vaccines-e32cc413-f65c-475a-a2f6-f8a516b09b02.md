@@ -1,29 +1,29 @@
 ---
+object: page
+language_level: No limit
+hosts:
+- Judy
+- Ives
+- Momo
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+id: e32cc413-f65c-475a-a2f6-f8a516b09b02
+platform: Discord
+indexDate: 2021-08-06
+archived: false
+parent_type: database_id
+created_time: 2021-07-20T20:14:00.0000000
+meeting_link: https://discord.com/invite/vE7QUXGDnS
 tags:
 - Talk
 - 2021-08-06
 - Judy
 - Ives
 - Momo
-object: page
-platform: Discord
-meeting_link: https://discord.com/invite/vE7QUXGDnS
-archived: false
-parent_type: database_id
-talktime: 2021-08-06T20:30:00.0000000
 last_edited_time: 2021-08-03T19:20:00.0000000
+talktime: 2021-08-06T20:30:00.0000000
+title: 'COVID-19: Science & Vaccines'
 name: 'COVID-19: Science & Vaccines'
 notion_url: https://www.notion.so/COVID-19-Science-Vaccines-e32cc413f65c475aa2f6f8a516b09b02
-id: e32cc413-f65c-475a-a2f6-f8a516b09b02
-created_time: 2021-07-20T20:14:00.0000000
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-language_level: No limit
-indexDate: 2021-08-06
-hosts:
-- Judy
-- Ives
-- Momo
-title: 'COVID-19: Science & Vaccines'
 ---
 
 
