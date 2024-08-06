@@ -1,27 +1,27 @@
 ---
 meeting_link: https://demo.bigbluebutton.org/gl/jas-s1x-wi9-qzv
+parent_type: database_id
 title: Hosts/ Co-hosts Chat by Jason, Pan, Riley
-object: page
-last_edited_time: 2021-06-20T19:48:00.0000000
-indexDate: 2021-06-20
-id: 68390d48-81f3-4cf0-8e12-d7840a123c85
 notion_url: https://www.notion.so/Hosts-Co-hosts-Chat-by-Jason-Pan-Riley-68390d4881f34cf08e12d7840a123c85
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+platform: BigBlueBotton
+created_time: 2021-06-14T19:10:00.0000000
+id: 68390d48-81f3-4cf0-8e12-d7840a123c85
 hosts:
 - Jason
 - Riley
+last_edited_time: 2021-06-20T19:48:00.0000000
 name: Hosts/ Co-hosts Chat by Jason, Pan, Riley
+language_level: No limit
+object: page
+archived: false
+talktime: 2021-06-20T20:00:00.0000000
+indexDate: 2021-06-20
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
 tags:
 - Talk
 - 2021-06-20
 - Jason
 - Riley
-archived: false
-platform: BigBlueBotton
-language_level: No limit
-talktime: 2021-06-20T20:00:00.0000000
-created_time: 2021-06-14T19:10:00.0000000
-parent_type: database_id
 ---
 
 !!!This is a chat for hosts and co-hosts communication use. Everyone who is in the “English Speaking Hosts/ Co-Hosts” open chat can join us.
