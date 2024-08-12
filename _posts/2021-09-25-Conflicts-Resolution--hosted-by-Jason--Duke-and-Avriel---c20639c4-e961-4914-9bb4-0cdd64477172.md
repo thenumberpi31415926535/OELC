@@ -1,29 +1,29 @@
 ---
-talktime: 2021-09-25T21:00:00.0000000
-language_level: No limit
 tags:
 - Talk
 - 2021-09-25
 - Jason
 - Duke
 - Avriel
-title: 'Conflicts Resolution, hosted by Jason, Duke and Avriel  '
-platform: Jitsi Meet
-indexDate: 2021-09-25
-id: c20639c4-e961-4914-9bb4-0cdd64477172
-meeting_link: https://meet.jit.si/moderated/6dd2f71319273153ba3cc4bb7453096ba63fe5a5cb85bf1c220f0166277e2981
-last_edited_time: 2021-09-28T10:36:00.0000000
 parent_type: database_id
-parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
-created_time: 2021-09-07T22:56:00.0000000
 hosts:
 - Jason
 - Duke
 - Avriel
-notion_url: https://www.notion.so/Conflicts-Resolution-hosted-by-Jason-Duke-and-Avriel-c20639c4e96149149bb40cdd64477172
-object: page
 archived: false
+parent_database_id: e9339446-880f-4ef0-8ad7-8ad1f507dded
+meeting_link: https://meet.jit.si/moderated/6dd2f71319273153ba3cc4bb7453096ba63fe5a5cb85bf1c220f0166277e2981
+indexDate: 2021-09-25
+notion_url: https://www.notion.so/Conflicts-Resolution-hosted-by-Jason-Duke-and-Avriel-c20639c4e96149149bb40cdd64477172
+talktime: 2021-09-25T21:00:00.0000000
+created_time: 2021-09-07T22:56:00.0000000
+language_level: No limit
+object: page
+title: 'Conflicts Resolution, hosted by Jason, Duke and Avriel  '
+last_edited_time: 2021-09-28T10:36:00.0000000
+platform: Jitsi Meet
 name: 'Conflicts Resolution, hosted by Jason, Duke and Avriel  '
+id: c20639c4-e961-4914-9bb4-0cdd64477172
 ---
 
 [Untitled](https://www.notion.so/cb083fc4f0b7459aa5afe1900ef25a1f)   
